@@ -1,5 +1,4 @@
 "Company","Date","Followers"
-"Evolution Travel",2023-01-28,10645
 "EvolutionIQ",2020-10-18,319
 "EvolutionIQ",2020-10-21,320
 "EvolutionIQ",2020-10-24,324
@@ -164,9 +163,9 @@
 "Experian Netherlands",2023-01-21,767
 "Experian Netherlands",2023-02-25,810
 "Experian T<fc>rkiye",2023-01-21,1526
+"Experian T<fc>rkiye",2023-01-21,1526
 "Experian T<fc>rkiye",2023-02-25,1528
-"Experian Türkiye",2023-01-21,1526
-"Experian Türkiye",2023-02-25,1528
+"Experian T<fc>rkiye",2023-02-25,1528
 "Experian Vision Conference",2023-01-21,953
 "Experian Vision Conference",2023-02-25,971
 "Experis",2023-01-21,642078
@@ -628,7 +627,7 @@
 "FedTech",2023-01-21,9593
 "FedTech",2023-02-25,9851
 "FEED/DEPT<U+00AE>",2023-01-25,15082
-"FEED/DEPT®",2023-01-25,15082
+"FEED/DEPT<U+00AE>",2023-01-25,15082
 "Feeding the Gulf Coast",2023-01-21,944
 "Feeding the Gulf Coast",2023-02-25,966
 "FEI Company",2023-02-10,29585

@@ -1,6 +1,4 @@
 "Company","Date","Followers"
-"Cyber Florida: The Florida Center for Cybersecurity",2023-01-21,3794
-"Cyber Florida: The Florida Center for Cybersecurity",2023-02-25,3920
 "Cyber Future Foundation",2023-01-21,3208
 "Cyber Future Foundation",2023-02-25,3325
 "Cyber Huntsville",2023-01-21,1290
@@ -14,9 +12,9 @@
 "Cyber Security Forum Initiative",2023-02-10,77476
 "Cyber Security Forum Initiative",2023-02-25,77957
 "Cyber Security Hub<U+00AE>",2023-01-21,36590
+"Cyber Security Hub<U+00AE>",2023-01-21,36590
 "Cyber Security Hub<U+00AE>",2023-02-25,37350
-"Cyber Security Hub®",2023-01-21,36590
-"Cyber Security Hub®",2023-02-25,37350
+"Cyber Security Hub<U+00AE>",2023-02-25,37350
 "Cyber Security Intelligence",2023-01-21,30131
 "Cyber Security Intelligence",2023-02-25,31026
 "Cyber Security Jobsite",2023-01-21,41227
@@ -4252,6 +4250,7 @@
 "Data Science Research Per<fa>",2021-02-16,4790
 "Data Science Research Per<fa>",2021-02-21,4813
 "Data Science Research Per<fa>",2021-02-25,4855
+"Data Science Research Per<fa>",2021-02-25,4855
 "Data Science Research Per<fa>",2021-03-01,4891
 "Data Science Research Per<fa>",2021-03-06,4928
 "Data Science Research Per<fa>",2021-03-10,4955
@@ -4348,12 +4347,12 @@
 "Data Science Research Per<fa>",2023-01-05,17837
 "Data Science Research Per<fa>",2023-01-09,17955
 "Data Science Research Per<fa>",2023-01-22,18214
+"Data Science Research Per<fa>",2023-01-22,18214
+"Data Science Research Per<fa>",2023-01-29,18855
 "Data Science Research Per<fa>",2023-01-29,18855
 "Data Science Research Per<fa>",2023-02-04,19750
+"Data Science Research Per<fa>",2023-02-04,19750
 "Data Science Research Per<fa>",2023-02-25,20780
-"Data Science Research Perú",2023-01-22,18214
-"Data Science Research Perú",2023-01-29,18855
-"Data Science Research Perú",2023-02-04,19750
 "Data Science Retreat",2023-01-25,4645
 "Data Science Salon",2023-01-21,3662
 "Data Science Salon",2023-02-25,3825
@@ -8710,7 +8709,7 @@
 "Deutsche Bank",2023-02-10,1846434
 "Deutsche Bank",2023-02-25,1864016
 "Deutsche Gesellschaft f<fc>r Internationale Zusammenarbeit (GIZ) GmbH",2023-01-28,473369
-"Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",2023-01-28,473369
+"Deutsche Gesellschaft f<fc>r Internationale Zusammenarbeit (GIZ) GmbH",2023-01-28,473369
 "Development Seed",2022-08-16,2185
 "Development Seed",2022-08-20,2203
 "Development Seed",2022-08-25,2218

@@ -1,10 +1,10 @@
 "Company","Date","Followers"
 "&effect data solutions GmbH",2023-01-25,647
 "(ISC)<U+00B2>",2023-01-21,238266
+"(ISC)<U+00B2>",2023-01-21,238266
 "(ISC)<U+00B2>",2023-02-10,241729
 "(ISC)<U+00B2>",2023-02-25,244930
-"(ISC)²",2023-01-21,238266
-"(ISC)²",2023-02-25,244930
+"(ISC)<U+00B2>",2023-02-25,244930
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-06,6723
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-13,6785
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-15,6797
@@ -188,8 +188,6 @@
 "?? CSO (Central Statistics Office Ireland)",2021-12-31,5937
 "?? CSO (Central Statistics Office Ireland)",2022-01-03,5948
 "<U+05D0><U+05D2><U+05D5><U+05D3><U+05EA> <U+05D4><U+05D0><U+05E7><U+05D8><U+05D5><U+05D0><U+05E8><U+05D9><U+05DD> <U+05D1><U+05D9><U+05E9><U+05E8><U+05D0><U+05DC> <U+05E2>""<U+05E8> - Israel Association of Actuaries",2023-01-22,301
-"<U+05D0><U+05D2><U+05D5><U+05D3><U+05EA> <U+05D4><U+05D0><U+05E7><U+05D8><U+05D5><U+05D0><U+05E8><U+05D9><U+05DD> <U+05D1><U+05D9><U+05E9><U+05E8><U+05D0><U+05DC> <U+05E2>""<U+05E8> - Israel Association of Actuaries",2023-01-22,301
-"<U+05E8><U+05E4><U+05D0><U+05DC> <U+05DE><U+05E2><U+05E8><U+05DB><U+05D5><U+05EA> <U+05DC><U+05D7><U+05D9><U+05DE><U+05D4> <U+05DE><U+05EA><U+05E7><U+05D3><U+05DE><U+05D5><U+05EA> - <U+05E7><U+05E8><U+05D9><U+05D9><U+05E8><U+05D4>",2023-01-22,66180
 "<U+05E8><U+05E4><U+05D0><U+05DC> <U+05DE><U+05E2><U+05E8><U+05DB><U+05D5><U+05EA> <U+05DC><U+05D7><U+05D9><U+05DE><U+05D4> <U+05DE><U+05EA><U+05E7><U+05D3><U+05DE><U+05D5><U+05EA> - <U+05E7><U+05E8><U+05D9><U+05D9><U+05E8><U+05D4>",2023-01-22,66180
 "1 Million Cups Pensacola",2023-02-25,181
 "10x Genomics",2023-01-25,147639
@@ -3965,3 +3963,5 @@
 "Anand Rathi Wealth Management",2021-02-19,1612
 "Anand Rathi Wealth Management",2021-03-06,1648
 "Anand Rathi Wealth Management",2021-03-26,1694
+"Ancora.ai AG",2023-01-25,1298
+"Andaluc<ed>a Agrotech DIH",2020-12-15,260

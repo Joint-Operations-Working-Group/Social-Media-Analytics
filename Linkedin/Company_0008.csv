@@ -3022,10 +3022,10 @@
 "GreenLight Fund",2023-02-25,3492
 "Greenpeace",2023-01-28,521083
 "GreenSky<U+00AE>",2023-01-21,19836
+"GreenSky<U+00AE>",2023-01-21,19836
 "GreenSky<U+00AE>",2023-02-10,19935
 "GreenSky<U+00AE>",2023-02-25,20016
-"GreenSky®",2023-01-21,19836
-"GreenSky®",2023-02-25,20016
+"GreenSky<U+00AE>",2023-02-25,20016
 "GREF Bretagne",2021-05-10,1095
 "Gro Intelligence",2023-01-25,11164
 "Gro Intelligence",2023-01-28,11187
@@ -3336,9 +3336,9 @@
 "Gulf Winds Credit Union",2023-01-21,1231
 "Gulf Winds Credit Union",2023-02-10,1237
 "Gulf Winds Credit Union",2023-02-25,1241
-"GULP – experts united",2023-01-25,15567
-"GULP – experts united",2023-01-29,15611
 "GULP <U+0096> experts united",2023-01-25,15567
+"GULP <U+0096> experts united",2023-01-25,15567
+"GULP <U+0096> experts united",2023-01-29,15611
 "GULP <U+0096> experts united",2023-01-29,15611
 "Gurobi Optimization",2021-01-19,6485
 "Gurobi Optimization",2021-02-19,7054
@@ -3527,9 +3527,9 @@
 "Hacker Associate",2023-01-21,70540
 "Hacker Associate",2023-02-25,72324
 "Hacker Combat<U+0099>",2023-01-21,181142
+"Hacker Combat<U+0099>",2023-01-21,181142
 "Hacker Combat<U+0099>",2023-02-25,183144
-"Hacker Combat™",2023-01-21,181142
-"Hacker Combat™",2023-02-25,183144
+"Hacker Combat<U+0099>",2023-02-25,183144
 "Hacker Valley Media",2023-01-21,3712
 "Hacker Valley Media",2023-02-25,3885
 "HackerOne",2023-01-21,213368
@@ -3880,7 +3880,7 @@
 "Hitachi",2020-12-15,446175
 "Hitachi",2020-12-27,448227
 "Hochschule f<fc>r Technik und Wirtschaft Berlin",2023-01-25,40117
-"Hochschule für Technik und Wirtschaft Berlin",2023-01-25,40117
+"Hochschule f<fc>r Technik und Wirtschaft Berlin",2023-01-25,40117
 "Holiday Inn Club Vacations",2023-01-21,24596
 "Holiday Inn Club Vacations",2023-02-10,24746
 "Holiday Inn Club Vacations",2023-02-25,24864
@@ -4183,4 +4183,4 @@
 "Humanity Plus",2023-02-10,2684
 "Humanity Plus",2023-02-25,2698
 "Humboldt-Universit<e4>t zu Berlin",2023-01-25,107847
-"Humboldt-Universität zu Berlin",2023-01-25,107847
+"Humboldt-Universit<e4>t zu Berlin",2023-01-25,107847

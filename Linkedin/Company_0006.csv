@@ -2133,7 +2133,7 @@
 "Elsevier Nursing & Health Education",2023-01-28,12985
 "EMBL",2023-01-25,112101
 "EMBL",2023-01-29,112296
-"EMCDDA — European Monitoring Centre for Drugs and Drug Addiction",2023-01-28,10575
+"EMCDDA <U+0097> European Monitoring Centre for Drugs and Drug Addiction",2023-01-28,10575
 "EMCDDA <U+0097> European Monitoring Centre for Drugs and Drug Addiction",2023-01-28,10575
 "EMD Serono Inc.",2023-01-21,45998
 "EMD Serono Inc.",2023-02-10,46247
@@ -2437,10 +2437,10 @@
 "esanum",2023-01-25,1949
 "ESCP Business School",2023-01-25,170153
 "eSec Forte<U+00AE> Technologies",2023-01-21,7100
+"eSec Forte<U+00AE> Technologies",2023-01-21,7100
 "eSec Forte<U+00AE> Technologies",2023-02-10,7261
 "eSec Forte<U+00AE> Technologies",2023-02-25,7377
-"eSec Forte® Technologies",2023-01-21,7100
-"eSec Forte® Technologies",2023-02-25,7377
+"eSec Forte<U+00AE> Technologies",2023-02-25,7377
 "Esri",2022-08-16,292199
 "Esri",2022-08-20,292832
 "Esri",2022-08-25,293453
@@ -2479,7 +2479,7 @@
 "Esri",2023-02-25,319631
 "EST<dc> VERI BILIMI KUL<dc>B<dc>",2021-05-10,772
 "ETH Z<fc>rich",2023-01-28,300328
-"ETH Zürich",2023-01-28,300328
+"ETH Z<fc>rich",2023-01-28,300328
 "Ethical Hackers Academy",2023-01-21,347085
 "Ethical Hackers Academy",2023-02-25,359141
 "Ethiojobs.net",2023-01-28,163086
@@ -2737,3 +2737,4 @@
 "Evolution AI",2023-01-29,3412
 "Evolution AI",2023-02-04,3420
 "Evolution AI",2023-02-25,3441
+"Evolution Travel",2023-01-28,10645
