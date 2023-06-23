@@ -71,1563 +71,15 @@
 "PyTorch",2023-05-29,169059
 "PyTorch",2023-06-05,171128
 "PyTorch",2023-06-05,171131
+"PyTorch",2023-06-11,172590
+"PyTorch",2023-06-14,173602
+"PyTorch",2023-06-17,174354
+"PyTorch",2023-06-23,175887
 "PyTorch Lightning",2021-01-19,2390
 "PyTorch Scholarship Challenge NanoDegree",2021-01-19,1922
 "PyTorch Scholarship Challenge NanoDegree",2021-02-19,2030
 "PyTorch Scholarship Challenge NanoDegree",2021-03-06,2085
 "PyTorch Scholarship Challenge NanoDegree",2021-03-26,2152
-"Python Ireland 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-         Your company",2020-11-21,663
-"Python Jobs",2020-11-07,2553
-"Python Jobs",2020-11-21,2562
-"Python Jobs",2020-12-27,2612
-"Python Jobs",2021-02-19,2695
-"Python Jobs",2021-03-26,2777
-"Python Learner & Developer",2020-11-07,765
-"Python Learning",2023-06-05,30285
-"Python Learning Organization",2020-11-07,289
-"Python Learning Organization",2020-11-21,297
-"Python Machine Learning",2020-11-07,1663
-"Python Machine Learning",2020-11-21,1681
-"Python Machine Learning",2020-12-27,1745
-"Python Machine Learning",2021-02-19,1957
-"Python Machine Learning",2021-03-26,2091
-"Python People",2021-05-10,6883
 "Python Predictions",2020-11-07,7154
 "Python Predictions",2020-11-21,7185
 "Python Predictions",2020-12-27,7436
@@ -1878,6 +330,10 @@
 "Python Software Foundation",2023-05-29,124837
 "Python Software Foundation",2023-06-05,125105
 "Python Software Foundation",2023-06-05,125106
+"Python Software Foundation",2023-06-11,125355
+"Python Software Foundation",2023-06-14,125486
+"Python Software Foundation",2023-06-17,125584
+"Python Software Foundation",2023-06-23,125787
 "Python posts you might have missed!",2020-11-07,505
 "Python posts you might have missed!",2020-11-21,572
 "Python posts you might have missed!",2020-11-30,600
@@ -2012,6 +468,10 @@
 "Qatar Computing Research Institute",2023-05-19,12255
 "Qatar Computing Research Institute",2023-05-29,12317
 "Qatar Computing Research Institute",2023-06-05,12373
+"Qatar Computing Research Institute",2023-06-11,12437
+"Qatar Computing Research Institute",2023-06-14,12448
+"Qatar Computing Research Institute",2023-06-17,12468
+"Qatar Computing Research Institute",2023-06-23,12503
 "Qtatech",2023-04-01,279
 "Qtatech",2023-04-10,339
 "Qtatech",2023-04-13,355
@@ -2021,8 +481,14 @@
 "Qtatech",2023-05-19,470
 "Qtatech",2023-05-29,487
 "Qtatech",2023-06-05,505
+"Qtatech",2023-06-11,513
+"Qtatech",2023-06-14,525
+"Qtatech",2023-06-17,531
+"Qtatech",2023-06-23,541
 "QuEra Computing Inc.",2023-04-23,5698
 "QuEra Computing Inc.",2023-06-05,6104
+"QuEra Computing Inc.",2023-06-11,6167
+"QuEra Computing Inc.",2023-06-23,6317
 "QuadSAT",2023-01-21,3730
 "QuadSAT",2023-02-25,3777
 "QuadSAT",2023-03-13,3819
@@ -2030,6 +496,8 @@
 "QuadSAT",2023-04-10,3989
 "QuadSAT",2023-04-23,4018
 "QuadSAT",2023-06-05,4135
+"QuadSAT",2023-06-11,4157
+"QuadSAT",2023-06-23,4181
 "QualTech RPO",2023-01-28,29589
 "Qualcomm",2023-01-21,1177960
 "Qualcomm",2023-01-28,1182623
@@ -2040,6 +508,8 @@
 "Qualcomm",2023-04-10,1224876
 "Qualcomm",2023-04-23,1232262
 "Qualcomm",2023-06-05,1258461
+"Qualcomm",2023-06-11,1263770
+"Qualcomm",2023-06-23,1279152
 "Qualtrics",2020-10-16,135941
 "Qualtrics",2020-10-20,136180
 "Qualtrics",2020-10-21,136272
@@ -2224,6 +694,10 @@
 "Qualtrics",2023-05-19,224105
 "Qualtrics",2023-05-29,224802
 "Qualtrics",2023-06-05,225396
+"Qualtrics",2023-06-11,226672
+"Qualtrics",2023-06-14,227124
+"Qualtrics",2023-06-17,227432
+"Qualtrics",2023-06-23,227934
 "Qualys",2023-01-21,135366
 "Qualys",2023-02-10,136984
 "Qualys",2023-02-25,138842
@@ -2232,6 +706,8 @@
 "Qualys",2023-04-10,143168
 "Qualys",2023-04-23,144574
 "Qualys",2023-06-05,148349
+"Qualys",2023-06-11,148962
+"Qualys",2023-06-23,150415
 "Quansight",2020-10-19,669
 "Quansight",2020-10-20,675
 "Quansight",2020-10-25,694
@@ -2411,6 +887,10 @@
 "Quansight",2023-05-19,2120
 "Quansight",2023-05-29,2134
 "Quansight",2023-06-05,2146
+"Quansight",2023-06-11,2151
+"Quansight",2023-06-14,2161
+"Quansight",2023-06-17,2177
+"Quansight",2023-06-23,2189
 "Quansight Initiate",2021-03-30,86
 "Quansight Initiate",2021-04-06,86
 "Quansight Initiate",2021-04-10,86
@@ -2554,6 +1034,10 @@
 "Quansight Initiate",2023-05-19,120
 "Quansight Initiate",2023-05-29,121
 "Quansight Initiate",2023-06-05,122
+"Quansight Initiate",2023-06-11,122
+"Quansight Initiate",2023-06-14,122
+"Quansight Initiate",2023-06-17,122
+"Quansight Initiate",2023-06-23,123
 "QuantEcon",2023-03-10,259
 "QuantEcon",2023-03-14,260
 "QuantEcon",2023-03-18,261
@@ -2568,6 +1052,10 @@
 "QuantEcon",2023-05-19,286
 "QuantEcon",2023-05-29,294
 "QuantEcon",2023-06-05,296
+"QuantEcon",2023-06-11,300
+"QuantEcon",2023-06-14,302
+"QuantEcon",2023-06-17,306
+"QuantEcon",2023-06-23,307
 "QuantStack",2020-10-19,437
 "QuantStack",2020-10-25,439
 "QuantStack",2020-10-28,439
@@ -2744,6 +1232,10 @@
 "QuantStack",2023-05-19,1189
 "QuantStack",2023-05-29,1196
 "QuantStack",2023-06-05,1201
+"QuantStack",2023-06-11,1202
+"QuantStack",2023-06-14,1206
+"QuantStack",2023-06-17,1206
+"QuantStack",2023-06-23,1208
 "Quantiful",2020-10-16,737
 "Quantiful",2020-10-20,758
 "Quantiful",2020-10-22,767
@@ -2913,6 +1405,10 @@
 "QuantumBlack AI by McKinsey",2023-05-19,188717
 "QuantumBlack AI by McKinsey",2023-05-29,189148
 "QuantumBlack AI by McKinsey",2023-06-05,189412
+"QuantumBlack AI by McKinsey",2023-06-11,189799
+"QuantumBlack AI by McKinsey",2023-06-14,190058
+"QuantumBlack AI by McKinsey",2023-06-17,190224
+"QuantumBlack AI by McKinsey",2023-06-23,190533
 "QuantumBlack a McKinsey company",2021-11-06,39097
 "QuantumBlack a McKinsey company",2021-11-20,39743
 "QuantumBlack a McKinsey company",2021-12-07,40567
@@ -3044,6 +1540,8 @@
 "Queen Mary Electronic Engineering & Computer Science Society",2023-05-19,49
 "Queen Mary Electronic Engineering & Computer Science Society",2023-05-29,49
 "Queen Mary Electronic Engineering & Computer Science Society",2023-06-05,50
+"Queen Mary Electronic Engineering & Computer Science Society",2023-06-14,50
+"Queen Mary Electronic Engineering & Computer Science Society",2023-06-17,50
 "Queensland Resources Council",2023-01-28,18728
 "Questrom School of Business Boston University",2023-01-21,61429
 "Questrom School of Business Boston University",2023-02-10,61721
@@ -3053,6 +1551,8 @@
 "Questrom School of Business Boston University",2023-04-10,62522
 "Questrom School of Business Boston University",2023-04-23,62730
 "Questrom School of Business Boston University",2023-06-05,63388
+"Questrom School of Business Boston University",2023-06-11,63503
+"Questrom School of Business Boston University",2023-06-23,63706
 "Quiet Professionals LLC",2023-01-21,17782
 "Quiet Professionals LLC",2023-02-10,17880
 "Quiet Professionals LLC",2023-02-25,17948
@@ -3061,7 +1561,11 @@
 "Quiet Professionals LLC",2023-04-10,18194
 "Quiet Professionals LLC",2023-04-23,18275
 "Quiet Professionals LLC",2023-06-05,18542
+"Quiet Professionals LLC",2023-06-11,18573
+"Quiet Professionals LLC",2023-06-23,18638
 "Qumu - An Enghouse Company",2023-06-05,7772
+"Qumu - An Enghouse Company",2023-06-11,7778
+"Qumu - An Enghouse Company",2023-06-23,7783
 "Qumu Corporation",2023-01-21,7692
 "Qumu Corporation",2023-02-10,7707
 "Qumu Corporation",2023-02-25,7722
@@ -3076,6 +1580,8 @@
 "Quoniam Asset Management",2023-04-10,2717
 "Quoniam Asset Management",2023-04-23,2732
 "Quoniam Asset Management",2023-06-05,2780
+"Quoniam Asset Management",2023-06-11,2785
+"Quoniam Asset Management",2023-06-23,2805
 "Quovantis Technologies",2020-10-25,7336
 "Quovantis Technologies",2020-10-28,7344
 "Quovantis Technologies",2020-10-30,7366
@@ -3250,6 +1756,10 @@
 "Quovantis Technologies",2023-05-19,14454
 "Quovantis Technologies",2023-05-29,14461
 "Quovantis Technologies",2023-06-05,14467
+"Quovantis Technologies",2023-06-11,14472
+"Quovantis Technologies",2023-06-14,14474
+"Quovantis Technologies",2023-06-17,14472
+"Quovantis Technologies",2023-06-23,14487
 "R Consortium",2021-03-30,156
 "R Consortium",2021-04-06,157
 "R Consortium",2021-04-10,157
@@ -3395,6 +1905,10 @@
 "R Consortium",2023-05-19,5046
 "R Consortium",2023-05-29,5138
 "R Consortium",2023-06-05,5215
+"R Consortium",2023-06-11,5240
+"R Consortium",2023-06-14,5250
+"R Consortium",2023-06-17,5271
+"R Consortium",2023-06-23,5298
 "R Nepal",2021-07-14,31
 "R Street Institute",2023-01-21,4210
 "R Street Institute",2023-02-10,4321
@@ -3404,7 +1918,13 @@
 "R Street Institute",2023-04-10,4445
 "R Street Institute",2023-04-23,4475
 "R Street Institute",2023-06-05,4626
+"R Street Institute",2023-06-11,4663
+"R Street Institute",2023-06-23,4766
 "R Systems",2023-01-28,93730
+"R User C",2023-06-11,14948
+"R User C",2023-06-14,14973
+"R User C",2023-06-17,15007
+"R User C",2023-06-23,15081
 "R User Community",2021-02-19,804
 "R User Community",2021-03-06,814
 "R User Community",2021-03-26,818
@@ -3613,6 +2133,10 @@
 "R User Group Nepal",2023-05-19,87
 "R User Group Nepal",2023-05-29,86
 "R User Group Nepal",2023-06-05,86
+"R User Group Nepal",2023-06-11,86
+"R User Group Nepal",2023-06-14,86
+"R User Group Nepal",2023-06-17,86
+"R User Group Nepal",2023-06-23,87
 "R Users Group - Ecuador",2021-03-30,124
 "R Users Group - Ecuador",2021-04-06,124
 "R Users Group - Ecuador",2021-04-10,124
@@ -3753,6 +2277,10 @@
 "R Users Group - Ecuador",2023-05-19,295
 "R Users Group - Ecuador",2023-05-29,295
 "R Users Group - Ecuador",2023-06-05,295
+"R Users Group - Ecuador",2023-06-11,295
+"R Users Group - Ecuador",2023-06-14,295
+"R Users Group - Ecuador",2023-06-17,294
+"R Users Group - Ecuador",2023-06-23,294
 "R for the Rest of Us",2023-01-22,542
 "R language-online-training",2020-12-27,724
 "R language-online-training",2021-01-19,733
@@ -3885,6 +2413,8 @@
 "R-Ladies Cologne",2023-04-10,282
 "R-Ladies Cologne",2023-04-23,285
 "R-Ladies Cologne",2023-06-05,290
+"R-Ladies Cologne",2023-06-11,290
+"R-Ladies Cologne",2023-06-23,290
 "R-Ladies Gaborone",2022-02-01,96
 "R-Ladies Gaborone",2022-02-07,103
 "R-Ladies Gaborone",2022-02-16,126
@@ -3971,6 +2501,10 @@
 "R-Ladies Gaborone",2023-05-19,417
 "R-Ladies Gaborone",2023-05-29,420
 "R-Ladies Gaborone",2023-06-05,420
+"R-Ladies Gaborone",2023-06-11,421
+"R-Ladies Gaborone",2023-06-14,421
+"R-Ladies Gaborone",2023-06-17,422
+"R-Ladies Gaborone",2023-06-23,425
 "R-Ladies Global",2021-05-10,3951
 "R-Ladies Global",2021-12-05,4622
 "R-Ladies Global",2022-02-27,4819
@@ -3982,6 +2516,8 @@
 "R-Ladies Global",2023-04-10,5762
 "R-Ladies Global",2023-04-23,5789
 "R-Ladies Global",2023-06-05,5890
+"R-Ladies Global",2023-06-11,5902
+"R-Ladies Global",2023-06-23,5924
 "R-Ladies Miami",2022-03-03,198
 "R-Ladies Miami",2022-03-07,197
 "R-Ladies Miami",2022-03-15,198
@@ -4068,6 +2604,10 @@
 "R-Ladies Miami",2023-05-19,200
 "R-Ladies Miami",2023-05-29,200
 "R-Ladies Miami",2023-06-05,200
+"R-Ladies Miami",2023-06-11,200
+"R-Ladies Miami",2023-06-14,200
+"R-Ladies Miami",2023-06-17,200
+"R-Ladies Miami",2023-06-23,200
 "R-Ladies Paris",2022-08-01,141
 "R-Ladies Paris",2022-08-08,196
 "R-Ladies Paris",2022-08-16,241
@@ -4122,6 +2662,10 @@
 "R-Ladies Paris",2023-05-19,1066
 "R-Ladies Paris",2023-05-29,1075
 "R-Ladies Paris",2023-06-05,1077
+"R-Ladies Paris",2023-06-11,1079
+"R-Ladies Paris",2023-06-14,1079
+"R-Ladies Paris",2023-06-17,1079
+"R-Ladies Paris",2023-06-23,1080
 "R-Ladies Saudi Arabia (Dammam)",2022-03-20,244
 "R-Ladies Saudi Arabia (Dammam)",2022-03-31,247
 "R-Ladies Saudi Arabia (Dammam)",2022-04-09,249
@@ -4202,6 +2746,10 @@
 "R-Ladies Saudi Arabia (Dammam)",2023-05-19,352
 "R-Ladies Saudi Arabia (Dammam)",2023-05-29,354
 "R-Ladies Saudi Arabia (Dammam)",2023-06-05,354
+"R-Ladies Saudi Arabia (Dammam)",2023-06-11,354
+"R-Ladies Saudi Arabia (Dammam)",2023-06-14,354
+"R-Ladies Saudi Arabia (Dammam)",2023-06-17,356
+"R-Ladies Saudi Arabia (Dammam)",2023-06-23,356
 "R-Ladies Tunis",2020-11-07,402
 "R-Ladies Tunis",2020-11-10,413
 "R-Ladies Tunis",2020-11-14,424
@@ -4376,6 +2924,10 @@
 "R-Ladies Tunis",2023-05-19,747
 "R-Ladies Tunis",2023-05-29,747
 "R-Ladies Tunis",2023-06-05,746
+"R-Ladies Tunis",2023-06-11,746
+"R-Ladies Tunis",2023-06-14,746
+"R-Ladies Tunis",2023-06-17,746
+"R-Ladies Tunis",2023-06-23,747
 "R-Programming Academy",2021-05-10,211
 "R.J. Burnside & Associates Limited",2023-01-28,8381
 "RBL Bank",2023-01-21,387568
@@ -4385,6 +2937,8 @@
 "RBL Bank",2023-04-10,406860
 "RBL Bank",2023-04-23,410040
 "RBL Bank",2023-06-05,422441
+"RBL Bank",2023-06-11,425354
+"RBL Bank",2023-06-23,431571
 "RCL FOODS",2020-10-16,110523
 "RCL FOODS",2020-10-28,111912
 "RCL FOODS",2020-11-07,113337
@@ -4422,6 +2976,8 @@
 "RGNext",2023-04-10,2918
 "RGNext",2023-04-23,2960
 "RGNext",2023-06-05,3071
+"RGNext",2023-06-11,3090
+"RGNext",2023-06-23,3120
 "RMI",2023-01-28,49891
 "RMIT University",2023-01-28,438149
 "RMIT University Vietnam",2023-01-28,48899
@@ -4611,9 +3167,17 @@
 "RSS Data Science and AI Section",2023-05-19,2002
 "RSS Data Science and AI Section",2023-05-29,2008
 "RSS Data Science and AI Section",2023-06-05,2027
+"RSS Data Science and AI Section",2023-06-11,2027
+"RSS Data Science and AI Section",2023-06-14,2028
+"RSS Data Science and AI Section",2023-06-17,2031
+"RSS Data Science and AI Section",2023-06-23,2032
 "RSS Real World Data Science",2023-05-19,359
 "RSS Real World Data Science",2023-05-29,393
 "RSS Real World Data Science",2023-06-05,401
+"RSS Real World Data Science",2023-06-11,406
+"RSS Real World Data Science",2023-06-14,412
+"RSS Real World Data Science",2023-06-17,414
+"RSS Real World Data Science",2023-06-23,430
 "RStudio",2020-10-05,59891
 "RStudio",2020-10-06,59892
 "RStudio",2020-10-07,59905
@@ -4834,6 +3398,10 @@
 "Radiant Earth",2023-05-19,7788
 "Radiant Earth",2023-05-29,7841
 "Radiant Earth",2023-06-05,7868
+"Radiant Earth",2023-06-11,7900
+"Radiant Earth",2023-06-14,7916
+"Radiant Earth",2023-06-17,7926
+"Radiant Earth",2023-06-23,7952
 "Radiant Earth Foundation",2022-08-16,6362
 "Radiant Earth Foundation",2022-08-20,6381
 "Radiant Earth Foundation",2022-08-25,6412
@@ -4977,6 +3545,10 @@
 "Radiant MLHub",2023-05-19,3489
 "Radiant MLHub",2023-05-29,3494
 "Radiant MLHub",2023-06-05,3496
+"Radiant MLHub",2023-06-11,3495
+"Radiant MLHub",2023-06-14,3504
+"Radiant MLHub",2023-06-17,3508
+"Radiant MLHub",2023-06-23,3511
 "Radius Intelligence",2023-01-21,8998
 "Radius Intelligence",2023-02-10,8990
 "Radius Intelligence",2023-02-25,8989
@@ -4985,6 +3557,8 @@
 "Radius Intelligence",2023-04-10,8985
 "Radius Intelligence",2023-04-23,8990
 "Radius Intelligence",2023-06-05,8993
+"Radius Intelligence",2023-06-11,8996
+"Radius Intelligence",2023-06-23,8999
 "Rainbow Password",2023-01-21,16
 "Rainbow Password",2023-02-25,16
 "Rainbow Password",2023-03-13,16
@@ -4992,6 +3566,8 @@
 "Rainbow Password",2023-04-10,17
 "Rainbow Password",2023-04-23,17
 "Rainbow Password",2023-06-05,18
+"Rainbow Password",2023-06-11,18
+"Rainbow Password",2023-06-23,18
 "Rainbow Secure",2023-01-21,659
 "Rainbow Secure",2023-02-25,671
 "Rainbow Secure",2023-03-13,675
@@ -4999,6 +3575,8 @@
 "Rainbow Secure",2023-04-10,687
 "Rainbow Secure",2023-04-23,690
 "Rainbow Secure",2023-06-05,709
+"Rainbow Secure",2023-06-11,710
+"Rainbow Secure",2023-06-23,711
 "Ramon Aboitiz Foundation Inc. (RAFI)",2020-10-16,995
 "Ramon Aboitiz Foundation Inc. (RAFI)",2020-10-19,996
 "Ramon Aboitiz Foundation Inc. (RAFI)",2020-10-20,996
@@ -5013,6 +3591,8 @@
 "Randstad Sourceright",2023-04-10,299970
 "Randstad Sourceright",2023-04-23,303491
 "Randstad Sourceright",2023-06-05,317776
+"Randstad Sourceright",2023-06-11,319347
+"Randstad Sourceright",2023-06-23,322863
 "Randstad USA",2023-01-21,404898
 "Randstad USA",2023-02-10,408775
 "Randstad USA",2023-02-25,411637
@@ -5021,6 +3601,8 @@
 "Randstad USA",2023-04-10,419842
 "Randstad USA",2023-04-23,422458
 "Randstad USA",2023-06-05,432076
+"Randstad USA",2023-06-11,433847
+"Randstad USA",2023-06-23,437726
 "Rapid7",2023-01-21,130736
 "Rapid7",2023-02-10,132253
 "Rapid7",2023-02-25,133606
@@ -5029,6 +3611,8 @@
 "Rapid7",2023-04-10,137434
 "Rapid7",2023-04-23,138540
 "Rapid7",2023-06-05,142114
+"Rapid7",2023-06-11,142857
+"Rapid7",2023-06-23,145383
 "RapidMiner",2020-10-09,11814
 "RapidMiner",2020-10-13,11837
 "RapidMiner",2020-10-19,11882
@@ -5197,6 +3781,7 @@
 "RapidMiner",2023-03-14,19927
 "Raspberry Pi",2023-01-22,46387
 "Raspberry Pi Foundation",2023-01-22,139037
+"Raytheon",2023-06-23,864859
 "Raytheon Intelligence & Space",2023-01-21,199112
 "Raytheon Intelligence & Space",2023-02-25,205122
 "Raytheon Intelligence & Space",2023-03-13,207880
@@ -5204,6 +3789,7 @@
 "Raytheon Intelligence & Space",2023-04-10,213136
 "Raytheon Intelligence & Space",2023-04-23,215796
 "Raytheon Intelligence & Space",2023-06-05,223373
+"Raytheon Intelligence & Space",2023-06-11,224704
 "Raytheon Missiles & Defense",2023-01-21,215271
 "Raytheon Missiles & Defense",2023-02-25,222308
 "Raytheon Missiles & Defense",2023-03-13,225732
@@ -5211,6 +3797,7 @@
 "Raytheon Missiles & Defense",2023-04-10,232735
 "Raytheon Missiles & Defense",2023-04-23,236296
 "Raytheon Missiles & Defense",2023-06-05,245402
+"Raytheon Missiles & Defense",2023-06-11,247008
 "Raytheon Technologies",2023-01-21,422598
 "Raytheon Technologies",2023-02-25,438776
 "Raytheon Technologies",2023-03-13,445810
@@ -5218,6 +3805,8 @@
 "Raytheon Technologies",2023-04-10,458914
 "Raytheon Technologies",2023-04-23,465255
 "Raytheon Technologies",2023-06-05,483174
+"Raytheon Technologies",2023-06-11,486302
+"Raytheon Technologies",2023-06-23,493865
 "ReCode Therapeutics",2023-01-25,4280
 "ReCode Therapeutics",2023-01-29,4309
 "Real Consulting Data",2021-02-17,252
@@ -5383,6 +3972,8 @@
 "Real Python",2023-04-10,189561
 "Real Python",2023-04-23,191174
 "Real Python",2023-06-05,197649
+"Real Python",2023-06-11,198251
+"Real Python",2023-06-23,199546
 "RebelBio",2023-01-25,2555
 "RebelBio",2023-01-29,2556
 "Recode",2023-01-21,1145866
@@ -5392,6 +3983,8 @@
 "Recode",2023-04-10,1143444
 "Recode",2023-04-23,1143243
 "Recode",2023-06-05,1142195
+"Recode",2023-06-11,1142109
+"Recode",2023-06-23,1142000
 "Recombinetics",2023-01-25,1858
 "Recombinetics",2023-01-29,1863
 "Recon InfoSec",2023-01-21,1976
@@ -5401,6 +3994,8 @@
 "Recon InfoSec",2023-04-10,2213
 "Recon InfoSec",2023-04-23,2249
 "Recon InfoSec",2023-06-05,2336
+"Recon InfoSec",2023-06-11,2342
+"Recon InfoSec",2023-06-23,2358
 "Recorded Future",2023-01-21,41989
 "Recorded Future",2023-02-10,42644
 "Recorded Future",2023-02-25,43113
@@ -5409,6 +4004,8 @@
 "Recorded Future",2023-04-10,44441
 "Recorded Future",2023-04-23,44968
 "Recorded Future",2023-06-05,46382
+"Recorded Future",2023-06-11,46591
+"Recorded Future",2023-06-23,46986
 "Recursion",2023-01-25,20118
 "Recursion",2023-01-29,20264
 "Red Canary",2023-01-21,34415
@@ -5418,6 +4015,8 @@
 "Red Canary",2023-04-10,38350
 "Red Canary",2023-04-23,38949
 "Red Canary",2023-06-05,40967
+"Red Canary",2023-06-11,41289
+"Red Canary",2023-06-23,41848
 "Red Hat",2020-10-06,822451
 "Red Hat",2020-10-13,825337
 "Red Hat",2020-10-19,828053
@@ -5426,6 +4025,8 @@
 "Red Hat",2023-04-10,1204221
 "Red Hat",2023-04-23,1210094
 "Red Hat",2023-06-05,1227848
+"Red Hat",2023-06-11,1231159
+"Red Hat",2023-06-23,1238280
 "Red Hat Partners",2020-10-06,29645
 "Red Hat Partners",2020-10-13,29703
 "Red Hat Partners",2020-10-19,29770
@@ -5436,6 +4037,8 @@
 "Red Lion LLC",2023-04-10,440
 "Red Lion LLC",2023-04-23,440
 "Red Lion LLC",2023-06-05,446
+"Red Lion LLC",2023-06-11,447
+"Red Lion LLC",2023-06-23,448
 "RedTeam Cybersecurity Labs LLP",2023-01-21,1234
 "RedTeam Cybersecurity Labs LLP",2023-02-25,1241
 "RedTeam Cybersecurity Labs LLP",2023-03-13,1246
@@ -5443,6 +4046,8 @@
 "RedTeam Cybersecurity Labs LLP",2023-04-10,1322
 "RedTeam Cybersecurity Labs LLP",2023-04-23,1333
 "RedTeam Cybersecurity Labs LLP",2023-06-05,1377
+"RedTeam Cybersecurity Labs LLP",2023-06-11,1383
+"RedTeam Cybersecurity Labs LLP",2023-06-23,1393
 "Reddit Inc.",2023-01-25,285414
 "Reddit Inc.",2023-01-29,286092
 "Redpanda Data",2023-01-25,4998
@@ -5454,12 +4059,16 @@
 "Redwire Space",2023-04-10,16061
 "Redwire Space",2023-04-23,16339
 "Redwire Space",2023-06-05,17030
+"Redwire Space",2023-06-11,17139
+"Redwire Space",2023-06-23,17326
 "Redwire Space Europe",2023-02-25,3656
 "Redwire Space Europe",2023-03-13,3691
 "Redwire Space Europe",2023-03-29,3934
 "Redwire Space Europe",2023-04-10,3993
 "Redwire Space Europe",2023-04-23,4023
 "Redwire Space Europe",2023-06-05,4281
+"Redwire Space Europe",2023-06-11,4297
+"Redwire Space Europe",2023-06-23,4332
 "ReedPop",2023-01-25,5990
 "Regeneron",2023-01-25,350654
 "Regeneron",2023-01-29,351203
@@ -5600,6 +4209,10 @@
 "RegioData Research GmbH",2023-05-19,252
 "RegioData Research GmbH",2023-05-29,253
 "RegioData Research GmbH",2023-06-05,253
+"RegioData Research GmbH",2023-06-11,253
+"RegioData Research GmbH",2023-06-14,253
+"RegioData Research GmbH",2023-06-17,257
+"RegioData Research GmbH",2023-06-23,257
 "Regions Bank",2023-01-21,120585
 "Regions Bank",2023-02-10,121423
 "Regions Bank",2023-02-25,122077
@@ -5608,6 +4221,8 @@
 "Regions Bank",2023-04-10,123773
 "Regions Bank",2023-04-23,124365
 "Regions Bank",2023-06-05,126087
+"Regions Bank",2023-06-11,126404
+"Regions Bank",2023-06-23,126976
 "Rejuvenate Bio",2023-01-25,3129
 "Rejuvenate Bio",2023-01-29,3167
 "RelationalAI",2023-01-25,4711
@@ -5618,11 +4233,15 @@
 "Relativity Space",2023-04-10,105266
 "Relativity Space",2023-04-23,106677
 "Relativity Space",2023-06-05,110525
+"Relativity Space",2023-06-11,111128
+"Relativity Space",2023-06-23,112298
 "ReliaSat",2023-03-13,2039
 "ReliaSat",2023-03-29,2055
 "ReliaSat",2023-04-10,2062
 "ReliaSat",2023-04-23,2072
 "ReliaSat",2023-06-05,2099
+"ReliaSat",2023-06-11,2112
+"ReliaSat",2023-06-23,2121
 "Remitly",2023-01-25,33417
 "Remix Therapeutics",2023-01-21,2901
 "Remix Therapeutics",2023-02-25,3106
@@ -5631,6 +4250,8 @@
 "Remix Therapeutics",2023-04-10,3281
 "Remix Therapeutics",2023-04-23,3322
 "Remix Therapeutics",2023-06-05,3441
+"Remix Therapeutics",2023-06-11,3460
+"Remix Therapeutics",2023-06-23,3497
 "Remote Game Jobs",2023-01-25,76304
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2022-08-16,18012
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2022-08-20,18146
@@ -5686,6 +4307,10 @@
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2023-05-19,24432
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2023-05-29,24618
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2023-06-05,24757
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2023-06-11,24860
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2023-06-14,24921
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2023-06-17,24973
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2023-06-23,25075
 "Remsoft",2020-10-20,2269
 "Remsoft",2020-10-21,2269
 "Remsoft",2020-10-23,2273
@@ -5865,6 +4490,10 @@
 "Remsoft",2023-05-19,3256
 "Remsoft",2023-05-29,3269
 "Remsoft",2023-06-05,3274
+"Remsoft",2023-06-11,3275
+"Remsoft",2023-06-14,3278
+"Remsoft",2023-06-17,3279
+"Remsoft",2023-06-23,3285
 "Replio",2023-01-25,806
 "Replio",2023-01-29,807
 "Research Diets Inc.",2023-01-28,657
@@ -5878,6 +4507,8 @@
 "Respect in Security",2023-04-10,1680
 "Respect in Security",2023-04-23,1682
 "Respect in Security",2023-06-05,1702
+"Respect in Security",2023-06-11,1708
+"Respect in Security",2023-06-23,1712
 "Restaurantware LLC",2023-01-21,1423
 "Restaurantware LLC",2023-02-10,1432
 "Restaurantware LLC",2023-02-25,1454
@@ -5886,6 +4517,8 @@
 "Restaurantware LLC",2023-04-10,1482
 "Restaurantware LLC",2023-04-23,1490
 "Restaurantware LLC",2023-06-05,1520
+"Restaurantware LLC",2023-06-11,1527
+"Restaurantware LLC",2023-06-23,1538
 "ResumeReport.com",2023-01-25,1065217
 "ResumeReport.com",2023-01-29,1065234
 "Revent",2023-01-25,4744
@@ -6010,10 +4643,14 @@
 "Riga Data Science Club",2023-05-19,1830
 "Riga Data Science Club",2023-05-29,1832
 "Riga Data Science Club",2023-06-05,1836
+"Riga Data Science Club",2023-06-14,1843
+"Riga Data Science Club",2023-06-17,1844
 "Rippling",2021-01-19,13116
 "Rippling",2021-02-19,13754
 "Rippling",2021-03-06,14253
 "Rippling",2021-03-26,14848
+"Risk",2023-06-11,4796
+"Risk",2023-06-23,4797
 "Risk Group",2023-01-21,4794
 "Risk Group",2023-02-10,4796
 "Risk Group",2023-02-25,4799
@@ -6206,8 +4843,14 @@
 "Robert Wood Johnson Foundation",2023-05-19,77024
 "Robert Wood Johnson Foundation",2023-05-29,77632
 "Robert Wood Johnson Foundation",2023-06-05,78115
+"Robert Wood Johnson Foundation",2023-06-11,78657
+"Robert Wood Johnson Foundation",2023-06-14,78964
+"Robert Wood Johnson Foundation",2023-06-17,79194
+"Robert Wood Johnson Foundation",2023-06-23,79619
 "Roblox",2023-01-25,125881
 "Robust Intelligence",2023-06-05,3526
+"Robust Intelligence",2023-06-11,3599
+"Robust Intelligence",2023-06-23,3693
 "Roche",2020-10-05,1994623
 "Roche",2020-10-13,2007499
 "Roche",2020-10-20,2018785
@@ -6398,6 +5041,10 @@
 "Roche",2023-05-19,2984786
 "Roche",2023-05-29,2995168
 "Roche",2023-06-05,3002251
+"Roche",2023-06-11,3009043
+"Roche",2023-06-14,3013167
+"Roche",2023-06-17,3016518
+"Roche",2023-06-23,3023394
 "Roche Bros. Supermarkets",2023-01-21,6349
 "Roche Bros. Supermarkets",2023-02-10,6403
 "Roche Bros. Supermarkets",2023-02-25,6442
@@ -6406,6 +5053,8 @@
 "Roche Bros. Supermarkets",2023-04-10,6672
 "Roche Bros. Supermarkets",2023-04-23,6745
 "Roche Bros. Supermarkets",2023-06-05,7083
+"Roche Bros. Supermarkets",2023-06-11,7119
+"Roche Bros. Supermarkets",2023-06-23,7216
 "Rockefeller Philanthropy Advisors",2020-10-25,18700
 "Rockefeller Philanthropy Advisors",2020-10-28,18750
 "Rockefeller Philanthropy Advisors",2020-10-30,18789
@@ -6583,6 +5232,10 @@
 "Rockefeller Philanthropy Advisors",2023-05-19,36785
 "Rockefeller Philanthropy Advisors",2023-05-29,37002
 "Rockefeller Philanthropy Advisors",2023-06-05,37192
+"Rockefeller Philanthropy Advisors",2023-06-11,37371
+"Rockefeller Philanthropy Advisors",2023-06-14,37507
+"Rockefeller Philanthropy Advisors",2023-06-17,37635
+"Rockefeller Philanthropy Advisors",2023-06-23,37854
 "Rocket Factory Augsburg - RFA",2023-01-21,30194
 "Rocket Factory Augsburg - RFA",2023-02-25,31059
 "Rocket Factory Augsburg - RFA",2023-03-13,31369
@@ -6590,6 +5243,8 @@
 "Rocket Factory Augsburg - RFA",2023-04-10,32166
 "Rocket Factory Augsburg - RFA",2023-04-23,32454
 "Rocket Factory Augsburg - RFA",2023-06-05,33532
+"Rocket Factory Augsburg - RFA",2023-06-11,33712
+"Rocket Factory Augsburg - RFA",2023-06-23,33998
 "Rocket Lab",2023-01-21,129666
 "Rocket Lab",2023-02-25,132172
 "Rocket Lab",2023-03-13,133221
@@ -6597,6 +5252,8 @@
 "Rocket Lab",2023-04-10,135974
 "Rocket Lab",2023-04-23,137456
 "Rocket Lab",2023-06-05,141580
+"Rocket Lab",2023-06-11,142059
+"Rocket Lab",2023-06-23,143177
 "Rockland Trust",2023-01-21,9469
 "Rockland Trust",2023-02-10,9590
 "Rockland Trust",2023-02-25,9654
@@ -6605,6 +5262,8 @@
 "Rockland Trust",2023-04-10,9876
 "Rockland Trust",2023-04-23,9945
 "Rockland Trust",2023-06-05,10120
+"Rockland Trust",2023-06-11,10171
+"Rockland Trust",2023-06-23,10233
 "Rocky Mountain Elk Foundation",2021-04-20,12830
 "Rocky Mountain Elk Foundation",2021-04-24,12877
 "Rocky Mountain Elk Foundation",2021-04-28,12924
@@ -6703,6 +5362,8 @@
 "Rocky Mountain Elk Foundation",2023-05-19,25627
 "Rocky Mountain Elk Foundation",2023-05-29,25698
 "Rocky Mountain Elk Foundation",2023-06-05,25767
+"Rocky Mountain Elk Foundation",2023-06-14,25857
+"Rocky Mountain Elk Foundation",2023-06-17,25884
 "Rogue Space Systems Corporation",2023-01-21,2519
 "Rogue Space Systems Corporation",2023-02-25,2653
 "Rogue Space Systems Corporation",2023-03-13,2705
@@ -6710,6 +5371,8 @@
 "Rogue Space Systems Corporation",2023-04-10,2825
 "Rogue Space Systems Corporation",2023-04-23,2869
 "Rogue Space Systems Corporation",2023-06-05,2970
+"Rogue Space Systems Corporation",2023-06-11,2989
+"Rogue Space Systems Corporation",2023-06-23,3023
 "Romanian Energy Regulatory Authority",2021-02-19,424
 "Romanian Energy Regulatory Authority",2021-03-06,546
 "Romanian Energy Regulatory Authority",2021-03-26,735
@@ -6847,6 +5510,10 @@
 "Rose Data Studio LLC",2023-05-19,316
 "Rose Data Studio LLC",2023-05-29,316
 "Rose Data Studio LLC",2023-06-05,316
+"Rose Data Studio LLC",2023-06-11,316
+"Rose Data Studio LLC",2023-06-14,316
+"Rose Data Studio LLC",2023-06-17,316
+"Rose Data Studio LLC",2023-06-23,317
 "Roskilde University",2023-01-28,52972
 "Rosslyn David Recruitment",2020-10-16,1327
 "Rosslyn David Recruitment",2020-10-20,1330
@@ -7048,6 +5715,10 @@
 "Royal Statistical Society",2023-05-19,11830
 "Royal Statistical Society",2023-05-29,11887
 "Royal Statistical Society",2023-06-05,11920
+"Royal Statistical Society",2023-06-11,11960
+"Royal Statistical Society",2023-06-14,11990
+"Royal Statistical Society",2023-06-17,12005
+"Royal Statistical Society",2023-06-23,12058
 "Rstudio",2020-10-16,60208
 "Rubicon",2023-01-28,22690
 "Rubicon Cloud Advisor",2023-01-25,4509
@@ -7228,6 +5899,10 @@
 "Rust Programming Language",2023-05-19,7753
 "Rust Programming Language",2023-05-29,7803
 "Rust Programming Language",2023-06-05,7852
+"Rust Programming Language",2023-06-11,7864
+"Rust Programming Language",2023-06-14,7884
+"Rust Programming Language",2023-06-17,7898
+"Rust Programming Language",2023-06-23,7924
 "Ruvos",2023-01-21,933
 "Ruvos",2023-02-10,941
 "Ruvos",2023-02-25,953
@@ -7236,6 +5911,14 @@
 "Ruvos",2023-04-10,988
 "Ruvos",2023-04-23,1004
 "Ruvos",2023-06-05,1047
+"Ruvos",2023-06-11,1054
+"Ruvos",2023-06-23,1092
+"Rx Studio<99>",2023-03-10,554
+"Rx Studio<99>",2023-03-14,556
+"Rx Studio<99>",2023-03-18,574
+"Rx Studio<99>",2023-03-21,577
+"Rx Studio<99>",2023-03-25,587
+"Rx Studio<99>",2023-04-01,592
 "Rx Studio<U+0099>",2022-09-16,156
 "Rx Studio<U+0099>",2022-09-22,167
 "Rx Studio<U+0099>",2022-09-29,175
@@ -7263,20 +5946,18 @@
 "Rx Studio<U+0099>",2023-02-10,514
 "Rx Studio<U+0099>",2023-02-13,525
 "Rx Studio<U+0099>",2023-02-24,535
-"Rx Studio<99>",2023-03-10,554
-"Rx Studio<99>",2023-03-14,556
-"Rx Studio<99>",2023-03-18,574
-"Rx Studio<99>",2023-03-21,577
-"Rx Studio<99>",2023-03-25,587
-"Rx Studio<99>",2023-04-01,592
-"Rx Studio™",2023-04-10,616
-"Rx Studio™",2023-04-13,622
-"Rx Studio™",2023-04-21,625
-"Rx Studio™",2023-04-29,628
-"Rx Studio™",2023-05-12,664
-"Rx Studio™",2023-05-19,665
-"Rx Studio™",2023-05-29,676
-"Rx Studio™",2023-06-05,692
+"Rx Studio<99>",2023-04-10,616
+"Rx Studio<99>",2023-04-13,622
+"Rx Studio<99>",2023-04-21,625
+"Rx Studio<99>",2023-04-29,628
+"Rx Studio<99>",2023-05-12,664
+"Rx Studio<99>",2023-05-19,665
+"Rx Studio<99>",2023-05-29,676
+"Rx Studio<99>",2023-06-05,692
+"Rx Studio™",2023-06-11,702
+"Rx Studio™",2023-06-14,706
+"Rx Studio™",2023-06-17,707
+"Rx Studio™",2023-06-23,708
 "Ryerson University Data Science Society",2021-03-28,160
 "Ryerson University Data Science Society",2021-03-31,160
 "Ryerson University Data Science Society",2021-04-06,161
@@ -7375,6 +6056,8 @@
 "Ryerson University Data Science Society",2023-05-19,227
 "Ryerson University Data Science Society",2023-05-29,227
 "Ryerson University Data Science Society",2023-06-05,227
+"Ryerson University Data Science Society",2023-06-14,228
+"Ryerson University Data Science Society",2023-06-17,228
 "S&P Global",2023-01-21,319987
 "S&P Global",2023-02-10,328391
 "S&P Global",2023-02-25,335537
@@ -7383,6 +6066,8 @@
 "S&P Global",2023-04-10,359011
 "S&P Global",2023-04-23,365297
 "S&P Global",2023-06-05,393000
+"S&P Global",2023-06-11,396937
+"S&P Global",2023-06-23,405078
 "S&P Global Ratings",2023-01-21,133448
 "S&P Global Ratings",2023-02-10,134197
 "S&P Global Ratings",2023-02-25,134819
@@ -7391,6 +6076,8 @@
 "S&P Global Ratings",2023-04-10,136048
 "S&P Global Ratings",2023-04-23,136389
 "S&P Global Ratings",2023-06-05,137311
+"S&P Global Ratings",2023-06-11,137505
+"S&P Global Ratings",2023-06-23,137840
 "S<f8>r-Tr<f8>ndelag University College (HiST)",2023-01-28,18948
 "SAGE Publishing",2023-01-28,69288
 "SAIC",2023-01-25,357769
@@ -7500,6 +6187,8 @@
 "SAIS Sheffield Artificial Intelligence Society",2023-05-19,39
 "SAIS Sheffield Artificial Intelligence Society",2023-05-29,39
 "SAIS Sheffield Artificial Intelligence Society",2023-06-05,39
+"SAIS Sheffield Artificial Intelligence Society",2023-06-14,39
+"SAIS Sheffield Artificial Intelligence Society",2023-06-17,39
 "Saahas",2023-01-28,4451
 "Saahas Zero Waste",2023-01-28,15388
 "Sacrebleu LLC",2020-10-16,433
@@ -7517,6 +6206,8 @@
 "Sacred Heart Health System",2023-04-10,9007
 "Sacred Heart Health System",2023-04-23,9014
 "Sacred Heart Health System",2023-06-05,9041
+"Sacred Heart Health System",2023-06-11,9043
+"Sacred Heart Health System",2023-06-23,9055
 "Sage Bionetworks",2023-01-25,6040
 "Sage Bionetworks",2023-01-29,6048
 "Sahel DataBank",2021-06-02,14
@@ -7566,6 +6257,8 @@
 "Salesforce",2023-04-10,4386082
 "Salesforce",2023-04-23,4415006
 "Salesforce",2023-06-05,4510175
+"Salesforce",2023-06-11,4527138
+"Salesforce",2023-06-23,4563172
 "Salesforce AppExchange",2023-01-21,39828
 "Salesforce AppExchange",2023-02-25,40426
 "Salesforce AppExchange",2023-03-13,40658
@@ -7573,6 +6266,8 @@
 "Salesforce AppExchange",2023-04-10,41017
 "Salesforce AppExchange",2023-04-23,41190
 "Salesforce AppExchange",2023-06-05,41817
+"Salesforce AppExchange",2023-06-11,41928
+"Salesforce AppExchange",2023-06-23,42157
 "Salesforce Marketing Cloud",2023-01-21,137970
 "Salesforce Marketing Cloud",2023-02-10,138541
 "Salesforce Marketing Cloud",2023-02-25,139003
@@ -7581,6 +6276,8 @@
 "Salesforce Marketing Cloud",2023-04-10,140243
 "Salesforce Marketing Cloud",2023-04-23,140545
 "Salesforce Marketing Cloud",2023-06-05,141717
+"Salesforce Marketing Cloud",2023-06-11,141890
+"Salesforce Marketing Cloud",2023-06-23,142263
 "Salesforce Partners",2023-01-21,64327
 "Salesforce Partners",2023-02-25,65486
 "Salesforce Partners",2023-03-13,66048
@@ -7588,6 +6285,8 @@
 "Salesforce Partners",2023-04-10,66914
 "Salesforce Partners",2023-04-23,67304
 "Salesforce Partners",2023-06-05,68453
+"Salesforce Partners",2023-06-11,68719
+"Salesforce Partners",2023-06-23,69203
 "Salesforce Platform",2023-01-21,19424
 "Salesforce Platform",2023-02-25,21170
 "Salesforce Platform",2023-03-13,22491
@@ -7595,6 +6294,8 @@
 "Salesforce Platform",2023-04-10,24182
 "Salesforce Platform",2023-04-23,24714
 "Salesforce Platform",2023-06-05,26289
+"Salesforce Platform",2023-06-11,26429
+"Salesforce Platform",2023-06-23,26700
 "Salesforce Training",2023-01-21,15104
 "Salesforce Training",2023-02-10,15207
 "Salesforce Training",2023-02-25,15260
@@ -7603,6 +6304,8 @@
 "Salesforce Training",2023-04-10,15614
 "Salesforce Training",2023-04-23,15761
 "Salesforce Training",2023-06-05,16197
+"Salesforce Training",2023-06-11,16235
+"Salesforce Training",2023-06-23,16295
 "Salk Institute for Biological Studies",2023-01-25,20884
 "Salk Institute for Biological Studies",2023-01-29,20942
 "Samsara Therapeutics",2023-01-25,968
@@ -7613,9 +6316,51 @@
 "Samsung Semiconductor",2023-04-10,85035
 "Samsung Semiconductor",2023-04-23,118520
 "Samsung Semiconductor",2023-06-05,130926
-"python online course",2020-11-07,901
-"python online course",2020-11-21,926
-"python online course",2020-12-27,1008
+"Samsung Semiconductor",2023-06-11,131735
+"Samsung Semiconductor",2023-06-23,134494
+"Samsung Semiconductor US",2023-03-13,97705
+"Samsung Semiconductor US",2023-03-29,98901
+"Samsung Semiconductor US",2023-04-10,99584
+"Samsung Semiconductor US",2023-04-23,100230
+"Samsung Semiconductor US",2023-06-05,102659
+"Samsung Semiconductor US",2023-06-11,103063
+"Samsung Semiconductor US",2023-06-23,103803
+"San Diego State University",2023-01-28,343063
+"San Francisco PyData Meetup Group",2023-01-21,21
+"San Francisco PyData Meetup Group",2023-02-25,21
+"San Francisco PyData Meetup Group",2023-03-13,21
+"San Francisco PyData Meetup Group",2023-03-29,21
+"San Francisco PyData Meetup Group",2023-04-10,21
+"San Francisco PyData Meetup Group",2023-04-23,21
+"San Francisco PyData Meetup Group",2023-06-05,21
+"San Francisco PyData Meetup Group",2023-06-11,21
+"San Francisco PyData Meetup Group",2023-06-23,21
+"SanDisk<U+00AE>",2023-01-21,131963
+"SanDisk<U+00AE>",2023-02-10,132239
+"SanDisk<U+00AE>",2023-02-25,132536
+"SanDisk<ae>",2023-03-13,132763
+"SanDisk<ae>",2023-03-29,132943
+"SanDisk<ae>",2023-04-10,133127
+"SanDisk<ae>",2023-04-23,133283
+"SanDisk<ae>",2023-06-05,133964
+"Sana Biotechnology Inc.",2023-01-25,23312
+"Sana Biotechnology Inc.",2023-01-29,23551
+"Sandia National Laboratories",2020-10-16,70922
+"Sandia National Laboratories",2020-10-20,71017
+"Sandia National Laboratories",2020-10-21,71073
+"Sandia National Laboratories",2020-10-28,71392
+"Sandia National Laboratories",2020-10-31,71523
+"Sandia National Laboratories",2020-11-02,71600
+"Sandia National Laboratories",2020-11-07,71742
+"Sandia National Laboratories",2020-11-12,71910
+"Sandia National Laboratories",2020-11-21,72201
+"Sandia National Laboratories",2020-11-30,72424
+"Sandia National Laboratories",2020-12-08,72681
+"Sandia National Laboratories",2020-12-15,72888
+"Sandia National Laboratories",2020-12-27,73230
+"Sandia National Laboratories",2023-06-05,109432
+"Sandia National Laboratories",2023-06-11,109766
+"Sandia National Laboratories",2023-06-23,110429
 "r-programming.org",2020-10-30,2205
 "r-programming.org",2020-11-03,2208
 "r-programming.org",2020-11-06,2211
@@ -7799,5 +6544,9 @@
 "r-programming.org",2023-05-19,2418
 "r-programming.org",2023-05-29,2416
 "r-programming.org",2023-06-05,2416
+"r-programming.org",2023-06-11,2416
+"r-programming.org",2023-06-14,2416
+"r-programming.org",2023-06-17,2415
+"r-programming.org",2023-06-23,2415
 "resilio",2023-01-25,109
 "s-lab - Software Quality Lab",2023-01-28,49

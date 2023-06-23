@@ -1,36 +1,4 @@
 "Company","Date","Followers"
-"ISACA",2023-01-21,200399
-"ISACA",2023-02-10,202102
-"ISACA",2023-02-25,203422
-"ISACA",2023-03-13,204779
-"ISACA",2023-03-29,206169
-"ISACA",2023-04-10,207276
-"ISACA",2023-04-23,208488
-"ISACA",2023-06-05,212694
-"ISACA Chicago Chapter",2023-01-21,817
-"ISACA Chicago Chapter",2023-02-10,826
-"ISACA Chicago Chapter",2023-02-25,886
-"ISACA Chicago Chapter",2023-03-13,902
-"ISACA Chicago Chapter",2023-03-29,922
-"ISACA Chicago Chapter",2023-04-10,938
-"ISACA Chicago Chapter",2023-04-23,951
-"ISACA Chicago Chapter",2023-06-05,983
-"ISACA Greater Washington D.C. Chapter",2023-01-21,1195
-"ISACA Greater Washington D.C. Chapter",2023-02-10,1202
-"ISACA Greater Washington D.C. Chapter",2023-02-25,1217
-"ISACA Greater Washington D.C. Chapter",2023-03-13,1223
-"ISACA Greater Washington D.C. Chapter",2023-03-29,1235
-"ISACA Greater Washington D.C. Chapter",2023-04-10,1251
-"ISACA Greater Washington D.C. Chapter",2023-04-23,1256
-"ISACA Greater Washington D.C. Chapter",2023-06-05,1273
-"ISACA New York Metropolitan Chapter",2023-01-21,1650
-"ISACA New York Metropolitan Chapter",2023-02-10,1678
-"ISACA New York Metropolitan Chapter",2023-02-25,1693
-"ISACA New York Metropolitan Chapter",2023-03-13,1729
-"ISACA New York Metropolitan Chapter",2023-03-29,1743
-"ISACA New York Metropolitan Chapter",2023-04-10,1748
-"ISACA New York Metropolitan Chapter",2023-04-23,1763
-"ISACA New York Metropolitan Chapter",2023-06-05,1872
 "ISACA Silicon Valley",2023-01-21,1141
 "ISACA Silicon Valley",2023-02-25,1173
 "ISACA Silicon Valley",2023-03-13,1181
@@ -38,6 +6,8 @@
 "ISACA Silicon Valley",2023-04-10,1255
 "ISACA Silicon Valley",2023-04-23,1265
 "ISACA Silicon Valley",2023-06-05,1296
+"ISACA Silicon Valley",2023-06-11,1299
+"ISACA Silicon Valley",2023-06-23,1303
 "ISACA South Florida",2023-01-21,1225
 "ISACA South Florida",2023-02-25,1336
 "ISACA South Florida",2023-03-13,1378
@@ -45,6 +15,8 @@
 "ISACA South Florida",2023-04-10,1458
 "ISACA South Florida",2023-04-23,1477
 "ISACA South Florida",2023-06-05,1553
+"ISACA South Florida",2023-06-11,1556
+"ISACA South Florida",2023-06-23,1612
 "ISCT International Society for Cell & Gene Therapy",2023-01-25,6363
 "ISCT International Society for Cell & Gene Therapy",2023-01-29,6416
 "ISSA Fayetteville and Fort Bragg",2023-01-21,846
@@ -54,6 +26,8 @@
 "ISSA Fayetteville and Fort Bragg",2023-04-10,861
 "ISSA Fayetteville and Fort Bragg",2023-04-23,864
 "ISSA Fayetteville and Fort Bragg",2023-06-05,876
+"ISSA Fayetteville and Fort Bragg",2023-06-11,879
+"ISSA Fayetteville and Fort Bragg",2023-06-23,882
 "IT World Canada (ITWC)",2023-01-21,9182
 "IT World Canada (ITWC)",2023-02-10,9395
 "IT World Canada (ITWC)",2023-02-25,9458
@@ -62,10 +36,14 @@
 "IT World Canada (ITWC)",2023-04-10,9701
 "IT World Canada (ITWC)",2023-04-23,9755
 "IT World Canada (ITWC)",2023-06-05,9994
+"IT World Canada (ITWC)",2023-06-11,10017
+"IT World Canada (ITWC)",2023-06-23,10060
 "IT-Connect",2023-03-29,37344
 "IT-Connect",2023-04-10,38471
 "IT-Connect",2023-04-23,39545
 "IT-Connect",2023-06-05,42843
+"IT-Connect",2023-06-11,43611
+"IT-Connect",2023-06-23,44890
 "ITEN",2023-01-21,1014
 "ITEN",2023-02-25,1033
 "ITEN WIRED Summit",2023-01-21,777
@@ -75,6 +53,8 @@
 "ITEN WIRED Summit",2023-04-10,783
 "ITEN WIRED Summit",2023-04-23,784
 "ITEN WIRED Summit",2023-06-05,788
+"ITEN WIRED Summit",2023-06-11,789
+"ITEN WIRED Summit",2023-06-23,789
 "ITGulfCoast",2023-01-21,432
 "ITGulfCoast",2023-02-25,434
 "ITGulfCoast",2023-03-13,458
@@ -82,6 +62,8 @@
 "ITGulfCoast",2023-04-10,463
 "ITGulfCoast",2023-04-23,470
 "ITGulfCoast",2023-06-05,472
+"ITGulfCoast",2023-06-11,473
+"ITGulfCoast",2023-06-23,476
 "ITM | Institute of Travel Management",2023-01-21,7939
 "ITM | Institute of Travel Management",2023-02-10,7975
 "ITM | Institute of Travel Management",2023-02-25,7996
@@ -90,18 +72,24 @@
 "ITM | Institute of Travel Management",2023-04-10,8095
 "ITM | Institute of Travel Management",2023-04-23,8151
 "ITM | Institute of Travel Management",2023-06-05,8393
+"ITM | Institute of Travel Management",2023-06-11,8418
+"ITM | Institute of Travel Management",2023-06-23,8455
 "ITPro from ACI Learning",2023-02-25,23348
 "ITPro from ACI Learning",2023-03-13,23567
 "ITPro from ACI Learning",2023-03-29,23775
 "ITPro from ACI Learning",2023-04-10,23898
 "ITPro from ACI Learning",2023-04-23,24015
 "ITPro from ACI Learning",2023-06-05,24408
+"ITPro from ACI Learning",2023-06-11,24453
+"ITPro from ACI Learning",2023-06-23,24540
 "ITProTV from ACI Learning",2023-01-21,22873
 "ITSPmagazine Podcast Network",2023-03-13,4929
 "ITSPmagazine Podcast Network",2023-03-29,4965
 "ITSPmagazine Podcast Network",2023-04-10,5010
 "ITSPmagazine Podcast Network",2023-04-23,5055
 "ITSPmagazine Podcast Network",2023-06-05,5228
+"ITSPmagazine Podcast Network",2023-06-11,5256
+"ITSPmagazine Podcast Network",2023-06-23,5292
 "ITT Technical Institute",2023-01-21,54901
 "ITT Technical Institute",2023-02-10,55151
 "ITT Technical Institute",2023-02-25,55343
@@ -110,6 +98,10 @@
 "ITT Technical Institute",2023-04-10,55870
 "ITT Technical Institute",2023-04-23,56048
 "ITT Technical Institute",2023-06-05,56546
+"ITT Technical Institute",2023-06-11,56635
+"ITT Technical Institute",2023-06-23,56805
+"ITU Data Sci",2023-06-14,1594
+"ITU Data Sci",2023-06-17,1596
 "ITU Data Science Society",2021-01-22,755
 "ITU Data Science Society",2021-01-25,755
 "ITU Data Science Society",2021-01-28,755
@@ -405,217 +397,15 @@
 "IUCN",2023-05-19,144264
 "IUCN",2023-05-29,145264
 "IUCN",2023-06-05,146116
+"IUCN",2023-06-11,146852
+"IUCN",2023-06-14,147465
+"IUCN",2023-06-17,147885
+"IUCN",2023-06-23,148610
 "IVADO",2023-01-25,10895
 "IVENT",2023-01-25,2339
 "IVENT",2023-01-29,2339
 "IWA Publishing",2023-01-28,9750
 "IWRA - International Water Resources Association",2023-01-28,20950
-"Irish Student Consulting Group (ISCG)",2021-01-22,2123
-"Irish Student Consulting Group (ISCG)",2021-01-25,2141
-"Irish Student Consulting Group (ISCG)",2021-01-28,2159
-"Irish Student Consulting Group (ISCG)",2021-01-31,2171
-"Irish Student Consulting Group (ISCG)",2021-02-03,2200
-"Irish Student Consulting Group (ISCG)",2021-02-07,2222
-"Irish Student Consulting Group (ISCG)",2021-02-12,2252
-"Irish Student Consulting Group (ISCG)",2021-02-16,2280
-"Irish Student Consulting Group (ISCG)",2021-02-21,2301
-"Irish Student Consulting Group (ISCG)",2021-02-25,2335
-"Irish Student Consulting Group (ISCG)",2021-03-01,2360
-"Irish Student Consulting Group (ISCG)",2021-03-06,2406
-"Irish Student Consulting Group (ISCG)",2021-03-10,2428
-"Irish Student Consulting Group (ISCG)",2021-03-13,2467
-"Irish Student Consulting Group (ISCG)",2021-03-20,2520
-"Irish Student Consulting Group (ISCG)",2021-03-28,2559
-"Irish Student Consulting Group (ISCG)",2021-03-31,2572
-"Irish Student Consulting Group (ISCG)",2021-04-06,2593
-"Irish Student Consulting Group (ISCG)",2021-04-10,2602
-"Irish Student Consulting Group (ISCG)",2021-04-15,2611
-"Irish Student Consulting Group (ISCG)",2021-04-20,2621
-"Irish Student Consulting Group (ISCG)",2021-04-24,2633
-"Irish Student Consulting Group (ISCG)",2021-04-28,2642
-"Irish Student Consulting Group (ISCG)",2021-05-07,2662
-"Irish Student Consulting Group (ISCG)",2021-05-10,2667
-"Irish Student Consulting Group (ISCG)",2021-05-14,2671
-"Irish Student Consulting Group (ISCG)",2021-05-21,2680
-"Irish Student Consulting Group (ISCG)",2021-05-26,2686
-"Irish Student Consulting Group (ISCG)",2021-05-31,2695
-"Irish Student Consulting Group (ISCG)",2021-06-06,2704
-"Irish Student Consulting Group (ISCG)",2021-06-09,2709
-"Irish Student Consulting Group (ISCG)",2021-06-16,2719
-"Irish Student Consulting Group (ISCG)",2021-06-21,2728
-"Irish Student Consulting Group (ISCG)",2021-06-29,2745
-"Irish Student Consulting Group (ISCG)",2021-07-04,2752
-"Irish Student Consulting Group (ISCG)",2021-07-09,2761
-"Irish Student Consulting Group (ISCG)",2021-07-14,2764
-"Irish Student Consulting Group (ISCG)",2021-07-22,2773
-"Irish Student Consulting Group (ISCG)",2021-08-14,2796
-"Irish Student Consulting Group (ISCG)",2021-08-26,2808
-"Irish Student Consulting Group (ISCG)",2021-09-02,2811
-"Irish Student Consulting Group (ISCG)",2021-09-09,2821
-"Irish Student Consulting Group (ISCG)",2021-09-16,2841
-"Irish Student Consulting Group (ISCG)",2021-10-17,2974
-"Irish Student Consulting Group (ISCG)",2021-10-29,2992
-"Irish Student Consulting Group (ISCG)",2021-11-20,3057
-"Irish Student Consulting Group (ISCG)",2021-12-03,3088
-"Irish Student Consulting Group (ISCG)",2021-12-14,3098
-"Irish Student Consulting Group (ISCG)",2021-12-26,3109
-"Irish Student Consulting Group (ISCG)",2021-12-31,3116
-"Irish Student Consulting Group (ISCG)",2022-02-01,3169
-"Irish Student Consulting Group (ISCG)",2022-02-07,3174
-"Irish Student Consulting Group (ISCG)",2022-02-16,3197
-"Irish Student Consulting Group (ISCG)",2022-02-20,3201
-"Irish Student Consulting Group (ISCG)",2022-02-23,3210
-"Irish Student Consulting Group (ISCG)",2022-02-26,3219
-"Irish Student Consulting Group (ISCG)",2022-03-03,3223
-"Irish Student Consulting Group (ISCG)",2022-03-15,3232
-"Irish Student Consulting Group (ISCG)",2022-03-20,3239
-"Irish Student Consulting Group (ISCG)",2022-03-29,3263
-"Irish Student Consulting Group (ISCG)",2022-04-11,3286
-"Irish Student Consulting Group (ISCG)",2022-04-13,3288
-"Irish Student Consulting Group (ISCG)",2022-05-01,3320
-"Irish Student Consulting Group (ISCG)",2022-05-05,3219
-"Irish Student Consulting Group (ISCG)",2022-05-22,3337
-"Irish Student Consulting Group (ISCG)",2022-05-27,3344
-"Irish Student Consulting Group (ISCG)",2022-06-07,3350
-"Irish Student Consulting Group (ISCG)",2022-06-08,3350
-"Irish Student Consulting Group (ISCG)",2022-06-11,3357
-"Irish Student Consulting Group (ISCG)",2022-06-16,3359
-"Irish Student Consulting Group (ISCG)",2022-06-23,3365
-"Irish Student Consulting Group (ISCG)",2022-06-24,3366
-"Irish Student Consulting Group (ISCG)",2022-06-30,3371
-"Irish Student Consulting Group (ISCG)",2022-07-02,3370
-"Irish Student Consulting Group (ISCG)",2022-07-05,3375
-"Irish Student Consulting Group (ISCG)",2022-07-13,3382
-"Irish Student Consulting Group (ISCG)",2022-07-18,3384
-"Irish Student Consulting Group (ISCG)",2022-07-23,3390
-"Irish Student Consulting Group (ISCG)",2022-07-25,3389
-"Irish Student Consulting Group (ISCG)",2022-08-02,3396
-"Irish Student Consulting Group (ISCG)",2022-08-16,3407
-"Irish Student Consulting Group (ISCG)",2022-08-20,3414
-"Irish Student Consulting Group (ISCG)",2022-08-25,3418
-"Irish Student Consulting Group (ISCG)",2022-08-28,3419
-"Irish Student Consulting Group (ISCG)",2022-09-07,3436
-"Irish Student Consulting Group (ISCG)",2022-09-10,3441
-"Irish Student Consulting Group (ISCG)",2022-09-16,3454
-"Irish Student Consulting Group (ISCG)",2022-09-22,3463
-"Irish Student Consulting Group (ISCG)",2022-09-29,3488
-"Irish Student Consulting Group (ISCG)",2022-10-03,3494
-"Irish Student Consulting Group (ISCG)",2022-10-09,3516
-"Irish Student Consulting Group (ISCG)",2022-10-12,3517
-"Irish Student Consulting Group (ISCG)",2022-10-16,3521
-"Irish Student Consulting Group (ISCG)",2022-10-22,3546
-"Irish Student Consulting Group (ISCG)",2022-10-28,3554
-"Irish Student Consulting Group (ISCG)",2022-11-03,3564
-"Irish Student Consulting Group (ISCG)",2022-11-06,3564
-"Irish Student Consulting Group (ISCG)",2022-11-14,3571
-"Irish Student Consulting Group (ISCG)",2022-11-20,3578
-"Irish Student Consulting Group (ISCG)",2022-11-24,3580
-"Irish Student Consulting Group (ISCG)",2022-12-01,3585
-"Irish Student Consulting Group (ISCG)",2022-12-08,3593
-"Irish Student Consulting Group (ISCG)",2022-12-14,3595
-"Irish Student Consulting Group (ISCG)",2022-12-27,3599
-"Irish Student Consulting Group (ISCG)",2023-01-01,3604
-"Irish Student Consulting Group (ISCG)",2023-01-05,3607
-"Irish Student Consulting Group (ISCG)",2023-01-09,3608
-"Irish Student Consulting Group (ISCG)",2023-01-22,3625
-"Irish Student Consulting Group (ISCG)",2023-01-29,3652
-"Irish Student Consulting Group (ISCG)",2023-02-04,3672
-"Irish Student Consulting Group (ISCG)",2023-02-25,3736
-"Irish Student Consulting Group (ISCG)",2023-03-18,3798
-"Irish Student Consulting Group (ISCG)",2023-03-21,3802
-"Irish Student Consulting Group (ISCG)",2023-03-25,3813
-"Irish Student Consulting Group (ISCG)",2023-04-10,3830
-"Irish Student Consulting Group (ISCG)",2023-04-13,3837
-"Irish Student Consulting Group (ISCG)",2023-04-21,3845
-"Irish Student Consulting Group (ISCG)",2023-04-29,3857
-"Irish Student Consulting Group (ISCG)",2023-05-19,3883
-"Irish Student Consulting Group (ISCG)",2023-05-29,3896
-"Irish Student Consulting Group (ISCG)",2023-06-05,3901
-"IrishITJobs.ie",2021-09-02,158
-"IrishITJobs.ie",2021-09-09,170
-"IrishITJobs.ie",2021-09-16,197
-"IrishITJobs.ie",2021-10-17,269
-"IrishITJobs.ie",2021-10-29,334
-"IrishITJobs.ie",2021-11-20,403
-"IrishITJobs.ie",2021-12-14,404
-"IrishITJobs.ie",2021-12-20,404
-"IrishITJobs.ie",2021-12-26,404
-"IrishITJobs.ie",2021-12-31,405
-"IrishITJobs.ie",2022-01-12,406
-"IrishITJobs.ie",2022-02-07,458
-"IrishITJobs.ie",2022-02-12,467
-"IrishITJobs.ie",2022-02-16,483
-"IrishITJobs.ie",2022-02-20,529
-"IrishITJobs.ie",2022-02-26,604
-"IrishITJobs.ie",2022-03-03,610
-"IrishITJobs.ie",2022-03-15,639
-"IrishITJobs.ie",2022-03-29,647
-"IrishITJobs.ie",2022-05-01,796
-"IrishITJobs.ie",2022-05-05,604
-"IrishITJobs.ie",2022-05-22,1016
-"IrishITJobs.ie",2022-05-27,1049
-"IrishITJobs.ie",2022-05-30,1053
-"IrishITJobs.ie",2022-06-07,1071
-"IrishITJobs.ie",2022-06-08,1071
-"IrishITJobs.ie",2022-06-11,1076
-"IrishITJobs.ie",2022-06-16,1082
-"IrishITJobs.ie",2022-06-23,1093
-"IrishITJobs.ie",2022-06-24,1095
-"IrishITJobs.ie",2022-06-30,1096
-"IrishITJobs.ie",2022-07-02,1095
-"IrishITJobs.ie",2022-07-05,1097
-"IrishITJobs.ie",2022-07-13,1098
-"IrishITJobs.ie",2022-07-18,1098
-"IrishITJobs.ie",2022-07-23,1100
-"IrishITJobs.ie",2022-07-25,1101
-"IrishITJobs.ie",2022-08-02,1101
-"IrishITJobs.ie",2022-08-16,1102
-"IrishITJobs.ie",2022-08-20,1102
-"IrishITJobs.ie",2022-08-25,1101
-"IrishITJobs.ie",2022-08-28,1101
-"IrishITJobs.ie",2022-09-07,1101
-"IrishITJobs.ie",2022-09-10,1101
-"IrishITJobs.ie",2022-09-16,1101
-"IrishITJobs.ie",2022-09-22,1100
-"IrishITJobs.ie",2022-09-29,1100
-"IrishITJobs.ie",2022-10-03,1100
-"IrishITJobs.ie",2022-10-09,1100
-"IrishITJobs.ie",2022-10-16,1101
-"IrishITJobs.ie",2022-10-22,1101
-"IrishITJobs.ie",2022-10-28,1103
-"IrishITJobs.ie",2022-11-03,1104
-"IrishITJobs.ie",2022-11-06,1104
-"IrishITJobs.ie",2022-11-14,1104
-"IrishITJobs.ie",2022-11-20,1104
-"IrishITJobs.ie",2022-11-24,1105
-"IrishITJobs.ie",2022-12-01,1105
-"IrishITJobs.ie",2022-12-08,1104
-"IrishITJobs.ie",2022-12-14,1104
-"IrishITJobs.ie",2022-12-27,1104
-"IrishITJobs.ie",2023-01-01,1104
-"IrishITJobs.ie",2023-01-05,1104
-"IrishITJobs.ie",2023-01-09,1103
-"IrishITJobs.ie",2023-01-22,1104
-"IrishITJobs.ie",2023-01-29,1103
-"IrishITJobs.ie",2023-02-04,1103
-"IrishITJobs.ie",2023-02-25,1102
-"IrishITJobs.ie",2023-03-18,1099
-"IrishITJobs.ie",2023-03-21,1099
-"IrishITJobs.ie",2023-03-25,1099
-"IrishITJobs.ie",2023-04-10,1099
-"IrishITJobs.ie",2023-04-13,1099
-"IrishITJobs.ie",2023-04-21,1099
-"IrishITJobs.ie",2023-04-29,1099
-"IrishITJobs.ie",2023-05-19,1099
-"IrishITJobs.ie",2023-05-29,1097
-"IrishITJobs.ie",2023-06-05,1097
-"IriusRisk",2023-01-21,5411
-"IriusRisk",2023-02-25,5593
-"IriusRisk",2023-03-13,5859
-"IriusRisk",2023-03-29,6035
-"IriusRisk",2023-04-10,6112
-"IriusRisk",2023-04-23,6166
-"IriusRisk",2023-06-05,6291
 "Isar Aerospace",2023-01-21,53823
 "Isar Aerospace",2023-02-25,55199
 "Isar Aerospace",2023-03-13,55755
@@ -623,6 +413,8 @@
 "Isar Aerospace",2023-04-10,57346
 "Isar Aerospace",2023-04-23,57765
 "Isar Aerospace",2023-06-05,59194
+"Isar Aerospace",2023-06-11,59379
+"Isar Aerospace",2023-06-23,59818
 "Ishango.ai",2021-07-18,71
 "Ishango.ai",2021-07-22,72
 "Ishango.ai",2021-08-14,76
@@ -736,6 +528,10 @@
 "Ishango.ai",2023-05-19,1988
 "Ishango.ai",2023-05-29,2085
 "Ishango.ai",2023-06-05,2140
+"Ishango.ai",2023-06-11,2151
+"Ishango.ai",2023-06-14,2159
+"Ishango.ai",2023-06-17,2166
+"Ishango.ai",2023-06-23,2175
 "Ita<fa> Unibanco",2020-10-22,2122666
 "Ita<fa> Unibanco",2020-10-28,2128442
 "Ita<fa> Unibanco",2020-11-07,2138562
@@ -920,6 +716,10 @@
 "Ixio Analytics",2023-05-19,777
 "Ixio Analytics",2023-05-29,778
 "Ixio Analytics",2023-06-05,778
+"Ixio Analytics",2023-06-11,778
+"Ixio Analytics",2023-06-14,778
+"Ixio Analytics",2023-06-17,778
+"Ixio Analytics",2023-06-23,778
 "J.K. Cement Limited",2021-02-19,51502
 "J.K. Cement Limited",2021-03-26,53847
 "J.P. Morgan",2020-11-30,2537459
@@ -936,6 +736,8 @@
 "J.P. Morgan",2023-04-10,3712343
 "J.P. Morgan",2023-04-23,3731498
 "J.P. Morgan",2023-06-05,3797476
+"J.P. Morgan",2023-06-11,3811069
+"J.P. Morgan",2023-06-23,3838524
 "J.P. Morgan Private Bank",2023-01-21,118710
 "J.P. Morgan Private Bank",2023-02-25,122399
 "J.P. Morgan Private Bank",2023-03-13,124099
@@ -943,6 +745,8 @@
 "J.P. Morgan Private Bank",2023-04-10,128137
 "J.P. Morgan Private Bank",2023-04-23,129881
 "J.P. Morgan Private Bank",2023-06-05,135731
+"J.P. Morgan Private Bank",2023-06-11,136670
+"J.P. Morgan Private Bank",2023-06-23,138392
 "JAMA",2023-01-21,113210
 "JAMA",2023-02-10,114667
 "JAMA",2023-02-25,115594
@@ -951,6 +755,8 @@
 "JAMA",2023-04-10,118820
 "JAMA",2023-04-23,119617
 "JAMA",2023-06-05,123045
+"JAMA",2023-06-11,123704
+"JAMA",2023-06-23,124987
 "JAMA Oncology",2023-01-25,25686
 "JAMA Oncology",2023-01-29,25847
 "JBM Group",2023-01-28,131222
@@ -962,6 +768,8 @@
 "JPMorgan Chase & Co.",2023-04-10,3819340
 "JPMorgan Chase & Co.",2023-04-23,3859180
 "JPMorgan Chase & Co.",2023-06-05,3973161
+"JPMorgan Chase & Co.",2023-06-11,3997207
+"JPMorgan Chase & Co.",2023-06-23,4047343
 "JPMorgan Chase Commercial Banking",2023-01-21,70703
 "JPMorgan Chase Commercial Banking",2023-02-25,71898
 "JPMorgan Chase Commercial Banking",2023-03-13,72415
@@ -969,6 +777,8 @@
 "JPMorgan Chase Commercial Banking",2023-04-10,73388
 "JPMorgan Chase Commercial Banking",2023-04-23,73820
 "JPMorgan Chase Commercial Banking",2023-06-05,75480
+"JPMorgan Chase Commercial Banking",2023-06-11,75765
+"JPMorgan Chase Commercial Banking",2023-06-23,76312
 "JULIA",2021-01-19,1736
 "JULIA",2021-02-19,1809
 "JULIA",2021-03-06,1810
@@ -1003,6 +813,10 @@
 "JULIACON-Africa",2023-05-19,2
 "JULIACON-Africa",2023-05-29,2
 "JULIACON-Africa",2023-06-05,2
+"JULIACON-Africa",2023-06-11,2
+"JULIACON-Africa",2023-06-14,2
+"JULIACON-Africa",2023-06-17,2
+"JULIACON-Africa",2023-06-23,2
 "Jane Street",2020-10-20,61557
 "Jane Street",2020-10-21,61590
 "Jane Street",2020-10-23,61651
@@ -1186,6 +1000,10 @@
 "Jane Street",2023-05-19,132128
 "Jane Street",2023-05-29,133384
 "Jane Street",2023-06-05,134355
+"Jane Street",2023-06-11,135261
+"Jane Street",2023-06-14,135805
+"Jane Street",2023-06-17,136331
+"Jane Street",2023-06-23,137369
 "Jay Paul Company",2020-10-16,477
 "Jay Paul Company",2020-10-28,486
 "Jay Paul Company",2020-11-07,488
@@ -1196,6 +1014,8 @@
 "Jeff Bezos Amazon and Blue Origin - Newslines",2023-04-10,125724
 "Jeff Bezos Amazon and Blue Origin - Newslines",2023-04-23,125777
 "Jeff Bezos Amazon and Blue Origin - Newslines",2023-06-05,125961
+"Jeff Bezos Amazon and Blue Origin - Newslines",2023-06-11,125980
+"Jeff Bezos Amazon and Blue Origin - Newslines",2023-06-23,126043
 "Jeli.io",2023-01-25,1195
 "JerusML",2021-01-25,275
 "JerusML",2021-01-28,276
@@ -1310,6 +1130,8 @@
 "JerusML",2023-05-19,621
 "JerusML",2023-05-29,624
 "JerusML",2023-06-05,626
+"JerusML",2023-06-14,637
+"JerusML",2023-06-17,638
 "Jetty IoT",2023-01-21,191
 "Jetty IoT",2023-02-25,196
 "Jetty IoT",2023-03-13,198
@@ -1317,6 +1139,8 @@
 "Jetty IoT",2023-04-10,201
 "Jetty IoT",2023-04-23,201
 "Jetty IoT",2023-06-05,201
+"Jetty IoT",2023-06-11,201
+"Jetty IoT",2023-06-23,201
 "Job Curator - Jobs Page",2020-11-07,21535
 "Job Farm",2021-02-19,324
 "Job Farm",2021-02-19,22316
@@ -1339,6 +1163,8 @@
 "Johnson Space Center",2023-04-10,5676
 "Johnson Space Center",2023-04-23,5739
 "Johnson Space Center",2023-06-05,5877
+"Johnson Space Center",2023-06-11,5903
+"Johnson Space Center",2023-06-23,5948
 "Jollibee Group of Companies",2023-01-28,193186
 "Josh's Water Jobs",2023-01-28,6987
 "Jotem water solutions",2023-01-28,2036
@@ -1639,6 +1465,10 @@
 "JuliaActuary",2023-05-19,1768
 "JuliaActuary",2023-05-29,1772
 "JuliaActuary",2023-06-05,1780
+"JuliaActuary",2023-06-11,1782
+"JuliaActuary",2023-06-14,1786
+"JuliaActuary",2023-06-17,1791
+"JuliaActuary",2023-06-23,1804
 "JuliaCon 2020",2020-10-30,1468
 "JuliaCon 2020",2020-10-31,1470
 "JuliaCon 2020",2020-11-02,1470
@@ -1832,6 +1662,11 @@
 "JuliaCon 2023",2023-05-29,3893
 "JuliaCon 2023",2023-06-05,3927
 "JuliaCon 2023",2023-06-05,3928
+"JuliaCon 2023",2023-06-11,3962
+"JuliaCon 2023",2023-06-14,3976
+"JuliaCon 2023",2023-06-14,3975
+"JuliaCon 2023",2023-06-17,3981
+"JuliaCon 2023",2023-06-23,3996
 "JuliaCon 222",2022-02-27,2588
 "JuliaHub",2022-11-20,15735
 "JuliaHub",2022-11-24,15817
@@ -1874,9 +1709,15 @@
 "JuliaHub",2023-05-29,18357
 "JuliaHub",2023-06-05,18714
 "JuliaHub",2023-06-05,18715
+"JuliaHub",2023-06-11,18751
+"JuliaHub",2023-06-14,18764
+"JuliaHub",2023-06-17,18779
+"JuliaHub",2023-06-23,18810
 "JuliaLang Eindhoven",2023-02-10,79
 "JuliaLang Eindhoven",2023-04-23,148
 "JuliaLang Eindhoven",2023-06-05,166
+"JuliaLang Eindhoven",2023-06-11,168
+"JuliaLang Eindhoven",2023-06-23,171
 "Julialanguage",2021-12-05,324
 "Julialanguage",2022-02-27,383
 "Julialanguage",2023-01-21,510
@@ -1886,6 +1727,8 @@
 "Julialanguage",2023-04-10,521
 "Julialanguage",2023-04-23,526
 "Julialanguage",2023-06-05,535
+"Julialanguage",2023-06-11,536
+"Julialanguage",2023-06-23,538
 "Julian Jewel's AI Bot",2021-01-19,185742
 "Julius Technologies",2022-06-16,173
 "Julius Technologies",2022-06-20,173
@@ -1954,7 +1797,13 @@
 "Julius Technologies",2023-05-19,243
 "Julius Technologies",2023-05-29,243
 "Julius Technologies",2023-06-05,246
+"Julius Technologies",2023-06-11,246
+"Julius Technologies",2023-06-14,246
+"Julius Technologies",2023-06-17,247
+"Julius Technologies",2023-06-23,247
 "Jumbobagshop.in",2021-05-10,1919
+"Jump Trading Group",2023-06-17,54907
+"Jump Trading Group",2023-06-23,55228
 "Jump Trading LLC",2020-10-20,24019
 "Jump Trading LLC",2020-10-21,24046
 "Jump Trading LLC",2020-10-23,24093
@@ -2139,6 +1988,8 @@
 "Jump Trading LLC",2023-05-19,53565
 "Jump Trading LLC",2023-05-29,53995
 "Jump Trading LLC",2023-06-05,54298
+"Jump Trading LLC",2023-06-11,54568
+"Jump Trading LLC",2023-06-14,54752
 "Jumping Rivers Ltd",2020-10-05,372
 "Jumping Rivers Ltd",2020-10-13,372
 "Jumping Rivers Ltd",2020-10-16,373
@@ -2320,6 +2171,10 @@
 "Jumping Rivers Ltd",2023-05-19,2029
 "Jumping Rivers Ltd",2023-05-29,2052
 "Jumping Rivers Ltd",2023-06-05,2078
+"Jumping Rivers Ltd",2023-06-11,2093
+"Jumping Rivers Ltd",2023-06-14,2098
+"Jumping Rivers Ltd",2023-06-17,2108
+"Jumping Rivers Ltd",2023-06-23,2122
 "Jumprope",2021-01-19,371
 "Jumprope",2021-02-19,382
 "Jumprope",2021-03-06,386
@@ -2331,6 +2186,8 @@
 "Juniper Apstra",2023-04-10,8216
 "Juniper Apstra",2023-04-23,8232
 "Juniper Apstra",2023-06-05,8315
+"Juniper Apstra",2023-06-11,8343
+"Juniper Apstra",2023-06-23,8374
 "Juniper Networks",2023-01-21,664346
 "Juniper Networks",2023-02-10,669490
 "Juniper Networks",2023-02-25,672457
@@ -2339,11 +2196,17 @@
 "Juniper Networks",2023-04-10,689511
 "Juniper Networks",2023-04-23,693262
 "Juniper Networks",2023-06-05,703444
+"Juniper Networks",2023-06-11,705195
+"Juniper Networks",2023-06-23,708736
 "Jupiter Asset Management",2023-04-29,39241
 "Jupiter Asset Management",2023-05-12,39534
 "Jupiter Asset Management",2023-05-19,39705
 "Jupiter Asset Management",2023-05-29,39882
 "Jupiter Asset Management",2023-06-05,40033
+"Jupiter Asset Management",2023-06-11,40143
+"Jupiter Asset Management",2023-06-14,40220
+"Jupiter Asset Management",2023-06-17,40275
+"Jupiter Asset Management",2023-06-23,40403
 "Just One Giant Lab",2023-02-10,2490
 "K Health",2023-01-25,24399
 "KAUSHIKII",2023-01-29,681
@@ -2451,6 +2314,8 @@
 "KCL Data Science Society",2023-05-19,61
 "KCL Data Science Society",2023-05-29,60
 "KCL Data Science Society",2023-06-05,60
+"KCL Data Science Society",2023-06-14,60
+"KCL Data Science Society",2023-06-17,60
 "KDnuggets",2023-01-21,49451
 "KDnuggets",2023-02-10,49912
 "KDnuggets",2023-02-25,50131
@@ -2459,6 +2324,8 @@
 "KDnuggets",2023-04-10,50694
 "KDnuggets",2023-04-23,50814
 "KDnuggets",2023-06-05,51221
+"KDnuggets",2023-06-11,51298
+"KDnuggets",2023-06-23,51421
 "KINETIC",2023-01-21,5354
 "KINETIC",2023-02-25,5477
 "KINETIC",2023-03-13,5493
@@ -2466,6 +2333,8 @@
 "KINETIC",2023-04-10,5525
 "KINETIC",2023-04-23,5536
 "KINETIC",2023-06-05,5706
+"KINETIC",2023-06-11,5745
+"KINETIC",2023-06-23,5750
 "KIPP Foundation",2021-01-11,41752
 "KIPP Foundation",2021-01-15,41817
 "KIPP Foundation",2021-01-19,41859
@@ -2625,13 +2494,21 @@
 "KIPP Foundation",2023-05-19,54127
 "KIPP Foundation",2023-05-29,54226
 "KIPP Foundation",2023-06-05,54319
+"KIPP Foundation",2023-06-11,54417
+"KIPP Foundation",2023-06-14,54460
+"KIPP Foundation",2023-06-17,54488
+"KIPP Foundation",2023-06-23,54574
 "KLA",2023-06-05,268563
-"KLEAP Institute of Information Security<U+0099> (KIIS)",2023-02-25,611
+"KLA",2023-06-11,269707
+"KLA",2023-06-23,271988
 "KLEAP Institute of Information Security<99> (KIIS)",2023-03-13,622
 "KLEAP Institute of Information Security<99> (KIIS)",2023-03-29,637
-"KLEAP Institute of Information Security™ (KIIS)",2023-04-10,654
-"KLEAP Institute of Information Security™ (KIIS)",2023-04-23,685
-"KLEAP Institute of Information Security™ (KIIS)",2023-06-05,746
+"KLEAP Institute of Information Security<U+0099> (KIIS)",2023-02-25,611
+"KLEAP Institute of Information Security<99> (KIIS)",2023-04-10,654
+"KLEAP Institute of Information Security<99> (KIIS)",2023-04-23,685
+"KLEAP Institute of Information Security<99> (KIIS)",2023-06-05,746
+"KLEAP Institute of Information Security™ (KIIS)",2023-06-11,752
+"KLEAP Institute of Information Security™ (KIIS)",2023-06-23,769
 "KMS Technology Inc.",2023-01-28,30907
 "KNF Japan",2020-12-08,574
 "KNF Japan",2021-02-19,698
@@ -2820,6 +2697,10 @@
 "KNIME",2023-05-19,41473
 "KNIME",2023-05-29,41752
 "KNIME",2023-06-05,42024
+"KNIME",2023-06-11,42206
+"KNIME",2023-06-14,42344
+"KNIME",2023-06-17,42434
+"KNIME",2023-06-23,42613
 "KNMI - Royal Netherlands Meteorological Institute",2023-01-28,10575
 "KNOREX",2023-01-28,27482
 "KPMG",2023-01-22,3132305
@@ -2828,6 +2709,8 @@
 "KPMG",2023-04-10,3303184
 "KPMG",2023-04-23,3327458
 "KPMG",2023-06-05,3411812
+"KPMG",2023-06-11,3426019
+"KPMG",2023-06-23,3455801
 "KPMG East Africa",2023-01-21,184049
 "KPMG East Africa",2023-02-10,185599
 "KPMG East Africa",2023-02-25,186481
@@ -2836,6 +2719,8 @@
 "KPMG East Africa",2023-04-10,188809
 "KPMG East Africa",2023-04-23,189937
 "KPMG East Africa",2023-06-05,192597
+"KPMG East Africa",2023-06-11,193090
+"KPMG East Africa",2023-06-23,194208
 "KPMG India",2023-01-28,1465400
 "KU Leuven",2023-01-28,290667
 "KUNGFU.AI",2023-01-21,1378
@@ -2845,6 +2730,8 @@
 "KUNGFU.AI",2023-04-10,1575
 "KUNGFU.AI",2023-04-23,1596
 "KUNGFU.AI",2023-06-05,1664
+"KUNGFU.AI",2023-06-11,1675
+"KUNGFU.AI",2023-06-23,1688
 "KWR Water Research Institute",2023-01-28,14013
 "KYOCERA Global",2023-01-21,36511
 "KYOCERA Global",2023-02-25,37178
@@ -2853,6 +2740,8 @@
 "KYOCERA Global",2023-04-10,37797
 "KYOCERA Global",2023-04-23,37897
 "KYOCERA Global",2023-06-05,38524
+"KYOCERA Global",2023-06-11,38748
+"KYOCERA Global",2023-06-23,38960
 "Kadme AS - Knowledge and Data Management Expertise",2021-01-22,948
 "Kadme AS - Knowledge and Data Management Expertise",2021-01-25,951
 "Kadme AS - Knowledge and Data Management Expertise",2021-01-28,951
@@ -2968,6 +2857,8 @@
 "Kadme AS - Knowledge and Data Management Expertise",2023-05-19,1205
 "Kadme AS - Knowledge and Data Management Expertise",2023-05-29,1207
 "Kadme AS - Knowledge and Data Management Expertise",2023-06-05,1210
+"Kadme AS - Knowledge and Data Management Expertise",2023-06-14,1213
+"Kadme AS - Knowledge and Data Management Expertise",2023-06-17,1213
 "Kafka",2020-10-14,10840
 "Kaggle",2020-10-06,252791
 "Kaggle",2020-10-07,252944
@@ -3234,6 +3125,11 @@
 "Kaggle",2023-06-05,369468
 "Kaggle",2023-06-05,369470
 "Kaggle",2023-06-05,369471
+"Kaggle",2023-06-11,370173
+"Kaggle",2023-06-14,370602
+"Kaggle",2023-06-14,370603
+"Kaggle",2023-06-17,370966
+"Kaggle",2023-06-23,371592
 "Kaia Health",2023-01-25,20631
 "Kaizen Institute Global",2023-01-28,77150
 "KatRisk LLC",2020-10-20,1092
@@ -3412,6 +3308,10 @@
 "KatRisk LLC",2023-05-19,2004
 "KatRisk LLC",2023-05-29,2007
 "KatRisk LLC",2023-06-05,2013
+"KatRisk LLC",2023-06-11,2018
+"KatRisk LLC",2023-06-14,2020
+"KatRisk LLC",2023-06-17,2021
+"KatRisk LLC",2023-06-23,2025
 "Katalyst Data Management",2021-01-22,3291
 "Katalyst Data Management",2021-01-25,3291
 "Katalyst Data Management",2021-01-28,3294
@@ -3530,6 +3430,8 @@
 "Katalyst Data Management",2023-05-19,4261
 "Katalyst Data Management",2023-05-29,4283
 "Katalyst Data Management",2023-06-05,4292
+"Katalyst Data Management",2023-06-14,4299
+"Katalyst Data Management",2023-06-17,4302
 "Katana Graph",2023-01-25,2198
 "Katana Graph",2023-01-29,2203
 "Kathmandu University (KU)",2023-01-28,26131
@@ -3540,6 +3442,8 @@
 "Kayhan Space",2023-04-10,3766
 "Kayhan Space",2023-04-23,3850
 "Kayhan Space",2023-06-05,4069
+"Kayhan Space",2023-06-11,4097
+"Kayhan Space",2023-06-23,4154
 "Kean Health",2022-02-27,5608
 "Keebo",2022-02-12,1033
 "Keebo",2022-02-16,1047
@@ -3604,6 +3508,8 @@
 "Keebo",2023-05-19,2736
 "Keebo",2023-05-29,2742
 "Keebo",2023-06-05,2761
+"Keebo",2023-06-14,2782
+"Keebo",2023-06-17,2792
 "Keller Williams Realty Inc.",2023-01-21,410725
 "Keller Williams Realty Inc.",2023-02-10,413054
 "Keller Williams Realty Inc.",2023-02-25,414966
@@ -3612,6 +3518,8 @@
 "Keller Williams Realty Inc.",2023-04-10,423701
 "Keller Williams Realty Inc.",2023-04-23,425020
 "Keller Williams Realty Inc.",2023-06-05,429051
+"Keller Williams Realty Inc.",2023-06-11,429839
+"Keller Williams Realty Inc.",2023-06-23,431287
 "Kelly",2021-02-19,1115781
 "Kelly",2021-03-26,1131933
 "Kelton Global: Now Material",2023-01-25,7413
@@ -3622,6 +3530,8 @@
 "Kennected",2023-04-10,5369
 "Kennected",2023-04-23,5454
 "Kennected",2023-06-05,5635
+"Kennected",2023-06-11,5656
+"Kennected",2023-06-23,5685
 "KerrySciTech",2022-04-29,2528
 "KerrySciTech",2022-05-12,2558
 "KerrySciTech",2022-05-22,2575
@@ -3699,6 +3609,10 @@
 "KerrySciTech",2023-05-19,2841
 "KerrySciTech",2023-05-29,2841
 "KerrySciTech",2023-06-05,2843
+"KerrySciTech",2023-06-11,2843
+"KerrySciTech",2023-06-14,2844
+"KerrySciTech",2023-06-17,2845
+"KerrySciTech",2023-06-23,2846
 "Keywords Studios",2023-01-25,106882
 "Kforce Inc",2023-01-21,269224
 "Kforce Inc",2023-02-10,272393
@@ -3708,6 +3622,8 @@
 "Kforce Inc",2023-04-10,281435
 "Kforce Inc",2023-04-23,283770
 "Kforce Inc",2023-06-05,290801
+"Kforce Inc",2023-06-11,292101
+"Kforce Inc",2023-06-23,294841
 "Khan Lab School",2023-01-21,3081
 "Khan Lab School",2023-02-25,3136
 "Khan Lab School",2023-03-13,3163
@@ -3715,6 +3631,8 @@
 "Khan Lab School",2023-04-10,3201
 "Khan Lab School",2023-04-23,3209
 "Khan Lab School",2023-06-05,3284
+"Khan Lab School",2023-06-11,3300
+"Khan Lab School",2023-06-23,3319
 "Kharagpur Data Analytics Group",2021-02-21,251
 "Kharagpur Data Analytics Group",2021-02-25,259
 "Kharagpur Data Analytics Group",2021-03-01,262
@@ -3821,6 +3739,8 @@
 "Kharagpur Data Analytics Group",2023-05-19,1500
 "Kharagpur Data Analytics Group",2023-05-29,1512
 "Kharagpur Data Analytics Group",2023-06-05,1514
+"Kharagpur Data Analytics Group",2023-06-14,1521
+"Kharagpur Data Analytics Group",2023-06-17,1523
 "King",2023-01-25,149000
 "King Fahd University of Petroleum & Minerals - KFUPM",2023-01-28,96327
 "Kinzen",2020-12-27,1175
@@ -4006,6 +3926,10 @@
 "Kitman Labs",2023-05-19,11529
 "Kitman Labs",2023-05-29,11600
 "Kitman Labs",2023-06-05,11645
+"Kitman Labs",2023-06-11,11673
+"Kitman Labs",2023-06-14,11699
+"Kitman Labs",2023-06-17,11725
+"Kitman Labs",2023-06-23,11775
 "Kiwibank",2020-10-16,21811
 "Kiwibank",2020-10-20,21833
 "Kiwibank",2020-10-22,21861
@@ -4193,6 +4117,10 @@
 "Klue",2023-05-19,18261
 "Klue",2023-05-29,18358
 "Klue",2023-06-05,18442
+"Klue",2023-06-11,18539
+"Klue",2023-06-14,18595
+"Klue",2023-06-17,18625
+"Klue",2023-06-23,18721
 "Knoldus Inc",2020-10-25,6365
 "Knoldus Inc",2020-10-28,6365
 "Knoldus Inc",2020-10-30,6368
@@ -4366,6 +4294,10 @@
 "Knoldus Inc | Part of NashTech",2023-04-10,21008
 "Knoldus Inc | Part of NashTech",2023-04-13,21078
 "Knoldus Inc | Part of NashTech",2023-04-21,21177
+"Knoldus Inc | p",2023-06-11,21274
+"Knoldus Inc | p",2023-06-14,21278
+"Knoldus Inc | p",2023-06-17,21278
+"Knoldus Inc | p",2023-06-23,21287
 "Knoldus Inc | part of NashTech",2023-04-29,21183
 "Knoldus Inc | part of NashTech",2023-05-12,21212
 "Knoldus Inc | part of NashTech",2023-05-19,21237
@@ -4403,6 +4335,8 @@
 "Kratos Defense and Security Solutions",2023-04-10,30226
 "Kratos Defense and Security Solutions",2023-04-23,30498
 "Kratos Defense and Security Solutions",2023-06-05,31379
+"Kratos Defense and Security Solutions",2023-06-11,31487
+"Kratos Defense and Security Solutions",2023-06-23,31923
 "Krazy For Pets",2023-01-21,64
 "Krazy For Pets",2023-02-10,64
 "Krazy For Pets",2023-02-25,64
@@ -4415,6 +4349,8 @@
 "Kubos Corporation (Acquired)",2023-04-10,983
 "Kubos Corporation (Acquired)",2023-04-23,983
 "Kubos Corporation (Acquired)",2023-06-05,982
+"Kubos Corporation (Acquired)",2023-06-11,982
+"Kubos Corporation (Acquired)",2023-06-23,983
 "Kuip",2021-05-10,188
 "Kukua Institute Inc.",2023-01-21,34
 "Kukua Institute Inc.",2023-02-25,40
@@ -4423,6 +4359,8 @@
 "Kukua Institute Inc.",2023-04-10,43
 "Kukua Institute Inc.",2023-04-23,47
 "Kukua Institute Inc.",2023-06-05,52
+"Kukua Institute Inc.",2023-06-11,53
+"Kukua Institute Inc.",2023-06-23,54
 "Kurita Group",2023-01-28,20817
 "Kuwait Petroleum International",2021-02-19,1506
 "Kuwait Petroleum International",2021-03-06,1542
@@ -4430,6 +4368,8 @@
 "L& T Infotech Limited Powai",2023-01-29,3440
 "L<fa>nasa Space",2023-01-21,1604
 "L<fa>nasa Space",2023-02-25,1689
+"L<fa>nasa Space",2023-03-13,1725
+"L<fa>nasa Space",2023-03-29,1798
 "LARION",2023-01-28,2858
 "LE COOL GROUP",2022-02-07,1327
 "LE COOL GROUP",2022-02-10,1327
@@ -4453,6 +4393,8 @@
 "Ladies Who Tech",2020-12-15,2102
 "Lam Research",2023-02-10,241102
 "Lam Research",2023-06-05,253564
+"Lam Research",2023-06-11,254303
+"Lam Research",2023-06-23,255909
 "Lancaster University Computer Science Society",2021-03-28,47
 "Lancaster University Computer Science Society",2021-03-31,47
 "Lancaster University Computer Science Society",2021-04-06,48
@@ -4555,6 +4497,8 @@
 "Lancaster University Computer Science Society",2023-05-19,82
 "Lancaster University Computer Science Society",2023-05-29,82
 "Lancaster University Computer Science Society",2023-06-05,82
+"Lancaster University Computer Science Society",2023-06-14,81
+"Lancaster University Computer Science Society",2023-06-17,81
 "Lander Analytics",2020-10-20,250
 "Lander Analytics",2020-10-21,251
 "Lander Analytics",2020-10-23,251
@@ -4730,6 +4674,10 @@
 "Lander Analytics",2023-05-19,461
 "Lander Analytics",2023-05-29,470
 "Lander Analytics",2023-06-05,471
+"Lander Analytics",2023-06-11,473
+"Lander Analytics",2023-06-14,475
+"Lander Analytics",2023-06-17,474
+"Lander Analytics",2023-06-23,478
 "Landrum Workforce Management",2023-01-21,115
 "Landrum Workforce Management",2023-02-25,120
 "Landrum Workforce Management",2023-03-13,122
@@ -4737,6 +4685,8 @@
 "Landrum Workforce Management",2023-04-10,126
 "Landrum Workforce Management",2023-04-23,130
 "Landrum Workforce Management",2023-06-05,132
+"Landrum Workforce Management",2023-06-11,134
+"Landrum Workforce Management",2023-06-23,136
 "LandrumHR",2023-01-21,5164
 "LandrumHR",2023-02-10,5255
 "LandrumHR",2023-02-25,5333
@@ -4745,7 +4695,11 @@
 "LandrumHR",2023-04-10,5425
 "LandrumHR",2023-04-23,5498
 "LandrumHR",2023-06-05,5591
+"LandrumHR",2023-06-11,5613
+"LandrumHR",2023-06-23,5654
 "LangChain",2023-06-05,1784
+"LangChain",2023-06-11,2260
+"LangChain",2023-06-23,3164
 "Langan Engineering & Environmental Services",2023-01-28,33180
 "Lantronix",2021-02-19,4603
 "Lantronix",2021-03-06,4619
@@ -4852,6 +4806,8 @@
 "Laudes Foundation",2023-05-19,19050
 "Laudes Foundation",2023-05-29,19363
 "Laudes Foundation",2023-06-05,19589
+"Laudes Foundation",2023-06-14,19865
+"Laudes Foundation",2023-06-17,19928
 "Launcher",2023-01-21,17306
 "Launcher",2023-02-25,18051
 "Launcher",2023-03-13,18415
@@ -4859,6 +4815,8 @@
 "Launcher",2023-04-10,19075
 "Launcher",2023-04-23,19258
 "Launcher",2023-06-05,20011
+"Launcher",2023-06-11,20114
+"Launcher",2023-06-23,20355
 "Lavrock Ventures",2023-01-21,938
 "Lavrock Ventures",2023-02-25,948
 "Lavrock Ventures",2023-03-13,959
@@ -4866,6 +4824,8 @@
 "Lavrock Ventures",2023-04-10,977
 "Lavrock Ventures",2023-04-23,975
 "Lavrock Ventures",2023-06-05,991
+"Lavrock Ventures",2023-06-11,992
+"Lavrock Ventures",2023-06-23,997
 "Lazada",2020-12-27,554122
 "Lazada",2021-02-19,584696
 "Lazada",2021-03-26,604380
@@ -4876,6 +4836,8 @@
 "Leadership Florida",2023-04-10,6622
 "Leadership Florida",2023-04-23,6656
 "Leadership Florida",2023-06-05,6790
+"Leadership Florida",2023-06-11,6826
+"Leadership Florida",2023-06-23,6891
 "Leadspace",2023-01-25,5621
 "Lean In",2023-01-21,50937
 "Lean In",2023-02-25,54037
@@ -4884,6 +4846,8 @@
 "Lean In",2023-04-10,59151
 "Lean In",2023-04-23,60471
 "Lean In",2023-06-05,64020
+"Lean In",2023-06-11,64340
+"Lean In",2023-06-23,64935
 "Learn Data Engineering",2023-01-21,32688
 "Learn Data Engineering",2023-02-25,33126
 "Learn Data Engineering",2023-03-13,33352
@@ -4891,6 +4855,8 @@
 "Learn Data Engineering",2023-04-10,34531
 "Learn Data Engineering",2023-04-23,34664
 "Learn Data Engineering",2023-06-05,35375
+"Learn Data Engineering",2023-06-11,35477
+"Learn Data Engineering",2023-06-23,35693
 "LearnDataScience",2020-10-15,32043
 "LearnDataScience",2020-10-20,32211
 "Learning Studio",2023-01-25,33
@@ -5000,6 +4966,8 @@
 "Leeds Data Science Society",2023-05-19,345
 "Leeds Data Science Society",2023-05-29,345
 "Leeds Data Science Society",2023-06-05,346
+"Leeds Data Science Society",2023-06-14,346
+"Leeds Data Science Society",2023-06-17,346
 "LeetCode",2020-10-21,38536
 "LeetCode",2020-10-24,38838
 "LeetCode",2020-10-28,39356
@@ -5087,6 +5055,10 @@
 "Legato Health Technologies Ireland",2023-05-19,9648
 "Legato Health Technologies Ireland",2023-05-29,9661
 "Legato Health Technologies Ireland",2023-06-05,9674
+"Legato Health Technologies Ireland",2023-06-11,9681
+"Legato Health Technologies Ireland",2023-06-14,9689
+"Legato Health Technologies Ireland",2023-06-17,9696
+"Legato Health Technologies Ireland",2023-06-23,9707
 "Leibniz-Institut f<fc>r Astrophysik Potsdam (AIP)",2023-01-25,871
 "Leiden University",2023-01-28,272473
 "Leidos",2023-01-21,324214
@@ -5097,6 +5069,8 @@
 "Leidos",2023-04-10,337256
 "Leidos",2023-04-23,339434
 "Leidos",2023-06-05,346464
+"Leidos",2023-06-11,347996
+"Leidos",2023-06-23,351035
 "Lemonade",2020-10-16,51044
 "Lemonade",2020-10-20,51185
 "Lenntech Water Treatment Solutions",2023-01-28,19129
@@ -5107,6 +5081,10 @@
 "LeoLabs",2023-04-10,10632
 "LeoLabs",2023-04-23,10806
 "LeoLabs",2023-06-05,11500
+"LeoLabs",2023-06-11,11567
+"LeoLabs",2023-06-23,11742
+"LeoSt",2023-06-11,5257
+"LeoSt",2023-06-23,5350
 "LeoStella",2023-01-21,4529
 "LeoStella",2023-02-25,4675
 "LeoStella",2023-03-13,4746
@@ -5135,6 +5113,8 @@
 "Let The Data Confess Pvt Ltd",2023-04-10,9178
 "Let The Data Confess Pvt Ltd",2023-04-23,9186
 "Let The Data Confess Pvt Ltd",2023-06-05,9206
+"Let The Data Confess Pvt Ltd",2023-06-11,9207
+"Let The Data Confess Pvt Ltd",2023-06-23,9214
 "LetsDefend",2023-01-21,55575
 "LetsDefend",2023-02-25,60103
 "LetsDefend",2023-03-13,62219
@@ -5142,8 +5122,12 @@
 "LetsDefend",2023-04-10,66413
 "LetsDefend",2023-04-23,68979
 "LetsDefend",2023-06-05,74943
+"LetsDefend",2023-06-11,75788
+"LetsDefend",2023-06-23,78680
 "Level Access",2023-04-23,8823
 "Level Access",2023-06-05,9272
+"Level Access",2023-06-11,9327
+"Level Access",2023-06-23,9459
 "Levels",2023-01-25,9788
 "Levels.fyi",2023-01-21,15123
 "Levels.fyi",2023-02-25,15787
@@ -5152,9 +5136,36 @@
 "Levels.fyi",2023-04-10,18712
 "Levels.fyi",2023-04-23,19012
 "Levels.fyi",2023-06-05,19592
+"Levels.fyi",2023-06-11,19675
+"Levels.fyi",2023-06-23,20272
 "Liberty Corporate Finance",2020-12-08,251
-"L<fa>nasa Space",2023-03-13,1725
-"L<fa>nasa Space",2023-03-29,1798
+"Liberty Mutual Insurance",2023-03-13,389877
+"Liberty Mutual Insurance",2023-03-29,393827
+"Liberty Mutual Insurance",2023-04-10,396557
+"Liberty Mutual Insurance",2023-04-23,399104
+"Liberty Mutual Insurance",2023-06-05,409474
+"Liberty Mutual Insurance",2023-06-11,410948
+"Liberty Mutual Insurance",2023-06-23,413921
+"Library Connect",2023-01-28,23251
+"Life Changers",2023-03-29,11294
+"Life Changers",2023-04-10,11355
+"Life Changers",2023-04-23,11397
+"Lifeboat Foundation",2023-01-21,2551
+"Lifeboat Foundation",2023-02-10,2569
+"Lifeboat Foundation",2023-02-25,2589
+"Lifeboat Foundation",2023-03-13,2601
+"Lifeboat Foundation",2023-03-29,2608
+"Lifeboat Foundation",2023-04-10,2609
+"Lifeboat Foundation",2023-04-23,2614
+"Lifeboat Foundation",2023-06-05,2639
+"Lifeboat Foundation",2023-06-11,2643
+"Lifeboat Foundation",2023-06-23,2659
+"Lifecode Inc.",2023-01-25,871
+"Lifecode Inc.",2023-01-29,871
+"Lightning AI",2023-01-22,42240
+"L<fa>nasa Space",2023-04-10,1851
+"L<fa>nasa Space",2023-04-23,1902
+"L<fa>nasa Space",2023-06-05,1991
 "iSpace Inc.",2023-01-21,22082
 "iSpace Inc.",2023-02-10,23214
 "iSpace Inc.",2023-02-25,24155
@@ -5163,6 +5174,8 @@
 "iSpace Inc.",2023-04-10,26456
 "iSpace Inc.",2023-04-23,27074
 "iSpace Inc.",2023-06-05,29531
+"iSpace Inc.",2023-06-11,29785
+"iSpace Inc.",2023-06-23,30607
 "ispace inc.",2023-01-21,17901
 "ispace inc.",2023-02-25,18508
 "ispace inc.",2023-03-13,18803
@@ -5170,11 +5183,15 @@
 "ispace inc.",2023-04-10,19521
 "ispace inc.",2023-04-23,19890
 "ispace inc.",2023-06-05,22053
+"ispace inc.",2023-06-11,22152
+"ispace inc.",2023-06-23,22401
 "jobRxiv",2021-02-19,970
 "jobRxiv",2021-03-06,1066
 "jobRxiv",2021-03-26,1126
 "jobs.ac.uk",2023-01-28,39091
 "jolin.io",2023-06-05,281
+"jolin.io",2023-06-11,283
+"jolin.io",2023-06-23,287
 "jsDelivr",2023-01-25,83
 "khipu",2020-10-22,659
 "khipu",2020-10-28,664

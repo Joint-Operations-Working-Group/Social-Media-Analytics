@@ -1,202 +1,4 @@
 "Company","Date","Followers"
-"NVIDIA",2020-10-14,650498
-"NVIDIA",2020-10-18,653338
-"NVIDIA",2020-12-27,696289
-"NVIDIA",2021-02-19,727133
-"NVIDIA",2021-03-26,747937
-"NVIDIA",2023-01-21,1268868
-"NVIDIA",2023-01-25,1273917
-"NVIDIA",2023-01-29,1277474
-"NVIDIA",2023-02-10,1288197
-"NVIDIA",2023-02-25,1301194
-"NVIDIA",2023-03-13,1315436
-"NVIDIA",2023-03-29,1332353
-"NVIDIA",2023-04-10,1343059
-"NVIDIA",2023-04-23,1354291
-"NVIDIA",2023-06-05,1413279
-"NVIDIA AI",2021-06-02,242264
-"NVIDIA AI",2021-06-09,243412
-"NVIDIA AI",2021-06-16,244400
-"NVIDIA AI",2021-06-21,245089
-"NVIDIA AI",2021-06-29,246319
-"NVIDIA AI",2021-07-02,247213
-"NVIDIA AI",2021-07-04,247598
-"NVIDIA AI",2021-07-09,248791
-"NVIDIA AI",2021-07-14,250077
-"NVIDIA AI",2021-07-18,250887
-"NVIDIA AI",2021-07-22,252079
-"NVIDIA AI",2021-08-14,258652
-"NVIDIA AI",2021-08-26,262088
-"NVIDIA AI",2021-09-02,264142
-"NVIDIA AI",2021-09-16,267490
-"NVIDIA AI",2021-10-17,275041
-"NVIDIA AI",2021-10-29,279328
-"NVIDIA AI",2021-11-06,282375
-"NVIDIA AI",2021-11-20,290215
-"NVIDIA AI",2021-12-07,298914
-"NVIDIA AI",2021-12-14,302558
-"NVIDIA AI",2021-12-20,305250
-"NVIDIA AI",2021-12-26,307637
-"NVIDIA AI",2021-12-30,308936
-"NVIDIA AI",2021-12-31,309275
-"NVIDIA AI",2022-01-03,309868
-"NVIDIA AI",2022-01-04,310351
-"NVIDIA AI",2022-01-06,311044
-"NVIDIA AI",2022-01-07,311499
-"NVIDIA AI",2022-01-10,312232
-"NVIDIA AI",2022-01-14,313586
-"NVIDIA AI",2022-01-18,314745
-"NVIDIA AI",2022-01-27,317979
-"NVIDIA AI",2022-02-01,320054
-"NVIDIA AI",2022-02-01,319951
-"NVIDIA AI",2022-02-07,321929
-"NVIDIA AI",2022-02-10,323192
-"NVIDIA AI",2022-02-12,323835
-"NVIDIA AI",2022-02-16,325070
-"NVIDIA AI",2022-02-20,326315
-"NVIDIA AI",2022-02-23,327192
-"NVIDIA AI",2022-03-03,329105
-"NVIDIA AI",2022-03-15,331517
-"NVIDIA AI",2022-03-20,332694
-"NVIDIA AI",2022-03-29,334850
-"NVIDIA AI",2022-04-09,338078
-"NVIDIA AI",2022-04-11,338561
-"NVIDIA AI",2022-04-13,339144
-"NVIDIA AI",2022-04-19,340529
-"NVIDIA AI",2022-04-25,341997
-"NVIDIA AI",2022-04-29,342993
-"NVIDIA AI",2022-05-01,343355
-"NVIDIA AI",2022-05-05,344334
-"NVIDIA AI",2022-05-22,349859
-"NVIDIA AI",2022-05-23,350170
-"NVIDIA AI",2022-05-27,351590
-"NVIDIA AI",2022-05-30,352311
-"NVIDIA AI",2022-06-01,352774
-"NVIDIA AI",2022-06-03,353336
-"NVIDIA AI",2022-06-11,355591
-"NVIDIA AI",2022-06-13,356040
-"NVIDIA AI",2022-06-15,356778
-"NVIDIA AI",2022-06-20,357888
-"NVIDIA AI",2022-06-22,358434
-"NVIDIA AI",2022-06-23,358607
-"NVIDIA AI",2022-06-23,358614
-"NVIDIA AI",2022-06-24,359022
-"NVIDIA AI",2022-06-26,359359
-"NVIDIA AI",2022-06-30,360411
-"NVIDIA AI",2022-07-01,360736
-"NVIDIA AI",2022-07-02,360833
-"NVIDIA AI",2022-07-04,361228
-"NVIDIA AI",2022-07-05,361569
-"NVIDIA AI",2022-07-09,362457
-"NVIDIA AI",2022-07-12,363266
-"NVIDIA AI",2022-07-13,363443
-"NVIDIA AI",2022-07-18,364854
-"NVIDIA AI",2022-07-18,364766
-"NVIDIA AI",2022-07-21,365844
-"NVIDIA AI",2022-07-23,366607
-"NVIDIA AI",2022-07-23,366608
-"NVIDIA AI",2022-07-25,367320
-"NVIDIA AI",2022-08-01,369669
-"NVIDIA AI",2022-08-02,369843
-"NVIDIA AI",2022-08-08,371759
-"NVIDIA AI",2022-08-16,374089
-"NVIDIA AI",2022-08-20,375424
-"NVIDIA AI",2022-08-25,376750
-"NVIDIA AI",2022-08-28,377391
-"NVIDIA AI",2022-08-28,377392
-"NVIDIA AI",2022-09-01,378763
-"NVIDIA AI",2022-09-07,380174
-"NVIDIA AI",2022-09-10,380973
-"NVIDIA AI",2022-09-16,382842
-"NVIDIA AI",2022-09-22,384565
-"NVIDIA AI",2022-09-22,384567
-"NVIDIA AI",2022-09-29,386617
-"NVIDIA AI",2022-09-29,386619
-"NVIDIA AI",2022-10-03,388022
-"NVIDIA AI",2022-10-09,390188
-"NVIDIA AI",2022-10-12,391291
-"NVIDIA AI",2022-10-16,392229
-"NVIDIA AI",2022-10-22,394036
-"NVIDIA AI",2022-10-28,395385
-"NVIDIA AI",2022-11-03,396334
-"NVIDIA AI",2022-11-06,396672
-"NVIDIA AI",2022-11-14,397679
-"NVIDIA AI",2022-11-14,397680
-"NVIDIA AI",2022-11-20,398512
-"NVIDIA AI",2022-11-24,399123
-"NVIDIA AI",2022-12-01,400161
-"NVIDIA AI",2022-12-01,400162
-"NVIDIA AI",2022-12-08,401284
-"NVIDIA AI",2022-12-14,402187
-"NVIDIA AI",2022-12-27,403841
-"NVIDIA AI",2023-01-01,404578
-"NVIDIA AI",2023-01-05,405304
-"NVIDIA AI",2023-01-05,405305
-"NVIDIA AI",2023-01-09,406033
-"NVIDIA AI",2023-01-21,408664
-"NVIDIA AI",2023-01-22,408782
-"NVIDIA AI",2023-01-25,409573
-"NVIDIA AI",2023-01-28,410186
-"NVIDIA AI",2023-01-29,410289
-"NVIDIA AI",2023-02-04,411724
-"NVIDIA AI",2023-02-04,411725
-"NVIDIA AI",2023-02-10,412853
-"NVIDIA AI",2023-02-13,413434
-"NVIDIA AI",2023-02-24,415008
-"NVIDIA AI",2023-02-25,415121
-"NVIDIA AI",2023-02-25,415123
-"NVIDIA AI",2023-03-10,417725
-"NVIDIA AI",2023-03-13,418202
-"NVIDIA AI",2023-03-14,418481
-"NVIDIA AI",2023-03-18,419193
-"NVIDIA AI",2023-03-21,419718
-"NVIDIA AI",2023-03-21,419717
-"NVIDIA AI",2023-03-25,420799
-"NVIDIA AI",2023-03-25,420800
-"NVIDIA AI",2023-03-29,421914
-"NVIDIA AI",2023-04-01,422868
-"NVIDIA AI",2023-04-10,425153
-"NVIDIA AI",2023-04-10,425188
-"NVIDIA AI",2023-04-13,426000
-"NVIDIA AI",2023-04-13,426001
-"NVIDIA AI",2023-04-21,428406
-"NVIDIA AI",2023-04-21,428407
-"NVIDIA AI",2023-04-23,428875
-"NVIDIA AI",2023-04-29,430885
-"NVIDIA AI",2023-05-12,438639
-"NVIDIA AI",2023-05-19,441067
-"NVIDIA AI",2023-05-19,441068
-"NVIDIA AI",2023-05-29,445361
-"NVIDIA AI",2023-05-29,445374
-"NVIDIA AI",2023-06-05,450949
-"NVIDIA AI",2023-06-05,450953
-"NVIDIA AI",2023-06-05,450960
-"NVIDIA Data Center",2023-01-21,44396
-"NVIDIA Data Center",2023-02-25,45476
-"NVIDIA Data Center",2023-03-13,45849
-"NVIDIA Data Center",2023-03-29,46616
-"NVIDIA Data Center",2023-04-10,47076
-"NVIDIA Data Center",2023-04-23,47534
-"NVIDIA Data Center",2023-06-05,50967
-"NVIDIA Design and Visualization",2023-01-21,56112
-"NVIDIA Design and Visualization",2023-02-25,56893
-"NVIDIA Design and Visualization",2023-03-13,57756
-"NVIDIA Design and Visualization",2023-03-29,58617
-"NVIDIA Design and Visualization",2023-04-10,58992
-"NVIDIA Design and Visualization",2023-04-23,59401
-"NVIDIA Design and Visualization",2023-06-05,60515
-"NVIDIA Embedded",2023-03-13,75971
-"NVIDIA Embedded",2023-03-29,76778
-"NVIDIA Embedded",2023-04-10,77406
-"NVIDIA Embedded",2023-04-23,78241
-"NVIDIA Embedded",2023-06-05,80669
-"NVIDIA Omniverse",2023-01-21,33695
-"NVIDIA Omniverse",2023-02-25,35374
-"NVIDIA Omniverse",2023-03-13,36089
-"NVIDIA Omniverse",2023-03-29,37049
-"NVIDIA Omniverse",2023-04-10,37655
-"NVIDIA Omniverse",2023-04-23,38146
-"NVIDIA Omniverse",2023-06-05,40039
 "NXP Semiconductors",2023-01-21,544739
 "NXP Semiconductors",2023-02-10,549408
 "NXP Semiconductors",2023-02-25,553723
@@ -205,6 +7,8 @@
 "NXP Semiconductors",2023-04-10,567512
 "NXP Semiconductors",2023-04-23,571558
 "NXP Semiconductors",2023-06-05,584251
+"NXP Semiconductors",2023-06-11,586392
+"NXP Semiconductors",2023-06-23,590932
 "NYU Tandon Online Graduate Program",2023-01-21,3584
 "NYU Tandon Online Graduate Program",2023-02-25,3587
 "NYU Tandon Online Graduate Program",2023-03-13,3588
@@ -212,6 +16,8 @@
 "NYU Tandon Online Graduate Program",2023-04-10,3600
 "NYU Tandon Online Graduate Program",2023-04-23,3601
 "NYU Tandon Online Graduate Program",2023-06-05,3603
+"NYU Tandon Online Graduate Program",2023-06-11,3602
+"NYU Tandon Online Graduate Program",2023-06-23,3606
 "NYU Tandon School of Engineering",2023-01-21,28933
 "NYU Tandon School of Engineering",2023-02-10,29225
 "NYU Tandon School of Engineering",2023-02-25,29497
@@ -220,9 +26,8 @@
 "NYU Tandon School of Engineering",2023-04-10,30203
 "NYU Tandon School of Engineering",2023-04-23,30405
 "NYU Tandon School of Engineering",2023-06-05,31245
-"Nuvoco Vistas Corp. Ltd.",2021-02-19,23575
-"Nuvoco Vistas Corp. Ltd.",2021-03-06,24047
-"Nuvoco Vistas Corp. Ltd.",2021-03-26,24668
+"NYU Tandon School of Engineering",2023-06-11,31423
+"NYU Tandon School of Engineering",2023-06-23,31765
 "O'Reilly Media",2023-01-22,57698
 "OCOM",2023-01-25,998
 "OCOM",2023-01-29,1000
@@ -233,6 +38,8 @@
 "ODIN Space",2023-04-10,1373
 "ODIN Space",2023-04-23,1390
 "ODIN Space",2023-06-05,1445
+"ODIN Space",2023-06-11,1458
+"ODIN Space",2023-06-23,1540
 "OFpassiON",2020-10-21,913
 "OFpassiON",2020-10-22,913
 "OFpassiON",2020-11-02,921
@@ -248,6 +55,8 @@
 "OPSWAT Academy",2023-04-10,3709
 "OPSWAT Academy",2023-04-23,3777
 "OPSWAT Academy",2023-06-05,3981
+"OPSWAT Academy",2023-06-11,4010
+"OPSWAT Academy",2023-06-23,4083
 "ORRECO",2021-01-25,1428
 "ORRECO",2021-01-30,1459
 "ORRECO",2021-01-31,1461
@@ -405,6 +214,10 @@
 "ORRECO",2023-05-19,3071
 "ORRECO",2023-05-29,3094
 "ORRECO",2023-06-05,3109
+"ORRECO",2023-06-11,3113
+"ORRECO",2023-06-14,3123
+"ORRECO",2023-06-17,3129
+"ORRECO",2023-06-23,3161
 "OSK Berlin",2023-01-25,707
 "OSS Capital",2023-01-25,1417
 "OUR CHOICE Fashion",2021-05-10,1192
@@ -415,14 +228,18 @@
 "OWASP Orange County",2023-04-10,298
 "OWASP Orange County",2023-04-23,304
 "OWASP Orange County",2023-06-05,308
+"OWASP Orange County",2023-06-11,310
+"OWASP Orange County",2023-06-23,313
 "OWASP<U+00AE> Foundation",2023-01-21,194615
 "OWASP<U+00AE> Foundation",2023-02-10,196440
 "OWASP<U+00AE> Foundation",2023-02-25,198181
 "OWASP<ae> Foundation",2023-03-13,200266
 "OWASP<ae> Foundation",2023-03-29,202340
-"OWASP® Foundation",2023-04-10,203662
-"OWASP® Foundation",2023-04-23,204878
-"OWASP® Foundation",2023-06-05,210384
+"OWASP<ae> Foundation",2023-04-10,203662
+"OWASP<ae> Foundation",2023-04-23,204878
+"OWASP<ae> Foundation",2023-06-05,210384
+"OWASP® Foundation",2023-06-11,211300
+"OWASP® Foundation",2023-06-23,213045
 "Oak Foundation",2021-04-20,7348
 "Oak Foundation",2021-04-24,7405
 "Oak Foundation",2021-04-28,7462
@@ -523,6 +340,8 @@
 "Oak Foundation",2023-05-19,18676
 "Oak Foundation",2023-05-29,18798
 "Oak Foundation",2023-06-05,18944
+"Oak Foundation",2023-06-14,19224
+"Oak Foundation",2023-06-17,19290
 "Obama Foundation",2021-02-07,87282
 "Obama Foundation",2021-02-12,87649
 "Obama Foundation",2021-02-17,87932
@@ -665,6 +484,10 @@
 "Obama Foundation",2023-05-19,194631
 "Obama Foundation",2023-05-29,195840
 "Obama Foundation",2023-06-05,196814
+"Obama Foundation",2023-06-11,197778
+"Obama Foundation",2023-06-14,198422
+"Obama Foundation",2023-06-17,198993
+"Obama Foundation",2023-06-23,200329
 "Obex Recruitment Ltd.",2023-01-25,8273
 "Observable",2023-01-22,8471
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2021-06-02,81
@@ -777,20 +600,24 @@
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-02-10,102
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-02-13,102
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-02-24,101
-"Observatoire du Numérique en Haïti (ObNH)",2023-04-10,106
-"Observatoire du Numérique en Haïti (ObNH)",2023-04-13,106
-"Observatoire du Numérique en Haïti (ObNH)",2023-04-21,106
-"Observatoire du Numérique en Haïti (ObNH)",2023-04-29,107
-"Observatoire du Numérique en Haïti (ObNH)",2023-05-12,107
-"Observatoire du Numérique en Haïti (ObNH)",2023-05-19,107
-"Observatoire du Numérique en Haïti (ObNH)",2023-05-29,107
-"Observatoire du Numérique en Haïti (ObNH)",2023-06-05,108
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-03-10,102
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-03-14,102
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-03-18,102
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-03-21,103
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-03-25,103
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-04-01,104
+"Observatoire du Numérique en Haïti (ObNH)",2023-06-11,108
+"Observatoire du Numérique en Haïti (ObNH)",2023-06-14,108
+"Observatoire du Numérique en Haïti (ObNH)",2023-06-17,108
+"Observatoire du Numérique en Haïti (ObNH)",2023-06-23,108
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-04-10,106
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-04-13,106
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-04-21,106
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-04-29,107
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-05-12,107
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-05-19,107
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-05-29,107
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-06-05,108
 "Observer Research Foundation",2023-01-28,54939
 "Oc<e9> - A Canon Company",2023-02-10,29938
 "Ocean Conservancy",2023-01-28,145085
@@ -804,6 +631,10 @@
 "Oceana",2023-05-19,51526
 "Oceana",2023-05-29,51847
 "Oceana",2023-06-05,52099
+"Oceana",2023-06-11,52343
+"Oceana",2023-06-14,52461
+"Oceana",2023-06-17,52535
+"Oceana",2023-06-23,52750
 "Oceaneering",2021-01-22,269679
 "Oceaneering",2021-01-25,269912
 "Oceaneering",2021-01-28,270214
@@ -919,6 +750,8 @@
 "Oceaneering",2023-05-19,399595
 "Oceaneering",2023-05-29,401280
 "Oceaneering",2023-06-05,402727
+"Oceaneering",2023-06-14,404634
+"Oceaneering",2023-06-17,405299
 "Odd Shoes",2023-01-21,11960
 "Odd Shoes",2023-02-25,12644
 "Odd Shoes",2023-03-13,13027
@@ -926,11 +759,15 @@
 "Odd Shoes",2023-04-10,13594
 "Odd Shoes",2023-04-23,13833
 "Odd Shoes",2023-06-05,14782
+"Odd Shoes",2023-06-11,14916
+"Odd Shoes",2023-06-23,15203
 "OffSec",2023-03-13,421959
 "OffSec",2023-03-29,425216
 "OffSec",2023-04-10,427674
 "OffSec",2023-04-23,430334
 "OffSec",2023-06-05,437765
+"OffSec",2023-06-11,438825
+"OffSec",2023-06-23,441103
 "Offensive Security",2023-01-21,409449
 "Offensive Security",2023-02-25,418519
 "Office Pride Commercial Cleaning of Pensacola",2023-01-21,1069
@@ -940,6 +777,8 @@
 "Office Pride Commercial Cleaning of Pensacola",2023-04-10,1139
 "Office Pride Commercial Cleaning of Pensacola",2023-04-23,1143
 "Office Pride Commercial Cleaning of Pensacola",2023-06-05,1185
+"Office Pride Commercial Cleaning of Pensacola",2023-06-11,1185
+"Office Pride Commercial Cleaning of Pensacola",2023-06-23,1202
 "Office for National Statistics",2020-10-20,33714
 "Office for National Statistics",2020-10-21,33748
 "Office for National Statistics",2020-10-23,33807
@@ -1116,6 +955,10 @@
 "Office for National Statistics",2023-05-19,65496
 "Office for National Statistics",2023-05-29,65762
 "Office for National Statistics",2023-06-05,65956
+"Office for National Statistics",2023-06-11,66159
+"Office for National Statistics",2023-06-14,66276
+"Office for National Statistics",2023-06-17,66380
+"Office for National Statistics",2023-06-23,66579
 "Office of Management and Budget",2023-01-21,7009
 "Office of Management and Budget",2023-02-10,7086
 "Office of Management and Budget",2023-02-25,7129
@@ -1124,6 +967,8 @@
 "Office of Management and Budget",2023-04-10,7276
 "Office of Management and Budget",2023-04-23,7316
 "Office of Management and Budget",2023-06-05,7461
+"Office of Management and Budget",2023-06-11,7481
+"Office of Management and Budget",2023-06-23,7512
 "Office of the Director of National Intelligence",2023-01-21,126850
 "Office of the Director of National Intelligence",2023-02-10,128808
 "Office of the Director of National Intelligence",2023-02-25,130248
@@ -1132,6 +977,8 @@
 "Office of the Director of National Intelligence",2023-04-10,135609
 "Office of the Director of National Intelligence",2023-04-23,137485
 "Office of the Director of National Intelligence",2023-06-05,141366
+"Office of the Director of National Intelligence",2023-06-11,141844
+"Office of the Director of National Intelligence",2023-06-23,142796
 "Offshore Inland Marine & Oilfield Services Inc.",2023-01-21,7778
 "Offshore Inland Marine & Oilfield Services Inc.",2023-02-10,7804
 "Offshore Inland Marine & Oilfield Services Inc.",2023-02-25,7821
@@ -1140,6 +987,8 @@
 "Offshore Inland Marine & Oilfield Services Inc.",2023-04-10,7891
 "Offshore Inland Marine & Oilfield Services Inc.",2023-04-23,7918
 "Offshore Inland Marine & Oilfield Services Inc.",2023-06-05,7951
+"Offshore Inland Marine & Oilfield Services Inc.",2023-06-11,7957
+"Offshore Inland Marine & Oilfield Services Inc.",2023-06-23,7963
 "Oklahoma State University",2023-01-28,219430
 "Okta",2023-01-21,280078
 "Okta",2023-02-10,283273
@@ -1149,6 +998,8 @@
 "Okta",2023-04-10,296250
 "Okta",2023-04-23,299002
 "Okta",2023-06-05,308182
+"Okta",2023-06-11,309534
+"Okta",2023-06-23,312337
 "Olatunde Data Analytics",2021-06-02,529
 "Olatunde Data Analytics",2021-06-09,530
 "Olatunde Data Analytics",2021-06-16,530
@@ -1263,6 +1114,10 @@
 "Olatunde Data Analytics",2023-02-10,818
 "Olink Proteomics",2023-01-25,16384
 "Olink Proteomics",2023-01-29,16471
+"Oman Data Scien",2023-06-11,137
+"Oman Data Scien",2023-06-14,137
+"Oman Data Scien",2023-06-17,137
+"Oman Data Scien",2023-06-23,137
 "Oman Data Science Organization",2021-06-02,96
 "Oman Data Science Organization",2021-06-09,96
 "Oman Data Science Organization",2021-06-16,97
@@ -1476,6 +1331,10 @@
 "Omdena",2023-05-19,34669
 "Omdena",2023-05-29,34869
 "Omdena",2023-06-05,35020
+"Omdena",2023-06-11,35169
+"Omdena",2023-06-14,35246
+"Omdena",2023-06-17,35311
+"Omdena",2023-06-23,35447
 "OmicsChart",2023-01-25,239
 "OmicsChart",2023-01-29,244
 "Omnigen Biodata",2023-01-25,1200
@@ -1491,6 +1350,8 @@
 "One In Tech an ISACA Foundation",2023-04-10,1865
 "One In Tech an ISACA Foundation",2023-04-23,1898
 "One In Tech an ISACA Foundation",2023-06-05,1964
+"One In Tech an ISACA Foundation",2023-06-11,1979
+"One In Tech an ISACA Foundation",2023-06-23,1998
 "One Million by One Million (1Mby1M)",2023-01-25,4262
 "OneWeb",2023-01-21,53510
 "OneWeb",2023-02-25,54549
@@ -1499,6 +1360,8 @@
 "OneWeb",2023-04-10,56896
 "OneWeb",2023-04-23,57221
 "OneWeb",2023-06-05,58686
+"OneWeb",2023-06-11,58931
+"OneWeb",2023-06-23,59529
 "Ookla",2023-01-28,27522
 "Opala",2023-01-25,612
 "Opala",2023-01-29,613
@@ -1588,6 +1451,10 @@
 "Open Cadastre",2023-05-19,14
 "Open Cadastre",2023-05-29,15
 "Open Cadastre",2023-06-05,15
+"Open Cadastre",2023-06-11,16
+"Open Cadastre",2023-06-14,16
+"Open Cadastre",2023-06-17,16
+"Open Cadastre",2023-06-23,16
 "Open Cosmos",2023-01-21,12929
 "Open Cosmos",2023-02-25,13297
 "Open Cosmos",2023-03-13,13411
@@ -1595,6 +1462,8 @@
 "Open Cosmos",2023-04-10,13661
 "Open Cosmos",2023-04-23,13755
 "Open Cosmos",2023-06-05,14028
+"Open Cosmos",2023-06-11,14063
+"Open Cosmos",2023-06-23,14143
 "Open Data Institute",2020-10-20,7756
 "Open Data Institute",2020-10-21,7756
 "Open Data Institute",2020-10-23,7768
@@ -1776,6 +1645,10 @@
 "Open Data Institute",2023-05-19,15826
 "Open Data Institute",2023-05-29,15914
 "Open Data Institute",2023-06-05,15990
+"Open Data Institute",2023-06-11,16042
+"Open Data Institute",2023-06-14,16085
+"Open Data Institute",2023-06-17,16107
+"Open Data Institute",2023-06-23,16193
 "Open Data Science Conference (ODSC)",2020-10-06,84385
 "Open Data Science Conference (ODSC)",2020-10-07,84500
 "Open Data Science Conference (ODSC)",2020-10-12,84991
@@ -1993,6 +1866,10 @@
 "Open Data Science Conference (ODSC)",2023-05-19,137900
 "Open Data Science Conference (ODSC)",2023-05-29,138070
 "Open Data Science Conference (ODSC)",2023-06-05,138192
+"Open Data Science Conference (ODSC)",2023-06-11,138280
+"Open Data Science Conference (ODSC)",2023-06-14,138378
+"Open Data Science Conference (ODSC)",2023-06-17,138477
+"Open Data Science Conference (ODSC)",2023-06-23,138569
 "Open Knowledge Foundation",2022-07-05,5822
 "Open Knowledge Foundation",2022-07-09,5832
 "Open Knowledge Foundation",2022-07-12,5847
@@ -2051,6 +1928,10 @@
 "Open Knowledge Foundation",2023-05-19,6847
 "Open Knowledge Foundation",2023-05-29,6867
 "Open Knowledge Foundation",2023-06-05,6898
+"Open Knowledge Foundation",2023-06-11,6911
+"Open Knowledge Foundation",2023-06-14,6926
+"Open Knowledge Foundation",2023-06-17,6937
+"Open Knowledge Foundation",2023-06-23,6951
 "Open Robotics",2022-01-12,25993
 "Open Robotics",2022-02-07,28314
 "Open Robotics",2022-02-16,29302
@@ -2123,6 +2004,10 @@
 "Open Robotics",2023-05-19,82808
 "Open Robotics",2023-05-29,83939
 "Open Robotics",2023-06-05,84836
+"Open Robotics",2023-06-11,85623
+"Open Robotics",2023-06-14,86045
+"Open Robotics",2023-06-17,86416
+"Open Robotics",2023-06-23,87054
 "Open Society Foundations",2020-10-25,130382
 "Open Society Foundations",2020-10-28,130632
 "Open Society Foundations",2020-10-30,130848
@@ -2292,8 +2177,14 @@
 "Open Society Foundations",2023-05-19,198948
 "Open Society Foundations",2023-05-29,199697
 "Open Society Foundations",2023-06-05,200307
+"Open Society Foundations",2023-06-11,200881
+"Open Society Foundations",2023-06-14,201546
+"Open Society Foundations",2023-06-17,201832
+"Open Society Foundations",2023-06-23,202430
 "Open Source",2021-01-19,5194
 "Open Source Hong Kong",2023-06-05,182
+"Open Source Hong Kong",2023-06-11,185
+"Open Source Hong Kong <U+958B><U+6E90><U+9999><U+6E2F>",2023-06-23,188
 "Open Source Initiative (OSI)",2023-01-21,16940
 "Open Source Initiative (OSI)",2023-01-25,17014
 "Open Source Initiative (OSI)",2023-02-10,17341
@@ -2303,6 +2194,8 @@
 "Open Source Initiative (OSI)",2023-04-10,18521
 "Open Source Initiative (OSI)",2023-04-23,18739
 "Open Source Initiative (OSI)",2023-06-05,19355
+"Open Source Initiative (OSI)",2023-06-11,19434
+"Open Source Initiative (OSI)",2023-06-23,19568
 "Open Source Science Initiative (OSSci)",2023-01-25,4
 "OpenAI",2022-01-12,126770
 "OpenAI",2022-02-01,131921
@@ -2382,6 +2275,10 @@
 "OpenAI",2023-05-29,1213156
 "OpenAI",2023-06-05,1255114
 "OpenAI",2023-06-05,1255170
+"OpenAI",2023-06-11,1306767
+"OpenAI",2023-06-14,1342115
+"OpenAI",2023-06-17,1365988
+"OpenAI",2023-06-23,1404381
 "OpenBCI",2023-02-10,14003
 "OpenCV",2022-01-12,47041
 "OpenCV",2022-02-07,52114
@@ -2458,6 +2355,10 @@
 "OpenCV",2023-05-29,152803
 "OpenCV",2023-06-05,154619
 "OpenCV",2023-06-05,154620
+"OpenCV",2023-06-11,156224
+"OpenCV",2023-06-14,157285
+"OpenCV",2023-06-17,158082
+"OpenCV",2023-06-23,160061
 "OpenCredo",2023-01-21,1924
 "OpenCredo",2023-02-10,1994
 "OpenCredo",2023-02-25,2046
@@ -2466,6 +2367,8 @@
 "OpenCredo",2023-04-10,2255
 "OpenCredo",2023-04-23,2305
 "OpenCredo",2023-06-05,2453
+"OpenCredo",2023-06-11,2493
+"OpenCredo",2023-06-23,2602
 "OpenCures",2023-01-25,118
 "OpenCures",2023-01-29,118
 "OpenDataScience [ods.ai]",2021-01-22,5713
@@ -2586,6 +2489,8 @@
 "OpenDataScience [ods.ai]",2023-05-19,6974
 "OpenDataScience [ods.ai]",2023-05-29,6977
 "OpenDataScience [ods.ai]",2023-06-05,6983
+"OpenDataScience [ods.ai]",2023-06-14,6993
+"OpenDataScience [ods.ai]",2023-06-17,6994
 "OpenFOAM Workshop",2021-05-10,527
 "OpenFOAM.ir",2021-05-10,276
 "OpenHelix",2023-01-25,388
@@ -2598,6 +2503,8 @@
 "OpenLink Software",2023-04-10,1118
 "OpenLink Software",2023-04-23,1119
 "OpenLink Software",2023-06-05,1130
+"OpenLink Software",2023-06-11,1133
+"OpenLink Software",2023-06-23,1137
 "OpenSSF",2023-01-25,2049
 "OpenStreetMap Ireland",2021-03-30,219
 "OpenStreetMap Ireland",2021-04-06,219
@@ -2740,6 +2647,10 @@
 "OpenStreetMap Ireland",2023-05-19,259
 "OpenStreetMap Ireland",2023-05-29,260
 "OpenStreetMap Ireland",2023-06-05,260
+"OpenStreetMap Ireland",2023-06-11,262
+"OpenStreetMap Ireland",2023-06-14,262
+"OpenStreetMap Ireland",2023-06-17,262
+"OpenStreetMap Ireland",2023-06-23,263
 "OpenTeams",2020-10-16,772
 "OpenTeams",2020-10-20,775
 "OpenTeams",2020-10-21,778
@@ -2927,6 +2838,10 @@
 "OpenTeams",2023-05-19,2543
 "OpenTeams",2023-05-29,2559
 "OpenTeams",2023-06-05,2572
+"OpenTeams",2023-06-11,2580
+"OpenTeams",2023-06-14,2590
+"OpenTeams",2023-06-17,2591
+"OpenTeams",2023-06-23,2603
 "Openers",2023-01-25,1344
 "Openlayer",2023-01-21,1034
 "Openlayer",2023-02-25,1082
@@ -2935,6 +2850,8 @@
 "Openlayer",2023-04-10,1147
 "Openlayer",2023-04-23,1171
 "Openlayer",2023-06-05,1522
+"Openlayer",2023-06-11,1529
+"Openlayer",2023-06-23,1546
 "Opt Out Tools",2023-01-25,30
 "Optimove",2023-01-28,18913
 "Options Group",2023-01-22,54830
@@ -2952,6 +2869,8 @@
 "Oracle",2023-04-10,8886719
 "Oracle",2023-04-23,8924085
 "Oracle",2023-06-05,9037455
+"Oracle",2023-06-11,9053477
+"Oracle",2023-06-23,9087602
 "Oracle Cloud",2020-10-06,81110
 "Oracle Cloud",2020-10-13,81602
 "Oracle Cloud",2020-10-19,82011
@@ -2966,6 +2885,8 @@
 "Orbit Fab",2023-04-10,14551
 "Orbit Fab",2023-04-23,14885
 "Orbit Fab",2023-06-05,15591
+"Orbit Fab",2023-06-11,15689
+"Orbit Fab",2023-06-23,15835
 "Orbital Assembly",2023-01-21,3687
 "Orbital Assembly",2023-02-25,3803
 "Orbital Assembly",2023-03-13,3833
@@ -2976,6 +2897,8 @@
 "Orbital Insight",2023-04-10,15093
 "Orbital Insight",2023-04-23,15139
 "Orbital Insight",2023-06-05,15330
+"Orbital Insight",2023-06-11,15359
+"Orbital Insight",2023-06-23,15413
 "Orbital Sidekick",2023-01-21,3729
 "Orbital Sidekick",2023-02-25,3984
 "Orbital Sidekick",2023-03-13,4027
@@ -2983,6 +2906,8 @@
 "Orbital Sidekick",2023-04-10,4183
 "Orbital Sidekick",2023-04-23,4288
 "Orbital Sidekick",2023-06-05,4474
+"Orbital Sidekick",2023-06-11,4507
+"Orbital Sidekick",2023-06-23,4576
 "Orca Security",2023-01-22,21519
 "Orchest",2023-01-21,1345
 "Orchest",2023-02-25,1363
@@ -2991,6 +2916,10 @@
 "Orchest",2023-04-10,1388
 "Orchest",2023-04-23,1397
 "Orchest",2023-06-05,1421
+"Orchest",2023-06-11,1422
+"Orchest",2023-06-23,1428
+"Organization of Scientific Area",2023-06-11,2608
+"Organization of Scientific Area",2023-06-23,2630
 "Organization of Scientific Area Committees for Forensic Science",2023-01-21,2294
 "Organization of Scientific Area Committees for Forensic Science",2023-02-25,2365
 "Organization of Scientific Area Committees for Forensic Science",2023-03-13,2402
@@ -3018,6 +2947,8 @@
 "Orlando Inno",2023-04-10,455
 "Orlando Inno",2023-04-23,456
 "Orlando Inno",2023-06-05,586
+"Orlando Inno",2023-06-11,617
+"Orlando Inno",2023-06-23,654
 "Ospedale San Raffaele",2023-01-25,59269
 "Ospedale San Raffaele",2023-01-29,59453
 "Otago Computer Science Society",2021-03-28,16
@@ -3127,6 +3058,8 @@
 "Otago Computer Science Society",2023-05-19,32
 "Otago Computer Science Society",2023-05-29,32
 "Otago Computer Science Society",2023-06-05,32
+"Otago Computer Science Society",2023-06-14,32
+"Otago Computer Science Society",2023-06-17,32
 "Otrum AS",2020-12-15,1932
 "Outlier",2021-06-02,29
 "Outlier",2021-06-09,34
@@ -3257,6 +3190,10 @@
 "Outlier",2023-05-19,96
 "Outlier",2023-05-29,97
 "Outlier",2023-06-05,97
+"Outlier",2023-06-11,97
+"Outlier",2023-06-14,97
+"Outlier",2023-06-17,97
+"Outlier",2023-06-23,98
 "OutpostLE",2021-12-05,1540
 "OutpostLE",2022-02-27,1760
 "Outreachy",2021-06-02,3345
@@ -3383,6 +3320,10 @@
 "Outreachy",2023-05-19,9863
 "Outreachy",2023-05-29,10093
 "Outreachy",2023-06-05,10204
+"Outreachy",2023-06-11,10284
+"Outreachy",2023-06-14,10325
+"Outreachy",2023-06-17,10349
+"Outreachy",2023-06-23,10428
 "Overseas Buildings Operations",2023-01-21,29532
 "Overseas Buildings Operations",2023-02-25,34251
 "Overseas Buildings Operations",2023-03-13,37034
@@ -3390,6 +3331,8 @@
 "Overseas Buildings Operations",2023-04-10,40700
 "Overseas Buildings Operations",2023-04-23,41900
 "Overseas Buildings Operations",2023-06-05,44656
+"Overseas Buildings Operations",2023-06-11,44877
+"Overseas Buildings Operations",2023-06-23,45301
 "Oxford Nanopore Technologies",2023-01-25,51603
 "Oxford Nanopore Technologies",2023-01-29,51779
 "Oxford Transhumanism and Emerging Technologies",2023-01-21,520
@@ -3399,6 +3342,8 @@
 "Oxford Transhumanism and Emerging Technologies",2023-04-10,527
 "Oxford Transhumanism and Emerging Technologies",2023-04-23,528
 "Oxford Transhumanism and Emerging Technologies",2023-06-05,533
+"Oxford Transhumanism and Emerging Technologies",2023-06-11,533
+"Oxford Transhumanism and Emerging Technologies",2023-06-23,536
 "Oxford University Press",2023-01-28,308694
 "PANDA | The Women Leadership Network",2023-01-25,28378
 "PAR Technology",2023-01-21,55456
@@ -3409,15 +3354,19 @@
 "PAR Technology",2023-04-10,58367
 "PAR Technology",2023-04-23,58679
 "PAR Technology",2023-06-05,61382
+"PAR Technology",2023-06-11,61564
+"PAR Technology",2023-06-23,62883
 "PBworks",2023-01-25,206
 "PBworks",2023-01-29,206
-"PCG<U+0092>s Human Services team",2023-01-21,603
-"PCG<U+0092>s Human Services team",2023-02-25,605
 "PCG<92>s Human Services team",2023-03-13,606
 "PCG<92>s Human Services team",2023-03-29,608
-"PCG’s Human Services team",2023-04-10,610
-"PCG’s Human Services team",2023-04-23,613
-"PCG’s Human Services team",2023-06-05,636
+"PCG<U+0092>s Human Services team",2023-01-21,603
+"PCG<U+0092>s Human Services team",2023-02-25,605
+"PCG<92>s Human Services team",2023-04-10,610
+"PCG<92>s Human Services team",2023-04-23,613
+"PCG<92>s Human Services team",2023-06-05,636
+"PCG’s Human Services team",2023-06-11,637
+"PCG’s Human Services team",2023-06-23,640
 "PENSACOLA BEACH CHAMBER OF COMMERCE",2023-01-21,317
 "PENSACOLA BEACH CHAMBER OF COMMERCE",2023-02-25,336
 "PENSACOLA BEACH CHAMBER OF COMMERCE",2023-03-13,350
@@ -3425,6 +3374,8 @@
 "PENSACOLA BEACH CHAMBER OF COMMERCE",2023-04-10,366
 "PENSACOLA BEACH CHAMBER OF COMMERCE",2023-04-23,371
 "PENSACOLA BEACH CHAMBER OF COMMERCE",2023-06-05,393
+"PENSACOLA BEACH CHAMBER OF COMMERCE",2023-06-11,397
+"PENSACOLA BEACH CHAMBER OF COMMERCE",2023-06-23,408
 "PENTOZ",2020-10-16,316162
 "PENTOZ",2020-10-20,316198
 "PENTOZ",2020-10-21,316216
@@ -3617,6 +3568,10 @@
 "Pacific Whale Foundation",2023-05-19,2389
 "Pacific Whale Foundation",2023-05-29,2406
 "Pacific Whale Foundation",2023-06-05,2411
+"Pacific Whale Foundation",2023-06-11,2427
+"Pacific Whale Foundation",2023-06-14,2429
+"Pacific Whale Foundation",2023-06-17,2435
+"Pacific Whale Foundation",2023-06-23,2463
 "Packaging and Recycling Association for Indonesia Sustainable Environment (PRAISE)",2020-11-21,305
 "Packaging and Recycling Association for Indonesia Sustainable Environment (PRAISE)",2020-12-27,340
 "PackagingCon",2023-01-25,41
@@ -3733,9 +3688,15 @@
 "Packt",2023-05-19,93484
 "Packt",2023-05-29,95617
 "Packt",2023-06-05,95832
+"Packt",2023-06-11,96360
+"Packt",2023-06-14,96506
+"Packt",2023-06-17,96860
+"Packt",2023-06-23,98088
 "Padverb",2023-04-10,8049
 "Padverb",2023-04-23,8080
 "Padverb Corp",2023-06-05,8487
+"Padverb Corp",2023-06-11,8494
+"Padverb Corp",2023-06-23,8524
 "Paige",2023-01-25,9081
 "Paige",2023-01-29,9131
 "Pallas Advisors",2023-01-21,1833
@@ -3745,6 +3706,8 @@
 "Pallas Advisors",2023-04-10,2015
 "Pallas Advisors",2023-04-23,2036
 "Pallas Advisors",2023-06-05,2121
+"Pallas Advisors",2023-06-11,2129
+"Pallas Advisors",2023-06-23,2145
 "Palo Alto Networks",2023-01-21,843116
 "Palo Alto Networks",2023-02-10,859415
 "Palo Alto Networks",2023-02-25,870075
@@ -3753,6 +3716,8 @@
 "Palo Alto Networks",2023-04-10,893654
 "Palo Alto Networks",2023-04-23,901466
 "Palo Alto Networks",2023-06-05,930358
+"Palo Alto Networks",2023-06-11,933984
+"Palo Alto Networks",2023-06-23,939409
 "Pandas",2023-01-25,272
 "Pandas",2023-03-25,559
 "Pandas",2023-03-29,651
@@ -3767,13 +3732,21 @@
 "Pandas",2023-05-19,995
 "Pandas",2023-05-29,1033
 "Pandas",2023-06-05,1118
+"Pandas",2023-06-11,1151
+"Pandas",2023-06-14,1161
+"Pandas",2023-06-17,1175
+"Pandas",2023-06-23,1206
 "Panel",2023-06-05,1284
+"Panel",2023-06-11,1314
+"Panel",2023-06-23,1355
 "Papers with Code",2023-01-25,52205
 "Paques",2023-01-28,7152
 "Paradigm Evergreen Inc.",2023-03-29,120
 "Paradigm Evergreen Inc.",2023-04-10,125
 "Paradigm Evergreen Inc.",2023-04-23,132
 "Paradigm Evergreen Inc.",2023-06-05,146
+"Paradigm Evergreen Inc.",2023-06-11,147
+"Paradigm Evergreen Inc.",2023-06-23,147
 "Paragon Genomics",2023-01-25,8024
 "Paragon Genomics",2023-01-29,8049
 "Paragon Space Development Corporation",2023-01-21,6642
@@ -3784,6 +3757,8 @@
 "Paragon Space Development Corporation",2023-04-10,11779
 "Paragon Space Development Corporation",2023-04-23,11809
 "Paragon Space Development Corporation",2023-06-05,11902
+"Paragon Space Development Corporation",2023-06-11,11912
+"Paragon Space Development Corporation",2023-06-23,11938
 "Parallel Domain",2023-01-21,3131
 "Parallel Domain",2023-02-25,3270
 "Parallel Domain",2023-03-13,3308
@@ -3791,6 +3766,8 @@
 "Parallel Domain",2023-04-10,3380
 "Parallel Domain",2023-04-23,3411
 "Parallel Domain",2023-06-05,3564
+"Parallel Domain",2023-06-11,3576
+"Parallel Domain",2023-06-23,3641
 "Paris Machine Learning Meetup",2021-03-28,117
 "Paris Machine Learning Meetup",2021-03-31,117
 "Paris Machine Learning Meetup",2021-04-06,117
@@ -3891,6 +3868,8 @@
 "Paris Machine Learning Meetup",2023-05-19,434
 "Paris Machine Learning Meetup",2023-05-29,435
 "Paris Machine Learning Meetup",2023-06-05,436
+"Paris Machine Learning Meetup",2023-06-14,436
+"Paris Machine Learning Meetup",2023-06-17,441
 "Parker Institute for Cancer Immunotherapy",2023-01-25,12036
 "Parker Institute for Cancer Immunotherapy",2023-01-29,12054
 "Parque Cientifico de la UMH - Elche",2020-10-16,3885
@@ -3913,6 +3892,8 @@
 "PathAI",2023-04-10,32192
 "PathAI",2023-04-23,32855
 "PathAI",2023-06-05,34499
+"PathAI",2023-06-11,34616
+"PathAI",2023-06-23,34948
 "PathAI Diagnostics",2023-01-21,2090
 "PathAI Diagnostics",2023-01-25,2111
 "PathAI Diagnostics",2023-02-25,2431
@@ -3921,6 +3902,8 @@
 "PathAI Diagnostics",2023-04-10,2803
 "PathAI Diagnostics",2023-04-23,2919
 "PathAI Diagnostics",2023-06-05,3243
+"PathAI Diagnostics",2023-06-11,3269
+"PathAI Diagnostics",2023-06-23,3330
 "Pathbird",2023-01-25,44
 "Pawsey Supercomputing Centre",2023-01-28,1844
 "PayPal",2023-01-21,1199748
@@ -3931,6 +3914,8 @@
 "PayPal",2023-04-10,1238991
 "PayPal",2023-04-23,1245816
 "PayPal",2023-06-05,1272527
+"PayPal",2023-06-11,1277172
+"PayPal",2023-06-23,1285269
 "Payload",2023-01-21,9633
 "Payload",2023-02-25,10378
 "Payload",2023-03-13,10730
@@ -3938,6 +3923,8 @@
 "Payload",2023-04-10,11794
 "Payload",2023-04-23,12019
 "Payload",2023-06-05,12802
+"Payload",2023-06-11,13002
+"Payload",2023-06-23,13274
 "Peace Corps",2023-01-21,135144
 "Peace Corps",2023-02-10,135866
 "Peace Corps",2023-02-25,136455
@@ -3946,6 +3933,8 @@
 "Peace Corps",2023-04-10,138007
 "Peace Corps",2023-04-23,138451
 "Peace Corps",2023-06-05,139744
+"Peace Corps",2023-06-11,140025
+"Peace Corps",2023-06-23,140529
 "Peapod Digital Labs",2023-01-21,27245
 "Peapod Digital Labs",2023-02-25,27522
 "Peapod Digital Labs",2023-03-13,27629
@@ -3953,6 +3942,8 @@
 "Peapod Digital Labs",2023-04-10,27793
 "Peapod Digital Labs",2023-04-23,27841
 "Peapod Digital Labs",2023-06-05,28066
+"Peapod Digital Labs",2023-06-11,28096
+"Peapod Digital Labs",2023-06-23,28146
 "Pegasystems",2023-01-21,293415
 "Pegasystems",2023-02-10,294212
 "Pegasystems",2023-02-25,294882
@@ -3961,6 +3952,8 @@
 "Pegasystems",2023-04-10,297468
 "Pegasystems",2023-04-23,298210
 "Pegasystems",2023-06-05,300985
+"Pegasystems",2023-06-11,301433
+"Pegasystems",2023-06-23,302530
 "Pen Air Credit Union",2023-01-21,1983
 "Pen Air Credit Union",2023-02-25,2038
 "Pen Air Credit Union",2023-03-13,2055
@@ -3968,6 +3961,8 @@
 "Pen Air Credit Union",2023-04-10,2099
 "Pen Air Credit Union",2023-04-23,2111
 "Pen Air Credit Union",2023-06-05,2162
+"Pen Air Credit Union",2023-06-11,2169
+"Pen Air Credit Union",2023-06-23,2183
 "PenFed Credit Union",2023-01-21,32053
 "PenFed Credit Union",2023-02-10,32307
 "PenFed Credit Union",2023-02-25,32482
@@ -3976,6 +3971,8 @@
 "PenFed Credit Union",2023-04-10,32982
 "PenFed Credit Union",2023-04-23,33123
 "PenFed Credit Union",2023-06-05,33530
+"PenFed Credit Union",2023-06-11,33586
+"PenFed Credit Union",2023-06-23,33746
 "Penn Medicine University of Pennsylvania Health System",2021-02-19,90864
 "Penn Medicine University of Pennsylvania Health System",2021-03-26,92245
 "Penn State University",2023-01-28,715101
@@ -3987,6 +3984,8 @@
 "Penpot",2023-04-10,4084
 "Penpot",2023-04-23,4161
 "Penpot",2023-06-05,4390
+"Penpot",2023-06-11,4439
+"Penpot",2023-06-23,4640
 "Pensacola Aviation Ctr",2023-01-21,47
 "Pensacola Aviation Ctr",2023-02-25,46
 "Pensacola Aviation Ctr",2023-03-13,46
@@ -3994,6 +3993,8 @@
 "Pensacola Aviation Ctr",2023-04-10,46
 "Pensacola Aviation Ctr",2023-04-23,46
 "Pensacola Aviation Ctr",2023-06-05,46
+"Pensacola Aviation Ctr",2023-06-11,46
+"Pensacola Aviation Ctr",2023-06-23,46
 "Pensacola Bay Center - ASM Global",2023-01-21,256
 "Pensacola Bay Center - ASM Global",2023-02-25,260
 "Pensacola Bay Center - ASM Global",2023-03-13,263
@@ -4001,6 +4002,8 @@
 "Pensacola Bay Center - ASM Global",2023-04-10,267
 "Pensacola Bay Center - ASM Global",2023-04-23,270
 "Pensacola Bay Center - ASM Global",2023-06-05,277
+"Pensacola Bay Center - ASM Global",2023-06-11,278
+"Pensacola Bay Center - ASM Global",2023-06-23,277
 "Pensacola Bay Realty",2023-01-21,64
 "Pensacola Bay Realty",2023-02-25,64
 "Pensacola Bay Realty",2023-03-13,65
@@ -4008,6 +4011,8 @@
 "Pensacola Bay Realty",2023-04-10,66
 "Pensacola Bay Realty",2023-04-23,67
 "Pensacola Bay Realty",2023-06-05,67
+"Pensacola Bay Realty",2023-06-11,67
+"Pensacola Bay Realty",2023-06-23,67
 "Pensacola Bay Transportation",2023-01-21,22
 "Pensacola Bay Transportation",2023-02-25,22
 "Pensacola Bay Transportation",2023-03-13,22
@@ -4015,6 +4020,8 @@
 "Pensacola Bay Transportation",2023-04-10,22
 "Pensacola Bay Transportation",2023-04-23,22
 "Pensacola Bay Transportation",2023-06-05,22
+"Pensacola Bay Transportation",2023-06-11,22
+"Pensacola Bay Transportation",2023-06-23,22
 "Pensacola Beach Songwriters Festival",2023-01-21,48
 "Pensacola Beach Songwriters Festival",2023-02-25,48
 "Pensacola Beach Songwriters Festival",2023-03-13,48
@@ -4022,6 +4029,8 @@
 "Pensacola Beach Songwriters Festival",2023-04-10,48
 "Pensacola Beach Songwriters Festival",2023-04-23,48
 "Pensacola Beach Songwriters Festival",2023-06-05,48
+"Pensacola Beach Songwriters Festival",2023-06-11,48
+"Pensacola Beach Songwriters Festival",2023-06-23,48
 "Pensacola Beach Weddings",2023-01-21,6
 "Pensacola Beach Weddings",2023-02-25,6
 "Pensacola Beach Weddings",2023-03-13,6
@@ -4029,6 +4038,8 @@
 "Pensacola Beach Weddings",2023-04-10,6
 "Pensacola Beach Weddings",2023-04-23,6
 "Pensacola Beach Weddings",2023-06-05,6
+"Pensacola Beach Weddings",2023-06-11,6
+"Pensacola Beach Weddings",2023-06-23,6
 "Pensacola Blue Wahoos",2023-01-21,2197
 "Pensacola Blue Wahoos",2023-02-25,2279
 "Pensacola Blue Wahoos",2023-03-13,2314
@@ -4036,6 +4047,8 @@
 "Pensacola Blue Wahoos",2023-04-10,2386
 "Pensacola Blue Wahoos",2023-04-23,2414
 "Pensacola Blue Wahoos",2023-06-05,2447
+"Pensacola Blue Wahoos",2023-06-11,2458
+"Pensacola Blue Wahoos",2023-06-23,2478
 "Pensacola Civic Center",2023-01-21,152
 "Pensacola Civic Center",2023-02-10,152
 "Pensacola Civic Center",2023-02-25,151
@@ -4044,6 +4057,8 @@
 "Pensacola Civic Center",2023-04-10,153
 "Pensacola Civic Center",2023-04-23,153
 "Pensacola Civic Center",2023-06-05,154
+"Pensacola Civic Center",2023-06-11,154
+"Pensacola Civic Center",2023-06-23,154
 "Pensacola Commissary",2023-01-21,17
 "Pensacola Commissary",2023-02-25,17
 "Pensacola Commissary",2023-03-13,17
@@ -4051,6 +4066,8 @@
 "Pensacola Commissary",2023-04-10,16
 "Pensacola Commissary",2023-04-23,16
 "Pensacola Commissary",2023-06-05,16
+"Pensacola Commissary",2023-06-11,16
+"Pensacola Commissary",2023-06-23,16
 "Pensacola Country Club",2023-01-21,181
 "Pensacola Country Club",2023-02-25,181
 "Pensacola Country Club",2023-03-13,182
@@ -4058,6 +4075,8 @@
 "Pensacola Country Club",2023-04-10,183
 "Pensacola Country Club",2023-04-23,184
 "Pensacola Country Club",2023-06-05,189
+"Pensacola Country Club",2023-06-11,189
+"Pensacola Country Club",2023-06-23,189
 "Pensacola Downtown Improvement Board",2023-01-21,579
 "Pensacola Downtown Improvement Board",2023-02-10,583
 "Pensacola Downtown Improvement Board",2023-02-25,586
@@ -4066,12 +4085,16 @@
 "Pensacola Downtown Improvement Board",2023-04-10,595
 "Pensacola Downtown Improvement Board",2023-04-23,597
 "Pensacola Downtown Improvement Board",2023-06-05,615
+"Pensacola Downtown Improvement Board",2023-06-11,615
+"Pensacola Downtown Improvement Board",2023-06-23,618
 "Pensacola FL Homes",2023-02-25,250
 "Pensacola FL Homes",2023-03-13,254
 "Pensacola FL Homes",2023-03-29,254
 "Pensacola FL Homes",2023-04-10,255
 "Pensacola FL Homes",2023-04-23,256
 "Pensacola FL Homes",2023-06-05,260
+"Pensacola FL Homes",2023-06-11,260
+"Pensacola FL Homes",2023-06-23,260
 "Pensacola FL Real Estate",2023-01-21,243
 "Pensacola Glass Co",2023-01-21,6
 "Pensacola Glass Co",2023-02-25,6
@@ -4080,6 +4103,8 @@
 "Pensacola Glass Co",2023-04-10,6
 "Pensacola Glass Co",2023-04-23,6
 "Pensacola Glass Co",2023-06-05,6
+"Pensacola Glass Co",2023-06-11,6
+"Pensacola Glass Co",2023-06-23,6
 "Pensacola Habitat for Humanity",2023-01-21,1448
 "Pensacola Habitat for Humanity",2023-02-10,1452
 "Pensacola Habitat for Humanity",2023-02-25,1461
@@ -4088,6 +4113,8 @@
 "Pensacola Habitat for Humanity",2023-04-10,1500
 "Pensacola Habitat for Humanity",2023-04-23,1506
 "Pensacola Habitat for Humanity",2023-06-05,1526
+"Pensacola Habitat for Humanity",2023-06-11,1531
+"Pensacola Habitat for Humanity",2023-06-23,1535
 "Pensacola Ice Flyers (SPHL)",2023-01-21,421
 "Pensacola Ice Flyers (SPHL)",2023-02-25,437
 "Pensacola Ice Flyers (SPHL)",2023-03-13,458
@@ -4095,6 +4122,8 @@
 "Pensacola Ice Flyers (SPHL)",2023-04-10,480
 "Pensacola Ice Flyers (SPHL)",2023-04-23,489
 "Pensacola Ice Flyers (SPHL)",2023-06-05,511
+"Pensacola Ice Flyers (SPHL)",2023-06-11,516
+"Pensacola Ice Flyers (SPHL)",2023-06-23,527
 "Pensacola Jewelers",2023-01-21,7
 "Pensacola Jewelers",2023-02-25,7
 "Pensacola Jewelers",2023-03-13,7
@@ -4102,6 +4131,8 @@
 "Pensacola Jewelers",2023-04-10,7
 "Pensacola Jewelers",2023-04-23,7
 "Pensacola Jewelers",2023-06-05,7
+"Pensacola Jewelers",2023-06-11,7
+"Pensacola Jewelers",2023-06-23,7
 "Pensacola Lighthouse and Maritime Museum",2023-01-21,161
 "Pensacola Lighthouse and Maritime Museum",2023-02-25,163
 "Pensacola Lighthouse and Maritime Museum",2023-03-13,166
@@ -4109,6 +4140,8 @@
 "Pensacola Lighthouse and Maritime Museum",2023-04-10,166
 "Pensacola Lighthouse and Maritime Museum",2023-04-23,167
 "Pensacola Lighthouse and Maritime Museum",2023-06-05,170
+"Pensacola Lighthouse and Maritime Museum",2023-06-11,170
+"Pensacola Lighthouse and Maritime Museum",2023-06-23,170
 "Pensacola Little Theatre",2023-01-21,143
 "Pensacola Little Theatre",2023-02-25,143
 "Pensacola Little Theatre",2023-03-13,145
@@ -4116,6 +4149,8 @@
 "Pensacola Little Theatre",2023-04-10,145
 "Pensacola Little Theatre",2023-04-23,145
 "Pensacola Little Theatre",2023-06-05,146
+"Pensacola Little Theatre",2023-06-11,146
+"Pensacola Little Theatre",2023-06-23,147
 "Pensacola MESS Hall",2023-01-21,138
 "Pensacola MESS Hall",2023-02-25,140
 "Pensacola MESS Hall",2023-03-13,153
@@ -4123,6 +4158,8 @@
 "Pensacola MESS Hall",2023-04-10,159
 "Pensacola MESS Hall",2023-04-23,167
 "Pensacola MESS Hall",2023-06-05,180
+"Pensacola MESS Hall",2023-06-11,181
+"Pensacola MESS Hall",2023-06-23,182
 "Pensacola Network",2023-01-21,113
 "Pensacola Network",2023-02-25,115
 "Pensacola Network",2023-03-13,115
@@ -4130,6 +4167,8 @@
 "Pensacola Network",2023-04-10,116
 "Pensacola Network",2023-04-23,116
 "Pensacola Network",2023-06-05,116
+"Pensacola Network",2023-06-11,116
+"Pensacola Network",2023-06-23,116
 "Pensacola News Journal",2023-01-21,1560
 "Pensacola News Journal",2023-02-10,1566
 "Pensacola News Journal",2023-02-25,1571
@@ -4138,12 +4177,16 @@
 "Pensacola News Journal",2023-04-10,1588
 "Pensacola News Journal",2023-04-23,1595
 "Pensacola News Journal",2023-06-05,1614
+"Pensacola News Journal",2023-06-11,1617
+"Pensacola News Journal",2023-06-23,1619
 "Pensacola Oyster Cluster",2023-02-25,581
 "Pensacola Oyster Cluster",2023-03-13,583
 "Pensacola Oyster Cluster",2023-03-29,586
 "Pensacola Oyster Cluster",2023-04-10,587
 "Pensacola Oyster Cluster",2023-04-23,587
 "Pensacola Oyster Cluster",2023-06-05,588
+"Pensacola Oyster Cluster",2023-06-11,588
+"Pensacola Oyster Cluster",2023-06-23,590
 "Pensacola Parade People llc",2023-01-21,48
 "Pensacola Parade People llc",2023-02-10,48
 "Pensacola Parade People llc",2023-02-25,48
@@ -4152,6 +4195,8 @@
 "Pensacola Parade People llc",2023-04-10,49
 "Pensacola Parade People llc",2023-04-23,49
 "Pensacola Parade People llc",2023-06-05,50
+"Pensacola Parade People llc",2023-06-11,50
+"Pensacola Parade People llc",2023-06-23,51
 "Pensacola Recycling Inc",2023-01-21,6
 "Pensacola Recycling Inc",2023-02-25,6
 "Pensacola Recycling Inc",2023-03-13,6
@@ -4159,6 +4204,8 @@
 "Pensacola Recycling Inc",2023-04-10,6
 "Pensacola Recycling Inc",2023-04-23,6
 "Pensacola Recycling Inc",2023-06-05,6
+"Pensacola Recycling Inc",2023-06-11,6
+"Pensacola Recycling Inc",2023-06-23,6
 "Pensacola State College",2023-01-21,22131
 "Pensacola State College",2023-02-10,22272
 "Pensacola State College",2023-02-25,22356
@@ -4167,6 +4214,8 @@
 "Pensacola State College",2023-04-10,22567
 "Pensacola State College",2023-04-23,22651
 "Pensacola State College",2023-06-05,22903
+"Pensacola State College",2023-06-11,22941
+"Pensacola State College",2023-06-23,23027
 "Pensacola Symphony Orchestra",2023-01-21,248
 "Pensacola Symphony Orchestra",2023-02-10,250
 "Pensacola Symphony Orchestra",2023-02-25,253
@@ -4175,6 +4224,8 @@
 "Pensacola Symphony Orchestra",2023-04-10,262
 "Pensacola Symphony Orchestra",2023-04-23,264
 "Pensacola Symphony Orchestra",2023-06-05,266
+"Pensacola Symphony Orchestra",2023-06-11,266
+"Pensacola Symphony Orchestra",2023-06-23,267
 "Pensacola Young Professionals",2023-01-21,789
 "Pensacola Young Professionals",2023-02-25,816
 "Pensacola Young Professionals",2023-03-13,828
@@ -4182,6 +4233,8 @@
 "Pensacola Young Professionals",2023-04-10,859
 "Pensacola Young Professionals",2023-04-23,875
 "Pensacola Young Professionals",2023-06-05,919
+"Pensacola Young Professionals",2023-06-11,921
+"Pensacola Young Professionals",2023-06-23,930
 "Pensacon",2023-01-21,69
 "Pensacon",2023-02-25,70
 "Pensacon",2023-03-13,72
@@ -4189,6 +4242,8 @@
 "Pensacon",2023-04-10,73
 "Pensacon",2023-04-23,73
 "Pensacon",2023-06-05,74
+"Pensacon",2023-06-11,74
+"Pensacon",2023-06-23,74
 "Pentair",2023-01-21,229101
 "Pentair",2023-02-10,230763
 "Pentair",2023-02-25,232081
@@ -4197,6 +4252,8 @@
 "Pentair",2023-04-10,235407
 "Pentair",2023-04-23,236426
 "Pentair",2023-06-05,239793
+"Pentair",2023-06-11,240364
+"Pentair",2023-06-23,241771
 "Pentester Academy",2023-01-21,212083
 "Pentester Academy",2023-02-25,217796
 "Pentester Academy",2023-03-13,220718
@@ -4204,6 +4261,8 @@
 "Pentester Academy",2023-04-10,225963
 "Pentester Academy",2023-04-23,227933
 "Pentester Academy",2023-06-05,235379
+"Pentester Academy",2023-06-11,236298
+"Pentester Academy",2023-06-23,238282
 "PentesterLab",2023-01-21,62141
 "PentesterLab",2023-02-10,63443
 "PentesterLab",2023-02-25,64435
@@ -4212,6 +4271,8 @@
 "PentesterLab",2023-04-10,67343
 "PentesterLab",2023-04-23,67971
 "PentesterLab",2023-06-05,70795
+"PentesterLab",2023-06-11,71221
+"PentesterLab",2023-06-23,72086
 "PeopleCert",2023-01-21,89803
 "PeopleCert",2023-02-10,91173
 "PeopleCert",2023-02-25,93263
@@ -4220,11 +4281,17 @@
 "PeopleCert",2023-04-10,99795
 "PeopleCert",2023-04-23,102470
 "PeopleCert",2023-06-05,108071
+"PeopleCert",2023-06-11,108497
+"PeopleCert",2023-06-23,109579
 "Peptone",2023-01-25,2224
 "Peptone",2023-01-29,2233
 "PeripherAi",2023-01-25,106
 "Permanently Closed",2023-06-05,477
+"Permanently Closed",2023-06-11,476
+"Permanently Closed",2023-06-23,478
 "Permion",2023-06-05,32
+"Permion",2023-06-11,49
+"Permion",2023-06-23,58
 "Persistent Systems",2020-10-16,228832
 "Persistent Systems",2020-10-20,229404
 "Persistent Systems",2020-10-22,229828
@@ -4244,7 +4311,124 @@
 "Pfizer",2023-04-10,5272301
 "Pfizer",2023-04-23,5294753
 "Pfizer",2023-06-05,5371511
+"Pfizer",2023-06-11,5384062
+"Pfizer",2023-06-23,5409919
 "Phantasma Labs",2023-01-25,1093
+"Phantom Space",2023-01-21,6190
+"Phantom Space",2023-02-25,6856
+"Phantom Space",2023-03-13,7121
+"Phantom Space",2023-03-29,7437
+"Phantom Space",2023-04-10,7694
+"Phantom Space",2023-04-23,7948
+"Phantom Space",2023-06-05,8579
+"Phantom Space",2023-06-11,8699
+"Phantom Space",2023-06-23,8853
+"Pharma Job ( Pharma Growth Portal )",2021-02-19,170687
+"Pharma Job ( Pharma Growth Portal )",2021-03-06,180120
+"Pharma Job ( Pharma Growth Portal )",2021-03-26,191321
+"PharmaBiome AG",2023-01-25,1725
+"PharmaBiome AG",2023-01-29,1729
+"Pharos Platforms Inc.",2021-05-31,257
+"Pharos Platforms Inc.",2021-06-06,258
+"Pharos Platforms Inc.",2021-06-09,258
+"Pharos Platforms Inc.",2021-06-16,259
+"Pharos Platforms Inc.",2021-06-21,259
+"Pharos Platforms Inc.",2021-06-29,259
+"Pharos Platforms Inc.",2021-07-04,259
+"Pharos Platforms Inc.",2021-07-09,259
+"Pharos Platforms Inc.",2021-07-14,260
+"Pharos Platforms Inc.",2021-07-22,260
+"Pharos Platforms Inc.",2021-08-14,262
+"Pharos Platforms Inc.",2021-08-26,265
+"Pharos Platforms Inc.",2021-09-02,264
+"Pharos Platforms Inc.",2021-09-09,264
+"Pharos Platforms Inc.",2021-09-16,266
+"Pharos Platforms Inc.",2021-10-17,266
+"Pharos Platforms Inc.",2021-10-29,267
+"Pharos Platforms Inc.",2021-11-20,269
+"Pharos Platforms Inc.",2021-12-14,269
+"Pharos Platforms Inc.",2021-12-20,269
+"Pharos Platforms Inc.",2022-01-12,272
+"Pharos Platforms Inc.",2022-02-07,275
+"Pharos Platforms Inc.",2022-02-16,277
+"Pharos Platforms Inc.",2022-02-20,276
+"Pharos Platforms Inc.",2022-02-23,276
+"Pharos Platforms Inc.",2022-02-26,276
+"Pharos Platforms Inc.",2022-03-03,277
+"Pharos Platforms Inc.",2022-03-15,278
+"Pharos Platforms Inc.",2022-03-20,279
+"Pharos Platforms Inc.",2022-03-29,280
+"Pharos Platforms Inc.",2022-04-11,281
+"Pharos Platforms Inc.",2022-04-13,281
+"Pharos Platforms Inc.",2022-05-01,279
+"Pharos Platforms Inc.",2022-05-05,276
+"Pharos Platforms Inc.",2022-05-22,293
+"Pharos Platforms Inc.",2022-05-27,295
+"Pharos Platforms Inc.",2022-05-30,295
+"Pharos Platforms Inc.",2022-06-07,297
+"Pharos Platforms Inc.",2022-06-08,297
+"Pharos Platforms Inc.",2022-06-11,298
+"Pharos Platforms Inc.",2022-06-23,299
+"Pharos Platforms Inc.",2022-06-24,299
+"Pharos Platforms Inc.",2022-06-30,301
+"Pharos Platforms Inc.",2022-07-02,301
+"Pharos Platforms Inc.",2022-07-05,301
+"Pharos Platforms Inc.",2022-07-13,301
+"Pharos Platforms Inc.",2022-07-18,302
+"Pharos Platforms Inc.",2022-07-23,302
+"Pharos Platforms Inc.",2022-07-25,302
+"Pharos Platforms Inc.",2022-08-02,302
+"Pharos Platforms Inc.",2022-08-16,303
+"Pharos Platforms Inc.",2022-08-20,303
+"Pharos Platforms Inc.",2022-08-25,303
+"Pharos Platforms Inc.",2022-08-28,303
+"Pharos Platforms Inc.",2022-09-07,306
+"Pharos Platforms Inc.",2022-09-10,338
+"Pharos Platforms Inc.",2022-09-16,373
+"Pharos Platforms Inc.",2022-09-22,387
+"Pharos Platforms Inc.",2022-09-29,400
+"Pharos Platforms Inc.",2022-10-03,399
+"Pharos Platforms Inc.",2022-10-09,413
+"Pharos Platforms Inc.",2022-10-16,421
+"Pharos Platforms Inc.",2022-10-22,422
+"Pharos Platforms Inc.",2022-10-28,425
+"Pharos Platforms Inc.",2022-11-03,427
+"Pharos Platforms Inc.",2022-11-06,431
+"Pharos Platforms Inc.",2022-11-14,434
+"Pharos Platforms Inc.",2022-11-20,436
+"Pharos Platforms Inc.",2022-11-24,437
+"Pharos Platforms Inc.",2022-12-01,440
+"Pharos Platforms Inc.",2022-12-08,443
+"Pharos Platforms Inc.",2022-12-14,448
+"Pharos Platforms Inc.",2022-12-27,464
+"Pharos Platforms Inc.",2023-01-01,464
+"Pharos Platforms Inc.",2023-01-05,465
+"Pharos Platforms Inc.",2023-01-09,466
+"Pharos Platforms Inc.",2023-01-22,470
+"Pharos Platforms Inc.",2023-01-29,470
+"Pharos Platforms Inc.",2023-02-04,471
+"Pharos Platforms Inc.",2023-02-25,480
+"Pharos Platforms Inc.",2023-03-18,516
+"Pharos Platforms Inc.",2023-03-21,516
+"Pharos Platforms Inc.",2023-03-25,535
+"Pharos Platforms Inc.",2023-04-10,646
+"Pharos Platforms Inc.",2023-04-13,649
+"Pharos Platforms Inc.",2023-04-21,651
+"Pharos Platforms Inc.",2023-04-29,654
+"Pharos Platforms Inc.",2023-05-19,658
+"Pharos Platforms Inc.",2023-05-29,659
+"Pharos Platforms Inc.",2023-06-05,660
+"Pharos Platforms Inc.",2023-06-14,660
+"Pharos Platforms Inc.",2023-06-17,660
+"Phase Four",2023-01-21,4299
+"Phase Four",2023-02-25,4341
+"Phase Four",2023-03-13,4375
+"Phase Four",2023-03-29,4409
+"Phase Four",2023-04-10,4435
+"Phase Four",2023-04-23,4452
+"Phase Four",2023-06-05,4534
+"Phase Four",2023-06-11,4554
+"Phase Four",2023-06-23,4600
 "parcelLab",2020-12-27,4156
 "parcelLab",2021-02-19,4398
 "parcelLab",2021-03-26,4559
