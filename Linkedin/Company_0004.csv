@@ -11,402 +11,10 @@
 "CFA Institute",2023-06-05,638469
 "CFA Institute",2023-06-11,639970
 "CFA Institute",2023-06-23,643270
+"CFA Institute",2023-07-06,648622
+"CFA Institute",2023-07-23,653938
+"CFA Institute",2023-08-05,658776
 "CFA Program",2023-01-21,133307
-"IBM",2023-08-02,15971167
-"Accenture",2023-08-02,11129825
-"Tata Consultancy Services",2023-08-02,13424689
-"McKinsey & Company",2023-08-02,5378247
-"SAS",2023-08-02,852440
-"Roche",2023-08-02,3073061
-"Cognizant",2023-08-02,6787675
-"Boston Consulting Group (BCG)",2023-08-02,3913787
-"Informatica",2023-08-02,268890
-"Ascential",2023-08-02,61434
-"Esri",2023-08-02,343312
-"Globant",2023-08-02,826182
-"Bill & Melinda Gates Foundation",2023-08-02,1132864
-"Nagarro",2023-08-02,911394
-"Newgen Software",2023-08-02,169028
-"Open Society Foundations",2023-08-02,205995
-"IUCN",2023-08-02,153217
-"Ford Foundation",2023-08-02,171969
-"Office for National Statistics",2023-08-02,67677
-"KIPP Foundation",2023-08-02,55811
-"Robert Wood Johnson Foundation",2023-08-02,83522
-"United Nations Foundation",2023-08-02,171741
-"Oceana",2023-08-02,54028
-"Packt",2023-08-02,104487
-"Qatar Foundation",2023-08-02,539860
-"MacArthur Foundation",2023-08-02,109801
-"Gordon and Betty Moore Foundation",2023-08-02,11395
-"Two Sigma",2023-08-02,161980
-"The David and Lucile Packard Foundation",2023-08-02,32860
-"Skoll Foundation",2023-08-02,48492
-"Analytic Partners",2023-08-02,11932
-"Conning",2023-08-02,15092
-"The James Irvine Foundation",2023-08-02,14468
-"William and Flora Hewlett Foundation",2023-08-02,34135
-"Elm Company",2023-08-02,542268
-"Doris Duke Foundation",2023-08-02,5370
-"Mellon Foundation",2023-08-02,34992
-"W.K. Kellogg Foundation",2023-08-02,61895
-"Rockefeller Philanthropy Advisors",2023-08-02,39507
-"G-Research",2023-08-02,35656
-"Brightwater",2023-08-02,145416
-"Jupiter Asset Management",2023-08-02,41300
-"Idiro Analytics",2023-08-02,5539
-"Datalytics",2023-08-02,26965
-"Mango Solutions",2023-08-02,3879
-"Pluralsight",2023-08-02,184764
-"The Kresge Foundation",2023-08-02,42687
-"New York Community Trust",2023-08-02,4245
-"Women In Technology (WIT)",2023-08-02,287826
-"Cpl",2023-08-02,297055
-"GlobalLogic",2023-08-02,789258
-"Susquehanna International Group LLP (SIG)",2023-08-02,125721
-"The Rockefeller Foundation",2023-08-02,213970
-"Tableau",2023-08-02,876588
-"Genpact",2023-08-02,3079706
-"i2 Inc.",2023-08-02,1019
-"The Apache Software Foundation",2023-08-02,67966
-"WorldQuant",2023-08-02,70888
-"Collibra",2023-08-02,61449
-"Jump Trading Group",2023-08-02,57719
-"Qualtrics",2023-08-02,231586
-"United Nations Institute for Training and Research (UNITAR)",2023-08-02,352763
-"Remsoft",2023-08-02,3315
-"Altair RapidMiner",2023-08-02,20513
-"Geoscience Australia",2023-08-02,29289
-"Conrad N. Hilton Foundation",2023-08-02,17222
-"KNIME",2023-08-02,44081
-"Irish Centre for High-End Computing ICHEC",2023-08-02,1382
-"Udemy",2023-08-02,1232455
-"Pacific Whale Foundation",2023-08-02,2642
-"QuantumBlack AI by McKinsey",2023-08-02,193048
-"Alteryx",2023-08-02,269656
-"Datahug (acquired by CallidusCloud)",2023-08-02,3093
-"Stack Overflow",2023-08-02,1384672
-"The Analytics Institute of Ireland",2023-08-02,7533
-"NCX",2023-08-02,8414
-"Kaggle",2023-08-02,377095
-"Institute of Mathematics and its Applications",2023-08-02,23515
-"Remote Sensing and Photogrammetry Society (RSPSoc)",2023-08-02,25836
-"Open Knowledge Foundation",2023-08-02,7095
-"Coillte",2023-08-02,17154
-"The unbelievable Machine Company GmbH",2023-08-02,2474
-"Lucid Software",2023-08-02,101733
-"Alfred P. Sloan Foundation",2023-08-02,3069
-"United Nations Sustainable Development Group",2023-08-02,227937
-"Bloomberg Philanthropies",2023-08-02,82287
-"GitHub",2023-08-02,3439298
-"Quovantis Technologies",2023-08-02,14517
-"r-programming.org",2023-08-02,2410
-"Jane Street",2023-08-02,145497
-"CSO (Central Statistics Office Ireland)",2023-08-02,10536
-"Eraneos - powered by Ginkgo",2023-08-02,3550
-"Posit PBC",2023-08-02,95708
-"Asystec (Now Ergo)",2023-08-02,2511
-"Tiger Analytics",2023-08-02,287428
-"Irish Defence Forces",2023-08-02,13988
-"African Institute for Mathematical Sciences (AIMS)",2023-08-02,17279
-"Center for International Environmental Law (CIEL)",2023-08-02,14574
-"InSpire at St Peter's",2023-08-02,87
-"WellClever",2023-08-02,127
-"RegioData Research GmbH",2023-08-02,266
-"Geospatial World",2023-08-02,40920
-"General Assembly",2023-08-02,201252
-"Data Ireland",2023-08-02,825
-"Walton Family Foundation",2023-08-02,56066
-"Coursera",2023-08-02,1717540
-"Flowminder",2023-08-02,1901
-"Economic and Social Research Institute (ESRI)",2023-08-02,16309
-"DataKind",2023-08-02,19188
-"Film Analytics",2023-08-02,220
-"Knoldus Inc | p",2023-08-02,21320
-"STATSports",2023-08-02,31891
-"DataRobot",2023-08-02,127299
-"FishWise",2023-08-02,4530
-"Xava",2023-08-02,276
-"Dataiku",2023-08-02,154905
-"Senseforth.ai",2023-08-02,37148
-"H2O.ai",2023-08-02,130044
-"Falkonry",2023-08-02,4170
-"Gapminder Foundation",2023-08-02,17413
-"Open Data Institute",2023-08-02,16516
-"KatRisk LLC",2023-08-02,2057
-"Ixio Analytics",2023-08-02,777
-"Royal Statistical Society",2023-08-02,12544
-"Black Girls CODE",2023-08-02,49748
-"FutureLearn",2023-08-02,123259
-"dotConferences",2023-08-02,200
-"Xanadu Consultancy",2023-08-02,2960
-"ORRECO",2023-08-02,3276
-"Qatar Computing Research Institute",2023-08-02,12686
-"DataKind UK",2023-08-02,3345
-"DataCamp",2023-08-02,396611
-"Women Who Code",2023-08-02,151191
-"Kitman Labs",2023-08-02,12125
-"Plotly",2023-08-02,34075
-"Data for Good",2023-08-02,11496
-"Databricks",2023-08-02,494068
-"IBM Cloud",2023-08-02,209671
-"Appsilon",2023-08-02,5712
-"Domino Data Lab",2023-08-02,36353
-"BCG Digital Ventures",2023-08-02,157242
-"Aon Centre for Innovation and Analytics (ACIA)",2023-08-02,16005
-"Analytics Vidhya",2023-08-02,171120
-"ProCogia",2023-08-02,7854
-"Snowflake",2023-08-02,667566
-"Data Science Dojo",2023-08-02,280561
-"Fivetran",2023-08-02,89089
-"DataIQ",2023-08-02,16352
-"Data Science Institute",2023-08-02,20475
-"IBM Data AI & Automation",2023-08-02,244102
-"Decision Inc.",2023-08-02,33699
-"GitLab",2023-08-02,864661
-"Sustainable Development Solutions Network",2023-08-02,61284
-"Python Software Foundation",2023-08-02,126764
-"Netcelero",2023-08-02,1288
-"IH",2023-08-02,2210
-"Major League Hacking",2023-08-02,35105
-"UK Statistic",2023-08-02,4173
-"Data Science Central",2023-08-02,279157
-"SkyTruth",2023-08-02,1652
-"VERDE",2023-08-02,191
-"Noodle.ai",2023-08-02,24748
-"Global Partnership for Sustainable Development Data",2023-08-02,6534
-"Development Seed",2023-08-02,3101
-"Group on Earth Observations (GEO)",2023-08-02,7965
-"Squarepoint Capital",2023-08-02,23275
-"ADAPT Centre",2023-08-02,4284
-"Data & Society Research Institute",2023-08-02,14217
-"Appinventiv",2023-08-02,313815
-"Gower Street Analytics",2023-08-02,2061
-"Open Data Science Conference (ODSC)",2023-08-02,138872
-"JuliaHub",2023-08-02,19148
-"Python Ireland",2023-08-02,2252
-"ThinkR (FR)",2023-08-02,740
-"Sololearn",2023-08-02,154124
-"Business Analyst and BI Specialist",2023-08-02,18130
-"Lander Analytics",2023-08-02,505
-"Dataquest.io",2023-08-02,43554
-"NumFOCUS",2023-08-02,4174
-"Ursa Labs",2023-08-02,456
-"The Alan Turing Institute",2023-08-02,44247
-"Klue",2023-08-02,19354
-"insight2impact",2023-08-02,1349
-"PyData Berlin",2023-08-02,777
-"Project Jupyter",2023-08-02,13331
-"GapData Institute",2023-08-02,112
-"SatVu",2023-08-02,7117
-"Data Science Academy",2023-08-02,456232
-"Data For Good",2023-08-02,11624
-"Data Science Foundation International",2023-08-02,3012
-"Twenty Billion Neurons",2023-08-02,3238
-"Machine Learning Mastery",2023-08-02,280890
-"SuperDataScience",2023-08-02,95131
-"Big Data LDN",2023-08-02,7126
-"Xuntos - Let's Get Together",2023-08-02,788
-"Microsoft Power BI by Solution Systems",2023-08-02,86081
-"Ultimate",2023-08-02,9469
-"QuantStack",2023-08-02,1231
-"Derilinx",2023-08-02,1128
-"Radiant Earth",2023-08-02,8066
-"United Nations Satellite Centre (UNOSAT)",2023-08-02,5166
-"Global Fishing Watch",2023-08-02,7260
-"RSS Data Science and AI Section",2023-08-02,2084
-"Invenia Labs",2023-08-02,2479
-"The Global Academy",2023-08-02,384
-"Open Cadastre",2023-08-02,16
-"Sister Analyst",2023-08-02,542
-"SDG Academy",2023-08-02,23896
-"PyData Amsterdam",2023-08-02,776
-"(WiMLDS) Women in Machine Learning & Data Science",2023-08-02,15350
-"Fathom Data",2023-08-02,459
-"ADF Haiti",2023-08-02,498
-"Alldus",2023-08-02,59360
-"AI Awards Ireland",2023-08-02,3544
-"Data for Good Foundation",2023-08-02,2270
-"Data Science Zimbabwe",2023-08-02,7388
-"Why R?",2023-08-02,4550
-"PyData Delhi",2023-08-02,1737
-"Bhutan Data Scientists",2023-08-02,54
-"Accenture The Dock",2023-08-02,9130
-"CivicDataLab",2023-08-02,4669
-"SCALEWORK",2023-08-02,1238
-"Data Visualization Society",2023-08-02,140477
-"Omdena",2023-08-02,36446
-"EcoAngola",2023-08-02,27713
-"Rust Programming Language",2023-08-02,8057
-"Age Of Geeks",2023-08-02,156633
-"R User Group Nepal",2023-08-02,87
-"Women in Machine Learning and Data Science MAURITIUS",2023-08-02,104
-"East Africa Research &Data Analysis",2023-08-02,17
-"Irish Air Corps",2023-08-02,1920
-"datatraining.io",2023-08-02,29693
-"getINNOtized GmbH",2023-08-02,7297
-"Data Science Council of America",2023-08-02,65940
-"Obama Foundation",2023-08-02,213452
-"Geosaber",2023-08-02,7850
-"Tekkare",2023-08-02,1117
-"Machine Learning Prague conference",2023-08-02,404
-"Canvas Intelligence",2023-08-02,12864
-"NVIDIA AI",2023-08-02,481030
-"QuantEcon",2023-08-02,329
-"365 Data Science",2023-08-02,142320
-"Business Science",2023-08-02,14921
-"Treemetrics Ltd",2023-08-02,1476
-"CeADAR Ireland",2023-08-02,2270
-"Space4Good",2023-08-02,7852
-"Outreachy",2023-08-02,10882
-"DeepLearning.AI",2023-08-02,694871
-"UCL Data Science Society",2023-08-02,1536
-"Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)",2023-08-02,54538
-"Government Statistical Service",2023-08-02,8445
-"Bhutan Data Scientists Pvt Ltd",2023-08-02,101
-"Government of Ireland",2023-08-02,49232
-"Weights & Biases",2023-08-02,47527
-"Quansight",2023-08-02,2310
-"DSNai - Data Science Nigeria",2023-08-02,11645
-"African Institute for Mathematical Sciences Ghana",2023-08-02,1738
-"Zindi",2023-08-02,13480
-"Data Science for Social Good Foundation",2023-08-02,5056
-"AIR Centre - Atlantic International Research Centre",2023-08-02,3862
-"Coding Black Females",2023-08-02,14157
-"OpenTeams",2023-08-02,2700
-"ArkeUp Academy | Océan Indien",2023-08-02,1515
-"Google Summer of Code",2023-08-02,57980
-"Bissau A",2023-08-02,66
-"AWS Databases & Analytics",2023-08-02,263986
-"Dragon Coders Private Limited",2023-08-02,245
-"PlantingSpace",2023-08-02,693
-"Jumping Rivers Ltd",2023-08-02,2228
-"Benin ThinkLab",2023-08-02,86
-"Towards Data Science",2023-08-02,590825
-"R Users Group - Ecuador",2023-08-02,294
-"R-Ladies Miami",2023-08-02,200
-"Anaconda Inc.",2023-08-02,67709
-"Quansight Initiate",2023-08-02,124
-"allspatial - Geospatial Software and Services",2023-08-02,17
-"PyData London",2023-08-02,821
-"PyData",2023-08-02,275
-"Data Scientists Ltd",2023-08-02,42
-"LSBU Busin",2023-08-02,2684
-"AI Inclusive",2023-08-02,3588
-"MachineX Intelligence",2023-08-02,1788
-"DataIQ School of Analysis",2023-08-02,142
-"NumericMind",2023-08-02,985
-"Women in Data®",2023-08-02,43491
-"Data2X United Nations Foundation",2023-08-02,4180
-"KerrySciTech",2023-08-02,2855
-"Observatoire du Numérique en Haïti (ObNH)",2023-08-02,109
-"UNICEF Innocenti",2023-08-02,61151
-"Radiant MLHub",2023-08-02,3627
-"ViennaR",2023-08-02,390
-"EwaData",2023-08-02,939
-"JULIACON-Africa",2023-08-02,2
-"ClusterAI",2023-08-02,462
-"JuliaCon 2023",2023-08-02,4154
-"Statistics Without Borders",2023-08-02,1764
-"Datalitics",2023-08-02,208
-"Towards AI",2023-08-02,253708
-"R Consortium",2023-08-02,5462
-"PyCaret",2023-08-02,19503
-"The Catalyst",2023-08-02,1077
-"African Drone & Data Academy Powered By UNICEF",2023-08-02,2313
-"UCD Netsoc – UCD's Internet and Computer Science Society",2023-08-02,341
-"R User C",2023-08-02,15446
-"Business Data Laboratory Limited",2023-08-02,206
-"storytelling with data",2023-08-02,136026
-"Rose Data Studio LLC",2023-08-02,317
-"EuroPython",2023-08-02,2289
-"OpenStreetMap Ireland",2023-08-02,265
-"The Collective Impact Group For Guinea",2023-08-02,163
-"Women in AI Ireland",2023-08-02,4241
-"Sentient Projects",2023-08-02,656
-"Code for Cause",2023-08-02,22574
-"SDGs",2023-08-02,4050
-"InsideAIML",2023-08-02,16010
-"PumasAI",2023-08-02,2757
-"FreeLocalMappers",2023-08-02,1067
-"Global Shapers Community - Thimphu Hub",2023-08-02,466
-"Fisheries Transparency Initiative (FiTI)",2023-08-02,1149
-"Women+ in Geospatial",2023-08-02,21757
-"Ayiti Analytics",2023-08-02,1833
-"Becht Foundation",2023-08-02,603
-"NIMBADATA",2023-08-02,4
-"Digital Earth Africa",2023-08-02,5707
-"Africa in Science",2023-08-02,4282
-"BeZero Carbon",2023-08-02,14596
-"DataSoc",2023-08-02,852
-"UNDP Guin",2023-08-02,3154
-"PLACE",2023-08-02,1183
-"Amazon Science",2023-08-02,315433
-"NannyML",2023-08-02,4798
-"The R Foundation for Statistical Computing",2023-08-02,8461
-"Sylvera",2023-08-02,25195
-"DataDotOrg",2023-08-02,7372
-"Innovative Hub for Research in Africa",2023-08-02,365
-"R-Ladies Tunis",2023-08-02,749
-"The Julia Language",2023-08-02,14458
-"The Organization for Women in Science for the Developing World (OWSD)",2023-08-02,2771
-"Rx Studio™",2023-08-02,738
-"Girls In ICT Niger",2023-08-02,325
-"GORODATA",2023-08-02,1613
-"Tag Ng",2023-08-02,3363
-"BlackTIDES",2023-08-02,1110
-"Spark",2023-08-02,6397
-"DATA MANSA",2023-08-02,190
-"Make Every Woman Count",2023-08-02,325
-"Catalyst Seychelles",2023-08-02,229
-"Thimphu TechPark",2023-08-02,286
-"Julius Technologies",2023-08-02,250
-"JuliaActuary",2023-08-02,1872
-"PyData Ireland",2023-08-02,44
-"Ishango.ai",2023-08-02,2259
-"Black in Data",2023-08-02,2864
-"DATA CENTRIC AFRICA",2023-08-02,1438
-"Outlier",2023-08-02,99
-"PyLadies Dublin",2023-08-02,378
-"Oman Data Scien",2023-08-02,139
-"R-Ladies Saudi Arabia (Dammam)",2023-08-02,362
-"Software Insights Ireland",2023-08-02,1286
-"PyData Global",2023-08-02,4589
-"PackagingCon",2023-08-02,82
-"HackHills",2023-08-02,457
-"McKinsey Africa",2023-08-02,29641
-"Compylo",2023-08-02,1365
-"Statistics Globe",2023-08-02,5697
-"Statistical Models for Social Sciences Consultant",2023-08-02,2974
-"R-Ladies Gaborone",2023-08-02,436
-"X-Europe Data Science",2023-08-02,88
-"Microsoft Research",2023-08-02,131913
-"Tunis R User Group",2023-08-02,709
-"VISO Cyber Security",2023-08-02,843
-"DeepVidhya",2023-08-02,416
-"scikit-learn",2023-08-02,92996
-"Maolte Technical Solutions Limited",2023-08-02,478
-"Legato Health Technologies Ireland",2023-08-02,9762
-"Applied Epi",2023-08-02,2529
-"Black In Marine Science Non-Profit Organization",2023-08-02,867
-"MidlandsIreland.ie",2023-08-02,3333
-"Edmonton R User Group",2023-08-02,50
-"SciML",2023-08-02,2520
-"NumPy",2023-08-02,2030
-"Pandas",2023-08-02,1355
-"Commerce et Administration des Entreprises- INP-HB",2023-08-02,623
-"Expertise Data Vision (EDaVi)",2023-08-02,84
-"R-Ladies Paris",2023-08-02,1089
-"BCG X",2023-08-02,222523
-"PyLadies Seattle",2023-08-02,59
-"RSS Real World Data Science",2023-08-02,476
-"Carelon Global Solutions Ireland",2023-08-02,17360
-"Qtatech",2023-08-02,601
-"Single Cell",2023-08-02,789
-"Ghana R Users Community",2023-08-02,296
-"Women in Data Science (WiDS) Kenya",2023-08-02,761
-"EnableD",2023-08-02,240
-"Global Collaboration Partners Limited",2023-08-02,114
 "CFA Program",2023-02-25,136328
 "CFA Program",2023-03-13,137476
 "CFA Program",2023-03-29,139246
@@ -415,6 +23,9 @@
 "CFA Program",2023-06-05,145418
 "CFA Program",2023-06-11,145823
 "CFA Program",2023-06-23,146747
+"CFA Program",2023-07-06,148007
+"CFA Program",2023-07-23,149390
+"CFA Program",2023-08-05,150524
 "CGI",2023-01-21,1053499
 "CGI",2023-02-10,1072598
 "CGI",2023-02-25,1085777
@@ -425,6 +36,9 @@
 "CGI",2023-06-05,1172330
 "CGI",2023-06-11,1178515
 "CGI",2023-06-23,1191276
+"CGI",2023-07-06,1204033
+"CGI",2023-07-23,1218389
+"CGI",2023-08-05,1230239
 "CGTN",2023-01-21,61106
 "CGTN",2023-02-25,61970
 "CGTN",2023-03-13,62374
@@ -434,6 +48,9 @@
 "CGTN",2023-06-05,64816
 "CGTN",2023-06-11,64920
 "CGTN",2023-06-23,65173
+"CGTN",2023-07-06,65957
+"CGTN",2023-07-23,69393
+"CGTN",2023-08-05,76913
 "CINECA",2023-03-13,14547
 "CINECA",2023-03-29,14748
 "CINECA",2023-04-10,14891
@@ -441,6 +58,9 @@
 "CINECA",2023-06-05,15532
 "CINECA",2023-06-11,15632
 "CINECA",2023-06-23,15796
+"CINECA",2023-07-06,15924
+"CINECA",2023-07-23,16040
+"CINECA",2023-08-05,16403
 "CIWEM (The Chartered Institution of Water and Environmental Management)",2023-01-28,18556
 "CIWM",2023-01-28,11506
 "CMMC 2.0 information",2023-01-21,2230
@@ -452,6 +72,9 @@
 "CMMC 2.0 information",2023-06-05,2872
 "CMMC 2.0 information",2023-06-11,2877
 "CMMC 2.0 information",2023-06-23,2887
+"CMMC 2.0 information",2023-07-06,2940
+"CMMC 2.0 information",2023-07-23,2955
+"CMMC 2.0 information",2023-08-05,2979
 "CNN",2023-01-21,3203514
 "CNN",2023-02-10,3211886
 "CNN",2023-02-25,3217045
@@ -462,6 +85,9 @@
 "CNN",2023-06-05,3248093
 "CNN",2023-06-11,3250295
 "CNN",2023-06-23,3254731
+"CNN",2023-07-06,3260190
+"CNN",2023-07-23,3264545
+"CNN",2023-08-05,3269476
 "CO:LAB Pensacola",2023-01-21,401
 "CO:LAB Pensacola",2023-02-25,406
 "CO:LAB Pensacola",2023-03-13,413
@@ -471,6 +97,9 @@
 "CO:LAB Pensacola",2023-06-05,450
 "CO:LAB Pensacola",2023-06-11,452
 "CO:LAB Pensacola",2023-06-23,459
+"CO:LAB Pensacola",2023-07-06,461
+"CO:LAB Pensacola",2023-07-23,468
+"CO:LAB Pensacola",2023-08-05,472
 "CONNECT Centre",2021-01-22,2396
 "CONNECT Centre",2021-01-25,2401
 "CONNECT Centre",2021-01-28,2405
@@ -595,6 +224,11 @@
 "CONNECT Centre",2023-06-05,3954
 "CONNECT Centre",2023-06-14,3966
 "CONNECT Centre",2023-06-17,3971
+"CONNECT Centre",2023-06-27,3986
+"CONNECT Centre",2023-07-06,3990
+"CONNECT Centre",2023-07-23,3999
+"CONNECT Centre",2023-08-08,4006
+"CONNECT Centre",2023-08-10,4007
 "CPI Formations",2020-10-16,912
 "CPI Formations",2020-10-21,917
 "CPI Formations",2020-10-22,918
@@ -620,6 +254,9 @@
 "CSIRO",2023-06-05,256683
 "CSIRO",2023-06-11,257909
 "CSIRO",2023-06-23,260328
+"CSIRO",2023-07-06,263107
+"CSIRO",2023-07-23,266263
+"CSIRO",2023-08-05,269191
 "CSIRO's Data61",2023-01-21,31450
 "CSIRO's Data61",2023-02-25,31912
 "CSIRO's Data61",2023-03-13,32118
@@ -629,6 +266,9 @@
 "CSIRO's Data61",2023-06-05,33285
 "CSIRO's Data61",2023-06-11,33451
 "CSIRO's Data61",2023-06-23,33620
+"CSIRO's Data61",2023-07-06,33856
+"CSIRO's Data61",2023-07-23,34130
+"CSIRO's Data61",2023-08-05,34457
 "CSO (Central Statistics Office Ireland)",2021-02-03,5139
 "CSO (Central Statistics Office Ireland)",2021-02-07,5152
 "CSO (Central Statistics Office Ireland)",2021-02-12,5167
@@ -771,6 +411,12 @@
 "CSO (Central Statistics Office Ireland)",2023-06-14,10368
 "CSO (Central Statistics Office Ireland)",2023-06-17,10384
 "CSO (Central Statistics Office Ireland)",2023-06-23,10406
+"CSO (Central Statistics Office Ireland)",2023-06-27,10429
+"CSO (Central Statistics Office Ireland)",2023-07-06,10457
+"CSO (Central Statistics Office Ireland)",2023-07-23,10500
+"CSO (Central Statistics Office Ireland)",2023-08-02,10536
+"CSO (Central Statistics Office Ireland)",2023-08-08,10552
+"CSO (Central Statistics Office Ireland)",2023-08-10,10562
 "CSO (Central Statistics Office)",2020-10-15,4818
 "CSO (Central Statistics Office)",2020-10-20,4830
 "CSO (Central Statistics Office)",2020-10-21,4832
@@ -810,6 +456,9 @@
 "CSP Daily News",2023-06-05,4763
 "CSP Daily News",2023-06-11,4802
 "CSP Daily News",2023-06-23,4860
+"CSP Daily News",2023-07-06,4929
+"CSP Daily News",2023-07-23,5005
+"CSP Daily News",2023-08-05,5052
 "CSR Europe",2020-10-16,10755
 "CSR Europe",2020-10-21,10872
 "CSR Europe",2020-10-22,10919
@@ -920,6 +569,11 @@
 "CSUDH Finance Student Society",2023-06-05,65
 "CSUDH Finance Student Society",2023-06-14,65
 "CSUDH Finance Student Society",2023-06-17,65
+"CSUDH Finance Student Society",2023-06-27,65
+"CSUDH Finance Student Society",2023-07-06,65
+"CSUDH Finance Student Society",2023-07-23,65
+"CSUDH Finance Student Society",2023-08-08,65
+"CSUDH Finance Student Society",2023-08-10,65
 "CTS Inc.",2023-01-21,5269
 "CTS Inc.",2023-02-10,5297
 "CTS Inc.",2023-02-25,5301
@@ -930,7 +584,17 @@
 "CTS Inc.",2023-06-05,5515
 "CTS Inc.",2023-06-11,5530
 "CTS Inc.",2023-06-23,5564
+"CTS Inc.",2023-07-06,5600
+"CTS Inc.",2023-07-23,5664
+"CTS Inc.",2023-08-05,5714
 "CUMMINS TECHNOLOGIES INDIA LIMITED",2023-01-28,5042
+"Cell & Gene Therapy Manufacturing",2023-01-25,1879
+"Cell & Gene Therapy Manufacturing",2023-01-29,1887
+"Cell and Gene Therapy Catapult",2023-01-25,34397
+"Cell and Gene Therapy Catapult",2023-01-29,34484
+"Cellino",2023-01-25,5727
+"Cellino",2023-01-29,5765
+"Cenla Environmental Science",2023-01-28,113
 "Censius",2023-01-21,12891
 "Censius",2023-02-25,15039
 "Censius",2023-03-13,15393
@@ -940,6 +604,9 @@
 "Censius",2023-06-05,16639
 "Censius",2023-06-11,16643
 "Censius",2023-06-23,16669
+"Censius",2023-07-06,16695
+"Censius",2023-07-23,16674
+"Censius",2023-08-05,16681
 "Centennial Parklands",2023-01-28,500
 "Center for Breakthrough Medicines",2023-01-25,12143
 "Center for Breakthrough Medicines",2023-01-29,12229
@@ -957,6 +624,12 @@
 "Center for International Environmental Law (CIEL)",2023-06-14,13733
 "Center for International Environmental Law (CIEL)",2023-06-17,13766
 "Center for International Environmental Law (CIEL)",2023-06-23,13871
+"Center for International Environmental Law (CIEL)",2023-06-27,13941
+"Center for International Environmental Law (CIEL)",2023-07-06,14117
+"Center for International Environmental Law (CIEL)",2023-07-23,14420
+"Center for International Environmental Law (CIEL)",2023-08-02,14574
+"Center for International Environmental Law (CIEL)",2023-08-08,14681
+"Center for International Environmental Law (CIEL)",2023-08-10,14785
 "Center for Internet Security",2023-01-21,95204
 "Center for Internet Security",2023-02-10,96887
 "Center for Internet Security",2023-02-25,98200
@@ -967,6 +640,9 @@
 "Center for Internet Security",2023-06-05,107213
 "Center for Internet Security",2023-06-11,107900
 "Center for Internet Security",2023-06-23,109193
+"Center for Internet Security",2023-07-06,110526
+"Center for Internet Security",2023-07-23,112050
+"Center for Internet Security",2023-08-05,113337
 "Center for Scientific Collaboration and Community Engagement",2023-01-25,814
 "Center for Systems Security and Information Assurance (CSSIA)",2023-01-21,67
 "Center for Systems Security and Information Assurance (CSSIA)",2023-02-25,70
@@ -977,6 +653,9 @@
 "Center for Systems Security and Information Assurance (CSSIA)",2023-06-05,81
 "Center for Systems Security and Information Assurance (CSSIA)",2023-06-11,82
 "Center for Systems Security and Information Assurance (CSSIA)",2023-06-23,83
+"Center for Systems Security and Information Assurance (CSSIA)",2023-07-06,86
+"Center for Systems Security and Information Assurance (CSSIA)",2023-07-23,88
+"Center for Systems Security and Information Assurance (CSSIA)",2023-08-05,90
 "Center for Technology Responding to Climate Change (CliTech)",2023-01-28,86
 "Centered",2023-01-25,1338
 "Centers for Disease Control and Prevention",2023-01-21,1900128
@@ -989,6 +668,9 @@
 "Centers for Disease Control and Prevention",2023-06-05,1992167
 "Centers for Disease Control and Prevention",2023-06-11,1998918
 "Centers for Disease Control and Prevention",2023-06-23,2012481
+"Centers for Disease Control and Prevention",2023-07-06,2025639
+"Centers for Disease Control and Prevention",2023-07-23,2041223
+"Centers for Disease Control and Prevention",2023-08-05,2055073
 "Central Bank of Ireland",2020-10-20,50660
 "Central Intelligence Agency",2023-01-21,225667
 "Central Intelligence Agency",2023-02-10,232560
@@ -1000,6 +682,9 @@
 "Central Intelligence Agency",2023-06-05,267653
 "Central Intelligence Agency",2023-06-11,269195
 "Central Intelligence Agency",2023-06-23,272244
+"Central Intelligence Agency",2023-07-06,275384
+"Central Intelligence Agency",2023-07-23,279248
+"Central Intelligence Agency",2023-08-05,282559
 "Centre for Environment Education",2023-01-28,17456
 "Centre for Science and Environment New Delhi",2023-01-28,45653
 "Centre for Sustainable Fashion",2021-04-20,45157
@@ -1101,6 +786,11 @@
 "Centre for Sustainable Fashion",2023-06-05,79908
 "Centre for Sustainable Fashion",2023-06-14,80121
 "Centre for Sustainable Fashion",2023-06-17,80170
+"Centre for Sustainable Fashion",2023-06-27,80352
+"Centre for Sustainable Fashion",2023-07-06,80550
+"Centre for Sustainable Fashion",2023-07-23,80893
+"Centre for Sustainable Fashion",2023-08-08,81197
+"Centre for Sustainable Fashion",2023-08-10,81247
 "Chalmers University of Technology",2023-01-28,125425
 "Champlain College",2023-01-21,32548
 "Champlain College",2023-02-10,32688
@@ -1112,6 +802,9 @@
 "Champlain College",2023-06-05,33202
 "Champlain College",2023-06-11,33224
 "Champlain College",2023-06-23,33288
+"Champlain College",2023-07-06,33339
+"Champlain College",2023-07-23,33384
+"Champlain College",2023-08-05,33443
 "Chan Zuckerberg Biohub",2023-01-25,18811
 "Chan Zuckerberg Biohub",2023-01-29,18838
 "Chan Zuckerberg Initiative",2023-01-25,70535
@@ -1130,6 +823,9 @@
 "Charles Schwab",2023-06-05,282322
 "Charles Schwab",2023-06-11,283617
 "Charles Schwab",2023-06-23,285896
+"Charles Schwab",2023-07-06,287994
+"Charles Schwab",2023-07-23,290501
+"Charles Schwab",2023-08-05,292590
 "Charlotte Street Capital",2023-01-25,724
 "Charlotte Street Capital",2023-01-29,727
 "Chartered Institute of Ecology and Environmental Management (CIEEM)",2023-01-28,32288
@@ -1143,6 +839,9 @@
 "Chase",2023-06-05,411825
 "Chase",2023-06-11,412940
 "Chase",2023-06-23,415165
+"Chase",2023-07-06,417431
+"Chase",2023-07-23,420188
+"Chase",2023-08-05,422860
 "Chase for Business",2023-01-21,39535
 "Chase for Business",2023-02-10,39725
 "Chase for Business",2023-02-25,39849
@@ -1153,6 +852,9 @@
 "Chase for Business",2023-06-05,40870
 "Chase for Business",2023-06-11,40958
 "Chase for Business",2023-06-23,41108
+"Chase for Business",2023-07-06,41255
+"Chase for Business",2023-07-23,41445
+"Chase for Business",2023-08-05,41636
 "Chasing Returns",2020-12-27,455
 "Chasing Returns",2021-02-19,467
 "Chasing Returns",2021-03-26,470
@@ -1169,6 +871,9 @@
 "Children's National Hospital",2023-06-05,48257
 "Children's National Hospital",2023-06-11,48471
 "Children's National Hospital",2023-06-23,48794
+"Children's National Hospital",2023-07-06,49116
+"Children's National Hospital",2023-07-23,49478
+"Children's National Hospital",2023-08-05,49978
 "Chitkara University",2023-01-28,67440
 "Chroma Medicine",2023-01-25,3027
 "Chroma Medicine",2023-01-29,3035
@@ -1184,6 +889,9 @@
 "Circle K",2023-06-05,136045
 "Circle K",2023-06-11,136676
 "Circle K",2023-06-23,137857
+"Circle K",2023-07-06,139133
+"Circle K",2023-07-23,140524
+"Circle K",2023-08-05,141802
 "Circularis Biotechnologies",2023-01-25,1688
 "Circularis Biotechnologies",2023-01-29,1689
 "Circularity",2023-01-25,1960
@@ -1196,6 +904,9 @@
 "CisLunar Industries",2023-06-05,2099
 "CisLunar Industries",2023-06-11,2109
 "CisLunar Industries",2023-06-23,2140
+"CisLunar Industries",2023-07-06,2175
+"CisLunar Industries",2023-07-23,2216
+"CisLunar Industries",2023-08-05,2243
 "Cisco",2023-01-21,5647695
 "Cisco",2023-02-10,5684069
 "Cisco",2023-02-25,5710742
@@ -1206,6 +917,9 @@
 "Cisco",2023-06-05,5947473
 "Cisco",2023-06-11,5965311
 "Cisco",2023-06-23,6000985
+"Cisco",2023-07-06,6043948
+"Cisco",2023-07-23,6093542
+"Cisco",2023-08-05,6135729
 "Cisco Secure",2023-01-21,296267
 "Cisco Secure",2023-02-25,297503
 "Cisco Secure",2023-03-13,298010
@@ -1215,6 +929,9 @@
 "Cisco Secure",2023-06-05,302211
 "Cisco Secure",2023-06-11,302731
 "Cisco Secure",2023-06-23,303628
+"Cisco Secure",2023-07-06,304641
+"Cisco Secure",2023-07-23,305490
+"Cisco Secure",2023-08-05,306324
 "Citi",2023-01-21,3963643
 "Citi",2023-01-22,3964309
 "Citi",2023-01-29,3971827
@@ -1227,6 +944,9 @@
 "Citi",2023-06-05,4127787
 "Citi",2023-06-11,4137430
 "Citi",2023-06-23,4157447
+"Citi",2023-07-06,4181797
+"Citi",2023-07-23,4211589
+"Citi",2023-08-05,4240366
 "Citizens",2023-01-21,116971
 "Citizens",2023-02-10,118084
 "Citizens",2023-02-25,118778
@@ -1237,6 +957,9 @@
 "Citizens",2023-06-05,122693
 "Citizens",2023-06-11,123005
 "Citizens",2023-06-23,123787
+"Citizens",2023-07-06,124401
+"Citizens",2023-07-23,125075
+"Citizens",2023-08-05,125808
 "City Data Science Society",2021-03-28,98
 "City Data Science Society",2021-03-31,98
 "City Data Science Society",2021-04-06,98
@@ -1345,6 +1068,9 @@
 "City of Boston",2023-06-05,33270
 "City of Boston",2023-06-11,33396
 "City of Boston",2023-06-23,33614
+"City of Boston",2023-07-06,33851
+"City of Boston",2023-07-23,34242
+"City of Boston",2023-08-05,34566
 "City of Pensacola Government",2023-01-21,1545
 "City of Pensacola Government",2023-02-25,1579
 "City of Pensacola Government",2023-03-13,1609
@@ -1354,6 +1080,9 @@
 "City of Pensacola Government",2023-06-05,1753
 "City of Pensacola Government",2023-06-11,1769
 "City of Pensacola Government",2023-06-23,1788
+"City of Pensacola Government",2023-07-06,1814
+"City of Pensacola Government",2023-07-23,1837
+"City of Pensacola Government",2023-08-05,1849
 "City of Winchester Virginia Local Government",2023-01-21,1290
 "City of Winchester Virginia Local Government",2023-02-10,1309
 "City of Winchester Virginia Local Government",2023-02-25,1320
@@ -1364,6 +1093,9 @@
 "City of Winchester Virginia Local Government",2023-06-05,1380
 "City of Winchester Virginia Local Government",2023-06-11,1382
 "City of Winchester Virginia Local Government",2023-06-23,1391
+"City of Winchester Virginia Local Government",2023-07-06,1395
+"City of Winchester Virginia Local Government",2023-07-23,1404
+"City of Winchester Virginia Local Government",2023-08-05,1412
 "CivicCon",2023-02-25,232
 "CivicCon",2023-03-13,234
 "CivicCon",2023-03-29,254
@@ -1372,6 +1104,9 @@
 "CivicCon",2023-06-05,267
 "CivicCon",2023-06-11,273
 "CivicCon",2023-06-23,278
+"CivicCon",2023-07-06,281
+"CivicCon",2023-07-23,284
+"CivicCon",2023-08-05,291
 "CivicDataLab",2020-10-25,1061
 "CivicDataLab",2020-10-28,1063
 "CivicDataLab",2020-10-30,1063
@@ -1553,6 +1288,12 @@
 "CivicDataLab",2023-06-14,4503
 "CivicDataLab",2023-06-17,4508
 "CivicDataLab",2023-06-23,4534
+"CivicDataLab",2023-06-27,4550
+"CivicDataLab",2023-07-06,4597
+"CivicDataLab",2023-07-23,4637
+"CivicDataLab",2023-08-02,4669
+"CivicDataLab",2023-08-08,4699
+"CivicDataLab",2023-08-10,4716
 "Claranet Cyber Security",2023-01-21,4951
 "Claranet Cyber Security",2023-02-10,5008
 "Claranet Cyber Security",2023-02-25,5043
@@ -1563,6 +1304,9 @@
 "Claranet Cyber Security",2023-06-05,5255
 "Claranet Cyber Security",2023-06-11,5260
 "Claranet Cyber Security",2023-06-23,5280
+"Claranet Cyber Security",2023-07-06,5307
+"Claranet Cyber Security",2023-07-23,5320
+"Claranet Cyber Security",2023-08-05,5338
 "Clean Ocean Action",2023-01-28,2022
 "Clean Water Action",2023-01-28,8815
 "Clean Water Technology",2023-01-28,2401
@@ -1576,6 +1320,9 @@
 "Clearfell",2023-06-05,16
 "Clearfell",2023-06-11,16
 "Clearfell",2023-06-23,16
+"Clearfell",2023-07-06,16
+"Clearfell",2023-07-23,16
+"Clearfell",2023-08-05,16
 "Clearstream",2020-10-16,17391
 "Clearstream",2020-10-18,17403
 "Clearstream",2020-10-21,17436
@@ -1620,6 +1367,9 @@
 "Cloud Security Alliance",2023-06-05,81529
 "Cloud Security Alliance",2023-06-11,81717
 "Cloud Security Alliance",2023-06-23,82070
+"Cloud Security Alliance",2023-07-06,82480
+"Cloud Security Alliance",2023-07-23,83110
+"Cloud Security Alliance",2023-08-05,83667
 "CloudThat",2023-01-21,47237
 "CloudThat",2023-02-10,47961
 "CloudThat",2023-02-25,48449
@@ -1630,6 +1380,9 @@
 "CloudThat",2023-06-05,52988
 "CloudThat",2023-06-11,53337
 "CloudThat",2023-06-23,53884
+"CloudThat",2023-07-06,54399
+"CloudThat",2023-07-23,54964
+"CloudThat",2023-08-05,55465
 "Cloudera",2023-01-28,234753
 "Cloudflare",2023-01-21,437281
 "Cloudflare",2023-02-10,451950
@@ -1641,6 +1394,9 @@
 "Cloudflare",2023-06-05,549336
 "Cloudflare",2023-06-11,550995
 "Cloudflare",2023-06-23,562481
+"Cloudflare",2023-07-06,573981
+"Cloudflare",2023-07-23,587954
+"Cloudflare",2023-08-05,600033
 "Clubhouse",2023-01-22,26207
 "ClusterAI",2020-10-20,295
 "ClusterAI",2020-10-21,295
@@ -1828,6 +1584,12 @@
 "ClusterAI",2023-06-14,459
 "ClusterAI",2023-06-17,459
 "ClusterAI",2023-06-23,459
+"ClusterAI",2023-06-27,459
+"ClusterAI",2023-07-06,459
+"ClusterAI",2023-07-23,461
+"ClusterAI",2023-08-02,462
+"ClusterAI",2023-08-08,462
+"ClusterAI",2023-08-10,461
 "CoFounder",2021-02-19,625
 "CoFounder",2021-03-06,648
 "CoFounder",2021-03-26,664
@@ -1844,6 +1606,9 @@
 "Coalfire",2023-06-05,24199
 "Coalfire",2023-06-11,24244
 "Coalfire",2023-06-23,24369
+"Coalfire",2023-07-06,24527
+"Coalfire",2023-07-23,24668
+"Coalfire",2023-08-05,24859
 "Code for Cause",2021-06-02,16174
 "Code for Cause",2021-06-09,16909
 "Code for Cause",2021-06-16,17430
@@ -1970,6 +1735,12 @@
 "Code for Cause",2023-06-14,22575
 "Code for Cause",2023-06-17,22577
 "Code for Cause",2023-06-23,22584
+"Code for Cause",2023-06-27,22593
+"Code for Cause",2023-07-06,22598
+"Code for Cause",2023-07-23,22586
+"Code for Cause",2023-08-02,22574
+"Code for Cause",2023-08-08,22570
+"Code for Cause",2023-08-10,22571
 "Code in Place",2023-01-25,2931
 "CodeControl",2023-01-25,2564
 "CodeGreen Solutions",2023-01-28,8839
@@ -1984,6 +1755,9 @@
 "Codecademy",2023-06-05,241235
 "Codecademy",2023-06-11,242326
 "Codecademy",2023-06-23,244276
+"Codecademy",2023-07-06,246479
+"Codecademy",2023-07-23,249065
+"Codecademy",2023-08-05,251194
 "Codemonk",2020-10-16,1305
 "Codemonk",2020-10-18,1306
 "Codemonk",2020-10-21,1308
@@ -2156,6 +1930,12 @@
 "Coding Black Females",2023-06-14,13763
 "Coding Black Females",2023-06-17,13792
 "Coding Black Females",2023-06-23,13848
+"Coding Black Females",2023-06-27,13875
+"Coding Black Females",2023-07-06,13936
+"Coding Black Females",2023-07-23,14060
+"Coding Black Females",2023-08-02,14157
+"Coding Black Females",2023-08-08,14200
+"Coding Black Females",2023-08-10,14232
 "Coding Blocks",2023-01-25,140838
 "Coffee Analysts",2023-01-21,5126
 "Coffee Analysts",2023-02-10,5151
@@ -2167,6 +1947,9 @@
 "Coffee Analysts",2023-06-05,5314
 "Coffee Analysts",2023-06-11,5321
 "Coffee Analysts",2023-06-23,5336
+"Coffee Analysts",2023-07-06,5352
+"Coffee Analysts",2023-07-23,5363
+"Coffee Analysts",2023-08-05,5378
 "Cognitect",2020-10-16,2593
 "Cognitect",2020-10-20,2598
 "Cognitect",2020-10-21,2598
@@ -2189,6 +1972,9 @@
 "Cognitive Big Data Systems Inc",2023-06-05,117
 "Cognitive Big Data Systems Inc",2023-06-11,117
 "Cognitive Big Data Systems Inc",2023-06-23,117
+"Cognitive Big Data Systems Inc",2023-07-06,117
+"Cognitive Big Data Systems Inc",2023-07-23,117
+"Cognitive Big Data Systems Inc",2023-08-05,117
 "Cognitive Space",2023-01-21,3798
 "Cognitive Space",2023-02-25,4013
 "Cognitive Space",2023-03-13,4078
@@ -2198,6 +1984,9 @@
 "Cognitive Space",2023-06-05,4643
 "Cognitive Space",2023-06-11,4745
 "Cognitive Space",2023-06-23,5007
+"Cognitive Space",2023-07-06,5078
+"Cognitive Space",2023-07-23,5130
+"Cognitive Space",2023-08-05,5248
 "Cognizant",2020-10-25,2908887
 "Cognizant",2020-10-28,2915918
 "Cognizant",2020-10-30,2923134
@@ -2389,6 +2178,15 @@
 "Cognizant",2023-06-17,6588043
 "Cognizant",2023-06-23,6612895
 "Cognizant",2023-06-23,6612903
+"Cognizant",2023-06-27,6632892
+"Cognizant",2023-07-06,6678244
+"Cognizant",2023-07-06,6678204
+"Cognizant",2023-07-23,6743361
+"Cognizant",2023-07-23,6743506
+"Cognizant",2023-08-02,6787675
+"Cognizant",2023-08-05,6798580
+"Cognizant",2023-08-08,6808264
+"Cognizant",2023-08-10,6818501
 "Coiled",2023-01-21,1914
 "Coiled",2023-02-25,1933
 "Coiled",2023-03-13,1939
@@ -2398,6 +2196,9 @@
 "Coiled",2023-06-05,1987
 "Coiled",2023-06-11,1993
 "Coiled",2023-06-23,2006
+"Coiled",2023-07-06,2010
+"Coiled",2023-07-23,2023
+"Coiled",2023-08-05,2032
 "Coillte",2020-10-20,9787
 "Coillte",2020-10-20,9788
 "Coillte",2020-10-21,9793
@@ -2579,6 +2380,12 @@
 "Coillte",2023-06-14,16872
 "Coillte",2023-06-17,16884
 "Coillte",2023-06-23,16917
+"Coillte",2023-06-27,16942
+"Coillte",2023-07-06,16989
+"Coillte",2023-07-23,17083
+"Coillte",2023-08-02,17154
+"Coillte",2023-08-08,17184
+"Coillte",2023-08-10,17199
 "Coimbatore Institute of Technology",2023-01-28,27159
 "Coinbase",2023-01-21,642320
 "Coinbase",2023-02-10,646570
@@ -2590,6 +2397,9 @@
 "Coinbase",2023-06-05,673430
 "Coinbase",2023-06-11,675629
 "Coinbase",2023-06-23,679178
+"Coinbase",2023-07-06,683155
+"Coinbase",2023-07-23,687322
+"Coinbase",2023-08-05,690309
 "College Democrats of America",2023-01-21,1870
 "College Democrats of America",2023-02-10,1876
 "College Democrats of America",2023-02-25,1879
@@ -2600,6 +2410,9 @@
 "College Democrats of America",2023-06-05,1922
 "College Democrats of America",2023-06-11,1925
 "College Democrats of America",2023-06-23,1935
+"College Democrats of America",2023-07-06,1938
+"College Democrats of America",2023-07-23,1941
+"College Democrats of America",2023-08-05,1946
 "College Democrats of Massachusetts",2023-01-21,210
 "College Democrats of Massachusetts",2023-02-10,210
 "College Democrats of Massachusetts",2023-02-25,209
@@ -2610,6 +2423,9 @@
 "College Democrats of Massachusetts",2023-06-05,209
 "College Democrats of Massachusetts",2023-06-11,209
 "College Democrats of Massachusetts",2023-06-23,211
+"College Democrats of Massachusetts",2023-07-06,211
+"College Democrats of Massachusetts",2023-07-23,212
+"College Democrats of Massachusetts",2023-08-05,212
 "College Democrats of New York",2023-01-21,107
 "College Democrats of New York",2023-02-10,107
 "College Democrats of New York",2023-02-25,106
@@ -2620,6 +2436,9 @@
 "College Democrats of New York",2023-06-05,106
 "College Democrats of New York",2023-06-11,106
 "College Democrats of New York",2023-06-23,106
+"College Democrats of New York",2023-07-06,106
+"College Democrats of New York",2023-07-23,106
+"College Democrats of New York",2023-08-05,106
 "Collibra",2020-10-20,23338
 "Collibra",2020-10-21,23382
 "Collibra",2020-10-23,23469
@@ -2802,6 +2621,12 @@
 "Collibra",2023-06-14,59611
 "Collibra",2023-06-17,59732
 "Collibra",2023-06-23,59964
+"Collibra",2023-06-27,60141
+"Collibra",2023-07-06,60516
+"Collibra",2023-07-23,61067
+"Collibra",2023-08-02,61449
+"Collibra",2023-08-08,61622
+"Collibra",2023-08-10,61753
 "Collins Aerospace",2023-01-21,551632
 "Collins Aerospace",2023-02-25,653812
 "Collins Aerospace",2023-03-13,660224
@@ -2811,6 +2636,9 @@
 "Collins Aerospace",2023-06-05,693539
 "Collins Aerospace",2023-06-11,696193
 "Collins Aerospace",2023-06-23,702012
+"Collins Aerospace",2023-07-06,708549
+"Collins Aerospace",2023-07-23,716862
+"Collins Aerospace",2023-08-05,724076
 "Cologne AI and Machine Learning Meetup",2021-03-28,160
 "Cologne AI and Machine Learning Meetup",2021-03-31,160
 "Cologne AI and Machine Learning Meetup",2021-04-06,161
@@ -2915,6 +2743,11 @@
 "Cologne AI and Machine Learning Meetup",2023-06-05,269
 "Cologne AI and Machine Learning Meetup",2023-06-14,269
 "Cologne AI and Machine Learning Meetup",2023-06-17,270
+"Cologne AI and Machine Learning Meetup",2023-06-27,271
+"Cologne AI and Machine Learning Meetup",2023-07-06,277
+"Cologne AI and Machine Learning Meetup",2023-07-23,284
+"Cologne AI and Machine Learning Meetup",2023-08-08,284
+"Cologne AI and Machine Learning Meetup",2023-08-10,286
 "Color",2023-01-25,28020
 "Color",2023-01-29,28071
 "Colorado State University",2023-01-28,289047
@@ -3037,6 +2870,11 @@
 "Columbia Data Science Society",2023-06-05,860
 "Columbia Data Science Society",2023-06-14,863
 "Columbia Data Science Society",2023-06-17,863
+"Columbia Data Science Society",2023-06-27,867
+"Columbia Data Science Society",2023-07-06,876
+"Columbia Data Science Society",2023-07-23,883
+"Columbia Data Science Society",2023-08-08,884
+"Columbia Data Science Society",2023-08-10,884
 "Columbia University School of Professional Studies",2023-01-28,16298
 "Columbia University's M.S. in Nonprofit Management",2023-01-28,1014
 "Commerce et Administration des Entreprises- INP-HB",2022-04-25,137
@@ -3122,6 +2960,12 @@
 "Commerce et Administration des Entreprises- INP-HB",2023-06-14,618
 "Commerce et Administration des Entreprises- INP-HB",2023-06-17,619
 "Commerce et Administration des Entreprises- INP-HB",2023-06-23,619
+"Commerce et Administration des Entreprises- INP-HB",2023-06-27,619
+"Commerce et Administration des Entreprises- INP-HB",2023-07-06,621
+"Commerce et Administration des Entreprises- INP-HB",2023-07-23,623
+"Commerce et Administration des Entreprises- INP-HB",2023-08-02,623
+"Commerce et Administration des Entreprises- INP-HB",2023-08-08,624
+"Commerce et Administration des Entreprises- INP-HB",2023-08-10,624
 "Commonwealth Care Alliance",2023-01-21,14954
 "Commonwealth Care Alliance",2023-02-10,15260
 "Commonwealth Care Alliance",2023-02-25,15365
@@ -3132,6 +2976,9 @@
 "Commonwealth Care Alliance",2023-06-05,17103
 "Commonwealth Care Alliance",2023-06-11,17167
 "Commonwealth Care Alliance",2023-06-23,17313
+"Commonwealth Care Alliance",2023-07-06,17495
+"Commonwealth Care Alliance",2023-07-23,17769
+"Commonwealth Care Alliance",2023-08-05,18010
 "Commonwealth of Learning",2023-01-28,6227
 "Commonwealth of Massachusetts",2023-01-21,80505
 "Commonwealth of Massachusetts",2023-02-10,81568
@@ -3143,6 +2990,9 @@
 "Commonwealth of Massachusetts",2023-06-05,88557
 "Commonwealth of Massachusetts",2023-06-11,88853
 "Commonwealth of Massachusetts",2023-06-23,89504
+"Commonwealth of Massachusetts",2023-07-06,90205
+"Commonwealth of Massachusetts",2023-07-23,91008
+"Commonwealth of Massachusetts",2023-08-05,91846
 "Commvault",2023-01-21,115139
 "Commvault",2023-02-10,116341
 "Commvault",2023-02-25,117021
@@ -3153,6 +3003,9 @@
 "Commvault",2023-06-05,124479
 "Commvault",2023-06-11,124993
 "Commvault",2023-06-23,125970
+"Commvault",2023-07-06,126797
+"Commvault",2023-07-23,127899
+"Commvault",2023-08-05,128871
 "CompTIA",2023-01-21,395876
 "CompTIA",2023-02-10,398803
 "CompTIA",2023-02-25,401343
@@ -3163,6 +3016,9 @@
 "CompTIA",2023-06-05,420543
 "CompTIA",2023-06-11,422401
 "CompTIA",2023-06-23,426218
+"CompTIA",2023-07-06,430400
+"CompTIA",2023-07-23,435742
+"CompTIA",2023-08-05,440687
 "CompTIA Security+",2023-01-21,14891
 "CompTIA Security+",2023-02-25,15330
 "CompTIA Security+",2023-03-13,15560
@@ -3172,6 +3028,9 @@
 "CompTIA Security+",2023-06-05,17140
 "CompTIA Security+",2023-06-11,17246
 "CompTIA Security+",2023-06-23,17452
+"CompTIA Security+",2023-07-06,17624
+"CompTIA Security+",2023-07-23,17781
+"CompTIA Security+",2023-08-05,17968
 "Company",NA,NA
 "Computer History Museum",2023-01-21,7605
 "Computer History Museum",2023-02-10,7679
@@ -3183,6 +3042,9 @@
 "Computer History Museum",2023-06-05,8038
 "Computer History Museum",2023-06-11,8067
 "Computer History Museum",2023-06-23,8186
+"Computer History Museum",2023-07-06,8223
+"Computer History Museum",2023-07-23,8295
+"Computer History Museum",2023-08-05,8347
 "Computer Repair",2023-03-13,0
 "Computer Repair",2023-03-29,59172
 "Computer Repair",2023-04-10,59013
@@ -3190,6 +3052,9 @@
 "Computer Repair",2023-06-05,62062
 "Computer Repair",2023-06-11,62686
 "Computer Repair",2023-06-23,63630
+"Computer Repair",2023-07-06,64433
+"Computer Repair",2023-07-23,65372
+"Computer Repair",2023-08-05,66526
 "Computer Science Society (CSS) - University of Birmingham",2021-03-28,132
 "Computer Science Society (CSS) - University of Birmingham",2021-03-31,132
 "Computer Science Society (CSS) - University of Birmingham",2021-04-06,132
@@ -3292,6 +3157,11 @@
 "Computer Science Society (CSS) - University of Birmingham",2023-06-05,262
 "Computer Science Society (CSS) - University of Birmingham",2023-06-14,266
 "Computer Science Society (CSS) - University of Birmingham",2023-06-17,266
+"Computer Science Society (CSS) - University of Birmingham",2023-06-27,267
+"Computer Science Society (CSS) - University of Birmingham",2023-07-06,267
+"Computer Science Society (CSS) - University of Birmingham",2023-07-23,272
+"Computer Science Society (CSS) - University of Birmingham",2023-08-08,273
+"Computer Science Society (CSS) - University of Birmingham",2023-08-10,274
 "Computing and Information Systems - Sabaragamuwa University of Sri Lanka",2021-05-10,473
 "Compylo",2022-04-09,939
 "Compylo",2022-04-11,951
@@ -3379,6 +3249,12 @@
 "Compylo",2023-06-14,1354
 "Compylo",2023-06-17,1354
 "Compylo",2023-06-23,1354
+"Compylo",2023-06-27,1355
+"Compylo",2023-07-06,1357
+"Compylo",2023-07-23,1355
+"Compylo",2023-08-02,1365
+"Compylo",2023-08-08,1365
+"Compylo",2023-08-10,1365
 "Comtravo",2023-01-25,8501
 "Comunidad R Hispano",2020-11-30,252
 "Comunidad R Hispano",2020-12-08,262
@@ -3392,6 +3268,9 @@
 "Connected Data World",2023-06-05,3014
 "Connected Data World",2023-06-11,3090
 "Connected Data World",2023-06-23,3140
+"Connected Data World",2023-07-06,3179
+"Connected Data World",2023-07-23,3217
+"Connected Data World",2023-08-05,3223
 "Connectivity Business News",2023-01-21,1111
 "Connectivity Business News",2023-02-25,1127
 "Connectivity Business News",2023-03-13,1140
@@ -3401,6 +3280,9 @@
 "Connectivity Business News",2023-06-05,1223
 "Connectivity Business News",2023-06-11,1223
 "Connectivity Business News",2023-06-23,1231
+"Connectivity Business News",2023-07-06,1243
+"Connectivity Business News",2023-07-23,1253
+"Connectivity Business News",2023-08-05,1285
 "Conning",2020-10-14,11215
 "Conning",2020-10-19,11222
 "Conning",2020-10-20,11221
@@ -3584,6 +3466,12 @@
 "Conning",2023-06-14,14713
 "Conning",2023-06-17,14712
 "Conning",2023-06-23,14717
+"Conning",2023-06-27,14723
+"Conning",2023-07-06,14768
+"Conning",2023-07-23,15025
+"Conning",2023-08-02,15092
+"Conning",2023-08-08,15123
+"Conning",2023-08-10,15136
 "Conrad N. Hilton Foundation",2021-02-17,8331
 "Conrad N. Hilton Foundation",2021-02-21,8351
 "Conrad N. Hilton Foundation",2021-02-25,8380
@@ -3737,6 +3625,12 @@
 "Conrad N. Hilton Foundation",2023-06-14,16645
 "Conrad N. Hilton Foundation",2023-06-17,16684
 "Conrad N. Hilton Foundation",2023-06-23,16755
+"Conrad N. Hilton Foundation",2023-06-27,16791
+"Conrad N. Hilton Foundation",2023-07-06,16898
+"Conrad N. Hilton Foundation",2023-07-23,17083
+"Conrad N. Hilton Foundation",2023-08-02,17222
+"Conrad N. Hilton Foundation",2023-08-08,17311
+"Conrad N. Hilton Foundation",2023-08-10,17348
 "Conservation International",2023-01-28,199022
 "ConstructionBOS",2021-03-26,1355
 "Contenda",2023-01-25,139
@@ -3758,6 +3652,9 @@
 "Convenience Industry Council of Canada",2023-06-05,768
 "Convenience Industry Council of Canada",2023-06-11,769
 "Convenience Industry Council of Canada",2023-06-23,769
+"Convenience Industry Council of Canada",2023-07-06,769
+"Convenience Industry Council of Canada",2023-07-23,767
+"Convenience Industry Council of Canada",2023-08-05,769
 "Convenience Store News",2023-01-21,24244
 "Convenience Store News",2023-02-25,24997
 "Convenience Store News",2023-03-13,25305
@@ -3767,6 +3664,9 @@
 "Convenience Store News",2023-06-05,26944
 "Convenience Store News",2023-06-11,27018
 "Convenience Store News",2023-06-23,27170
+"Convenience Store News",2023-07-06,27362
+"Convenience Store News",2023-07-23,27600
+"Convenience Store News",2023-08-05,27807
 "ConversationStarter.net",2020-10-16,426
 "ConversationStarter.net",2020-10-21,429
 "ConversationStarter.net",2020-10-22,430
@@ -3786,6 +3686,9 @@
 "Cornwall Space Cluster",2023-06-05,5409
 "Cornwall Space Cluster",2023-06-11,5442
 "Cornwall Space Cluster",2023-06-23,5488
+"Cornwall Space Cluster",2023-07-06,5523
+"Cornwall Space Cluster",2023-07-23,5548
+"Cornwall Space Cluster",2023-08-05,5606
 "CorrelAid",2023-01-25,1431
 "Cortex Labs (acquired by Databricks)",2023-01-25,370
 "Cortex Labs (acquired by Databricks)",2023-01-29,373
@@ -3799,6 +3702,9 @@
 "Couche-Tard",2023-06-05,29331
 "Couche-Tard",2023-06-11,29381
 "Couche-Tard",2023-06-23,29484
+"Couche-Tard",2023-07-06,29643
+"Couche-Tard",2023-07-23,29917
+"Couche-Tard",2023-08-05,30051
 "Council for Advancement and Support of Education",2023-01-21,26258
 "Council for Advancement and Support of Education",2023-02-10,26554
 "Council for Advancement and Support of Education",2023-02-25,26701
@@ -3809,6 +3715,9 @@
 "Council for Advancement and Support of Education",2023-06-05,28010
 "Council for Advancement and Support of Education",2023-06-11,28108
 "Council for Advancement and Support of Education",2023-06-23,28364
+"Council for Advancement and Support of Education",2023-07-06,28596
+"Council for Advancement and Support of Education",2023-07-23,28909
+"Council for Advancement and Support of Education",2023-08-05,29203
 "Council for Scientific and Industrial Research (CSIR)",2023-01-28,146260
 "Council of the European Union",2023-01-21,274470
 "Council of the European Union",2023-02-10,278280
@@ -3820,6 +3729,9 @@
 "Council of the European Union",2023-06-05,295856
 "Council of the European Union",2023-06-11,296584
 "Council of the European Union",2023-06-23,298383
+"Council of the European Union",2023-07-06,301264
+"Council of the European Union",2023-07-23,303701
+"Council of the European Union",2023-08-05,305589
 "Country Club Bank",2023-01-21,2860
 "Country Club Bank",2023-02-10,2896
 "Country Club Bank",2023-02-25,2917
@@ -3830,6 +3742,9 @@
 "Country Club Bank",2023-06-05,3096
 "Country Club Bank",2023-06-11,3113
 "Country Club Bank",2023-06-23,3146
+"Country Club Bank",2023-07-06,3168
+"Country Club Bank",2023-07-23,3187
+"Country Club Bank",2023-08-05,3215
 "Coupang",2021-01-19,52569
 "Coursera",2020-10-07,657271
 "Coursera",2020-10-09,660720
@@ -4038,6 +3953,15 @@
 "Coursera",2023-06-17,1663558
 "Coursera",2023-06-23,1668872
 "Coursera",2023-06-23,1668873
+"Coursera",2023-06-27,1672497
+"Coursera",2023-07-06,1682385
+"Coursera",2023-07-06,1682376
+"Coursera",2023-07-23,1703440
+"Coursera",2023-07-23,1703489
+"Coursera",2023-08-02,1717540
+"Coursera",2023-08-05,1720552
+"Coursera",2023-08-08,1723255
+"Coursera",2023-08-10,1725554
 "Covance",2021-02-19,269132
 "Covance",2021-03-26,277312
 "Cpl",2020-10-25,156857
@@ -4221,6 +4145,12 @@
 "Cpl",2023-06-14,288239
 "Cpl",2023-06-17,288631
 "Cpl",2023-06-23,289646
+"Cpl",2023-06-27,290286
+"Cpl",2023-07-06,291981
+"Cpl",2023-07-23,294854
+"Cpl",2023-08-02,297055
+"Cpl",2023-08-08,297715
+"Cpl",2023-08-10,298052
 "Cranfield University",2023-01-28,104058
 "Cray Inc.",2023-01-25,23707
 "Cray Inc.",2023-01-29,23717
@@ -4233,6 +4163,9 @@
 "Credit Union Times",2023-06-05,27609
 "Credit Union Times",2023-06-11,27775
 "Credit Union Times",2023-06-23,28092
+"Credit Union Times",2023-07-06,28347
+"Credit Union Times",2023-07-23,28667
+"Credit Union Times",2023-08-05,28886
 "Croatan Institute",2020-10-16,861
 "Croatan Institute",2020-10-20,879
 "Croatan Institute",2020-10-22,893
@@ -4251,6 +4184,9 @@
 "CrowdSec",2023-06-05,6805
 "CrowdSec",2023-06-11,6929
 "CrowdSec",2023-06-23,7173
+"CrowdSec",2023-07-06,7421
+"CrowdSec",2023-07-23,7834
+"CrowdSec",2023-08-05,8069
 "CrowdStrike",2023-01-21,389875
 "CrowdStrike",2023-02-10,397777
 "CrowdStrike",2023-02-25,403711
@@ -4261,6 +4197,9 @@
 "CrowdStrike",2023-06-05,449100
 "CrowdStrike",2023-06-11,452376
 "CrowdStrike",2023-06-23,459285
+"CrowdStrike",2023-07-06,466538
+"CrowdStrike",2023-07-23,474572
+"CrowdStrike",2023-08-05,481573
 "Culture Summit",2023-01-25,1762
 "Customer Service",2023-03-13,0
 "Customer Service",2023-03-29,3492070
@@ -4269,6 +4208,9 @@
 "Customer Service",2023-06-05,3596773
 "Customer Service",2023-06-11,3623066
 "Customer Service",2023-06-23,3669972
+"Customer Service",2023-07-06,3711187
+"Customer Service",2023-07-23,3760580
+"Customer Service",2023-08-05,3812721
 "Cyber Aegis",2023-01-21,610
 "Cyber Aegis",2023-02-25,615
 "Cyber Aegis",2023-03-13,618
@@ -4278,6 +4220,9 @@
 "Cyber Aegis",2023-06-05,629
 "Cyber Aegis",2023-06-11,630
 "Cyber Aegis",2023-06-23,631
+"Cyber Aegis",2023-07-06,631
+"Cyber Aegis",2023-07-23,632
+"Cyber Aegis",2023-08-05,633
 "Cyber Bytes Foundation",2023-01-21,3728
 "Cyber Bytes Foundation",2023-02-25,3765
 "Cyber Bytes Foundation",2023-03-13,3798
@@ -4287,6 +4232,9 @@
 "Cyber Bytes Foundation",2023-06-05,3896
 "Cyber Bytes Foundation",2023-06-11,3901
 "Cyber Bytes Foundation",2023-06-23,3906
+"Cyber Bytes Foundation",2023-07-06,3918
+"Cyber Bytes Foundation",2023-07-23,3922
+"Cyber Bytes Foundation",2023-08-05,3945
 "Cyber Florida: The Florida Center for Cybersecurity",2023-01-21,3794
 "Cyber Florida: The Florida Center for Cybersecurity",2023-02-25,3920
 "Cyber Florida: The Florida Center for Cybersecurity",2023-03-13,3955
@@ -4296,6 +4244,9 @@
 "Cyber Florida: The Florida Center for Cybersecurity",2023-06-05,4255
 "Cyber Florida: The Florida Center for Cybersecurity",2023-06-11,4266
 "Cyber Florida: The Florida Center for Cybersecurity",2023-06-23,4308
+"Cyber Florida: The Florida Center for Cybersecurity",2023-07-06,4344
+"Cyber Florida: The Florida Center for Cybersecurity",2023-07-23,4424
+"Cyber Florida: The Florida Center for Cybersecurity",2023-08-05,4467
 "Cyber Future Foundation",2023-01-21,3208
 "Cyber Future Foundation",2023-02-25,3325
 "Cyber Future Foundation",2023-03-13,3342
@@ -4305,6 +4256,9 @@
 "Cyber Future Foundation",2023-06-05,3472
 "Cyber Future Foundation",2023-06-11,3483
 "Cyber Future Foundation",2023-06-23,3516
+"Cyber Future Foundation",2023-07-06,3528
+"Cyber Future Foundation",2023-07-23,3538
+"Cyber Future Foundation",2023-08-05,3545
 "Cyber Huntsville",2023-01-21,1290
 "Cyber Huntsville",2023-02-25,1446
 "Cyber Huntsville",2023-03-13,1508
@@ -4314,12 +4268,18 @@
 "Cyber Huntsville",2023-06-05,1656
 "Cyber Huntsville",2023-06-11,1693
 "Cyber Huntsville",2023-06-23,1712
+"Cyber Huntsville",2023-07-06,1722
+"Cyber Huntsville",2023-07-23,1737
+"Cyber Huntsville",2023-08-05,1762
 "Cyber Insecurity",2023-03-29,6647
 "Cyber Insecurity",2023-04-10,6707
 "Cyber Insecurity",2023-04-23,6777
 "Cyber Insecurity",2023-06-05,6983
 "Cyber Insecurity",2023-06-11,7003
 "Cyber Insecurity",2023-06-23,7067
+"Cyber Insecurity",2023-07-06,7131
+"Cyber Insecurity",2023-07-23,7198
+"Cyber Insecurity",2023-08-05,7298
 "Cyber Institute",2023-01-21,468
 "Cyber Institute",2023-02-25,477
 "Cyber Institute",2023-03-13,477
@@ -4329,23 +4289,9 @@
 "Cyber Institute",2023-06-05,573
 "Cyber Institute",2023-06-11,578
 "Cyber Institute",2023-06-23,583
-"Cyber Jobs Hunting",2023-02-25,18919
-"Cyber Jobs Hunting",2023-03-13,19518
-"Cyber Jobs Hunting",2023-03-29,20051
-"Cyber Jobs Hunting",2023-04-10,20387
-"Cyber Jobs Hunting",2023-04-23,20712
-"Cyber Jobs Hunting",2023-06-05,22183
-"Cyber Jobs Hunting",2023-06-11,22340
-"Cyber Jobs Hunting",2023-06-23,22670
-"Cyber Security Awards",2023-01-21,1812
-"Cyber Security Awards",2023-02-25,1828
-"Cyber Security Awards",2023-03-13,1832
-"Cyber Security Awards",2023-03-29,1840
-"Cyber Security Awards",2023-04-10,1851
-"Cyber Security Awards",2023-04-23,1849
-"Cyber Security Awards",2023-06-05,1879
-"Cyber Security Awards",2023-06-11,1881
-"Cyber Security Awards",2023-06-23,1885
+"Cyber Institute",2023-07-06,583
+"Cyber Institute",2023-07-23,583
+"Cyber Institute",2023-08-05,585
 "charityboard.io",2021-06-29,153091
 "cienciadedatos.net",2020-11-07,572
 "cienciadedatos.net",2020-11-21,718

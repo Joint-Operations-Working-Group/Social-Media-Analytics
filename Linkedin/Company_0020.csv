@@ -9,12 +9,11 @@
 "VPT Inc.",2023-06-05,1437
 "VPT Inc.",2023-06-11,1445
 "VPT Inc.",2023-06-23,1452
+"VPT Inc.",2023-07-06,1456
+"VPT Inc.",2023-07-23,1466
+"VPT Inc.",2023-08-05,1474
 "VSB - Technical University of Ostrava",2023-01-28,39207
 "VTP - PSS GROUP",2023-01-28,109
-"Voltron Data",2023-01-25,2029
-"Vox Technology Park",2021-02-19,1340
-"Vox Technology Park",2021-03-06,1381
-"Vox Technology Park",2021-03-26,1463
 "Voya Financial",2023-01-21,68911
 "Voya Financial",2023-01-28,69171
 "Voya Financial",2023-02-10,69535
@@ -26,6 +25,9 @@
 "Voya Financial",2023-06-05,72484
 "Voya Financial",2023-06-11,72657
 "Voya Financial",2023-06-23,73009
+"Voya Financial",2023-07-06,73284
+"Voya Financial",2023-07-23,73704
+"Voya Financial",2023-08-05,74134
 "Voya Investment Management",2023-01-21,18045
 "Voya Investment Management",2023-02-10,18230
 "Voya Investment Management",2023-02-25,18336
@@ -36,6 +38,9 @@
 "Voya Investment Management",2023-06-05,19118
 "Voya Investment Management",2023-06-11,19160
 "Voya Investment Management",2023-06-23,19255
+"Voya Investment Management",2023-07-06,19353
+"Voya Investment Management",2023-07-23,19471
+"Voya Investment Management",2023-08-05,19585
 "Voyage Real Estate",2023-01-21,73
 "Voyage Real Estate",2023-02-25,75
 "Voyage Real Estate",2023-03-13,76
@@ -45,6 +50,9 @@
 "Voyage Real Estate",2023-06-05,79
 "Voyage Real Estate",2023-06-11,79
 "Voyage Real Estate",2023-06-23,79
+"Voyage Real Estate",2023-07-06,79
+"Voyage Real Estate",2023-07-23,79
+"Voyage Real Estate",2023-08-05,79
 "Voyager Labs",2023-01-25,6160
 "Voyager Space",2023-01-21,29238
 "Voyager Space",2023-02-25,30289
@@ -55,11 +63,17 @@
 "Voyager Space",2023-06-05,32688
 "Voyager Space",2023-06-11,32789
 "Voyager Space",2023-06-23,32980
+"Voyager Space",2023-07-06,33189
+"Voyager Space",2023-07-23,33430
+"Voyager Space",2023-08-05,33876
 "Vrbo",2023-04-10,26962
 "Vrbo",2023-04-23,27144
 "Vrbo",2023-06-05,27585
 "Vrbo",2023-06-11,27654
 "Vrbo",2023-06-23,27806
+"Vrbo",2023-07-06,27936
+"Vrbo",2023-07-23,28116
+"Vrbo",2023-08-05,28251
 "Vsquared Ventures",2023-01-21,3541
 "Vsquared Ventures",2023-02-25,3693
 "Vsquared Ventures",2023-03-13,3738
@@ -69,6 +83,9 @@
 "Vsquared Ventures",2023-06-05,4062
 "Vsquared Ventures",2023-06-11,4096
 "Vsquared Ventures",2023-06-23,4138
+"Vsquared Ventures",2023-07-06,4175
+"Vsquared Ventures",2023-07-23,4278
+"Vsquared Ventures",2023-08-05,4343
 "W.K. Kellogg Foundation",2021-01-06,33443
 "W.K. Kellogg Foundation",2021-01-11,33569
 "W.K. Kellogg Foundation",2021-01-15,33736
@@ -229,6 +246,12 @@
 "W.K. Kellogg Foundation",2023-06-14,58649
 "W.K. Kellogg Foundation",2023-06-17,58811
 "W.K. Kellogg Foundation",2023-06-23,59126
+"W.K. Kellogg Foundation",2023-06-27,59348
+"W.K. Kellogg Foundation",2023-07-06,59947
+"W.K. Kellogg Foundation",2023-07-23,61049
+"W.K. Kellogg Foundation",2023-08-02,61895
+"W.K. Kellogg Foundation",2023-08-08,62324
+"W.K. Kellogg Foundation",2023-08-10,62514
 "W3Schools.com",2023-01-25,483970
 "WATERFRONT RESCUE MISSION",2023-03-13,247
 "WATERFRONT RESCUE MISSION",2023-03-29,261
@@ -237,6 +260,9 @@
 "WATERFRONT RESCUE MISSION",2023-06-05,324
 "WATERFRONT RESCUE MISSION",2023-06-11,330
 "WATERFRONT RESCUE MISSION",2023-06-23,333
+"WATERFRONT RESCUE MISSION",2023-07-06,336
+"WATERFRONT RESCUE MISSION",2023-07-23,344
+"WATERFRONT RESCUE MISSION",2023-08-05,348
 "WFI Group",2023-01-28,1593
 "WIB-San Francisco Bay Area",2023-01-25,629
 "WIB-San Francisco Bay Area",2023-01-29,637
@@ -254,6 +280,9 @@
 "WWF",2023-06-05,735766
 "WWF",2023-06-11,737761
 "WWF",2023-06-23,741804
+"WWF",2023-07-06,745971
+"WWF",2023-07-23,750560
+"WWF",2023-08-05,757780
 "WWF Nepal",2023-01-28,26346
 "Wageningen Environmental Research",2023-01-28,23400
 "Wageningen University & Research",2023-01-28,193648
@@ -267,6 +296,9 @@
 "Walmart",2023-06-05,4359645
 "Walmart",2023-06-11,4370185
 "Walmart",2023-06-23,4391461
+"Walmart",2023-07-06,4414198
+"Walmart",2023-07-23,4439115
+"Walmart",2023-08-05,4463138
 "Walton Family Foundation",2021-02-07,34762
 "Walton Family Foundation",2021-02-12,34893
 "Walton Family Foundation",2021-02-17,35009
@@ -417,8 +449,19 @@
 "Walton Family Foundation",2023-06-14,54677
 "Walton Family Foundation",2023-06-17,54748
 "Walton Family Foundation",2023-06-23,54974
+"Walton Family Foundation",2023-06-27,55093
+"Walton Family Foundation",2023-07-06,55315
+"Walton Family Foundation",2023-07-23,55752
+"Walton Family Foundation",2023-08-02,56066
+"Walton Family Foundation",2023-08-08,56211
+"Walton Family Foundation",2023-08-10,56273
 "Warwick Data S",2023-06-14,1021
 "Warwick Data S",2023-06-17,1025
+"Warwick Data S",2023-06-27,1031
+"Warwick Data S",2023-07-06,1126
+"Warwick Data S",2023-07-23,1158
+"Warwick Data S",2023-08-08,1215
+"Warwick Data S",2023-08-10,1227
 "Warwick Data Science Society",2021-01-22,467
 "Warwick Data Science Society",2021-01-25,472
 "Warwick Data Science Society",2021-01-28,475
@@ -575,6 +618,9 @@
 "Wayfair",2023-06-05,271987
 "Wayfair",2023-06-11,272450
 "Wayfair",2023-06-23,273808
+"Wayfair",2023-07-06,275927
+"Wayfair",2023-07-23,278370
+"Wayfair",2023-08-05,280143
 "Waymo",2023-01-21,158427
 "Waymo",2023-02-25,160812
 "Waymo",2023-03-13,161888
@@ -584,6 +630,9 @@
 "Waymo",2023-06-05,168192
 "Waymo",2023-06-11,168681
 "Waymo",2023-06-23,169768
+"Waymo",2023-07-06,170898
+"Waymo",2023-07-23,172206
+"Waymo",2023-08-05,173410
 "WeMakeScholars",2023-01-28,9454
 "WebPays",2021-05-10,802
 "Webster Bank",2023-01-21,22656
@@ -596,6 +645,9 @@
 "Webster Bank",2023-06-05,25179
 "Webster Bank",2023-06-11,25261
 "Webster Bank",2023-06-23,25409
+"Webster Bank",2023-07-06,25521
+"Webster Bank",2023-07-23,25672
+"Webster Bank",2023-08-05,25841
 "Webtrends",2023-01-22,8992
 "Weights & Biases",2021-12-20,8081
 "Weights & Biases",2021-12-26,8234
@@ -702,6 +754,14 @@
 "Weights & Biases",2023-06-14,43429
 "Weights & Biases",2023-06-17,43639
 "Weights & Biases",2023-06-23,44149
+"Weights & Biases",2023-06-27,44452
+"Weights & Biases",2023-07-06,45144
+"Weights & Biases",2023-07-23,46272
+"Weights & Biases",2023-07-23,46275
+"Weights & Biases",2023-08-02,47527
+"Weights & Biases",2023-08-05,48037
+"Weights & Biases",2023-08-08,48308
+"Weights & Biases",2023-08-10,48633
 "WellClever",2021-03-30,123
 "WellClever",2021-04-06,123
 "WellClever",2021-04-10,123
@@ -840,6 +900,12 @@
 "WellClever",2023-06-14,125
 "WellClever",2023-06-17,125
 "WellClever",2023-06-23,126
+"WellClever",2023-06-27,126
+"WellClever",2023-07-06,126
+"WellClever",2023-07-23,126
+"WellClever",2023-08-02,127
+"WellClever",2023-08-08,127
+"WellClever",2023-08-10,127
 "Wellcome Trust",2023-01-25,93934
 "Wellcome Trust",2023-01-29,94200
 "Wells Fargo",2023-01-21,2082178
@@ -852,6 +918,9 @@
 "Wells Fargo",2023-06-05,2255141
 "Wells Fargo",2023-06-11,2264039
 "Wells Fargo",2023-06-23,2282023
+"Wells Fargo",2023-07-06,2303689
+"Wells Fargo",2023-07-23,2330492
+"Wells Fargo",2023-08-05,2356375
 "Wequity for Women and Technology",2023-01-21,2486
 "Wequity for Women and Technology",2023-02-25,2537
 "Wequity for Women and Technology",2023-03-13,2573
@@ -861,6 +930,9 @@
 "Wequity for Women and Technology",2023-06-05,2620
 "Wequity for Women and Technology",2023-06-11,2624
 "Wequity for Women and Technology",2023-06-23,2630
+"Wequity for Women and Technology",2023-07-06,2639
+"Wequity for Women and Technology",2023-07-23,2651
+"Wequity for Women and Technology",2023-08-05,2655
 "Wessex Water",2023-01-28,23040
 "West Valley College",2023-01-25,29019
 "West Virginia University",2023-01-28,198588
@@ -962,6 +1034,11 @@
 "Western Computer Science Undergraduate Society",2023-06-05,146
 "Western Computer Science Undergraduate Society",2023-06-14,146
 "Western Computer Science Undergraduate Society",2023-06-17,148
+"Western Computer Science Undergraduate Society",2023-06-27,148
+"Western Computer Science Undergraduate Society",2023-07-06,150
+"Western Computer Science Undergraduate Society",2023-07-23,151
+"Western Computer Science Undergraduate Society",2023-08-08,152
+"Western Computer Science Undergraduate Society",2023-08-10,152
 "Western Digital",2023-01-21,418737
 "Western Digital",2023-02-10,421553
 "Western Digital",2023-02-25,422389
@@ -972,6 +1049,9 @@
 "Western Digital",2023-06-05,432750
 "Western Digital",2023-06-11,433446
 "Western Digital",2023-06-23,434505
+"Western Digital",2023-07-06,435457
+"Western Digital",2023-07-23,436400
+"Western Digital",2023-08-05,437345
 "Wharton Online",2023-01-25,50048
 "WhatsApp",2023-01-25,279592
 "WhatsApp",2023-01-29,280167
@@ -984,6 +1064,9 @@
 "Whistic",2023-06-05,3516
 "Whistic",2023-06-11,3519
 "Whistic",2023-06-23,3531
+"Whistic",2023-07-06,3547
+"Whistic",2023-07-23,3577
+"Whistic",2023-08-05,3611
 "White House Leadership Development Program",2023-01-21,4708
 "White House Leadership Development Program",2023-02-25,5092
 "White House Leadership Development Program",2023-03-13,5213
@@ -993,6 +1076,9 @@
 "White House Leadership Development Program",2023-06-05,5894
 "White House Leadership Development Program",2023-06-11,5931
 "White House Leadership Development Program",2023-06-23,6004
+"White House Leadership Development Program",2023-07-06,6057
+"White House Leadership Development Program",2023-07-23,6133
+"White House Leadership Development Program",2023-08-05,6216
 "Why R?",2021-01-06,2265
 "Why R?",2021-01-11,2273
 "Why R?",2021-01-15,2283
@@ -1179,6 +1265,13 @@
 "Why R?",2023-06-14,4510
 "Why R?",2023-06-17,4512
 "Why R?",2023-06-23,4516
+"Why R?",2023-06-27,4519
+"Why R?",2023-07-06,4523
+"Why R?",2023-07-23,4537
+"Why R?",2023-08-02,4550
+"Why R?",2023-08-05,4551
+"Why R?",2023-08-08,4554
+"Why R?",2023-08-10,4557
 "Why R? Foundation",2022-02-09,3355
 "WiCyS - Northern Alabama Affiliate",2023-01-21,756
 "WiCyS - Northern Alabama Affiliate",2023-02-25,780
@@ -1193,6 +1286,9 @@
 "WiCyS - Tennessee Affiliate",2023-06-05,199
 "WiCyS - Tennessee Affiliate",2023-06-11,199
 "WiCyS - Tennessee Affiliate",2023-06-23,210
+"WiCyS - Tennessee Affiliate",2023-07-06,227
+"WiCyS - Tennessee Affiliate",2023-07-23,230
+"WiCyS - Tennessee Affiliate",2023-08-05,231
 "WiCyS Color of Inclusion Affiliate",2023-03-13,33
 "WiCyS Color of Inclusion Affiliate",2023-03-29,44
 "WiCyS Color of Inclusion Affiliate",2023-04-10,45
@@ -1200,6 +1296,9 @@
 "WiCyS Color of Inclusion Affiliate",2023-06-05,53
 "WiCyS Color of Inclusion Affiliate",2023-06-11,53
 "WiCyS Color of Inclusion Affiliate",2023-06-23,60
+"WiCyS Color of Inclusion Affiliate",2023-07-06,60
+"WiCyS Color of Inclusion Affiliate",2023-07-23,63
+"WiCyS Color of Inclusion Affiliate",2023-08-05,69
 "WiCyS Houston Affiliate",2023-01-21,480
 "WiCyS Houston Affiliate",2023-02-25,502
 "WiCyS Houston Affiliate",2023-03-13,528
@@ -1209,6 +1308,9 @@
 "WiCyS Houston Affiliate",2023-06-05,609
 "WiCyS Houston Affiliate",2023-06-11,610
 "WiCyS Houston Affiliate",2023-06-23,635
+"WiCyS Houston Affiliate",2023-07-06,655
+"WiCyS Houston Affiliate",2023-07-23,667
+"WiCyS Houston Affiliate",2023-08-05,674
 "WiCyS Mid-Atlantic Affiliate",2023-01-21,797
 "WiCyS Mid-Atlantic Affiliate",2023-02-25,809
 "WiCyS Mid-Atlantic Affiliate",2023-03-13,819
@@ -1218,6 +1320,9 @@
 "WiCyS Mid-Atlantic Affiliate",2023-06-05,854
 "WiCyS Mid-Atlantic Affiliate",2023-06-11,855
 "WiCyS Mid-Atlantic Affiliate",2023-06-23,857
+"WiCyS Mid-Atlantic Affiliate",2023-07-06,859
+"WiCyS Mid-Atlantic Affiliate",2023-07-23,864
+"WiCyS Mid-Atlantic Affiliate",2023-08-05,865
 "WiCyS Oregon Affiliate",2023-01-21,282
 "WiCyS Oregon Affiliate",2023-02-25,289
 "WiCyS Oregon Affiliate",2023-03-13,298
@@ -1227,6 +1332,9 @@
 "WiCyS Oregon Affiliate",2023-06-05,326
 "WiCyS Oregon Affiliate",2023-06-11,326
 "WiCyS Oregon Affiliate",2023-06-23,327
+"WiCyS Oregon Affiliate",2023-07-06,327
+"WiCyS Oregon Affiliate",2023-07-23,327
+"WiCyS Oregon Affiliate",2023-08-05,337
 "WiCyS West Africa Affiliate",2023-02-25,67
 "WiCyS West Africa Affiliate",2023-03-13,67
 "WiCyS West Africa Affiliate",2023-03-29,69
@@ -1235,6 +1343,9 @@
 "WiCyS West Africa Affiliate",2023-06-05,70
 "WiCyS West Africa Affiliate",2023-06-11,72
 "WiCyS West Africa Affiliate",2023-06-23,72
+"WiCyS West Africa Affiliate",2023-07-06,73
+"WiCyS West Africa Affiliate",2023-07-23,73
+"WiCyS West Africa Affiliate",2023-08-05,73
 "WiCyS Western Canada Affiliate",2023-01-21,350
 "WiCyS Western Canada Affiliate",2023-02-25,414
 "WiCyS Western Canada Affiliate",2023-03-13,423
@@ -1244,6 +1355,9 @@
 "WiCyS Western Canada Affiliate",2023-06-05,556
 "WiCyS Western Canada Affiliate",2023-06-11,583
 "WiCyS Western Canada Affiliate",2023-06-23,632
+"WiCyS Western Canada Affiliate",2023-07-06,654
+"WiCyS Western Canada Affiliate",2023-07-23,673
+"WiCyS Western Canada Affiliate",2023-08-05,691
 "Wikimedia Foundation",2023-01-25,57515
 "Wikimedia Foundation",2023-01-29,57636
 "Wiley",2023-01-28,233709
@@ -1410,6 +1524,12 @@
 "William and Flora Hewlett Foundation",2023-06-14,32524
 "William and Flora Hewlett Foundation",2023-06-17,32605
 "William and Flora Hewlett Foundation",2023-06-23,32800
+"William and Flora Hewlett Foundation",2023-06-27,32924
+"William and Flora Hewlett Foundation",2023-07-06,33182
+"William and Flora Hewlett Foundation",2023-07-23,33713
+"William and Flora Hewlett Foundation",2023-08-02,34135
+"William and Flora Hewlett Foundation",2023-08-08,34358
+"William and Flora Hewlett Foundation",2023-08-10,34452
 "WindBorne Systems",2023-01-21,483
 "WindBorne Systems",2023-02-25,498
 "WindBorne Systems",2023-03-13,501
@@ -1419,12 +1539,18 @@
 "WindBorne Systems",2023-06-05,836
 "WindBorne Systems",2023-06-11,913
 "WindBorne Systems",2023-06-23,1162
+"WindBorne Systems",2023-07-06,1344
+"WindBorne Systems",2023-07-23,1537
+"WindBorne Systems",2023-08-05,1607
 "Wipro",2023-01-28,6640704
 "Wizards of the Coast",2023-01-25,85341
 "WoMentor.at",2023-01-25,2960
 "Wohlers Associates powered by ASTM International",2023-06-05,5382
 "Wohlers Associates powered by ASTM International",2023-06-11,5410
 "Wohlers Associates powered by ASTM International",2023-06-23,5428
+"Wohlers Associates powered by ASTM International",2023-07-06,5455
+"Wohlers Associates powered by ASTM International",2023-07-23,5618
+"Wohlers Associates powered by ASTM International",2023-08-05,5649
 "Wolfram",2023-01-21,21487
 "Wolfram",2023-02-10,21724
 "Wolfram",2023-02-25,21969
@@ -1435,6 +1561,9 @@
 "Wolfram",2023-06-05,23534
 "Wolfram",2023-06-11,23593
 "Wolfram",2023-06-23,23709
+"Wolfram",2023-07-06,23869
+"Wolfram",2023-07-23,24001
+"Wolfram",2023-08-05,24125
 "Women + Cybersecurity = Women's Society of Cyberjutsu",2023-01-21,19101
 "Women + Cybersecurity = Women's Society of Cyberjutsu",2023-02-25,19731
 "Women + Cybersecurity = Women's Society of Cyberjutsu",2023-03-13,19996
@@ -1444,6 +1573,9 @@
 "Women + Cybersecurity = Women's Society of Cyberjutsu",2023-06-05,21299
 "Women + Cybersecurity = Women's Society of Cyberjutsu",2023-06-11,21395
 "Women + Cybersecurity = Women's Society of Cyberjutsu",2023-06-23,21613
+"Women + Cybersecurity = Women's Society of Cyberjutsu",2023-07-06,21837
+"Women + Cybersecurity = Women's Society of Cyberjutsu",2023-07-23,22007
+"Women + Cybersecurity = Women's Society of Cyberjutsu",2023-08-05,22227
 "Women In Aerospace",2023-01-21,1078
 "Women In Aerospace",2023-02-25,1112
 "Women In Aerospace",2023-03-13,1137
@@ -1453,6 +1585,9 @@
 "Women In Aerospace",2023-06-05,1303
 "Women In Aerospace",2023-06-11,1312
 "Women In Aerospace",2023-06-23,1342
+"Women In Aerospace",2023-07-06,1357
+"Women In Aerospace",2023-07-23,1383
+"Women In Aerospace",2023-08-05,1401
 "Women In CyberSecurity (WiCyS) France Affiliate",2023-01-21,969
 "Women In CyberSecurity (WiCyS) France Affiliate",2023-02-25,996
 "Women In CyberSecurity (WiCyS) France Affiliate",2023-03-13,1001
@@ -1462,6 +1597,9 @@
 "Women In CyberSecurity (WiCyS) France Affiliate",2023-06-05,1016
 "Women In CyberSecurity (WiCyS) France Affiliate",2023-06-11,1016
 "Women In CyberSecurity (WiCyS) France Affiliate",2023-06-23,1017
+"Women In CyberSecurity (WiCyS) France Affiliate",2023-07-06,1018
+"Women In CyberSecurity (WiCyS) France Affiliate",2023-07-23,1021
+"Women In CyberSecurity (WiCyS) France Affiliate",2023-08-05,1022
 "Women In Data",2021-02-19,12568
 "Women In Data",2021-03-26,13611
 "Women In Technology (WIT)",2022-08-08,220080
@@ -1525,12 +1663,24 @@
 "Women In Technology (WIT)",2023-06-17,280556
 "Women In Technology (WIT)",2023-06-23,281524
 "Women In Technology (WIT)",2023-06-23,281525
+"Women In Technology (WIT)",2023-06-27,282117
+"Women In Technology (WIT)",2023-07-06,283406
+"Women In Technology (WIT)",2023-07-06,283402
+"Women In Technology (WIT)",2023-07-23,285815
+"Women In Technology (WIT)",2023-07-23,285817
+"Women In Technology (WIT)",2023-08-02,287826
+"Women In Technology (WIT)",2023-08-05,288275
+"Women In Technology (WIT)",2023-08-08,288630
+"Women In Technology (WIT)",2023-08-10,289084
 "Women Techmakers",2023-03-29,18840
 "Women Techmakers",2023-04-10,19871
 "Women Techmakers",2023-04-23,20671
 "Women Techmakers",2023-06-05,24059
 "Women Techmakers",2023-06-11,24358
 "Women Techmakers",2023-06-23,24796
+"Women Techmakers",2023-07-06,25387
+"Women Techmakers",2023-07-23,26021
+"Women Techmakers",2023-08-05,28313
 "Women Techmakers Seattle",2023-02-25,5
 "Women Techmakers Seattle",2023-03-13,22
 "Women Techmakers Seattle",2023-03-29,24
@@ -1539,6 +1689,9 @@
 "Women Techmakers Seattle",2023-06-05,56
 "Women Techmakers Seattle",2023-06-11,56
 "Women Techmakers Seattle",2023-06-23,56
+"Women Techmakers Seattle",2023-07-06,57
+"Women Techmakers Seattle",2023-07-23,57
+"Women Techmakers Seattle",2023-08-05,63
 "Women Who Code",2021-01-06,67402
 "Women Who Code",2021-01-11,67803
 "Women Who Code",2021-01-15,68231
@@ -1694,6 +1847,12 @@
 "Women Who Code",2023-06-14,147193
 "Women Who Code",2023-06-17,147480
 "Women Who Code",2023-06-23,147975
+"Women Who Code",2023-06-27,148277
+"Women Who Code",2023-07-06,149040
+"Women Who Code",2023-07-23,150240
+"Women Who Code",2023-08-02,151191
+"Women Who Code",2023-08-08,151655
+"Women Who Code",2023-08-10,151874
 "Women Who Code Python",2023-01-21,3344
 "Women Who Code Python",2023-02-25,3435
 "Women Who Code Python",2023-03-13,3481
@@ -1703,6 +1862,9 @@
 "Women Who Code Python",2023-06-05,3658
 "Women Who Code Python",2023-06-11,3666
 "Women Who Code Python",2023-06-23,3681
+"Women Who Code Python",2023-07-06,3698
+"Women Who Code Python",2023-07-23,3732
+"Women Who Code Python",2023-08-05,3770
 "Women in AI",2023-03-13,39208
 "Women in AI",2023-03-29,39617
 "Women in AI",2023-04-10,39875
@@ -1710,6 +1872,9 @@
 "Women in AI",2023-06-05,41349
 "Women in AI",2023-06-11,41509
 "Women in AI",2023-06-23,42025
+"Women in AI",2023-07-06,42390
+"Women in AI",2023-07-23,42767
+"Women in AI",2023-08-05,43082
 "Women in AI Ethics",2023-03-13,2597
 "Women in AI Ethics",2023-03-29,2678
 "Women in AI Ethics",2023-04-10,2731
@@ -1717,6 +1882,9 @@
 "Women in AI Ethics",2023-06-05,3164
 "Women in AI Ethics",2023-06-11,3260
 "Women in AI Ethics",2023-06-23,3475
+"Women in AI Ethics",2023-07-06,3658
+"Women in AI Ethics",2023-07-23,3843
+"Women in AI Ethics",2023-08-05,3930
 "Women in AI Ireland",2021-01-06,1847
 "Women in AI Ireland",2021-01-11,1856
 "Women in AI Ireland",2021-01-15,1858
@@ -1876,6 +2044,12 @@
 "Women in AI Ireland",2023-06-14,4112
 "Women in AI Ireland",2023-06-17,4130
 "Women in AI Ireland",2023-06-23,4144
+"Women in AI Ireland",2023-06-27,4157
+"Women in AI Ireland",2023-07-06,4181
+"Women in AI Ireland",2023-07-23,4221
+"Women in AI Ireland",2023-08-02,4241
+"Women in AI Ireland",2023-08-08,4247
+"Women in AI Ireland",2023-08-10,4253
 "Women in Analytics (WIA)",2023-01-25,15091
 "Women in Cloud",2023-01-21,14122
 "Women in Cloud",2023-02-25,14477
@@ -1886,6 +2060,9 @@
 "Women in Cloud",2023-06-05,15084
 "Women in Cloud",2023-06-11,15106
 "Women in Cloud",2023-06-23,15156
+"Women in Cloud",2023-07-06,15189
+"Women in Cloud",2023-07-23,15398
+"Women in Cloud",2023-08-05,15501
 "Women in Cyber Security",2023-01-21,8258
 "Women in Cyber Security",2023-02-25,8597
 "Women in Cyber Security",2023-03-13,8761
@@ -1895,6 +2072,9 @@
 "Women in Cyber Security",2023-06-05,9569
 "Women in Cyber Security",2023-06-11,9624
 "Women in Cyber Security",2023-06-23,9722
+"Women in Cyber Security",2023-07-06,9803
+"Women in Cyber Security",2023-07-23,9895
+"Women in Cyber Security",2023-08-05,10003
 "Women in Cyber Security Middle East",2023-01-21,6337
 "Women in Cyber Security Middle East",2023-02-25,6459
 "Women in Cyber Security Middle East",2023-03-13,6558
@@ -1904,8 +2084,14 @@
 "Women in Cyber Security Middle East",2023-06-05,6976
 "Women in Cyber Security Middle East",2023-06-11,6986
 "Women in Cyber Security Middle East",2023-06-23,7106
+"Women in Cyber Security Middle East",2023-07-06,7146
+"Women in Cyber Security Middle East",2023-07-23,7192
+"Women in Cyber Security Middle East",2023-08-05,7271
 "Women in CyberSecu",2023-06-11,4814
 "Women in CyberSecu",2023-06-23,4870
+"Women in CyberSecu",2023-07-06,4924
+"Women in CyberSecu",2023-07-23,4973
+"Women in CyberSecu",2023-08-05,5058
 "Women in CyberSecurity (WiCyS)",2023-01-21,56189
 "Women in CyberSecurity (WiCyS)",2023-02-25,58218
 "Women in CyberSecurity (WiCyS)",2023-03-13,59272
@@ -1915,6 +2101,9 @@
 "Women in CyberSecurity (WiCyS)",2023-06-05,64767
 "Women in CyberSecurity (WiCyS)",2023-06-11,65116
 "Women in CyberSecurity (WiCyS)",2023-06-23,65802
+"Women in CyberSecurity (WiCyS)",2023-07-06,66410
+"Women in CyberSecurity (WiCyS)",2023-07-23,67108
+"Women in CyberSecurity (WiCyS)",2023-08-05,67995
 "Women in CyberSecurity (WiCyS) Australia Affiliate",2023-01-21,2131
 "Women in CyberSecurity (WiCyS) Australia Affiliate",2023-02-25,2184
 "Women in CyberSecurity (WiCyS) Australia Affiliate",2023-03-13,2236
@@ -1924,6 +2113,9 @@
 "Women in CyberSecurity (WiCyS) Australia Affiliate",2023-06-05,2482
 "Women in CyberSecurity (WiCyS) Australia Affiliate",2023-06-11,2488
 "Women in CyberSecurity (WiCyS) Australia Affiliate",2023-06-23,2520
+"Women in CyberSecurity (WiCyS) Australia Affiliate",2023-07-06,2545
+"Women in CyberSecurity (WiCyS) Australia Affiliate",2023-07-23,2580
+"Women in CyberSecurity (WiCyS) Australia Affiliate",2023-08-05,2623
 "Women in CyberSecurity (WiCyS) Florida",2023-01-21,899
 "Women in CyberSecurity (WiCyS) Florida",2023-02-25,946
 "Women in CyberSecurity (WiCyS) Florida",2023-03-13,973
@@ -1933,6 +2125,9 @@
 "Women in CyberSecurity (WiCyS) Florida",2023-06-05,1140
 "Women in CyberSecurity (WiCyS) Florida",2023-06-11,1144
 "Women in CyberSecurity (WiCyS) Florida",2023-06-23,1153
+"Women in CyberSecurity (WiCyS) Florida",2023-07-06,1164
+"Women in CyberSecurity (WiCyS) Florida",2023-07-23,1186
+"Women in CyberSecurity (WiCyS) Florida",2023-08-05,1194
 "Women in CyberSecurity (WiCyS) India",2023-01-21,4298
 "Women in CyberSecurity (WiCyS) India",2023-02-25,4445
 "Women in CyberSecurity (WiCyS) India",2023-03-13,4483
@@ -1949,11 +2144,18 @@
 "Women in CyberSecurity (WiCyS) The University of Alabama in Huntsville (UAH) Student Chapter",2023-06-05,51
 "Women in CyberSecurity (WiCyS) The University of Alabama in Huntsville (UAH) Student Chapter",2023-06-11,51
 "Women in CyberSecurity (WiCyS) The University of Alabama in Huntsville (UAH) Student Chapter",2023-06-23,51
+"Women in CyberSecurity (WiCyS) The University of Alabama in Huntsville (UAH) Student Chapter",2023-07-06,51
+"Women in CyberSecurity (WiCyS) The University of Alabama in Huntsville (UAH) Student Chapter",2023-07-23,50
+"Women in CyberSecurity (WiCyS) The University of Alabama in Huntsville (UAH) Student Chapter",2023-08-05,51
 "Women in CyberSecurity - WiCyS North Al",2023-04-10,795
 "Women in CyberSecurity - WiCyS North Al",2023-04-23,805
 "Women in CyberSecurity - WiCyS North Al",2023-06-05,819
 "Women in CyberSecurity - WiCyS North Al",2023-06-11,821
 "Women in CyberSecurity - WiCyS North Al",2023-06-23,827
+"Women in CyberSecurity - WiCyS North Al",2023-07-06,836
+"Women in CyberSecurity - WiCyS North Al",2023-07-23,837
+"Women in CyberSecurity - WiCyS North Al",2023-08-05,842
+"Women in Cybersecurity (WiCyS) - Purdue Chapter",2023-08-05,236
 "Women in Cybersecurity (WiCys) - Purdue Chapter",2023-01-21,214
 "Women in Cybersecurity (WiCys) - Purdue Chapter",2023-02-25,222
 "Women in Cybersecurity (WiCys) - Purdue Chapter",2023-03-13,224
@@ -1963,6 +2165,8 @@
 "Women in Cybersecurity (WiCys) - Purdue Chapter",2023-06-05,230
 "Women in Cybersecurity (WiCys) - Purdue Chapter",2023-06-11,231
 "Women in Cybersecurity (WiCys) - Purdue Chapter",2023-06-23,231
+"Women in Cybersecurity (WiCys) - Purdue Chapter",2023-07-06,231
+"Women in Cybersecurity (WiCys) - Purdue Chapter",2023-07-23,230
 "Women in Data",2021-01-06,11790
 "Women in Data",2021-01-11,11827
 "Women in Data",2021-01-15,11869
@@ -2011,6 +2215,10 @@
 "Women in Data",2021-09-02,14569
 "Women in Data",2021-09-16,14730
 "Women in Data",2021-10-17,15081
+"Women in Data Science (WiDS) Kenya",2023-07-23,691
+"Women in Data Science (WiDS) Kenya",2023-08-02,761
+"Women in Data Science (WiDS) Kenya",2023-08-08,780
+"Women in Data Science (WiDS) Kenya",2023-08-10,781
 "Women in Data Science (WiDS) Worldwide",2023-01-21,31772
 "Women in Data Science (WiDS) Worldwide",2023-02-25,33057
 "Women in Data Science (WiDS) Worldwide",2023-03-13,34065
@@ -2020,6 +2228,9 @@
 "Women in Data Science (WiDS) Worldwide",2023-06-05,36819
 "Women in Data Science (WiDS) Worldwide",2023-06-11,36986
 "Women in Data Science (WiDS) Worldwide",2023-06-23,37354
+"Women in Data Science (WiDS) Worldwide",2023-07-06,37631
+"Women in Data Science (WiDS) Worldwide",2023-07-23,37958
+"Women in Data Science (WiDS) Worldwide",2023-08-05,38315
 "Women in Data<U+00AE>",2021-10-29,15212
 "Women in Data<U+00AE>",2021-11-06,15347
 "Women in Data<U+00AE>",2021-11-20,15533
@@ -2137,10 +2348,18 @@
 "Women in Data<ae>",2023-05-29,39517
 "Women in Data<ae>",2023-06-05,39792
 "Women in Data<ae>",2023-06-05,39793
-"Women in Data®",2023-06-11,40053
-"Women in Data®",2023-06-14,40190
-"Women in Data®",2023-06-17,40281
-"Women in Data®",2023-06-23,40537
+"Women in Data<ae>",2023-06-11,40053
+"Women in Data<ae>",2023-06-14,40190
+"Women in Data<ae>",2023-06-17,40281
+"Women in Data<ae>",2023-06-23,40537
+"Women in Data®",2023-06-27,40827
+"Women in Data®",2023-07-06,41846
+"Women in Data®",2023-07-23,42912
+"Women in Data®",2023-07-23,42914
+"Women in Data®",2023-08-02,43491
+"Women in Data®",2023-08-05,43635
+"Women in Data®",2023-08-08,43754
+"Women in Data®",2023-08-10,43873
 "Women in Machine Learning and Data Science MAURITIUS",2022-01-18,30
 "Women in Machine Learning and Data Science MAURITIUS",2022-01-27,58
 "Women in Machine Learning and Data Science MAURITIUS",2022-02-01,64
@@ -2234,6 +2453,12 @@
 "Women in Machine Learning and Data Science MAURITIUS",2023-06-14,102
 "Women in Machine Learning and Data Science MAURITIUS",2023-06-17,103
 "Women in Machine Learning and Data Science MAURITIUS",2023-06-23,103
+"Women in Machine Learning and Data Science MAURITIUS",2023-06-27,103
+"Women in Machine Learning and Data Science MAURITIUS",2023-07-06,103
+"Women in Machine Learning and Data Science MAURITIUS",2023-07-23,103
+"Women in Machine Learning and Data Science MAURITIUS",2023-08-02,104
+"Women in Machine Learning and Data Science MAURITIUS",2023-08-08,104
+"Women in Machine Learning and Data Science MAURITIUS",2023-08-10,104
 "Women in Payments",2023-01-21,24352
 "Women in Payments",2023-02-10,24680
 "Women in Payments",2023-02-25,24822
@@ -2244,6 +2469,9 @@
 "Women in Payments",2023-06-05,27128
 "Women in Payments",2023-06-11,27198
 "Women in Payments",2023-06-23,27300
+"Women in Payments",2023-07-06,27392
+"Women in Payments",2023-07-23,27497
+"Women in Payments",2023-08-05,27617
 "Women in Technology (WIT)",2021-01-06,96923
 "Women in Technology (WIT)",2021-01-11,97593
 "Women in Technology (WIT)",2021-01-15,98330
@@ -2385,6 +2613,9 @@
 "Women of Aeronautics & Astronautics",2023-06-05,1771
 "Women of Aeronautics & Astronautics",2023-06-11,1773
 "Women of Aeronautics & Astronautics",2023-06-23,1776
+"Women of Aeronautics & Astronautics",2023-07-06,1782
+"Women of Aeronautics & Astronautics",2023-07-23,1796
+"Women of Aeronautics & Astronautics",2023-08-05,1797
 "Women of Color STEM Conference",2023-01-21,1247
 "Women of Color STEM Conference",2023-02-25,1265
 "Women of Color STEM Conference",2023-03-13,1267
@@ -2394,6 +2625,9 @@
 "Women of Color STEM Conference",2023-06-05,1332
 "Women of Color STEM Conference",2023-06-11,1333
 "Women of Color STEM Conference",2023-06-23,1358
+"Women of Color STEM Conference",2023-07-06,1385
+"Women of Color STEM Conference",2023-07-23,1418
+"Women of Color STEM Conference",2023-08-05,1437
 "Women of Influence+",2023-01-21,734573
 "Women of Influence+",2023-02-10,742818
 "Women of Influence+",2023-02-25,747436
@@ -2404,6 +2638,9 @@
 "Women of Influence+",2023-06-05,786389
 "Women of Influence+",2023-06-11,789031
 "Women of Influence+",2023-06-23,794274
+"Women of Influence+",2023-07-06,800892
+"Women of Influence+",2023-07-23,808359
+"Women of Influence+",2023-08-05,815139
 "Women's Security Society",2023-02-25,618
 "Women's Security Society",2023-03-13,689
 "Women's Security Society",2023-03-29,710
@@ -2412,6 +2649,9 @@
 "Women's Security Society",2023-06-05,842
 "Women's Security Society",2023-06-11,851
 "Women's Security Society",2023-06-23,860
+"Women's Security Society",2023-07-06,864
+"Women's Security Society",2023-07-23,896
+"Women's Security Society",2023-08-05,924
 "Women+ in Geospatial",2022-08-16,16321
 "Women+ in Geospatial",2022-08-20,16427
 "Women+ in Geospatial",2022-08-25,16517
@@ -2464,6 +2704,12 @@
 "Women+ in Geospatial",2023-06-14,20976
 "Women+ in Geospatial",2023-06-17,21034
 "Women+ in Geospatial",2023-06-23,21135
+"Women+ in Geospatial",2023-06-27,21213
+"Women+ in Geospatial",2023-07-06,21361
+"Women+ in Geospatial",2023-07-23,21607
+"Women+ in Geospatial",2023-08-02,21757
+"Women+ in Geospatial",2023-08-08,21830
+"Women+ in Geospatial",2023-08-10,21859
 "Wonder Cement Ltd.",2021-02-19,37361
 "Wonder Cement Ltd.",2021-03-06,37867
 "Wonder Cement Ltd.",2021-03-26,38763
@@ -2479,6 +2725,9 @@
 "WordPress Maintenance Services",2023-06-05,6420
 "WordPress Maintenance Services",2023-06-11,6429
 "WordPress Maintenance Services",2023-06-23,6446
+"WordPress Maintenance Services",2023-07-06,6462
+"WordPress Maintenance Services",2023-07-23,6477
+"WordPress Maintenance Services",2023-08-05,6499
 "Workday",2023-01-29,737760
 "Workday",2023-03-29,760505
 "Workday",2023-04-10,764772
@@ -2486,6 +2735,9 @@
 "Workday",2023-06-05,789215
 "Workday",2023-06-11,793002
 "Workday",2023-06-23,800874
+"Workday",2023-07-06,808431
+"Workday",2023-07-23,817588
+"Workday",2023-08-05,825327
 "Workforce Optimizer - AI Enabled WFM",2023-01-28,5059
 "Workist",2023-01-25,1766
 "World Bank Group",2023-01-28,286799
@@ -2500,6 +2752,9 @@
 "World Economic Forum",2023-06-05,4628210
 "World Economic Forum",2023-06-11,4635684
 "World Economic Forum",2023-06-23,4653443
+"World Economic Forum",2023-07-06,4673606
+"World Economic Forum",2023-07-23,4705829
+"World Economic Forum",2023-08-05,4733928
 "World Federation Of Neurology",2021-02-19,285
 "World Federation Of Neurology",2021-03-06,286
 "World Federation Of Neurology",2021-03-26,294
@@ -2513,6 +2768,9 @@
 "World Geospatial Industry Council (WGIC)",2023-06-05,4498
 "World Geospatial Industry Council (WGIC)",2023-06-11,4515
 "World Geospatial Industry Council (WGIC)",2023-06-23,4568
+"World Geospatial Industry Council (WGIC)",2023-07-06,4623
+"World Geospatial Industry Council (WGIC)",2023-07-23,4678
+"World Geospatial Industry Council (WGIC)",2023-08-05,4731
 "World Health Organization",2023-01-21,5030881
 "World Health Organization",2023-01-28,5043711
 "World Health Organization",2023-02-10,5063870
@@ -2524,6 +2782,9 @@
 "World Health Organization",2023-06-05,5259739
 "World Health Organization",2023-06-11,5272027
 "World Health Organization",2023-06-23,5298029
+"World Health Organization",2023-07-06,5327721
+"World Health Organization",2023-07-23,5361553
+"World Health Organization",2023-08-05,5389028
 "World Meteorological Organization",2023-01-28,61247
 "World Resources Institute",2023-01-28,141500
 "World of Beer Franchising Inc.",2023-01-21,6709
@@ -2536,6 +2797,9 @@
 "World of Beer Franchising Inc.",2023-06-05,6792
 "World of Beer Franchising Inc.",2023-06-11,6804
 "World of Beer Franchising Inc.",2023-06-23,6819
+"World of Beer Franchising Inc.",2023-07-06,6830
+"World of Beer Franchising Inc.",2023-07-23,6851
+"World of Beer Franchising Inc.",2023-08-05,6856
 "WorldQuant",2021-01-06,38151
 "WorldQuant",2021-01-11,38210
 "WorldQuant",2021-01-15,38263
@@ -2688,6 +2952,12 @@
 "WorldQuant",2023-06-14,67851
 "WorldQuant",2023-06-17,68042
 "WorldQuant",2023-06-23,68433
+"WorldQuant",2023-06-27,68696
+"WorldQuant",2023-07-06,69216
+"WorldQuant",2023-07-23,70188
+"WorldQuant",2023-08-02,70888
+"WorldQuant",2023-08-08,71275
+"WorldQuant",2023-08-10,71483
 "Worldpanel by Kantar",2023-01-28,128322
 "Writer's Relief",2023-01-21,138945
 "Writer's Relief",2023-02-10,139644
@@ -2699,6 +2969,9 @@
 "Writer's Relief",2023-06-05,144802
 "Writer's Relief",2023-06-11,145188
 "Writer's Relief",2023-06-23,145970
+"Writer's Relief",2023-07-06,146712
+"Writer's Relief",2023-07-23,147396
+"Writer's Relief",2023-08-05,147863
 "Wyss Institute at Harvard University",2023-01-25,37281
 "Wyss Institute at Harvard University",2023-01-29,37352
 "X the moonshot factory",2023-01-21,130275
@@ -2712,6 +2985,9 @@
 "X the moonshot factory",2023-06-05,141888
 "X the moonshot factory",2023-06-11,142504
 "X the moonshot factory",2023-06-23,143740
+"X the moonshot factory",2023-07-06,145041
+"X the moonshot factory",2023-07-23,146593
+"X the moonshot factory",2023-08-05,148016
 "X-Europe Data Science",2021-03-30,2
 "X-Europe Data Science",2021-04-06,19
 "X-Europe Data Science",2021-04-10,21
@@ -2865,6 +3141,13 @@
 "X-Europe Data Science",2023-06-14,88
 "X-Europe Data Science",2023-06-17,88
 "X-Europe Data Science",2023-06-23,88
+"X-Europe Data Science",2023-06-27,88
+"X-Europe Data Science",2023-07-06,88
+"X-Europe Data Science",2023-07-23,88
+"X-Europe Data Science",2023-08-02,88
+"X-Europe Data Science",2023-08-05,88
+"X-Europe Data Science",2023-08-08,88
+"X-Europe Data Science",2023-08-10,88
 "XFactor Ventures",2023-01-21,2552
 "XFactor Ventures",2023-02-25,2594
 "XFactor Ventures",2023-03-13,2641
@@ -2874,6 +3157,9 @@
 "XFactor Ventures",2023-06-05,2743
 "XFactor Ventures",2023-06-11,2750
 "XFactor Ventures",2023-06-23,2774
+"XFactor Ventures",2023-07-06,2798
+"XFactor Ventures",2023-07-23,2811
+"XFactor Ventures",2023-08-05,2826
 "XL Dynamics India Pvt. Ltd.",2021-02-19,22663
 "XL Dynamics India Pvt. Ltd.",2021-03-26,27451
 "XO Life",2023-01-25,1396
@@ -3033,6 +3319,12 @@
 "Xanadu Consultancy",2023-06-14,2938
 "Xanadu Consultancy",2023-06-17,2939
 "Xanadu Consultancy",2023-06-23,2942
+"Xanadu Consultancy",2023-06-27,2944
+"Xanadu Consultancy",2023-07-06,2954
+"Xanadu Consultancy",2023-07-23,2959
+"Xanadu Consultancy",2023-08-02,2960
+"Xanadu Consultancy",2023-08-08,2962
+"Xanadu Consultancy",2023-08-10,2963
 "Xava",2021-03-30,47
 "Xava",2021-04-06,48
 "Xava",2021-04-10,48
@@ -3169,10 +3461,19 @@
 "Xava",2023-06-14,260
 "Xava",2023-06-17,260
 "Xava",2023-06-23,262
+"Xava",2023-06-27,262
+"Xava",2023-07-06,269
+"Xava",2023-07-23,272
+"Xava",2023-08-02,276
+"Xava",2023-08-08,275
+"Xava",2023-08-10,275
 "Xcede",2023-01-25,254030
+"Xebia",2023-08-05,233895
 "Xebia | Data",2023-06-05,10465
 "Xebia | Data",2023-06-11,10503
 "Xebia | Data",2023-06-23,10557
+"Xebia | Data",2023-07-06,10612
+"Xebia | Data",2023-07-23,10679
 "Xerox",2023-01-28,909945
 "Xfer Records",2021-01-19,323
 "Xfer Records",2021-02-19,364
@@ -3187,6 +3488,9 @@
 "Xplore",2023-06-05,3558
 "Xplore",2023-06-11,3583
 "Xplore",2023-06-23,3648
+"Xplore",2023-07-06,3735
+"Xplore",2023-07-23,3798
+"Xplore",2023-08-05,3846
 "Xuntos - Let's Get Together",2021-01-06,385
 "Xuntos - Let's Get Together",2021-01-11,386
 "Xuntos - Let's Get Together",2021-01-15,387
@@ -3342,6 +3646,12 @@
 "Xuntos - Let's Get Together",2023-06-14,755
 "Xuntos - Let's Get Together",2023-06-17,760
 "Xuntos - Let's Get Together",2023-06-23,769
+"Xuntos - Let's Get Together",2023-06-27,773
+"Xuntos - Let's Get Together",2023-07-06,775
+"Xuntos - Let's Get Together",2023-07-23,786
+"Xuntos - Let's Get Together",2023-08-02,788
+"Xuntos - Let's Get Together",2023-08-08,789
+"Xuntos - Let's Get Together",2023-08-10,789
 "Xylem",2023-01-28,184713
 "Xyston Inc.",2023-01-21,267
 "Xyston Inc.",2023-02-25,282
@@ -3352,6 +3662,9 @@
 "Xyston Inc.",2023-06-05,296
 "Xyston Inc.",2023-06-11,296
 "Xyston Inc.",2023-06-23,298
+"Xyston Inc.",2023-07-06,300
+"Xyston Inc.",2023-07-23,300
+"Xyston Inc.",2023-08-05,302
 "Y Combinator",2023-01-21,458133
 "Y Combinator",2023-02-10,466634
 "Y Combinator",2023-02-25,472849
@@ -3362,10 +3675,16 @@
 "Y Combinator",2023-06-05,538001
 "Y Combinator",2023-06-11,540646
 "Y Combinator",2023-06-23,546216
+"Y Combinator",2023-07-06,553145
+"Y Combinator",2023-07-23,563941
+"Y Combinator",2023-08-05,575667
 "YAGER",2023-01-25,7656
 "YData",2023-06-05,5623
 "YData",2023-06-11,5633
 "YData",2023-06-23,5682
+"YData",2023-07-06,5735
+"YData",2023-07-23,5780
+"YData",2023-08-05,5809
 "YMCA of the USA (National Resource Office)",2023-01-21,117464
 "YMCA of the USA (National Resource Office)",2023-02-10,117720
 "YMCA of the USA (National Resource Office)",2023-02-25,117836
@@ -3376,6 +3695,9 @@
 "YMCA of the USA (National Resource Office)",2023-06-05,118928
 "YMCA of the USA (National Resource Office)",2023-06-11,119006
 "YMCA of the USA (National Resource Office)",2023-06-23,119164
+"YMCA of the USA (National Resource Office)",2023-07-06,119365
+"YMCA of the USA (National Resource Office)",2023-07-23,119641
+"YMCA of the USA (National Resource Office)",2023-08-05,119966
 "YND",2023-01-25,1253
 "Yahoo",2023-01-25,716277
 "Yahoo",2023-01-29,716713
@@ -3397,6 +3719,9 @@
 "YouTube",2023-06-05,2076663
 "YouTube",2023-06-11,2084138
 "YouTube",2023-06-23,2099057
+"YouTube",2023-07-06,2114986
+"YouTube",2023-07-23,2131722
+"YouTube",2023-08-05,2142095
 "Young Democrats of America Rural Caucus",2023-01-21,43
 "Young Democrats of America Rural Caucus",2023-02-10,44
 "Young Democrats of America Rural Caucus",2023-02-25,44
@@ -3407,6 +3732,9 @@
 "Young Democrats of America Rural Caucus",2023-06-05,45
 "Young Democrats of America Rural Caucus",2023-06-11,45
 "Young Democrats of America Rural Caucus",2023-06-23,45
+"Young Democrats of America Rural Caucus",2023-07-06,45
+"Young Democrats of America Rural Caucus",2023-07-23,45
+"Young Democrats of America Rural Caucus",2023-08-05,45
 "Yousician",2023-01-25,6707
 "Yuri's Night",2023-01-21,1050
 "Yuri's Night",2023-02-10,1059
@@ -3418,14 +3746,23 @@
 "Yuri's Night",2023-06-05,1260
 "Yuri's Night",2023-06-11,1262
 "Yuri's Night",2023-06-23,1265
+"Yuri's Night",2023-07-06,1270
+"Yuri's Night",2023-07-23,1275
+"Yuri's Night",2023-08-05,1277
 "ZALORA Group",2023-01-28,263213
 "ZDNET",2023-06-23,318648
+"ZDNET",2023-07-06,318700
+"ZDNET",2023-07-23,318541
+"ZDNET",2023-08-05,318562
 "ZEREN",2023-01-25,15380
 "Zeitgold (acquired by Deel)",2023-01-25,2932
 "ZenMate",2023-01-25,1400
 "Zenhomes",2023-01-25,1157
 "Zenith Epigenetics Ltd.",2023-01-25,875
 "Zenith Epigenetics Ltd.",2023-01-29,876
+"Zero-G",2023-07-06,4089
+"Zero-G",2023-07-23,4109
+"Zero-G",2023-08-05,4128
 "Zero-Point Security Ltd",2023-01-21,7323
 "Zero-Point Security Ltd",2023-02-25,7692
 "Zero-Point Security Ltd",2023-03-13,7797
@@ -3435,6 +3772,9 @@
 "Zero-Point Security Ltd",2023-06-05,8584
 "Zero-Point Security Ltd",2023-06-11,8627
 "Zero-Point Security Ltd",2023-06-23,8731
+"Zero-Point Security Ltd",2023-07-06,8876
+"Zero-Point Security Ltd",2023-07-23,9087
+"Zero-Point Security Ltd",2023-08-05,9204
 "Zerodha",2021-01-19,82224
 "Zerodha",2021-02-19,89054
 "Zerodha",2021-03-06,94252
@@ -3607,6 +3947,14 @@
 "Zindi",2023-06-17,13042
 "Zindi",2023-06-23,13099
 "Zindi",2023-06-23,13100
+"Zindi",2023-06-27,13128
+"Zindi",2023-07-06,13215
+"Zindi",2023-07-23,13363
+"Zindi",2023-07-23,13364
+"Zindi",2023-08-02,13480
+"Zindi",2023-08-05,13505
+"Zindi",2023-08-08,13521
+"Zindi",2023-08-10,13547
 "Zoom",2023-01-21,493925
 "Zoom",2023-02-10,496980
 "Zoom",2023-02-25,499043
@@ -3617,6 +3965,9 @@
 "Zoom",2023-06-05,514464
 "Zoom",2023-06-11,515788
 "Zoom",2023-06-23,518353
+"Zoom",2023-07-06,520863
+"Zoom",2023-07-23,523232
+"Zoom",2023-08-05,525335
 "Zoom Rooms",2023-01-21,6745
 "Zoom Rooms",2023-02-25,6798
 "Zoom Rooms",2023-03-13,6819
@@ -3626,6 +3977,9 @@
 "Zoom Rooms",2023-06-05,6927
 "Zoom Rooms",2023-06-11,6941
 "Zoom Rooms",2023-06-23,6954
+"Zoom Rooms",2023-07-06,6967
+"Zoom Rooms",2023-07-23,6985
+"Zoom Rooms",2023-08-05,6998
 "Zurich Insurance",2023-01-21,711093
 "Zurich Insurance",2023-02-10,716966
 "Zurich Insurance",2023-02-25,721184
@@ -3636,6 +3990,9 @@
 "Zurich Insurance",2023-06-05,751994
 "Zurich Insurance",2023-06-11,754134
 "Zurich Insurance",2023-06-23,758525
+"Zurich Insurance",2023-07-06,763290
+"Zurich Insurance",2023-07-23,769217
+"Zurich Insurance",2023-08-05,775168
 "Zymergen",2023-01-25,28825
 "Zymergen",2023-01-29,28850
 "Zymeworks Inc.",2023-01-25,18139
