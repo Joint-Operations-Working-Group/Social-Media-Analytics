@@ -11,6 +11,7 @@
 "SANS Cloud Security",2023-07-06,40831
 "SANS Cloud Security",2023-07-23,41020
 "SANS Cloud Security",2023-08-05,41177
+"SANS Cloud Security",2023-08-29,41450
 "SANS Cyber Defense",2023-01-21,102971
 "SANS Cyber Defense",2023-02-25,104675
 "SANS Cyber Defense",2023-03-13,105619
@@ -23,6 +24,7 @@
 "SANS Cyber Defense",2023-07-06,111092
 "SANS Cyber Defense",2023-07-23,111699
 "SANS Cyber Defense",2023-08-05,112292
+"SANS Cyber Defense",2023-08-29,113545
 "SANS Cyber Immersion Academies",2023-02-25,2769
 "SANS Cyber Immersion Academies",2023-03-13,2849
 "SANS Cyber Immersion Academies",2023-03-29,2905
@@ -34,6 +36,7 @@
 "SANS Cyber Immersion Academies",2023-07-06,3333
 "SANS Cyber Immersion Academies",2023-07-23,3353
 "SANS Cyber Immersion Academies",2023-08-05,3357
+"SANS Cyber Immersion Academies",2023-08-29,3552
 "SANS Digital Forensics and Incident Response",2023-01-21,33354
 "SANS Digital Forensics and Incident Response",2023-02-25,36464
 "SANS Digital Forensics and Incident Response",2023-03-13,37756
@@ -46,6 +49,7 @@
 "SANS Digital Forensics and Incident Response",2023-07-06,45680
 "SANS Digital Forensics and Incident Response",2023-07-23,46550
 "SANS Digital Forensics and Incident Response",2023-08-05,47556
+"SANS Digital Forensics and Incident Response",2023-08-29,49151
 "SANS Institute",2023-01-21,253938
 "SANS Institute",2023-02-10,257745
 "SANS Institute",2023-02-25,260576
@@ -59,6 +63,7 @@
 "SANS Institute",2023-07-06,285921
 "SANS Institute",2023-07-23,288666
 "SANS Institute",2023-08-05,291159
+"SANS Institute",2023-08-29,295127
 "SANS New2Cyber",2023-01-21,3225
 "SANS New2Cyber",2023-02-25,3653
 "SANS New2Cyber",2023-03-13,4023
@@ -71,6 +76,7 @@
 "SANS New2Cyber",2023-07-06,4826
 "SANS New2Cyber",2023-07-23,4919
 "SANS New2Cyber",2023-08-05,4972
+"SANS New2Cyber",2023-08-29,5069
 "SANS Offensive Operations",2023-01-21,65418
 "SANS Offensive Operations",2023-02-25,66607
 "SANS Offensive Operations",2023-03-13,67130
@@ -83,6 +89,7 @@
 "SANS Offensive Operations",2023-07-06,70948
 "SANS Offensive Operations",2023-07-23,71497
 "SANS Offensive Operations",2023-08-05,71700
+"SANS Offensive Operations",2023-08-29,72164
 "SANS Technology Institute",2023-01-21,49860
 "SANS Technology Institute",2023-02-25,53418
 "SANS Technology Institute",2023-03-13,55183
@@ -95,6 +102,7 @@
 "SANS Technology Institute",2023-07-06,69063
 "SANS Technology Institute",2023-07-23,70249
 "SANS Technology Institute",2023-08-05,71041
+"SANS Technology Institute",2023-08-29,72331
 "SAP",2023-01-29,3132415
 "SAP Signavio",2023-01-25,31879
 "SAS",2020-10-06,686941
@@ -306,6 +314,8 @@
 "SAS",2023-08-05,852881
 "SAS",2023-08-08,853247
 "SAS",2023-08-10,853672
+"SAS",2023-08-29,856435
+"SAS",2023-09-15,859414
 "SAS Partners",2020-10-06,6766
 "SAS Partners",2020-10-13,6774
 "SAS Partners",2020-10-18,6784
@@ -321,6 +331,7 @@
 "SBS CyberSecurity",2023-07-06,2732
 "SBS CyberSecurity",2023-07-23,2763
 "SBS CyberSecurity",2023-08-05,2784
+"SBS CyberSecurity",2023-08-29,2842
 "SCALEWORK",2022-01-14,824
 "SCALEWORK",2022-01-18,826
 "SCALEWORK",2022-01-27,837
@@ -425,6 +436,8 @@
 "SCALEWORK",2023-08-02,1238
 "SCALEWORK",2023-08-08,1243
 "SCALEWORK",2023-08-10,1244
+"SCALEWORK",2023-08-29,1274
+"SCALEWORK",2023-09-15,1291
 "SCIT - Symbiosis Centre For Information Technology",2023-01-21,3766
 "SCIT - Symbiosis Centre For Information Technology",2023-02-25,3828
 "SCIT - Symbiosis Centre For Information Technology",2023-03-13,3884
@@ -437,6 +450,7 @@
 "SCIT - Symbiosis Centre For Information Technology",2023-07-06,4163
 "SCIT - Symbiosis Centre For Information Technology",2023-07-23,4200
 "SCIT - Symbiosis Centre For Information Technology",2023-08-05,4220
+"SCIT - Symbiosis Centre For Information Technology",2023-08-29,4289
 "SCM - Space Commerce Matters",2023-01-21,317
 "SCM - Space Commerce Matters",2023-02-10,329
 "SCM - Space Commerce Matters",2023-02-25,340
@@ -450,6 +464,7 @@
 "SCM - Space Commerce Matters",2023-07-06,463
 "SCM - Space Commerce Matters",2023-07-23,467
 "SCM - Space Commerce Matters",2023-08-05,484
+"SCM - Space Commerce Matters",2023-08-29,492
 "SCOUT",2023-01-21,2870
 "SCOUT",2023-02-25,2948
 "SCOUT",2023-03-13,3006
@@ -462,6 +477,7 @@
 "SCOUT",2023-07-06,3384
 "SCOUT",2023-07-23,3467
 "SCOUT",2023-08-05,3518
+"SCOUT",2023-08-29,3649
 "SDG Academy",2021-09-16,13131
 "SDG Academy",2021-10-17,14120
 "SDG Academy",2021-10-29,14360
@@ -578,6 +594,8 @@
 "SDG Academy",2023-08-02,23896
 "SDG Academy",2023-08-08,23973
 "SDG Academy",2023-08-10,24021
+"SDG Academy",2023-08-29,24295
+"SDG Academy",2023-09-15,24523
 "SDGs",2021-08-14,1030
 "SDGs",2021-08-26,1073
 "SDGs",2021-09-02,1099
@@ -693,6 +711,8 @@
 "SDGs",2023-08-02,4050
 "SDGs",2023-08-08,4070
 "SDGs",2023-08-10,4080
+"SDGs",2023-08-29,4175
+"SDGs",2023-09-15,4265
 "SECU",2023-01-21,15502
 "SECU",2023-02-10,15875
 "SECU",2023-02-25,16137
@@ -706,6 +726,7 @@
 "SECU",2023-07-06,17550
 "SECU",2023-07-23,17685
 "SECU",2023-08-05,17788
+"SECU",2023-08-29,17966
 "SEMI - MEMS & Sensors Industry Group",2023-01-21,3223
 "SEMI - MEMS & Sensors Industry Group",2023-02-10,3261
 "SEMI - MEMS & Sensors Industry Group",2023-02-25,3297
@@ -719,6 +740,7 @@
 "SEMI - MEMS & Sensors Industry Group",2023-07-06,3530
 "SEMI - MEMS & Sensors Industry Group",2023-07-23,3540
 "SEMI - MEMS & Sensors Industry Group",2023-08-05,3549
+"SEMI - MEMS & Sensors Industry Group",2023-08-29,3569
 "SEMI Europe",2023-01-21,3592
 "SEMI Europe",2023-02-25,3783
 "SEMI Europe",2023-03-13,3843
@@ -731,6 +753,7 @@
 "SEMI Europe",2023-07-06,4370
 "SEMI Europe",2023-07-23,4448
 "SEMI Europe",2023-08-05,4493
+"SEMI Europe",2023-08-29,4539
 "SENS Research Foundation",2023-01-25,4577
 "SENS Research Foundation",2023-01-29,4585
 "SEO buddY Digital",2023-02-25,85
@@ -744,6 +767,7 @@
 "SEO buddY Digital",2023-07-06,252
 "SEO buddY Digital",2023-07-23,261
 "SEO buddY Digital",2023-08-05,270
+"SEO buddY Digital",2023-08-29,265
 "SETI Institute",2023-01-25,36154
 "SFI Centre for Research Traini",2023-06-14,943
 "SFI Centre for Research Traini",2023-06-17,949
@@ -752,6 +776,7 @@
 "SFI Centre for Research Traini",2023-07-23,1021
 "SFI Centre for Research Traini",2023-08-08,1038
 "SFI Centre for Research Traini",2023-08-10,1038
+"SFI Centre for Research Traini",2023-09-15,1072
 "SFI Centre for Research Training in Artificial Intelligence",2021-03-28,178
 "SFI Centre for Research Training in Artificial Intelligence",2021-03-31,179
 "SFI Centre for Research Training in Artificial Intelligence",2021-04-06,181
@@ -865,6 +890,7 @@
 "SIEM & SOC CyberSecurity Jobs",2023-07-06,77615
 "SIEM & SOC CyberSecurity Jobs",2023-07-23,80620
 "SIEM & SOC CyberSecurity Jobs",2023-08-05,83098
+"SIEM & SOC CyberSecurity Jobs",2023-08-29,86475
 "SIWI - Stockholm International Water Institute",2023-01-28,32582
 "SK hynix",2021-01-19,37200
 "SK hynix",2021-02-19,37940
@@ -882,11 +908,7 @@
 "SanDisk<U+00AE>",2023-01-21,131963
 "SanDisk<U+00AE>",2023-02-10,132239
 "SanDisk<U+00AE>",2023-02-25,132536
-"SanDisk®",2023-06-11,134074
-"SanDisk®",2023-06-23,134267
-"SanDisk®",2023-07-06,134501
-"SanDisk®",2023-07-23,134708
-"SanDisk®",2023-08-05,134932
+"SanDisk®",2023-08-29,135292
 "Sandy Sansing Dealerships",2023-01-21,760
 "Sandy Sansing Dealerships",2023-02-10,762
 "Sandy Sansing Dealerships",2023-02-25,763
@@ -900,6 +922,7 @@
 "Sandy Sansing Dealerships",2023-07-06,782
 "Sandy Sansing Dealerships",2023-07-23,781
 "Sandy Sansing Dealerships",2023-08-05,781
+"Sandy Sansing Dealerships",2023-08-29,783
 "Sanitation and Water for All",2023-01-28,17359
 "Sannam S4 Group",2023-01-28,50059
 "Sano Genetics",2023-01-25,3769
@@ -920,6 +943,7 @@
 "Santa Rosa County Chamber of Commerce and Tourist Information Center",2023-07-06,228
 "Santa Rosa County Chamber of Commerce and Tourist Information Center",2023-07-23,229
 "Santa Rosa County Chamber of Commerce and Tourist Information Center",2023-08-05,234
+"Santa Rosa County Chamber of Commerce and Tourist Information Center",2023-08-29,240
 "SatRdays",2022-02-27,180
 "SatRdays",2023-01-25,183
 "SatVu",2023-06-11,6358
@@ -932,6 +956,8 @@
 "SatVu",2023-08-02,7117
 "SatVu",2023-08-08,7218
 "SatVu",2023-08-10,7317
+"SatVu",2023-08-29,7573
+"SatVu",2023-09-15,7719
 "Satellite Evolution Group",2023-01-21,4727
 "Satellite Evolution Group",2023-02-25,4839
 "Satellite Evolution Group",2023-03-13,4905
@@ -944,6 +970,7 @@
 "Satellite Evolution Group",2023-07-06,5212
 "Satellite Evolution Group",2023-07-23,5227
 "Satellite Evolution Group",2023-08-05,5264
+"Satellite Evolution Group",2023-08-29,5317
 "Satellite Vu",2022-08-16,3855
 "Satellite Vu",2022-08-20,3899
 "Satellite Vu",2022-08-25,3935
@@ -1005,6 +1032,7 @@
 "Satellogic",2023-07-06,27875
 "Satellogic",2023-07-23,28075
 "Satellogic",2023-08-05,28296
+"Satellogic",2023-08-29,28616
 "Saturn Cloud",2023-01-21,14615
 "Saturn Cloud",2023-02-25,14671
 "Saturn Cloud",2023-03-13,14679
@@ -1017,6 +1045,7 @@
 "Saturn Cloud",2023-07-06,14714
 "Saturn Cloud",2023-07-23,14712
 "Saturn Cloud",2023-08-05,14734
+"Saturn Cloud",2023-08-29,14752
 "Savills Vietnam",2023-01-28,27762
 "Saxion University of Applied Sciences",2023-01-28,144504
 "SceneBox",2023-01-21,1618
@@ -1031,6 +1060,7 @@
 "SceneBox (Acquired by Applied Intuition)",2023-07-06,1660
 "SceneBox (Acquired by Applied Intuition)",2023-07-23,1659
 "SceneBox (Acquired by Applied Intuition)",2023-08-05,1663
+"SceneBox (Acquired by Applied Intuition)",2023-08-29,1668
 "Schneider Electric",2021-02-19,2536445
 "Schneider Electric",2021-03-26,2601321
 "Scholar Academies",2023-01-28,1008
@@ -1046,6 +1076,7 @@
 "Scholars of Finance",2023-07-06,4485
 "Scholars of Finance",2023-07-23,4551
 "Scholars of Finance",2023-08-05,4696
+"Scholars of Finance",2023-08-29,4847
 "Scholarships.com",2023-01-28,55336
 "SciML",2023-01-05,1450
 "SciML",2023-01-09,1483
@@ -1083,6 +1114,8 @@
 "SciML",2023-08-05,2530
 "SciML",2023-08-08,2533
 "SciML",2023-08-10,2536
+"SciML",2023-08-29,2565
+"SciML",2023-09-15,2582
 "Scientific American",2023-01-21,85628
 "Scientific American",2023-02-10,86044
 "Scientific American",2023-02-25,86481
@@ -1096,6 +1129,7 @@
 "Scientific American",2023-07-06,88819
 "Scientific American",2023-07-23,89044
 "Scientific American",2023-08-05,89221
+"Scientific American",2023-08-29,89509
 "Scopus: an eye on global research",2023-01-28,22004
 "Scribe Therapeutics",2023-01-25,5610
 "Scribe Therapeutics",2023-01-29,5647
@@ -1104,6 +1138,7 @@
 "Seagen",2023-01-25,67337
 "Seagen",2023-01-29,67608
 "Search Talent",2023-01-29,62077
+"Seasalt.ai",2023-09-15,512
 "Seattle Data Guy",2023-01-25,10471
 "Seattle Data Guy",2023-01-29,10563
 "Seattle Spark + AI",2023-04-23,60
@@ -1113,6 +1148,7 @@
 "Seattle Spark + AI",2023-07-06,81
 "Seattle Spark + AI",2023-07-23,82
 "Seattle Spark + AI",2023-08-05,86
+"Seattle Spark + AI",2023-08-29,86
 "Secretar<ed>a de Econom<ed>a y Trabajo",2020-10-16,665
 "Secretar<ed>a de Econom<ed>a y Trabajo",2020-10-20,670
 "Secretar<ed>a de Econom<ed>a y Trabajo",2020-10-28,686
@@ -1130,6 +1166,7 @@
 "SecureAuth Corporation",2023-07-06,16951
 "SecureAuth Corporation",2023-07-23,17024
 "SecureAuth Corporation",2023-08-05,17078
+"SecureAuth Corporation",2023-08-29,17289
 "Securitec Screening Solutions Inc.",2021-01-22,295
 "Securitec Screening Solutions Inc.",2021-01-25,295
 "Securitec Screening Solutions Inc.",2021-01-28,294
@@ -1159,6 +1196,7 @@
 "Security BSides Ahmedabad",2023-07-06,5980
 "Security BSides Ahmedabad",2023-07-23,6091
 "Security BSides Ahmedabad",2023-08-05,6238
+"Security BSides Ahmedabad",2023-08-29,7467
 "Security Blue Team",2023-01-21,113397
 "Security Blue Team",2023-02-25,118584
 "Security Blue Team",2023-03-13,120832
@@ -1171,6 +1209,7 @@
 "Security Blue Team",2023-07-06,139556
 "Security Blue Team",2023-07-23,142203
 "Security Blue Team",2023-08-05,144966
+"Security Blue Team",2023-08-29,148826
 "Securzy",2023-02-25,2594
 "Securzy",2023-03-13,2784
 "Securzy",2023-03-29,3004
@@ -1182,6 +1221,7 @@
 "Securzy",2023-07-06,3874
 "Securzy",2023-07-23,3894
 "Securzy",2023-08-05,3909
+"Securzy",2023-08-29,4100
 "Sedicii",2020-11-07,493
 "Sedicii",2020-11-21,507
 "Sedicii",2020-12-27,534
@@ -1314,10 +1354,12 @@
 "SeismicZone",2023-07-23,640
 "SeismicZone",2023-08-08,640
 "SeismicZone",2023-08-10,640
+"SeismicZone",2023-09-15,627
 "Selenium",2023-06-23,26617
 "Selenium",2023-07-06,26958
 "Selenium",2023-07-23,27192
 "Selenium",2023-08-05,27382
+"Selenium",2023-08-29,27912
 "Senseforth.ai",2020-10-20,14831
 "Senseforth.ai",2020-10-21,14836
 "Senseforth.ai",2020-10-23,14837
@@ -1502,6 +1544,8 @@
 "Senseforth.ai",2023-08-02,37148
 "Senseforth.ai",2023-08-08,37204
 "Senseforth.ai",2023-08-10,37230
+"Senseforth.ai",2023-08-29,37381
+"Senseforth.ai",2023-09-15,37531
 "Sentient Projects",2020-12-12,458
 "Sentient Projects",2020-12-15,463
 "Sentient Projects",2020-12-20,471
@@ -1677,6 +1721,8 @@
 "Sentient Projects",2023-08-02,656
 "Sentient Projects",2023-08-08,656
 "Sentient Projects",2023-08-10,656
+"Sentient Projects",2023-08-29,654
+"Sentient Projects",2023-09-15,654
 "Sentinel Hub",2023-01-21,13035
 "Sentinel Hub",2023-02-25,13371
 "Sentinel Hub",2023-03-13,13518
@@ -1689,6 +1735,7 @@
 "Sentinel Hub",2023-07-06,15055
 "Sentinel Hub",2023-07-23,15227
 "Sentinel Hub",2023-08-05,15480
+"Sentinel Hub",2023-08-29,15824
 "SentinelOne",2023-01-21,128285
 "SentinelOne",2023-02-10,132391
 "SentinelOne",2023-02-25,135111
@@ -1702,6 +1749,7 @@
 "SentinelOne",2023-07-06,161449
 "SentinelOne",2023-07-23,164360
 "SentinelOne",2023-08-05,167074
+"SentinelOne",2023-08-29,172038
 "Sequoia Capital",2023-01-25,538852
 "Sequoia Capital",2023-01-29,539955
 "Serhum Consultoria em RH",2021-05-10,8154
@@ -1718,6 +1766,7 @@
 "Seven Seven Six 7<U+FE0F><U+20E3>7<U+FE0F><U+20E3>6<U+FE0F><U+20E3>",2023-07-06,24642
 "Seven Seven Six 7<U+FE0F><U+20E3>7<U+FE0F><U+20E3>6<U+FE0F><U+20E3>",2023-07-23,24883
 "Seven Seven Six 7<U+FE0F><U+20E3>7<U+FE0F><U+20E3>6<U+FE0F><U+20E3>",2023-08-05,25260
+"Seven Seven Six 7<U+FE0F><U+20E3>7<U+FE0F><U+20E3>6<U+FE0F><U+20E3>",2023-08-29,26039
 "Shaker Recruitment Marketing",2023-01-21,7668
 "Shaker Recruitment Marketing",2023-02-10,7769
 "Shaker Recruitment Marketing",2023-02-25,7930
@@ -1731,6 +1780,7 @@
 "Shaker Recruitment Marketing",2023-07-06,9820
 "Shaker Recruitment Marketing",2023-07-23,9904
 "Shaker Recruitment Marketing",2023-08-05,9938
+"Shaker Recruitment Marketing",2023-08-29,9992
 "She'sTech",2020-10-16,1404
 "She'sTech",2020-10-18,1411
 "She'sTech",2020-10-21,1418
@@ -1844,6 +1894,7 @@
 "Sheffield Women in Computer Science Society",2023-07-23,65
 "Sheffield Women in Computer Science Society",2023-08-08,65
 "Sheffield Women in Computer Science Society",2023-08-10,65
+"Sheffield Women in Computer Science Society",2023-09-15,65
 "Shiksha IAS Academy",2021-05-10,360
 "Shivom",2023-01-25,1923
 "Shivom",2023-01-29,1924
@@ -1859,6 +1910,7 @@
 "Shodan",2023-07-06,39565
 "Shodan",2023-07-23,42252
 "Shodan",2023-08-05,43197
+"Shodan",2023-08-29,44202
 "Shoolini University",2023-01-28,19449
 "Shopify",2023-01-25,684735
 "Shree Cement Ltd.",2021-02-19,45117
@@ -1878,6 +1930,7 @@
 "Siemens",2023-07-06,6284381
 "Siemens",2023-07-23,6332779
 "Siemens",2023-08-05,6374873
+"Siemens",2023-08-29,6452174
 "Siemens Digital Industries Software",2020-10-16,171649
 "Siemens Digital Industries Software",2020-10-20,171790
 "Siemens Digital Industries Software",2020-10-21,171841
@@ -1894,6 +1947,7 @@
 "Siemens Digital Industries Software",2023-07-06,777889
 "Siemens Digital Industries Software",2023-07-23,787475
 "Siemens Digital Industries Software",2023-08-05,793899
+"Siemens Digital Industries Software",2023-08-29,804739
 "Sierra Circuits",2023-02-25,26171
 "Sierra Circuits",2023-03-13,26286
 "Sierra Circuits",2023-03-29,26446
@@ -1905,6 +1959,7 @@
 "Sierra Circuits",2023-07-06,27608
 "Sierra Circuits",2023-07-23,27789
 "Sierra Circuits",2023-08-05,27982
+"Sierra Circuits",2023-08-29,28657
 "Sierra Club",2023-01-21,77412
 "Sierra Club",2023-02-10,78540
 "Sierra Club",2023-02-25,79420
@@ -1918,6 +1973,7 @@
 "Sierra Club",2023-07-06,85003
 "Sierra Club",2023-07-23,85328
 "Sierra Club",2023-08-05,85586
+"Sierra Club",2023-08-29,86109
 "Sierra Nevada Corporation",2023-01-21,86003
 "Sierra Nevada Corporation",2023-02-10,86568
 "Sierra Nevada Corporation",2023-02-25,86973
@@ -1931,6 +1987,7 @@
 "Sierra Nevada Corporation",2023-07-06,90976
 "Sierra Nevada Corporation",2023-07-23,91414
 "Sierra Nevada Corporation",2023-08-05,91821
+"Sierra Nevada Corporation",2023-08-29,92651
 "Sierra Space",2023-01-21,46136
 "Sierra Space",2023-02-25,49439
 "Sierra Space",2023-03-13,50762
@@ -1943,6 +2000,7 @@
 "Sierra Space",2023-07-06,60583
 "Sierra Space",2023-07-23,62030
 "Sierra Space",2023-08-05,63312
+"Sierra Space",2023-08-29,65849
 "Sightline Security",2023-01-21,377
 "Sightline Security",2023-02-25,385
 "Sightline Security",2023-03-13,385
@@ -1955,6 +2013,7 @@
 "Sightline Security",2023-07-06,422
 "Sightline Security",2023-07-23,426
 "Sightline Security",2023-08-05,428
+"Sightline Security",2023-08-29,436
 "Signarama - Destin",2023-01-21,858
 "Signarama - Destin",2023-02-25,901
 "Signarama - Destin",2023-03-13,910
@@ -1967,6 +2026,7 @@
 "Signarama - Destin",2023-07-06,1124
 "Signarama - Destin",2023-07-23,1165
 "Signarama - Destin",2023-08-05,1226
+"Signarama - Destin",2023-08-29,1281
 "Silo AI",2021-01-22,4017
 "Silo AI",2021-01-25,4028
 "Silo AI",2021-01-28,4042
@@ -2090,6 +2150,7 @@
 "Silo AI",2023-07-23,11292
 "Silo AI",2023-08-08,11528
 "Silo AI",2023-08-10,11547
+"Silo AI",2023-09-15,12001
 "SilviaTerra",2021-01-15,1303
 "SilviaTerra",2021-01-19,1338
 "SilviaTerra",2021-01-25,1369
@@ -2135,6 +2196,7 @@
 "Simply Cyber",2023-07-06,14845
 "Simply Cyber",2023-07-23,15226
 "Simply Cyber",2023-08-05,15927
+"Simply Cyber",2023-08-29,16504
 "Single Cell",2023-06-11,661
 "Single Cell",2023-06-14,681
 "Single Cell",2023-06-17,685
@@ -2143,6 +2205,8 @@
 "Single Cell",2023-08-02,789
 "Single Cell",2023-08-08,798
 "Single Cell",2023-08-10,807
+"Single Cell",2023-08-29,839
+"Single Cell",2023-09-15,903
 "Single Cell Analytics",2023-04-10,443
 "Single Cell Analytics",2023-04-13,455
 "Single Cell Analytics",2023-04-21,460
@@ -2166,6 +2230,7 @@
 "Singularity University",2023-07-06,154125
 "Singularity University",2023-07-23,154712
 "Singularity University",2023-08-05,155218
+"Singularity University",2023-08-29,156235
 "Sister Analyst",2022-03-15,147
 "Sister Analyst",2022-03-20,157
 "Sister Analyst",2022-03-29,184
@@ -2258,6 +2323,8 @@
 "Sister Analyst",2023-08-02,542
 "Sister Analyst",2023-08-08,542
 "Sister Analyst",2023-08-10,543
+"Sister Analyst",2023-08-29,543
+"Sister Analyst",2023-09-15,542
 "Skillhouse Staffing Solutions K.K.",2023-01-28,17667
 "Skoll Foundation",2020-10-25,21517
 "Skoll Foundation",2020-10-28,21569
@@ -2444,6 +2511,8 @@
 "Skoll Foundation",2023-08-02,48492
 "Skoll Foundation",2023-08-08,48785
 "Skoll Foundation",2023-08-10,48978
+"Skoll Foundation",2023-08-29,50162
+"Skoll Foundation",2023-09-15,51171
 "SkyFi",2023-01-21,280
 "SkyFi",2023-02-25,290
 "SkyFi",2023-02-25,3159
@@ -2467,6 +2536,8 @@
 "SkyFi",2023-07-23,4888
 "SkyFi",2023-08-05,314
 "SkyFi",2023-08-05,5027
+"SkyFi",2023-08-29,317
+"SkyFi",2023-08-29,5288
 "SkyTruth",2023-03-25,1462
 "SkyTruth",2023-04-01,1482
 "SkyTruth",2023-04-10,1494
@@ -2487,6 +2558,8 @@
 "SkyTruth",2023-08-02,1652
 "SkyTruth",2023-08-08,1658
 "SkyTruth",2023-08-10,1660
+"SkyTruth",2023-08-29,1709
+"SkyTruth",2023-09-15,1856
 "Skype",2023-01-25,107645
 "Skype",2023-01-29,107714
 "Skyroot Aerospace",2023-01-21,148442
@@ -2501,6 +2574,7 @@
 "Skyroot Aerospace",2023-07-06,162164
 "Skyroot Aerospace",2023-07-23,163959
 "Skyroot Aerospace",2023-08-05,166525
+"Skyroot Aerospace",2023-08-29,171165
 "Slack",2020-10-16,463987
 "Slack",2020-10-19,466719
 "Slack",2020-10-20,467940
@@ -2528,6 +2602,7 @@
 "Slack",2023-07-06,1334493
 "Slack",2023-07-23,1352904
 "Slack",2023-08-05,1366492
+"Slack",2023-08-29,1387156
 "Slashdot",2023-01-25,7943
 "Slashdot",2023-01-29,7951
 "Slingshot Aerospace",2023-01-21,8519
@@ -2542,6 +2617,7 @@
 "Slingshot Aerospace",2023-07-06,10731
 "Slingshot Aerospace",2023-07-23,10846
 "Slingshot Aerospace",2023-08-05,10925
+"Slingshot Aerospace",2023-08-29,11057
 "SmartIR",2023-02-25,132
 "SmartIR",2023-03-13,143
 "SmartIR",2023-03-29,162
@@ -2553,6 +2629,7 @@
 "SmartIR",2023-07-06,213
 "SmartIR",2023-07-23,236
 "SmartIR",2023-08-05,240
+"SmartIR",2023-08-29,263
 "SmarterHomes Technologies Pvt. Ltd.",2023-01-28,1893
 "Snam S.p.A.",2021-02-19,127087
 "Snam S.p.A.",2021-03-26,130638
@@ -2662,6 +2739,8 @@
 "Snowflake",2023-08-05,669384
 "Snowflake",2023-08-08,670948
 "Snowflake",2023-08-10,672623
+"Snowflake",2023-08-29,684444
+"Snowflake",2023-09-15,694957
 "Snyk",2023-01-21,53631
 "Snyk",2023-02-25,55902
 "Snyk",2023-03-13,57010
@@ -2674,6 +2753,7 @@
 "Snyk",2023-07-06,64182
 "Snyk",2023-07-23,65140
 "Snyk",2023-08-05,65891
+"Snyk",2023-08-29,67462
 "SoGal Foundation",2023-01-25,4595
 "SoGal Ventures",2023-01-25,7259
 "Soc Inves",2023-06-11,45396
@@ -2681,6 +2761,7 @@
 "Soc Inves",2023-07-06,46158
 "Soc Inves",2023-07-23,46497
 "Soc Inves",2023-08-05,46742
+"Soc Inves",2023-08-29,47114
 "Soc Investigation",2023-01-21,39884
 "Soc Investigation",2023-02-25,41479
 "Soc Investigation",2023-03-13,42233
@@ -2704,6 +2785,7 @@
 "Social Links",2023-07-06,14551
 "Social Links",2023-07-23,15754
 "Social Links",2023-08-05,16960
+"Social Links",2023-08-29,19164
 "Social Media Marketing",2023-03-13,0
 "Social Media Marketing",2023-03-29,597448
 "Social Media Marketing",2023-04-10,596575
@@ -2714,10 +2796,12 @@
 "Social Media Marketing",2023-07-06,644752
 "Social Media Marketing",2023-07-23,655121
 "Social Media Marketing",2023-08-05,665044
+"Social Media Marketing",2023-08-29,683729
 "Society for Industrial and Applied Mathematics (SIAM)",2023-06-23,10136
 "Society for Industrial and Applied Mathematics (SIAM)",2023-07-06,10239
 "Society for Industrial and Applied Mathematics (SIAM)",2023-07-23,10432
 "Society for Industrial and Applied Mathematics (SIAM)",2023-08-05,10565
+"Society for Industrial and Applied Mathematics (SIAM)",2023-08-29,10778
 "Society for Neuroscience",2023-01-21,90416
 "Society for Neuroscience",2023-02-10,91703
 "Society for Neuroscience",2023-02-25,92568
@@ -2731,6 +2815,7 @@
 "Society for Neuroscience",2023-07-06,99677
 "Society for Neuroscience",2023-07-23,100464
 "Society for Neuroscience",2023-08-05,101316
+"Society for Neuroscience",2023-08-29,102810
 "Society for the Environment (SocEnv)",2023-01-28,14536
 "Society of Women Engineers",2023-01-21,80168
 "Society of Women Engineers",2023-02-10,81030
@@ -2745,6 +2830,7 @@
 "Society of Women Engineers",2023-07-06,87576
 "Society of Women Engineers",2023-07-23,88164
 "Society of Women Engineers",2023-08-05,88696
+"Society of Women Engineers",2023-08-29,89637
 "SoftBank Group Corp.",2023-01-21,150005
 "SoftBank Group Corp.",2023-02-25,155442
 "SoftBank Group Corp.",2023-03-13,157549
@@ -2757,6 +2843,7 @@
 "SoftBank Group Corp.",2023-07-06,171454
 "SoftBank Group Corp.",2023-07-23,173894
 "SoftBank Group Corp.",2023-08-05,174365
+"SoftBank Group Corp.",2023-08-29,177092
 "SoftLayer an IBM Company",2023-01-25,49222
 "SoftLayer an IBM Company",2023-01-29,49220
 "Softcat plc",2020-11-21,25535
@@ -2765,6 +2852,7 @@
 "Softcat plc",2021-03-26,27565
 "Softest Consulting Services Ltd",2023-08-08,4412
 "Softest Consulting Services Ltd",2023-08-10,4415
+"Softest Consulting Services Ltd",2023-09-15,4477
 "Software Insights Ireland",2020-12-12,258
 "Software Insights Ireland",2020-12-15,267
 "Software Insights Ireland",2020-12-20,277
@@ -2934,6 +3022,8 @@
 "Software Insights Ireland",2023-08-02,1286
 "Software Insights Ireland",2023-08-08,1286
 "Software Insights Ireland",2023-08-10,1286
+"Software Insights Ireland",2023-08-29,1287
+"Software Insights Ireland",2023-09-15,1288
 "Software Research Unit",2023-01-25,4
 "Software Research Unit",2023-01-29,4
 "SolarBK",2023-01-28,2505
@@ -3181,6 +3271,8 @@
 "Sololearn",2023-08-02,154124
 "Sololearn",2023-08-08,154754
 "Sololearn",2023-08-10,154982
+"Sololearn",2023-08-29,156543
+"Sololearn",2023-09-15,158099
 "Solucionare RH",2021-05-10,5304
 "Solution 105 Consulting Ltd.",2023-01-28,816
 "Solution Innovation Services (SIS Group)",2023-01-28,491
@@ -3204,6 +3296,7 @@
 "Source2Create",2023-07-06,2229
 "Source2Create",2023-07-23,2240
 "Source2Create",2023-08-05,2259
+"Source2Create",2023-08-29,2272
 "SourceAmerica",2023-01-21,6842
 "SourceAmerica",2023-02-10,6907
 "SourceAmerica",2023-02-25,6941
@@ -3217,6 +3310,7 @@
 "SourceAmerica",2023-07-06,7307
 "SourceAmerica",2023-07-23,7372
 "SourceAmerica",2023-08-05,7435
+"SourceAmerica",2023-08-29,7497
 "SourceDay",2023-01-21,5980
 "SourceDay",2023-02-25,6187
 "SourceDay",2023-03-13,6261
@@ -3229,6 +3323,7 @@
 "SourceDay",2023-07-06,6601
 "SourceDay",2023-07-23,6646
 "SourceDay",2023-08-05,6671
+"SourceDay",2023-08-29,6719
 "South East Water",2023-01-28,22125
 "South Florida Tech Hub <U+0001F334>",2023-01-21,9067
 "South Florida Tech Hub <U+0001F334>",2023-02-25,9550
@@ -3242,6 +3337,7 @@
 "South Florida Tech Hub <U+0001F334>",2023-07-06,11142
 "South Florida Tech Hub <U+0001F334>",2023-07-23,11274
 "South Florida Tech Hub <U+0001F334>",2023-08-05,11395
+"South Florida Tech Hub <U+0001F334>",2023-08-29,11699
 "South Pole",2023-01-25,91433
 "Southern California Coastal Water Research Project",2023-01-28,619
 "Southern California R Users Group",2022-02-27,109
@@ -3257,6 +3353,7 @@
 "Southern Data Science Conference",2023-07-06,2560
 "Southern Data Science Conference",2023-07-23,2575
 "Southern Data Science Conference",2023-08-05,2577
+"Southern Data Science Conference",2023-08-29,2665
 "Southern Poverty Law Center",2023-01-21,37023
 "Southern Poverty Law Center",2023-02-10,37218
 "Southern Poverty Law Center",2023-02-25,37484
@@ -3270,6 +3367,7 @@
 "Southern Poverty Law Center",2023-07-06,39400
 "Southern Poverty Law Center",2023-07-23,39679
 "Southern Poverty Law Center",2023-08-05,39928
+"Southern Poverty Law Center",2023-08-29,40410
 "Sovereign Tech Fund",2023-01-25,298
 "Space Capital",2023-01-21,7716
 "Space Capital",2023-02-25,7961
@@ -3283,6 +3381,7 @@
 "Space Capital",2023-07-06,8754
 "Space Capital",2023-07-23,8845
 "Space Capital",2023-08-05,8946
+"Space Capital",2023-08-29,9128
 "Space Channel",2023-01-21,5435
 "Space Channel",2023-02-25,5510
 "Space Channel",2023-03-13,5518
@@ -3295,6 +3394,7 @@
 "Space Channel",2023-07-06,5537
 "Space Channel",2023-07-23,5537
 "Space Channel",2023-08-05,5542
+"Space Channel",2023-08-29,5548
 "Space Congress",2023-02-25,629
 "Space Congress",2023-03-13,659
 "Space Congress",2023-03-29,663
@@ -3306,6 +3406,7 @@
 "Space Congress",2023-07-06,681
 "Space Congress",2023-07-23,688
 "Space Congress",2023-08-05,693
+"Space Congress",2023-08-29,695
 "Space Development Agency",2023-01-21,14633
 "Space Development Agency",2023-02-25,15356
 "Space Development Agency",2023-03-13,15643
@@ -3318,6 +3419,7 @@
 "Space Development Agency",2023-07-06,18001
 "Space Development Agency",2023-07-23,18277
 "Space Development Agency",2023-08-05,18492
+"Space Development Agency",2023-08-29,18557
 "Space Entrepreneurs",2023-01-21,602
 "Space Entrepreneurs",2023-02-25,609
 "Space Entrepreneurs",2023-03-13,613
@@ -3330,6 +3432,7 @@
 "Space Entrepreneurs",2023-07-06,662
 "Space Entrepreneurs",2023-07-23,666
 "Space Entrepreneurs",2023-08-05,670
+"Space Entrepreneurs",2023-08-29,677
 "Space Florida",2023-01-21,14182
 "Space Florida",2023-02-10,14355
 "Space Florida",2023-02-25,14429
@@ -3343,6 +3446,7 @@
 "Space Florida",2023-07-06,15248
 "Space Florida",2023-07-23,15324
 "Space Florida",2023-08-05,15365
+"Space Florida",2023-08-29,15483
 "Space Force Association",2023-01-21,23332
 "Space Force Association",2023-02-25,24378
 "Space Force Association",2023-03-13,24831
@@ -3355,6 +3459,7 @@
 "Space Force Association",2023-07-06,27588
 "Space Force Association",2023-07-23,27902
 "Space Force Association",2023-08-05,28248
+"Space Force Association",2023-08-29,27220
 "Space Forge",2023-01-21,7809
 "Space Forge",2023-02-25,8304
 "Space Forge",2023-03-13,8469
@@ -3367,6 +3472,7 @@
 "Space Forge",2023-07-06,10045
 "Space Forge",2023-07-23,10298
 "Space Forge",2023-08-05,10431
+"Space Forge",2023-08-29,10716
 "Space Foundation",2023-01-21,32893
 "Space Foundation",2023-01-25,32966
 "Space Foundation",2023-02-10,33232
@@ -3381,6 +3487,7 @@
 "Space Foundation",2023-07-06,35912
 "Space Foundation",2023-07-23,36073
 "Space Foundation",2023-08-05,36243
+"Space Foundation",2023-08-29,36567
 "Space Generation Advisory Council",2023-01-21,32381
 "Space Generation Advisory Council",2023-02-10,32738
 "Space Generation Advisory Council",2023-02-25,32975
@@ -3394,6 +3501,7 @@
 "Space Generation Advisory Council",2023-07-06,35692
 "Space Generation Advisory Council",2023-07-23,35989
 "Space Generation Advisory Council",2023-08-05,36249
+"Space Generation Advisory Council",2023-08-29,36663
 "Space Impulse",2021-01-19,1309
 "Space Impulse",2021-02-19,1485
 "Space Impulse",2021-03-06,1538
@@ -3410,6 +3518,7 @@
 "Space Impulse",2023-07-06,13870
 "Space Impulse",2023-07-23,14078
 "Space Impulse",2023-08-05,14326
+"Space Impulse",2023-08-29,14748
 "Space Launch Delta 45",2023-01-21,3190
 "Space Launch Delta 45",2023-02-25,3669
 "Space Launch Delta 45",2023-03-13,3931
@@ -3422,6 +3531,7 @@
 "Space Launch Delta 45",2023-07-06,5142
 "Space Launch Delta 45",2023-07-23,5247
 "Space Launch Delta 45",2023-08-05,5384
+"Space Launch Delta 45",2023-08-29,5530
 "Space Mobility Conference",2023-02-25,428
 "Space Mobility Conference",2023-03-13,469
 "Space Mobility Conference",2023-03-29,511
@@ -3433,6 +3543,7 @@
 "Space Mobility Conference",2023-07-06,574
 "Space Mobility Conference",2023-07-23,585
 "Space Mobility Conference",2023-08-05,595
+"Space Mobility Conference",2023-08-29,596
 "Space Perspective",2023-01-21,9446
 "Space Perspective",2023-02-25,9956
 "Space Perspective",2023-03-13,10369
@@ -3445,6 +3556,7 @@
 "Space Perspective",2023-07-06,11872
 "Space Perspective",2023-07-23,11932
 "Space Perspective",2023-08-05,12180
+"Space Perspective",2023-08-29,12432
 "Space Tourism Conference",2023-02-25,200
 "Space Tourism Conference",2023-03-13,215
 "Space Tourism Conference",2023-03-29,251
@@ -3456,6 +3568,7 @@
 "Space Tourism Conference",2023-07-06,328
 "Space Tourism Conference",2023-07-23,333
 "Space Tourism Conference",2023-08-05,334
+"Space Tourism Conference",2023-08-29,337
 "Space Workforce 2030",2023-02-25,545
 "Space Workforce 2030",2023-03-13,552
 "Space Workforce 2030",2023-03-29,562
@@ -3467,6 +3580,7 @@
 "Space Workforce 2030",2023-07-06,721
 "Space Workforce 2030",2023-07-23,740
 "Space Workforce 2030",2023-08-05,786
+"Space Workforce 2030",2023-08-29,817
 "Space and Satellite Professionals International",2023-01-21,2293
 "Space and Satellite Professionals International",2023-02-25,2456
 "Space and Satellite Professionals International",2023-03-13,2508
@@ -3479,6 +3593,7 @@
 "Space and Satellite Professionals International",2023-07-06,2778
 "Space and Satellite Professionals International",2023-07-23,2811
 "Space and Satellite Professionals International",2023-08-05,2851
+"Space and Satellite Professionals International",2023-08-29,2894
 "Space-Comm Expo",2023-01-21,2029
 "Space-Comm Expo",2023-02-25,2067
 "Space-Comm Expo",2023-03-13,2083
@@ -3491,6 +3606,7 @@
 "Space-Comm Expo",2023-07-06,2816
 "Space-Comm Expo",2023-07-23,2830
 "Space-Comm Expo",2023-08-05,2841
+"Space-Comm Expo",2023-08-29,2864
 "Space.com",2023-01-21,4723
 "Space.com",2023-02-10,4723
 "Space.com",2023-02-25,4732
@@ -3504,6 +3620,7 @@
 "Space.com",2023-07-06,4782
 "Space.com",2023-07-23,4786
 "Space.com",2023-08-05,4795
+"Space.com",2023-08-29,4811
 "Space4Good",2022-08-16,4901
 "Space4Good",2022-08-20,4915
 "Space4Good",2022-08-25,4932
@@ -3565,6 +3682,8 @@
 "Space4Good",2023-08-05,7876
 "Space4Good",2023-08-08,7901
 "Space4Good",2023-08-10,7915
+"Space4Good",2023-08-29,8010
+"Space4Good",2023-09-15,8069
 "SpaceCom",2023-02-25,3566
 "SpaceCom",2023-03-13,3651
 "SpaceCom",2023-03-29,3681
@@ -3576,6 +3695,7 @@
 "SpaceCom",2023-07-06,3739
 "SpaceCom",2023-07-23,3847
 "SpaceCom",2023-08-05,4013
+"SpaceCom",2023-08-29,4024
 "SpaceFund",2023-01-21,4496
 "SpaceFund",2023-02-25,4753
 "SpaceFund",2023-03-13,4893
@@ -3588,9 +3708,11 @@
 "SpaceFund",2023-07-06,5431
 "SpaceFund",2023-07-23,5476
 "SpaceFund",2023-08-05,5511
+"SpaceFund",2023-08-29,5579
 "SpaceKind",2023-07-06,680
 "SpaceKind",2023-07-23,707
 "SpaceKind",2023-08-05,718
+"SpaceKind",2023-08-29,807
 "SpaceLink",2023-01-21,4647
 "SpaceLink",2023-02-25,4684
 "SpaceLink",2023-03-13,4692
@@ -3603,6 +3725,7 @@
 "SpaceLink",2023-07-06,4817
 "SpaceLink",2023-07-23,4828
 "SpaceLink",2023-08-05,4844
+"SpaceLink",2023-08-29,4870
 "SpaceNews",2023-01-21,35098
 "SpaceNews",2023-02-10,35177
 "SpaceNews",2023-02-25,35230
@@ -3616,6 +3739,7 @@
 "SpaceNews",2023-07-06,37087
 "SpaceNews",2023-07-23,37374
 "SpaceNews",2023-08-05,37731
+"SpaceNews",2023-08-29,38787
 "SpaceWERX",2023-01-21,5836
 "SpaceWERX",2023-02-25,6552
 "SpaceWERX",2023-03-13,6914
@@ -3628,6 +3752,7 @@
 "SpaceWERX",2023-07-06,8929
 "SpaceWERX",2023-07-23,9000
 "SpaceWERX",2023-08-05,9090
+"SpaceWERX",2023-08-29,9012
 "SpaceX",2023-01-21,2881451
 "SpaceX",2023-01-25,2885622
 "SpaceX",2023-01-25,2885626
@@ -3643,6 +3768,7 @@
 "SpaceX",2023-07-06,3062860
 "SpaceX",2023-07-23,3074086
 "SpaceX",2023-08-05,3084719
+"SpaceX",2023-08-29,3108928
 "Spaced Ventures",2023-01-21,3899
 "Spaced Ventures",2023-02-25,4027
 "Spaced Ventures",2023-03-13,4093
@@ -3655,6 +3781,7 @@
 "Spaced Ventures",2023-07-06,4328
 "Spaced Ventures",2023-07-23,4350
 "Spaced Ventures",2023-08-05,4362
+"Spaced Ventures",2023-08-29,4400
 "Spaceflight Inc.",2023-01-21,11643
 "Spaceflight Inc.",2023-02-10,11845
 "Spaceflight Inc.",2023-02-25,11945
@@ -3668,6 +3795,7 @@
 "Spaceflight Inc.",2023-07-06,12993
 "Spaceflight Inc.",2023-07-23,13036
 "Spaceflight Inc.",2023-08-05,13057
+"Spaceflight Inc.",2023-08-29,13091
 "Spaceport Cornwall",2023-01-21,14138
 "Spaceport Cornwall",2023-02-25,14748
 "Spaceport Cornwall",2023-03-13,14944
@@ -3680,6 +3808,7 @@
 "Spaceport Cornwall",2023-07-06,16017
 "Spaceport Cornwall",2023-07-23,16116
 "Spaceport Cornwall",2023-08-05,16204
+"Spaceport Cornwall",2023-08-29,16385
 "Spark",2023-06-17,6218
 "Spark",2023-06-23,6247
 "Spark",2023-06-27,6253
@@ -3688,6 +3817,8 @@
 "Spark",2023-08-02,6397
 "Spark",2023-08-08,6414
 "Spark",2023-08-10,6419
+"Spark",2023-08-29,6493
+"Spark",2023-09-15,6545
 "scRNA-Analytics",2023-01-22,54
 "scRNA-Analytics",2023-01-28,101
 "scRNA-Analytics",2023-02-04,175
@@ -3826,10 +3957,13 @@
 "scikit-learn",2023-08-05,93235
 "scikit-learn",2023-08-08,93455
 "scikit-learn",2023-08-10,93642
+"scikit-learn",2023-08-29,95860
+"scikit-learn",2023-09-15,97465
 "securityNOW Inc",2023-06-23,101
 "securityNOW Inc",2023-07-06,102
 "securityNOW Inc",2023-07-23,102
 "securityNOW Inc",2023-08-05,102
+"securityNOW Inc",2023-08-29,106
 "simpl.study",2021-04-24,66
 "simpl.study",2021-04-28,67
 "simpl.study",2021-05-07,69
@@ -3932,3 +4066,4 @@
 "simpl.study",2023-07-23,70
 "simpl.study",2023-08-08,70
 "simpl.study",2023-08-10,70
+"simpl.study",2023-09-15,69

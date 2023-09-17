@@ -82,12 +82,13 @@
 "PyTorch",2023-08-05,186297
 "PyTorch",2023-08-08,186972
 "PyTorch",2023-08-10,187459
+"PyTorch",2023-08-29,190730
+"PyTorch",2023-09-15,194731
 "PyTorch Lightning",2021-01-19,2390
 "PyTorch Scholarship Challenge NanoDegree",2021-01-19,1922
 "PyTorch Scholarship Challenge NanoDegree",2021-02-19,2030
 "PyTorch Scholarship Challenge NanoDegree",2021-03-06,2085
 "PyTorch Scholarship Challenge NanoDegree",2021-03-26,2152
-"Python People",2021-05-10,6883
 "Python Predictions",2020-11-07,7154
 "Python Predictions",2020-11-21,7185
 "Python Predictions",2020-12-27,7436
@@ -350,6 +351,8 @@
 "Python Software Foundation",2023-08-05,126827
 "Python Software Foundation",2023-08-08,126902
 "Python Software Foundation",2023-08-10,126978
+"Python Software Foundation",2023-08-29,127483
+"Python Software Foundation",2023-09-15,127979
 "Python posts you might have missed!",2020-11-07,505
 "Python posts you might have missed!",2020-11-21,572
 "Python posts you might have missed!",2020-11-30,600
@@ -372,6 +375,7 @@
 "QIAGEN",2023-01-25,210936
 "QIAGEN",2023-01-29,211388
 "QIMA",2023-01-28,64981
+"QTA Tech",2023-09-15,638
 "Qatar Computing Research Institute",2021-07-22,8524
 "Qatar Computing Research Institute",2021-08-14,8591
 "Qatar Computing Research Institute",2021-08-26,8642
@@ -494,12 +498,16 @@
 "Qatar Computing Research Institute",2023-08-02,12686
 "Qatar Computing Research Institute",2023-08-08,12705
 "Qatar Computing Research Institute",2023-08-10,12719
+"Qatar Computing Research Institute",2023-08-29,12834
+"Qatar Computing Research Institute",2023-09-15,12946
 "Qatar Foundation",2023-06-27,533792
 "Qatar Foundation",2023-07-06,535284
 "Qatar Foundation",2023-07-23,538176
 "Qatar Foundation",2023-08-02,539860
 "Qatar Foundation",2023-08-08,540790
 "Qatar Foundation",2023-08-10,541165
+"Qatar Foundation",2023-08-29,544289
+"Qatar Foundation",2023-09-15,547568
 "Qtatech",2023-04-01,279
 "Qtatech",2023-04-10,339
 "Qtatech",2023-04-13,355
@@ -519,6 +527,7 @@
 "Qtatech",2023-08-02,601
 "Qtatech",2023-08-08,605
 "Qtatech",2023-08-10,606
+"Qtatech",2023-08-29,627
 "QuEra Computing Inc.",2023-04-23,5698
 "QuEra Computing Inc.",2023-06-05,6104
 "QuEra Computing Inc.",2023-06-11,6167
@@ -526,6 +535,7 @@
 "QuEra Computing Inc.",2023-07-06,6488
 "QuEra Computing Inc.",2023-07-23,6689
 "QuEra Computing Inc.",2023-08-05,6913
+"QuEra Computing Inc.",2023-08-29,7454
 "QuadSAT",2023-01-21,3730
 "QuadSAT",2023-02-25,3777
 "QuadSAT",2023-03-13,3819
@@ -538,6 +548,7 @@
 "Quadsat",2023-07-06,4216
 "Quadsat",2023-07-23,4254
 "Quadsat",2023-08-05,4323
+"Quadsat",2023-08-29,4395
 "QualTech RPO",2023-01-28,29589
 "Qualcomm",2023-01-21,1177960
 "Qualcomm",2023-01-28,1182623
@@ -553,6 +564,7 @@
 "Qualcomm",2023-07-06,1291995
 "Qualcomm",2023-07-23,1306771
 "Qualcomm",2023-08-05,1321733
+"Qualcomm",2023-08-29,1341644
 "Qualtrics",2020-10-16,135941
 "Qualtrics",2020-10-20,136180
 "Qualtrics",2020-10-21,136272
@@ -747,6 +759,8 @@
 "Qualtrics",2023-08-02,231586
 "Qualtrics",2023-08-08,232020
 "Qualtrics",2023-08-10,232224
+"Qualtrics",2023-08-29,233894
+"Qualtrics",2023-09-15,235553
 "Qualys",2023-01-21,135366
 "Qualys",2023-02-10,136984
 "Qualys",2023-02-25,138842
@@ -760,6 +774,7 @@
 "Qualys",2023-07-06,151444
 "Qualys",2023-07-23,152665
 "Qualys",2023-08-05,154048
+"Qualys",2023-08-29,156453
 "Quansight",2020-10-19,669
 "Quansight",2020-10-20,675
 "Quansight",2020-10-25,694
@@ -950,6 +965,8 @@
 "Quansight",2023-08-05,2318
 "Quansight",2023-08-08,2323
 "Quansight",2023-08-10,2325
+"Quansight",2023-08-29,2373
+"Quansight",2023-09-15,2424
 "Quansight Initiate",2021-03-30,86
 "Quansight Initiate",2021-04-06,86
 "Quansight Initiate",2021-04-10,86
@@ -1103,6 +1120,8 @@
 "Quansight Initiate",2023-08-02,124
 "Quansight Initiate",2023-08-08,124
 "Quansight Initiate",2023-08-10,124
+"Quansight Initiate",2023-08-29,126
+"Quansight Initiate",2023-09-15,127
 "QuantEcon",2023-03-10,259
 "QuantEcon",2023-03-14,260
 "QuantEcon",2023-03-18,261
@@ -1127,6 +1146,8 @@
 "QuantEcon",2023-08-02,329
 "QuantEcon",2023-08-08,338
 "QuantEcon",2023-08-10,340
+"QuantEcon",2023-08-29,345
+"QuantEcon",2023-09-15,354
 "QuantStack",2020-10-19,437
 "QuantStack",2020-10-25,439
 "QuantStack",2020-10-28,439
@@ -1313,6 +1334,8 @@
 "QuantStack",2023-08-02,1231
 "QuantStack",2023-08-08,1232
 "QuantStack",2023-08-10,1232
+"QuantStack",2023-08-29,1236
+"QuantStack",2023-09-15,1238
 "Quantiful",2020-10-16,737
 "Quantiful",2020-10-20,758
 "Quantiful",2020-10-22,767
@@ -1492,6 +1515,8 @@
 "QuantumBlack AI by McKinsey",2023-08-02,193048
 "QuantumBlack AI by McKinsey",2023-08-08,193640
 "QuantumBlack AI by McKinsey",2023-08-10,193800
+"QuantumBlack AI by McKinsey",2023-08-29,195446
+"QuantumBlack AI by McKinsey",2023-09-15,196400
 "QuantumBlack a McKinsey company",2021-11-06,39097
 "QuantumBlack a McKinsey company",2021-11-20,39743
 "QuantumBlack a McKinsey company",2021-12-07,40567
@@ -1630,6 +1655,7 @@
 "Queen Mary Electronic Engineering & Computer Science Society",2023-07-23,51
 "Queen Mary Electronic Engineering & Computer Science Society",2023-08-08,51
 "Queen Mary Electronic Engineering & Computer Science Society",2023-08-10,51
+"Queen Mary Electronic Engineering & Computer Science Society",2023-09-15,47
 "Queensland Resources Council",2023-01-28,18728
 "Questrom School of Business Boston University",2023-01-21,61429
 "Questrom School of Business Boston University",2023-02-10,61721
@@ -1644,6 +1670,7 @@
 "Questrom School of Business Boston University",2023-07-06,63972
 "Questrom School of Business Boston University",2023-07-23,64288
 "Questrom School of Business Boston University",2023-08-05,64615
+"Questrom School of Business Boston University",2023-08-29,65147
 "Quiet Professionals LLC",2023-01-21,17782
 "Quiet Professionals LLC",2023-02-10,17880
 "Quiet Professionals LLC",2023-02-25,17948
@@ -1657,12 +1684,14 @@
 "Quiet Professionals LLC",2023-07-06,18706
 "Quiet Professionals LLC",2023-07-23,18878
 "Quiet Professionals LLC",2023-08-05,18976
+"Quiet Professionals LLC",2023-08-29,19268
 "Qumu - An Enghouse Company",2023-06-05,7772
 "Qumu - An Enghouse Company",2023-06-11,7778
 "Qumu - An Enghouse Company",2023-06-23,7783
 "Qumu - An Enghouse Company",2023-07-06,7792
 "Qumu - An Enghouse Company",2023-07-23,7801
 "Qumu - An Enghouse Company",2023-08-05,7806
+"Qumu - An Enghouse Company",2023-08-29,7811
 "Qumu Corporation",2023-01-21,7692
 "Qumu Corporation",2023-02-10,7707
 "Qumu Corporation",2023-02-25,7722
@@ -1682,6 +1711,7 @@
 "Quoniam Asset Management",2023-07-06,2832
 "Quoniam Asset Management",2023-07-23,2858
 "Quoniam Asset Management",2023-08-05,2881
+"Quoniam Asset Management",2023-08-29,2985
 "Quovantis Technologies",2020-10-25,7336
 "Quovantis Technologies",2020-10-28,7344
 "Quovantis Technologies",2020-10-30,7366
@@ -1866,6 +1896,8 @@
 "Quovantis Technologies",2023-08-02,14517
 "Quovantis Technologies",2023-08-08,14525
 "Quovantis Technologies",2023-08-10,14532
+"Quovantis Technologies",2023-08-29,14557
+"Quovantis Technologies",2023-09-15,14576
 "R Consortium",2021-03-30,156
 "R Consortium",2021-04-06,157
 "R Consortium",2021-04-10,157
@@ -2022,6 +2054,8 @@
 "R Consortium",2023-08-05,5488
 "R Consortium",2023-08-08,5501
 "R Consortium",2023-08-10,5508
+"R Consortium",2023-08-29,5554
+"R Consortium",2023-09-15,5646
 "R Nepal",2021-07-14,31
 "R Street Institute",2023-01-21,4210
 "R Street Institute",2023-02-10,4321
@@ -2036,6 +2070,7 @@
 "R Street Institute",2023-07-06,4787
 "R Street Institute",2023-07-23,4805
 "R Street Institute",2023-08-05,4824
+"R Street Institute",2023-08-29,5209
 "R Systems",2023-01-28,93730
 "R User C",2023-06-11,14948
 "R User C",2023-06-14,14973
@@ -2048,6 +2083,8 @@
 "R User C",2023-08-05,15477
 "R User C",2023-08-08,15500
 "R User C",2023-08-10,15522
+"R User C",2023-08-29,15651
+"R User C",2023-09-15,15771
 "R User Community",2021-02-19,804
 "R User Community",2021-03-06,814
 "R User Community",2021-03-26,818
@@ -2266,6 +2303,8 @@
 "R User Group Nepal",2023-08-02,87
 "R User Group Nepal",2023-08-08,87
 "R User Group Nepal",2023-08-10,87
+"R User Group Nepal",2023-08-29,87
+"R User Group Nepal",2023-09-15,84
 "R Users Group - Ecuador",2021-03-30,124
 "R Users Group - Ecuador",2021-04-06,124
 "R Users Group - Ecuador",2021-04-10,124
@@ -2416,6 +2455,8 @@
 "R Users Group - Ecuador",2023-08-02,294
 "R Users Group - Ecuador",2023-08-08,294
 "R Users Group - Ecuador",2023-08-10,294
+"R Users Group - Ecuador",2023-08-29,294
+"R Users Group - Ecuador",2023-09-15,294
 "R for the Rest of Us",2023-01-22,542
 "R language-online-training",2020-12-27,724
 "R language-online-training",2021-01-19,733
@@ -2553,6 +2594,7 @@
 "R-Ladies Cologne",2023-07-06,290
 "R-Ladies Cologne",2023-07-23,291
 "R-Ladies Cologne",2023-08-05,292
+"R-Ladies Cologne",2023-08-29,293
 "R-Ladies Gaborone",2022-02-01,96
 "R-Ladies Gaborone",2022-02-07,103
 "R-Ladies Gaborone",2022-02-16,126
@@ -2649,6 +2691,8 @@
 "R-Ladies Gaborone",2023-08-02,436
 "R-Ladies Gaborone",2023-08-08,436
 "R-Ladies Gaborone",2023-08-10,438
+"R-Ladies Gaborone",2023-08-29,447
+"R-Ladies Gaborone",2023-09-15,449
 "R-Ladies Global",2021-05-10,3951
 "R-Ladies Global",2021-12-05,4622
 "R-Ladies Global",2022-02-27,4819
@@ -2665,6 +2709,7 @@
 "R-Ladies Global",2023-07-06,5949
 "R-Ladies Global",2023-07-23,5978
 "R-Ladies Global",2023-08-05,5999
+"R-Ladies Global",2023-08-29,6046
 "R-Ladies Miami",2022-03-03,198
 "R-Ladies Miami",2022-03-07,197
 "R-Ladies Miami",2022-03-15,198
@@ -2761,6 +2806,8 @@
 "R-Ladies Miami",2023-08-02,200
 "R-Ladies Miami",2023-08-08,200
 "R-Ladies Miami",2023-08-10,200
+"R-Ladies Miami",2023-08-29,200
+"R-Ladies Miami",2023-09-15,200
 "R-Ladies Paris",2022-08-01,141
 "R-Ladies Paris",2022-08-08,196
 "R-Ladies Paris",2022-08-16,241
@@ -2826,6 +2873,8 @@
 "R-Ladies Paris",2023-08-05,1089
 "R-Ladies Paris",2023-08-08,1089
 "R-Ladies Paris",2023-08-10,1090
+"R-Ladies Paris",2023-08-29,1097
+"R-Ladies Paris",2023-09-15,1114
 "R-Ladies Saudi Arabia (Dammam)",2022-03-20,244
 "R-Ladies Saudi Arabia (Dammam)",2022-03-31,247
 "R-Ladies Saudi Arabia (Dammam)",2022-04-09,249
@@ -2916,6 +2965,8 @@
 "R-Ladies Saudi Arabia (Dammam)",2023-08-02,362
 "R-Ladies Saudi Arabia (Dammam)",2023-08-08,362
 "R-Ladies Saudi Arabia (Dammam)",2023-08-10,363
+"R-Ladies Saudi Arabia (Dammam)",2023-08-29,342
+"R-Ladies Saudi Arabia (Dammam)",2023-09-15,344
 "R-Ladies Tunis",2020-11-07,402
 "R-Ladies Tunis",2020-11-10,413
 "R-Ladies Tunis",2020-11-14,424
@@ -3101,6 +3152,8 @@
 "R-Ladies Tunis",2023-08-05,750
 "R-Ladies Tunis",2023-08-08,750
 "R-Ladies Tunis",2023-08-10,750
+"R-Ladies Tunis",2023-08-29,750
+"R-Ladies Tunis",2023-09-15,751
 "R-Programming Academy",2021-05-10,211
 "R.J. Burnside & Associates Limited",2023-01-28,8381
 "RBL Bank",2023-01-21,387568
@@ -3115,6 +3168,7 @@
 "RBL Bank",2023-07-06,437717
 "RBL Bank",2023-07-23,444069
 "RBL Bank",2023-08-05,449992
+"RBL Bank",2023-08-29,459536
 "RCL FOODS",2020-10-16,110523
 "RCL FOODS",2020-10-28,111912
 "RCL FOODS",2020-11-07,113337
@@ -3157,6 +3211,7 @@
 "RGNext",2023-07-06,3161
 "RGNext",2023-07-23,3213
 "RGNext",2023-08-05,3255
+"RGNext",2023-08-29,3290
 "RMI",2023-01-28,49891
 "RMIT University",2023-01-28,438149
 "RMIT University Vietnam",2023-01-28,48899
@@ -3357,6 +3412,8 @@
 "RSS Data Science and AI Section",2023-08-05,2084
 "RSS Data Science and AI Section",2023-08-08,2084
 "RSS Data Science and AI Section",2023-08-10,2084
+"RSS Data Science and AI Section",2023-08-29,2103
+"RSS Data Science and AI Section",2023-09-15,2128
 "RSS Real World Data Science",2023-05-19,359
 "RSS Real World Data Science",2023-05-29,393
 "RSS Real World Data Science",2023-06-05,401
@@ -3370,6 +3427,8 @@
 "RSS Real World Data Science",2023-08-02,476
 "RSS Real World Data Science",2023-08-08,479
 "RSS Real World Data Science",2023-08-10,479
+"RSS Real World Data Science",2023-08-29,489
+"RSS Real World Data Science",2023-09-15,495
 "RStudio",2020-10-05,59891
 "RStudio",2020-10-06,59892
 "RStudio",2020-10-07,59905
@@ -3586,6 +3645,7 @@
 "RStudio PBC",2022-10-28,88961
 "RStudio PBC",2022-10-28,88962
 "RTX",2023-08-05,516641
+"RTX",2023-08-29,524193
 "RWE",2023-01-28,169920
 "Radiant Earth",2023-05-12,7733
 "Radiant Earth",2023-05-19,7788
@@ -3602,6 +3662,8 @@
 "Radiant Earth",2023-08-05,8074
 "Radiant Earth",2023-08-08,8080
 "Radiant Earth",2023-08-10,8102
+"Radiant Earth",2023-08-29,8187
+"Radiant Earth",2023-09-15,8294
 "Radiant Earth Foundation",2022-08-16,6362
 "Radiant Earth Foundation",2022-08-20,6381
 "Radiant Earth Foundation",2022-08-25,6412
@@ -3756,6 +3818,8 @@
 "Radiant MLHub",2023-08-05,3648
 "Radiant MLHub",2023-08-08,3652
 "Radiant MLHub",2023-08-10,3657
+"Radiant MLHub",2023-08-29,3701
+"Radiant MLHub",2023-09-15,3720
 "Radius Intelligence",2023-01-21,8998
 "Radius Intelligence",2023-02-10,8990
 "Radius Intelligence",2023-02-25,8989
@@ -3769,6 +3833,7 @@
 "Radius Intelligence",2023-07-06,8997
 "Radius Intelligence",2023-07-23,9002
 "Radius Intelligence",2023-08-05,9003
+"Radius Intelligence",2023-08-29,9007
 "Rainbow Password",2023-01-21,16
 "Rainbow Password",2023-02-25,16
 "Rainbow Password",2023-03-13,16
@@ -3781,6 +3846,7 @@
 "Rainbow Password",2023-07-06,18
 "Rainbow Password",2023-07-23,18
 "Rainbow Password",2023-08-05,18
+"Rainbow Password",2023-08-29,18
 "Rainbow Secure",2023-01-21,659
 "Rainbow Secure",2023-02-25,671
 "Rainbow Secure",2023-03-13,675
@@ -3793,6 +3859,7 @@
 "Rainbow Secure",2023-07-06,726
 "Rainbow Secure",2023-07-23,735
 "Rainbow Secure",2023-08-05,735
+"Rainbow Secure",2023-08-29,746
 "Ramon Aboitiz Foundation Inc. (RAFI)",2020-10-16,995
 "Ramon Aboitiz Foundation Inc. (RAFI)",2020-10-19,996
 "Ramon Aboitiz Foundation Inc. (RAFI)",2020-10-20,996
@@ -3812,6 +3879,7 @@
 "Randstad Sourceright",2023-07-06,326547
 "Randstad Sourceright",2023-07-23,329605
 "Randstad Sourceright",2023-08-05,332949
+"Randstad Sourceright",2023-08-29,338951
 "Randstad USA",2023-01-21,404898
 "Randstad USA",2023-02-10,408775
 "Randstad USA",2023-02-25,411637
@@ -3825,6 +3893,7 @@
 "Randstad USA",2023-07-06,441807
 "Randstad USA",2023-07-23,446705
 "Randstad USA",2023-08-05,452240
+"Randstad USA",2023-08-29,460257
 "Rapid7",2023-01-21,130736
 "Rapid7",2023-02-10,132253
 "Rapid7",2023-02-25,133606
@@ -3838,6 +3907,7 @@
 "Rapid7",2023-07-06,147131
 "Rapid7",2023-07-23,148773
 "Rapid7",2023-08-05,150113
+"Rapid7",2023-08-29,152370
 "RapidMiner",2020-10-09,11814
 "RapidMiner",2020-10-13,11837
 "RapidMiner",2020-10-19,11882
@@ -4010,6 +4080,7 @@
 "Raytheon",2023-07-06,866839
 "Raytheon",2023-07-23,869976
 "Raytheon",2023-08-05,874923
+"Raytheon",2023-08-29,884600
 "Raytheon Intelligence & Space",2023-01-21,199112
 "Raytheon Intelligence & Space",2023-02-25,205122
 "Raytheon Intelligence & Space",2023-03-13,207880
@@ -4207,6 +4278,7 @@
 "Real Python",2023-07-06,200625
 "Real Python",2023-07-23,201633
 "Real Python",2023-08-05,202467
+"Real Python",2023-08-29,203730
 "RebelBio",2023-01-25,2555
 "RebelBio",2023-01-29,2556
 "Recode",2023-01-21,1145866
@@ -4221,6 +4293,7 @@
 "Recode",2023-07-06,1141906
 "Recode",2023-07-23,1141049
 "Recode",2023-08-05,1140710
+"Recode",2023-08-29,1140164
 "Recombinetics",2023-01-25,1858
 "Recombinetics",2023-01-29,1863
 "Recon InfoSec",2023-01-21,1976
@@ -4235,6 +4308,7 @@
 "Recon InfoSec",2023-07-06,2367
 "Recon InfoSec",2023-07-23,2477
 "Recon InfoSec",2023-08-05,2517
+"Recon InfoSec",2023-08-29,2564
 "Recorded Future",2023-01-21,41989
 "Recorded Future",2023-02-10,42644
 "Recorded Future",2023-02-25,43113
@@ -4248,6 +4322,7 @@
 "Recorded Future",2023-07-06,47439
 "Recorded Future",2023-07-23,48034
 "Recorded Future",2023-08-05,48508
+"Recorded Future",2023-08-29,49434
 "Recursion",2023-01-25,20118
 "Recursion",2023-01-29,20264
 "Red Canary",2023-01-21,34415
@@ -4262,6 +4337,7 @@
 "Red Canary",2023-07-06,42455
 "Red Canary",2023-07-23,43283
 "Red Canary",2023-08-05,44166
+"Red Canary",2023-08-29,45489
 "Red Hat",2020-10-06,822451
 "Red Hat",2020-10-13,825337
 "Red Hat",2020-10-19,828053
@@ -4275,6 +4351,7 @@
 "Red Hat",2023-07-06,1245530
 "Red Hat",2023-07-23,1252211
 "Red Hat",2023-08-05,1258208
+"Red Hat",2023-08-29,1267154
 "Red Hat Partners",2020-10-06,29645
 "Red Hat Partners",2020-10-13,29703
 "Red Hat Partners",2020-10-19,29770
@@ -4290,6 +4367,7 @@
 "Red Lion LLC",2023-07-06,449
 "Red Lion LLC",2023-07-23,451
 "Red Lion LLC",2023-08-05,453
+"Red Lion LLC",2023-08-29,456
 "RedTeam Cybersecurity Labs LLP",2023-01-21,1234
 "RedTeam Cybersecurity Labs LLP",2023-02-25,1241
 "RedTeam Cybersecurity Labs LLP",2023-03-13,1246
@@ -4302,6 +4380,7 @@
 "RedTeam Cybersecurity Labs LLP",2023-07-06,1407
 "RedTeam Cybersecurity Labs LLP",2023-07-23,1410
 "RedTeam Cybersecurity Labs LLP",2023-08-05,1415
+"RedTeam Cybersecurity Labs LLP",2023-08-29,1432
 "Reddit Inc.",2023-01-25,285414
 "Reddit Inc.",2023-01-29,286092
 "Redpanda Data",2023-01-25,4998
@@ -4318,6 +4397,7 @@
 "Redwire Space",2023-07-06,17519
 "Redwire Space",2023-07-23,17782
 "Redwire Space",2023-08-05,18111
+"Redwire Space",2023-08-29,18770
 "Redwire Space Europe",2023-02-25,3656
 "Redwire Space Europe",2023-03-13,3691
 "Redwire Space Europe",2023-03-29,3934
@@ -4329,6 +4409,7 @@
 "Redwire Space Europe",2023-07-06,4385
 "Redwire Space Europe",2023-07-23,4419
 "Redwire Space Europe",2023-08-05,4476
+"Redwire Space Europe",2023-08-29,4547
 "ReedPop",2023-01-25,5990
 "Regeneron",2023-01-25,350654
 "Regeneron",2023-01-29,351203
@@ -4479,6 +4560,8 @@
 "RegioData Research GmbH",2023-08-02,266
 "RegioData Research GmbH",2023-08-08,266
 "RegioData Research GmbH",2023-08-10,266
+"RegioData Research GmbH",2023-08-29,273
+"RegioData Research GmbH",2023-09-15,277
 "Regions Bank",2023-01-21,120585
 "Regions Bank",2023-02-10,121423
 "Regions Bank",2023-02-25,122077
@@ -4492,6 +4575,7 @@
 "Regions Bank",2023-07-06,127526
 "Regions Bank",2023-07-23,128163
 "Regions Bank",2023-08-05,128760
+"Regions Bank",2023-08-29,129705
 "Rejuvenate Bio",2023-01-25,3129
 "Rejuvenate Bio",2023-01-29,3167
 "RelationalAI",2023-01-25,4711
@@ -4507,6 +4591,7 @@
 "Relativity Space",2023-07-06,113567
 "Relativity Space",2023-07-23,115059
 "Relativity Space",2023-08-05,116544
+"Relativity Space",2023-08-29,119474
 "ReliaSat",2023-03-13,2039
 "ReliaSat",2023-03-29,2055
 "ReliaSat",2023-04-10,2062
@@ -4528,6 +4613,7 @@
 "Remix Therapeutics",2023-07-06,3522
 "Remix Therapeutics",2023-07-23,3579
 "Remix Therapeutics",2023-08-05,3626
+"Remix Therapeutics",2023-08-29,3728
 "Remote Game Jobs",2023-01-25,76304
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2022-08-16,18012
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2022-08-20,18146
@@ -4594,6 +4680,8 @@
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2023-08-05,25897
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2023-08-08,25959
 "Remote Sensing and Photogrammetry Society (RSPSoc)",2023-08-10,25999
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2023-08-29,26393
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2023-09-15,26877
 "Remsoft",2020-10-20,2269
 "Remsoft",2020-10-21,2269
 "Remsoft",2020-10-23,2273
@@ -4783,6 +4871,8 @@
 "Remsoft",2023-08-02,3315
 "Remsoft",2023-08-08,3320
 "Remsoft",2023-08-10,3323
+"Remsoft",2023-08-29,3337
+"Remsoft",2023-09-15,3344
 "Replio",2023-01-25,806
 "Replio",2023-01-29,807
 "Research Diets Inc.",2023-01-28,657
@@ -4801,6 +4891,7 @@
 "Respect in Security",2023-07-06,1715
 "Respect in Security",2023-07-23,1720
 "Respect in Security",2023-08-05,1726
+"Respect in Security",2023-08-29,1730
 "Restaurantware LLC",2023-01-21,1423
 "Restaurantware LLC",2023-02-10,1432
 "Restaurantware LLC",2023-02-25,1454
@@ -4814,6 +4905,7 @@
 "Restaurantware LLC",2023-07-06,1543
 "Restaurantware LLC",2023-07-23,1553
 "Restaurantware LLC",2023-08-05,1565
+"Restaurantware LLC",2023-08-29,1578
 "ResumeReport.com",2023-01-25,1065217
 "ResumeReport.com",2023-01-29,1065234
 "Revent",2023-01-25,4744
@@ -4951,6 +5043,7 @@
 "Risk",2023-07-06,4796
 "Risk",2023-07-23,4800
 "Risk",2023-08-05,4800
+"Risk",2023-08-29,4797
 "Risk Group",2023-01-21,4794
 "Risk Group",2023-02-10,4796
 "Risk Group",2023-02-25,4799
@@ -5153,6 +5246,8 @@
 "Robert Wood Johnson Foundation",2023-08-02,83522
 "Robert Wood Johnson Foundation",2023-08-08,84170
 "Robert Wood Johnson Foundation",2023-08-10,84504
+"Robert Wood Johnson Foundation",2023-08-29,86641
+"Robert Wood Johnson Foundation",2023-09-15,88228
 "Roblox",2023-01-25,125881
 "Robust Intelligence",2023-06-05,3526
 "Robust Intelligence",2023-06-11,3599
@@ -5160,6 +5255,7 @@
 "Robust Intelligence",2023-07-06,3807
 "Robust Intelligence",2023-07-23,3965
 "Robust Intelligence",2023-08-05,4097
+"Robust Intelligence",2023-08-29,4300
 "Roche",2020-10-05,1994623
 "Roche",2020-10-13,2007499
 "Roche",2020-10-20,2018785
@@ -5360,6 +5456,8 @@
 "Roche",2023-08-02,3073061
 "Roche",2023-08-08,3080025
 "Roche",2023-08-10,3083409
+"Roche",2023-08-29,3108420
+"Roche",2023-09-15,3137186
 "Roche Bros. Supermarkets",2023-01-21,6349
 "Roche Bros. Supermarkets",2023-02-10,6403
 "Roche Bros. Supermarkets",2023-02-25,6442
@@ -5373,6 +5471,7 @@
 "Roche Bros. Supermarkets",2023-07-06,7293
 "Roche Bros. Supermarkets",2023-07-23,7357
 "Roche Bros. Supermarkets",2023-08-05,7401
+"Roche Bros. Supermarkets",2023-08-29,7535
 "Rockefeller Philanthropy Advisors",2020-10-25,18700
 "Rockefeller Philanthropy Advisors",2020-10-28,18750
 "Rockefeller Philanthropy Advisors",2020-10-30,18789
@@ -5560,6 +5659,8 @@
 "Rockefeller Philanthropy Advisors",2023-08-02,39507
 "Rockefeller Philanthropy Advisors",2023-08-08,39722
 "Rockefeller Philanthropy Advisors",2023-08-10,39816
+"Rockefeller Philanthropy Advisors",2023-08-29,40682
+"Rockefeller Philanthropy Advisors",2023-09-15,41320
 "Rocket Factory Augsburg - RFA",2023-01-21,30194
 "Rocket Factory Augsburg - RFA",2023-02-25,31059
 "Rocket Factory Augsburg - RFA",2023-03-13,31369
@@ -5572,6 +5673,7 @@
 "Rocket Factory Augsburg - RFA",2023-07-06,34376
 "Rocket Factory Augsburg - RFA",2023-07-23,34735
 "Rocket Factory Augsburg - RFA",2023-08-05,35087
+"Rocket Factory Augsburg - RFA",2023-08-29,35746
 "Rocket Lab",2023-01-21,129666
 "Rocket Lab",2023-02-25,132172
 "Rocket Lab",2023-03-13,133221
@@ -5584,6 +5686,7 @@
 "Rocket Lab",2023-07-06,144317
 "Rocket Lab",2023-07-23,145885
 "Rocket Lab",2023-08-05,147260
+"Rocket Lab",2023-08-29,149532
 "Rockland Trust",2023-01-21,9469
 "Rockland Trust",2023-02-10,9590
 "Rockland Trust",2023-02-25,9654
@@ -5597,6 +5700,7 @@
 "Rockland Trust",2023-07-06,10313
 "Rockland Trust",2023-07-23,10386
 "Rockland Trust",2023-08-05,10456
+"Rockland Trust",2023-08-29,10599
 "Rocky Mountain Elk Foundation",2021-04-20,12830
 "Rocky Mountain Elk Foundation",2021-04-24,12877
 "Rocky Mountain Elk Foundation",2021-04-28,12924
@@ -5702,6 +5806,7 @@
 "Rocky Mountain Elk Foundation",2023-07-23,26143
 "Rocky Mountain Elk Foundation",2023-08-08,26353
 "Rocky Mountain Elk Foundation",2023-08-10,26388
+"Rocky Mountain Elk Foundation",2023-09-15,25591
 "Rogue Space Systems Corporation",2023-01-21,2519
 "Rogue Space Systems Corporation",2023-02-25,2653
 "Rogue Space Systems Corporation",2023-03-13,2705
@@ -5714,6 +5819,7 @@
 "Rogue Space Systems Corporation",2023-07-06,3044
 "Rogue Space Systems Corporation",2023-07-23,3085
 "Rogue Space Systems Corporation",2023-08-05,3125
+"Rogue Space Systems Corporation",2023-08-29,3165
 "Romanian Energy Regulatory Authority",2021-02-19,424
 "Romanian Energy Regulatory Authority",2021-03-06,546
 "Romanian Energy Regulatory Authority",2021-03-26,735
@@ -5861,6 +5967,8 @@
 "Rose Data Studio LLC",2023-08-02,317
 "Rose Data Studio LLC",2023-08-08,317
 "Rose Data Studio LLC",2023-08-10,317
+"Rose Data Studio LLC",2023-08-29,318
+"Rose Data Studio LLC",2023-09-15,319
 "Roskilde University",2023-01-28,52972
 "Rosslyn David Recruitment",2020-10-16,1327
 "Rosslyn David Recruitment",2020-10-20,1330
@@ -6072,6 +6180,8 @@
 "Royal Statistical Society",2023-08-02,12544
 "Royal Statistical Society",2023-08-08,12598
 "Royal Statistical Society",2023-08-10,12616
+"Royal Statistical Society",2023-08-29,12920
+"Royal Statistical Society",2023-09-15,13111
 "Rstudio",2020-10-16,60208
 "Rubicon",2023-01-28,22690
 "Rubicon Cloud Advisor",2023-01-25,4509
@@ -6262,6 +6372,8 @@
 "Rust Programming Language",2023-08-02,8057
 "Rust Programming Language",2023-08-08,8080
 "Rust Programming Language",2023-08-10,8088
+"Rust Programming Language",2023-08-29,8119
+"Rust Programming Language",2023-09-15,8152
 "Ruvos",2023-01-21,933
 "Ruvos",2023-02-10,941
 "Ruvos",2023-02-25,953
@@ -6275,6 +6387,7 @@
 "Ruvos",2023-07-06,1109
 "Ruvos",2023-07-23,1134
 "Ruvos",2023-08-05,1139
+"Ruvos",2023-08-29,1160
 "Rx Studio<99>",2023-03-10,554
 "Rx Studio<99>",2023-03-14,556
 "Rx Studio<99>",2023-03-18,574
@@ -6289,6 +6402,10 @@
 "Rx Studio<99>",2023-05-19,665
 "Rx Studio<99>",2023-05-29,676
 "Rx Studio<99>",2023-06-05,692
+"Rx Studio<99>",2023-06-11,702
+"Rx Studio<99>",2023-06-14,706
+"Rx Studio<99>",2023-06-17,707
+"Rx Studio<99>",2023-06-23,708
 "Rx Studio<U+0099>",2022-09-16,156
 "Rx Studio<U+0099>",2022-09-22,167
 "Rx Studio<U+0099>",2022-09-29,175
@@ -6316,16 +6433,15 @@
 "Rx Studio<U+0099>",2023-02-10,514
 "Rx Studio<U+0099>",2023-02-13,525
 "Rx Studio<U+0099>",2023-02-24,535
-"Rx Studio<99>",2023-06-11,702
-"Rx Studio<99>",2023-06-14,706
-"Rx Studio<99>",2023-06-17,707
-"Rx Studio<99>",2023-06-23,708
-"Rx Studio™",2023-06-27,709
-"Rx Studio™",2023-07-06,722
+"Rx Studio<99>",2023-06-27,709
+"Rx Studio<99>",2023-07-06,722
+"Rx Studio<99>",2023-07-23,736
+"Rx Studio<99>",2023-08-02,738
+"Rx Studio<99>",2023-08-08,747
+"Rx Studio<99>",2023-08-10,750
 "Rx Studio™",2023-07-23,736
-"Rx Studio™",2023-08-02,738
-"Rx Studio™",2023-08-08,747
-"Rx Studio™",2023-08-10,750
+"Rx Studio™",2023-08-29,760
+"Rx Studio™",2023-09-15,806
 "Ryerson University Data Science Society",2021-03-28,160
 "Ryerson University Data Science Society",2021-03-31,160
 "Ryerson University Data Science Society",2021-04-06,161
@@ -6431,6 +6547,7 @@
 "Ryerson University Data Science Society",2023-07-23,229
 "Ryerson University Data Science Society",2023-08-08,230
 "Ryerson University Data Science Society",2023-08-10,235
+"Ryerson University Data Science Society",2023-09-15,257
 "S&P Global",2023-01-21,319987
 "S&P Global",2023-02-10,328391
 "S&P Global",2023-02-25,335537
@@ -6444,6 +6561,7 @@
 "S&P Global",2023-07-06,412859
 "S&P Global",2023-07-23,423094
 "S&P Global",2023-08-05,431435
+"S&P Global",2023-08-29,446011
 "S&P Global Ratings",2023-01-21,133448
 "S&P Global Ratings",2023-02-10,134197
 "S&P Global Ratings",2023-02-25,134819
@@ -6457,6 +6575,7 @@
 "S&P Global Ratings",2023-07-06,138185
 "S&P Global Ratings",2023-07-23,138443
 "S&P Global Ratings",2023-08-05,138690
+"S&P Global Ratings",2023-08-29,139209
 "S<f8>r-Tr<f8>ndelag University College (HiST)",2023-01-28,18948
 "SAGE Publishing",2023-01-28,69288
 "SAIC",2023-01-25,357769
@@ -6573,6 +6692,9 @@
 "SAIS Sheffield Artificial Intelligence Society",2023-07-23,39
 "SAIS Sheffield Artificial Intelligence Society",2023-08-08,39
 "SAIS Sheffield Artificial Intelligence Society",2023-08-10,39
+"SAIS Sheffield Artificial Intelligence Society",2023-09-15,38
+"SaLLy • Statistical Learning Laboratory",2023-08-29,445
+"SaLLy • Statistical Learning Laboratory",2023-09-15,513
 "Saahas",2023-01-28,4451
 "Saahas Zero Waste",2023-01-28,15388
 "Sacrebleu LLC",2020-10-16,433
@@ -6595,6 +6717,7 @@
 "Sacred Heart Health System",2023-07-06,9062
 "Sacred Heart Health System",2023-07-23,9055
 "Sacred Heart Health System",2023-08-05,9064
+"Sacred Heart Health System",2023-08-29,9071
 "Sage Bionetworks",2023-01-25,6040
 "Sage Bionetworks",2023-01-29,6048
 "Sahel DataBank",2021-06-02,14
@@ -6649,6 +6772,7 @@
 "Salesforce",2023-07-06,4605334
 "Salesforce",2023-07-23,4657942
 "Salesforce",2023-08-05,4699264
+"Salesforce",2023-08-29,4762621
 "Salesforce AppExchange",2023-01-21,39828
 "Salesforce AppExchange",2023-02-25,40426
 "Salesforce AppExchange",2023-03-13,40658
@@ -6661,6 +6785,7 @@
 "Salesforce AppExchange",2023-07-06,42344
 "Salesforce AppExchange",2023-07-23,42518
 "Salesforce AppExchange",2023-08-05,42662
+"Salesforce AppExchange",2023-08-29,42916
 "Salesforce Marketing Cloud",2023-01-21,137970
 "Salesforce Marketing Cloud",2023-02-10,138541
 "Salesforce Marketing Cloud",2023-02-25,139003
@@ -6674,6 +6799,7 @@
 "Salesforce Marketing Cloud",2023-07-06,142672
 "Salesforce Marketing Cloud",2023-07-23,142939
 "Salesforce Marketing Cloud",2023-08-05,143170
+"Salesforce Marketing Cloud",2023-08-29,143575
 "Salesforce Partners",2023-01-21,64327
 "Salesforce Partners",2023-02-25,65486
 "Salesforce Partners",2023-03-13,66048
@@ -6686,6 +6812,7 @@
 "Salesforce Partners",2023-07-06,70016
 "Salesforce Partners",2023-07-23,70859
 "Salesforce Partners",2023-08-05,71456
+"Salesforce Partners",2023-08-29,72244
 "Salesforce Platform",2023-01-21,19424
 "Salesforce Platform",2023-02-25,21170
 "Salesforce Platform",2023-03-13,22491
@@ -6698,6 +6825,7 @@
 "Salesforce Platform",2023-07-06,26955
 "Salesforce Platform",2023-07-23,27181
 "Salesforce Platform",2023-08-05,27402
+"Salesforce Platform",2023-08-29,27751
 "Salesforce Training",2023-01-21,15104
 "Salesforce Training",2023-02-10,15207
 "Salesforce Training",2023-02-25,15260
@@ -6711,6 +6839,7 @@
 "Salesforce Training",2023-07-06,16366
 "Salesforce Training",2023-07-23,16497
 "Salesforce Training",2023-08-05,16556
+"Salesforce Training",2023-08-29,16643
 "Salk Institute for Biological Studies",2023-01-25,20884
 "Salk Institute for Biological Studies",2023-01-29,20942
 "Samsara Therapeutics",2023-01-25,968
@@ -6726,6 +6855,7 @@
 "Samsung Semiconductor",2023-07-06,153436
 "Samsung Semiconductor",2023-07-23,192610
 "Samsung Semiconductor",2023-08-05,213029
+"Samsung Semiconductor",2023-08-29,222518
 "Samsung Semiconductor US",2023-03-13,97705
 "Samsung Semiconductor US",2023-03-29,98901
 "Samsung Semiconductor US",2023-04-10,99584
@@ -6736,6 +6866,7 @@
 "Samsung Semiconductor US",2023-07-06,104658
 "Samsung Semiconductor US",2023-07-23,105613
 "Samsung Semiconductor US",2023-08-05,106548
+"Samsung Semiconductor US",2023-08-29,108041
 "San Diego State University",2023-01-28,343063
 "San Francisco PyData Meetup Group",2023-01-21,21
 "San Francisco PyData Meetup Group",2023-02-25,21
@@ -6749,11 +6880,17 @@
 "San Francisco PyData Meetup Group",2023-07-06,21
 "San Francisco PyData Meetup Group",2023-07-23,21
 "San Francisco PyData Meetup Group",2023-08-05,21
+"San Francisco PyData Meetup Group",2023-08-29,20
 "SanDisk<ae>",2023-03-13,132763
 "SanDisk<ae>",2023-03-29,132943
 "SanDisk<ae>",2023-04-10,133127
 "SanDisk<ae>",2023-04-23,133283
 "SanDisk<ae>",2023-06-05,133964
+"SanDisk<ae>",2023-06-11,134074
+"SanDisk<ae>",2023-06-23,134267
+"SanDisk<ae>",2023-07-06,134501
+"SanDisk<ae>",2023-07-23,134708
+"SanDisk<ae>",2023-08-05,134932
 "Sana Biotechnology Inc.",2023-01-25,23312
 "Sana Biotechnology Inc.",2023-01-29,23551
 "Sandia National Laboratories",2020-10-16,70922
@@ -6775,6 +6912,7 @@
 "Sandia National Laboratories",2023-07-06,111179
 "Sandia National Laboratories",2023-07-23,112164
 "Sandia National Laboratories",2023-08-05,113275
+"Sandia National Laboratories",2023-08-29,115048
 "r-programming.org",2020-10-30,2205
 "r-programming.org",2020-11-03,2208
 "r-programming.org",2020-11-06,2211
@@ -6968,5 +7106,7 @@
 "r-programming.org",2023-08-02,2410
 "r-programming.org",2023-08-08,2410
 "r-programming.org",2023-08-10,2410
+"r-programming.org",2023-08-29,2410
+"r-programming.org",2023-09-15,2413
 "resilio",2023-01-25,109
 "s-lab - Software Quality Lab",2023-01-28,49

@@ -5,14 +5,14 @@
 "(ISC)<U+00B2>",2023-02-25,244930
 "(ISC)<b2>",2023-03-13,248457
 "(ISC)<b2>",2023-03-29,252435
-"(ISC)²",2023-04-10,255593
-"(ISC)²",2023-04-23,258598
-"(ISC)²",2023-06-05,268446
-"(ISC)²",2023-06-11,271031
-"(ISC)²",2023-06-23,275896
-"(ISC)²",2023-07-06,280681
-"(ISC)²",2023-07-23,286677
-"(ISC)²",2023-08-05,290466
+"(ISC)<b2>",2023-04-10,255593
+"(ISC)<b2>",2023-04-23,258598
+"(ISC)<b2>",2023-06-05,268446
+"(ISC)<b2>",2023-06-11,271031
+"(ISC)<b2>",2023-06-23,275896
+"(ISC)<b2>",2023-07-06,280681
+"(ISC)<b2>",2023-07-23,286677
+"(ISC)<b2>",2023-08-05,290466
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-06,6723
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-13,6785
 "(WiMLDS) Women in Machine Learning & Data Science",2020-10-15,6797
@@ -213,6 +213,8 @@
 "(WiMLDS) Women in Machine Learning & Data Science",2023-08-02,15350
 "(WiMLDS) Women in Machine Learning & Data Science",2023-08-08,15383
 "(WiMLDS) Women in Machine Learning & Data Science",2023-08-10,15404
+"(WiMLDS) Women in Machine Learning & Data Science",2023-08-29,15605
+"(WiMLDS) Women in Machine Learning & Data Science",2023-09-15,15744
 "(Woowa Bros.)",2021-02-19,17149
 "1 Million Cups Pensacola",2023-02-25,181
 "1 Million Cups Pensacola",2023-03-13,182
@@ -225,6 +227,7 @@
 "1 Million Cups Pensacola",2023-07-06,188
 "1 Million Cups Pensacola",2023-07-23,190
 "1 Million Cups Pensacola",2023-08-05,191
+"1 Million Cups Pensacola",2023-08-29,192
 "10x Genomics",2023-01-25,147639
 "10x Genomics",2023-01-29,147993
 "2Excel Aviation Ltd",2023-01-28,13067
@@ -292,6 +295,7 @@
 "2K",2023-07-23,233260
 "2K",2023-08-08,236664
 "2K",2023-08-10,237362
+"2K",2023-09-15,244123
 "365 Data Science",2020-10-15,35444
 "365 Data Science",2020-10-20,35758
 "365 Data Science",2021-06-29,54972
@@ -438,6 +442,9 @@
 "365 Data Science",2023-08-05,142486
 "365 Data Science",2023-08-08,142628
 "365 Data Science",2023-08-10,142714
+"365 Data Science",2023-08-29,143644
+"365 Data Science",2023-08-29,143645
+"365 Data Science",2023-09-15,139546
 "37signals",2023-01-25,42470
 "3Brain AG",2023-01-25,4502
 "3Brain AG",2023-01-29,4509
@@ -453,6 +460,7 @@
 "3RI Technologies Pvt. Ltd.",2023-07-06,56530
 "3RI Technologies Pvt. Ltd.",2023-07-23,56529
 "3RI Technologies Pvt. Ltd.",2023-08-05,56639
+"3RI Technologies Pvt. Ltd.",2023-08-29,56700
 "3radical",2020-10-16,2219
 "3radical",2020-10-20,2220
 "3radical",2020-10-21,2220
@@ -478,6 +486,7 @@
 "412th Test Wing Edwards Air Force Base",2023-07-06,4246
 "412th Test Wing Edwards Air Force Base",2023-07-23,4334
 "412th Test Wing Edwards Air Force Base",2023-08-05,4381
+"412th Test Wing Edwards Air Force Base",2023-08-29,4467
 "4scotty.com - Great Jobs for Software & IT Experts. The Reverse Application Platform in Germany.",2023-01-25,2388
 "5CA",2023-01-25,26012
 "850 Business Magazine",2023-01-21,419
@@ -492,6 +501,7 @@
 "850 Business Magazine",2023-07-06,476
 "850 Business Magazine",2023-07-23,476
 "850 Business Magazine",2023-08-05,477
+"850 Business Magazine",2023-08-29,484
 "87%",2020-10-20,408
 "87%",2020-10-28,413
 "87%",2020-11-21,423
@@ -518,6 +528,7 @@
 "A10 Networks Inc",2023-07-06,48959
 "A10 Networks Inc",2023-07-23,49420
 "A10 Networks Inc",2023-08-05,49676
+"A10 Networks Inc",2023-08-29,50295
 "A2 Global Electronics + Solutions",2023-01-21,12113
 "A2 Global Electronics + Solutions",2023-02-25,12444
 "A2 Global Electronics + Solutions",2023-03-13,12643
@@ -530,6 +541,7 @@
 "A2 Global Electronics + Solutions",2023-07-06,14493
 "A2 Global Electronics + Solutions",2023-07-23,14720
 "A2 Global Electronics + Solutions",2023-08-05,14925
+"A2 Global Electronics + Solutions",2023-08-29,15429
 "A9.com",2023-01-25,16924
 "A9.com",2023-01-29,16934
 "AABSyS IT",2023-01-28,11448
@@ -553,6 +565,7 @@
 "ABIS CIRCUITS CO.LTD",2023-07-06,273
 "ABIS CIRCUITS CO.LTD",2023-07-23,287
 "ABIS CIRCUITS CO.LTD",2023-08-05,295
+"ABIS CIRCUITS CO.LTD",2023-08-29,297
 "ABL Space Systems",2023-01-21,11701
 "ABL Space Systems",2023-02-25,12128
 "ABL Space Systems",2023-03-13,12340
@@ -565,6 +578,7 @@
 "ABL Space Systems",2023-07-06,13354
 "ABL Space Systems",2023-07-23,13483
 "ABL Space Systems",2023-08-05,13619
+"ABL Space Systems",2023-08-29,13860
 "ACLU",2023-01-21,118482
 "ACLU",2023-02-10,119640
 "ACLU",2023-02-25,120426
@@ -578,6 +592,7 @@
 "ACLU",2023-07-06,128507
 "ACLU",2023-07-23,129496
 "ACLU",2023-08-05,130368
+"ACLU",2023-08-29,131746
 "ACLU of Florida",2023-01-21,1522
 "ACLU of Florida",2023-02-10,1539
 "ACLU of Florida",2023-02-25,1552
@@ -591,8 +606,10 @@
 "ACLU of Florida",2023-07-06,1749
 "ACLU of Florida",2023-07-23,1766
 "ACLU of Florida",2023-08-05,1780
+"ACLU of Florida",2023-08-29,1804
 "ACM Association for Computing Machinery",2023-07-23,46575
 "ACM Association for Computing Machinery",2023-08-05,46940
+"ACM Association for Computing Machinery",2023-08-29,47502
 "ACM-IEM : Diversion",2023-02-25,1198
 "ACM-IEM : Diversion",2023-03-13,1250
 "ACM-IEM : Diversion",2023-03-29,1261
@@ -604,6 +621,7 @@
 "ACM-IEM : Diversion",2023-07-06,1292
 "ACM-IEM : Diversion",2023-07-23,1295
 "ACM-IEM : Diversion",2023-08-05,1300
+"ACM-IEM : Diversion",2023-08-29,1306
 "ADAPT Centre",2020-10-20,1730
 "ADAPT Centre",2020-10-21,1731
 "ADAPT Centre",2020-10-23,1733
@@ -800,6 +818,8 @@
 "ADAPT Centre",2023-08-02,4284
 "ADAPT Centre",2023-08-08,4291
 "ADAPT Centre",2023-08-10,4298
+"ADAPT Centre",2023-08-29,4353
+"ADAPT Centre",2023-09-15,4412
 "ADF Haiti",2021-06-02,326
 "ADF Haiti",2021-06-09,327
 "ADF Haiti",2021-06-16,327
@@ -933,22 +953,27 @@
 "ADF Haiti",2023-08-02,498
 "ADF Haiti",2023-08-08,499
 "ADF Haiti",2023-08-10,501
+"ADF Haiti",2023-08-29,502
+"ADF Haiti",2023-09-15,503
 "ADP",2023-06-05,1373430
 "ADP",2023-06-11,1379368
 "ADP",2023-06-23,1391105
 "ADP",2023-07-06,1405004
 "ADP",2023-07-23,1426376
 "ADP",2023-08-05,1441469
+"ADP",2023-08-29,1465562
 "ADP Workforce Now",2023-06-23,15719
 "ADP Workforce Now",2023-07-06,16873
 "ADP Workforce Now",2023-07-23,18591
 "ADP Workforce Now",2023-08-05,19870
+"ADP Workforce Now",2023-08-29,20856
 "ADVANCE Magazine & Online News",2023-06-05,2781
 "ADVANCE Magazine & Online News",2023-06-11,2783
 "ADVANCE Magazine & Online News",2023-06-23,2794
 "ADVANCE Magazine & Online News",2023-07-06,2797
 "ADVANCE Magazine & Online News",2023-07-23,2806
 "ADVANCE Magazine & Online News",2023-08-05,2806
+"ADVANCE Magazine & Online News",2023-08-29,2839
 "AECOM",2023-01-28,1598682
 "AECOM - Environmental Services",2023-01-28,46788
 "AET Environmental",2023-01-28,552
@@ -964,6 +989,7 @@
 "AFRL Scholars Program",2023-07-06,839
 "AFRL Scholars Program",2023-07-23,844
 "AFRL Scholars Program",2023-08-05,851
+"AFRL Scholars Program",2023-08-29,866
 "AI Awards Ireland",2020-12-03,1363
 "AI Awards Ireland",2020-12-05,1367
 "AI Awards Ireland",2020-12-12,1375
@@ -1152,6 +1178,8 @@
 "AI Awards Ireland",2023-08-02,3544
 "AI Awards Ireland",2023-08-08,3550
 "AI Awards Ireland",2023-08-10,3553
+"AI Awards Ireland",2023-08-29,3641
+"AI Awards Ireland",2023-09-15,3733
 "AI Commons",2021-02-19,521
 "AI Commons",2021-03-06,541
 "AI Commons",2021-03-26,555
@@ -1163,6 +1191,7 @@
 "AI Community",2023-07-06,272748
 "AI Community",2023-07-23,277022
 "AI Community",2023-08-05,280790
+"AI Community",2023-08-29,283834
 "AI Copenhagen",2021-01-25,286
 "AI Copenhagen",2021-01-28,286
 "AI Copenhagen",2021-01-31,286
@@ -1284,6 +1313,7 @@
 "AI Copenhagen",2023-07-23,309
 "AI Copenhagen",2023-08-08,310
 "AI Copenhagen",2023-08-10,310
+"AI Copenhagen",2023-09-15,310
 "AI Hack 2021",2021-03-28,84
 "AI Hack 2021",2021-03-31,85
 "AI Hack 2021",2021-04-06,86
@@ -1393,6 +1423,7 @@
 "AI Hack 2021",2023-07-23,107
 "AI Hack 2021",2023-08-08,107
 "AI Hack 2021",2023-08-10,107
+"AI Hack 2021",2023-09-15,107
 "AI Inclusive",2020-10-20,359
 "AI Inclusive",2020-10-21,365
 "AI Inclusive",2020-10-23,376
@@ -1586,6 +1617,8 @@
 "AI Inclusive",2023-08-02,3588
 "AI Inclusive",2023-08-08,3590
 "AI Inclusive",2023-08-10,3590
+"AI Inclusive",2023-08-29,3612
+"AI Inclusive",2023-09-15,3680
 "AI Innovation Center",2023-02-25,1770
 "AI Innovation Center",2023-03-13,1811
 "AI Innovation Center",2023-03-29,1846
@@ -1597,6 +1630,7 @@
 "AI Innovation Center",2023-07-06,2041
 "AI Innovation Center",2023-07-23,2069
 "AI Innovation Center",2023-08-05,2100
+"AI Innovation Center",2023-08-29,2134
 "AI4Diversity",2023-01-21,397955
 "AI4Diversity",2023-02-25,410884
 "AI4Diversity",2023-03-13,417764
@@ -1609,6 +1643,7 @@
 "AI4Diversity",2023-07-06,471220
 "AI4Diversity",2023-07-23,474912
 "AI4Diversity",2023-08-05,477231
+"AI4Diversity",2023-08-29,480582
 "AIAA",2023-01-21,34733
 "AIAA",2023-02-10,35435
 "AIAA",2023-02-25,35773
@@ -1622,6 +1657,7 @@
 "AIAA",2023-07-06,38350
 "AIAA",2023-07-23,38661
 "AIAA",2023-08-05,38899
+"AIAA",2023-08-29,39359
 "AIB",2023-01-29,91559
 "AICamp",2023-06-05,1362
 "AICamp",2023-06-11,1416
@@ -1629,9 +1665,12 @@
 "AICamp",2023-07-06,1473
 "AICamp",2023-07-23,1499
 "AICamp",2023-08-05,1588
+"AICamp",2023-08-29,1681
 "AIR Centre - Atlantic International Research Centre",2023-08-02,3862
 "AIR Centre - Atlantic International Research Centre",2023-08-08,3873
 "AIR Centre - Atlantic International Research Centre",2023-08-10,3876
+"AIR Centre - Atlantic International Research Centre",2023-08-29,3894
+"AIR Centre - Atlantic International Research Centre",2023-09-15,3914
 "ALFYMA",2020-12-15,811
 "ALFYMA",2021-02-19,860
 "ALFYMA",2021-03-26,888
@@ -1647,6 +1686,7 @@
 "ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-07-06,469
 "ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-07-23,482
 "ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-08-05,486
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-08-29,479
 "ALX Oncology",2021-02-19,1267
 "ALX Oncology",2021-03-06,1308
 "ALX Oncology",2021-03-26,1355
@@ -1667,6 +1707,7 @@
 "AMD",2023-07-06,1167075
 "AMD",2023-07-23,1184904
 "AMD",2023-08-05,1200120
+"AMD",2023-08-29,1221265
 "AMOTION Games",2023-01-25,128
 "AMS Staffing Inc.",2023-01-21,26845
 "AMS Staffing Inc.",2023-02-25,26982
@@ -1680,6 +1721,7 @@
 "AMS Staffing Inc.",2023-07-06,31851
 "AMS Staffing Inc.",2023-07-23,33196
 "AMS Staffing Inc.",2023-08-05,34067
+"AMS Staffing Inc.",2023-08-29,36092
 "Aalborg Kommune",2023-01-28,23784
 "Aalborg University",2023-01-28,125683
 "Aalto Artificial Intelligence Society",2021-03-28,33
@@ -1787,6 +1829,7 @@
 "Aalto Artificial Intelligence Society",2023-07-23,50
 "Aalto Artificial Intelligence Society",2023-08-08,56
 "Aalto Artificial Intelligence Society",2023-08-10,56
+"AaltoAI",2023-09-15,75
 "Abata Therapeutics",2023-01-21,3519
 "Abata Therapeutics",2023-02-25,3753
 "Abata Therapeutics",2023-03-13,3870
@@ -1799,6 +1842,7 @@
 "Abata Therapeutics",2023-07-06,4468
 "Abata Therapeutics",2023-07-23,4521
 "Abata Therapeutics",2023-08-05,4562
+"Abata Therapeutics",2023-08-29,4837
 "AbbVie",2023-01-25,1054541
 "AbbVie",2023-01-28,1056556
 "AbbVie",2023-01-29,1056758
@@ -1813,6 +1857,7 @@
 "Above Space",2023-07-06,4076
 "Above Space",2023-07-23,4104
 "Above Space",2023-08-05,4122
+"Above Space",2023-08-29,4163
 "Above the Law",2023-01-21,42554
 "Above the Law",2023-02-25,44063
 "Above the Law",2023-03-13,44701
@@ -1825,6 +1870,7 @@
 "Above the Law",2023-07-06,48471
 "Above the Law",2023-07-23,48869
 "Above the Law",2023-08-05,49193
+"Above the Law",2023-08-29,49866
 "Abramat",2020-10-16,620
 "Abramat",2020-10-20,622
 "Abramat",2020-10-22,625
@@ -2051,6 +2097,9 @@
 "Accenture",2023-08-05,11147262
 "Accenture",2023-08-08,11162110
 "Accenture",2023-08-10,11176552
+"Accenture",2023-08-29,11281593
+"Accenture",2023-08-29,11281598
+"Accenture",2023-09-15,11401137
 "Accenture Federal Services",2023-01-21,74587
 "Accenture Federal Services",2023-02-25,75886
 "Accenture Federal Services",2023-03-13,76311
@@ -2063,6 +2112,7 @@
 "Accenture Federal Services",2023-07-06,79839
 "Accenture Federal Services",2023-07-23,80403
 "Accenture Federal Services",2023-08-05,80991
+"Accenture Federal Services",2023-08-29,82042
 "Accenture Technology",2020-10-13,100123
 "Accenture Technology",2020-10-15,100351
 "Accenture Technology",2020-10-20,100894
@@ -2359,6 +2409,8 @@
 "Accenture The Dock",2023-08-02,9130
 "Accenture The Dock",2023-08-08,9132
 "Accenture The Dock",2023-08-10,9135
+"Accenture The Dock",2023-08-29,9183
+"Accenture The Dock",2023-09-15,9206
 "Accenture6",2021-02-07,314604
 "Accion Systems",2023-01-21,4204
 "Accion Systems",2023-02-25,4239
@@ -2372,6 +2424,7 @@
 "Accion Systems",2023-07-06,4369
 "Accion Systems",2023-07-23,4384
 "Accion Systems",2023-08-05,4400
+"Accion Systems",2023-08-29,4423
 "AccuStaff",2023-01-21,1272
 "AccuStaff",2023-02-10,1274
 "AccuStaff",2023-02-25,1277
@@ -2385,6 +2438,7 @@
 "AccuStaff",2023-07-06,1297
 "AccuStaff",2023-07-23,1299
 "AccuStaff",2023-08-05,1301
+"AccuStaff",2023-08-29,1310
 "Acropolis",2023-01-22,1541
 "Acryl Data",2023-01-25,1101
 "Acryl Data",2023-01-29,1109
@@ -2403,6 +2457,7 @@
 "ActiGraph",2023-07-06,3376
 "ActiGraph",2023-07-23,3409
 "ActiGraph",2023-08-05,3460
+"ActiGraph",2023-08-29,3574
 "Actinvision",2020-12-15,1946
 "Active Motif",2023-01-25,5863
 "Active Motif",2023-01-29,5861
@@ -2413,6 +2468,7 @@
 "ActiveFence",2023-07-06,17275
 "ActiveFence",2023-07-23,17618
 "ActiveFence",2023-08-05,17996
+"ActiveFence",2023-08-29,18668
 "ActiveViam",2021-01-19,2730
 "ActiveViam",2021-02-19,2782
 "ActiveViam",2021-03-06,2825
@@ -2434,6 +2490,7 @@
 "Ad Age",2023-07-06,1107830
 "Ad Age",2023-07-23,1109813
 "Ad Age",2023-08-05,1111992
+"Ad Age",2023-08-29,1115739
 "Ada Health",2023-01-25,26922
 "Adaptive Biotechnologies Corp.",2023-01-25,24665
 "Adaptive Biotechnologies Corp.",2023-01-29,24703
@@ -2544,6 +2601,7 @@
 "Adessium Foundation",2023-07-23,3548
 "Adessium Foundation",2023-08-08,3566
 "Adessium Foundation",2023-08-10,3569
+"Adessium Foundation",2023-09-15,3526
 "Adobe",2023-01-21,3927307
 "Adobe",2023-02-10,3950271
 "Adobe",2023-02-25,3967615
@@ -2557,6 +2615,7 @@
 "Adobe",2023-07-06,4168152
 "Adobe",2023-07-23,4209536
 "Adobe",2023-08-05,4243548
+"Adobe",2023-08-29,4311314
 "Adopta Un Abuelo",2020-12-08,2957
 "Advanced Accelerator Applications",2021-02-19,22596
 "Advanced Accelerator Applications",2021-03-26,23062
@@ -2565,6 +2624,7 @@
 "Advanced MS EXCEL Power Query Power",2023-07-06,135699
 "Advanced MS EXCEL Power Query Power",2023-07-23,138074
 "Advanced MS EXCEL Power Query Power",2023-08-05,139962
+"Advanced MS EXCEL Power Query Power",2023-08-29,143056
 "Advanced MS EXCEL Power Query Power BI skills for Business Intelligence",2023-06-05,129399
 "Advanced Manufacturing Growth Centre Ltd",2023-01-28,6821
 "Advancing Trust in AI",2023-01-21,228
@@ -2579,6 +2639,7 @@
 "Advancing Trust in AI",2023-07-06,231
 "Advancing Trust in AI",2023-07-23,231
 "Advancing Trust in AI",2023-08-05,232
+"Advancing Trust in AI",2023-08-29,234
 "Adversary Village",2023-02-25,1931
 "Adversary Village",2023-03-13,1976
 "Adversary Village",2023-03-29,2019
@@ -2590,6 +2651,7 @@
 "Adversary Village",2023-07-06,2241
 "Adversary Village",2023-07-23,2311
 "Adversary Village",2023-08-05,2373
+"Adversary Village",2023-08-29,2470
 "AeenaDx",2023-01-25,666
 "AeenaDx",2023-01-29,667
 "AeroMegh Inc.",2023-01-21,439
@@ -2611,6 +2673,7 @@
 "Aerojet Rocketdyne",2023-07-06,126340
 "Aerojet Rocketdyne",2023-07-23,127182
 "Aerojet Rocketdyne",2023-08-05,128273
+"Aerojet Rocketdyne",2023-08-29,129893
 "Aerospace Industries Association",2023-01-21,18765
 "Aerospace Industries Association",2023-02-10,18903
 "Aerospace Industries Association",2023-02-25,19014
@@ -2624,6 +2687,7 @@
 "Aerospace Industries Association",2023-07-06,20344
 "Aerospace Industries Association",2023-07-23,20412
 "Aerospace Industries Association",2023-08-05,20508
+"Aerospace Industries Association",2023-08-29,20729
 "Aerospace Industries Association of Canada (AIAC)",2023-01-21,11131
 "Aerospace Industries Association of Canada (AIAC)",2023-02-10,11318
 "Aerospace Industries Association of Canada (AIAC)",2023-02-25,11480
@@ -2631,12 +2695,13 @@
 "Aerospace Industries Association of Canada (AIAC)",2023-03-29,11699
 "Aerospace Industries Association of Canada (AIAC)",2023-04-10,11803
 "Aerospace Industries Association of Canada (AIAC)",2023-04-23,11857
-"Aerospace Industries Association of Canada (AIAC)\Association des industries aérospatiales du Canada",2023-06-05,12191
-"Aerospace Industries Association of Canada (AIAC)\Association des industries aérospatiales du Canada",2023-06-11,12222
-"Aerospace Industries Association of Canada (AIAC)\Association des industries aérospatiales du Canada",2023-06-23,12396
-"Aerospace Industries Association of Canada (AIAC)\Association des industries aérospatiales du Canada",2023-07-06,12500
-"Aerospace Industries Association of Canada (AIAC)\Association des industries aérospatiales du Canada",2023-07-23,12585
-"Aerospace Industries Association of Canada (AIAC)\Association des industries aérospatiales du Canada",2023-08-05,12651
+"Aerospace Industries Association of Canada (AIAC)\Association des industries aérospatiales du Canada",2023-08-29,12822
+"Aerospace Industries Association of Canada (AIAC)\Association des industries a<e9>rospatiales du Canada",2023-06-05,12191
+"Aerospace Industries Association of Canada (AIAC)\Association des industries a<e9>rospatiales du Canada",2023-06-11,12222
+"Aerospace Industries Association of Canada (AIAC)\Association des industries a<e9>rospatiales du Canada",2023-06-23,12396
+"Aerospace Industries Association of Canada (AIAC)\Association des industries a<e9>rospatiales du Canada",2023-07-06,12500
+"Aerospace Industries Association of Canada (AIAC)\Association des industries a<e9>rospatiales du Canada",2023-07-23,12585
+"Aerospace Industries Association of Canada (AIAC)\Association des industries a<e9>rospatiales du Canada",2023-08-05,12651
 "Aerospace Technology Institute",2023-01-21,20134
 "Aerospace Technology Institute",2023-02-25,20490
 "Aerospace Technology Institute",2023-03-13,20664
@@ -2649,6 +2714,7 @@
 "Aerospace Technology Institute",2023-07-06,21687
 "Aerospace Technology Institute",2023-07-23,21863
 "Aerospace Technology Institute",2023-08-05,21971
+"Aerospace Technology Institute",2023-08-29,22129
 "Aetna a CVS Health Company",2023-01-22,428364
 "Affini-T Therapeutics",2023-01-25,4347
 "Affini-T Therapeutics",2023-01-29,4387
@@ -2769,6 +2835,8 @@
 "Africa in Science",2023-08-02,4282
 "Africa in Science",2023-08-08,4290
 "Africa in Science",2023-08-10,4292
+"Africa in Science",2023-08-29,4314
+"Africa in Science",2023-09-15,4329
 "African American Community Services Agency (AACSA)",2023-01-28,883
 "African Drone & Data Academy Powered By UNICEF",2021-08-14,548
 "African Drone & Data Academy Powered By UNICEF",2021-08-26,576
@@ -2898,6 +2966,8 @@
 "African Drone & Data Academy Powered By UNICEF",2023-08-02,2313
 "African Drone & Data Academy Powered By UNICEF",2023-08-08,2354
 "African Drone & Data Academy Powered By UNICEF",2023-08-10,2364
+"African Drone & Data Academy Powered By UNICEF",2023-08-29,2452
+"African Drone & Data Academy Powered By UNICEF",2023-09-15,2505
 "African Institute for Mathematical Sciences (AIMS)",2021-06-09,9003
 "African Institute for Mathematical Sciences (AIMS)",2021-06-16,9031
 "African Institute for Mathematical Sciences (AIMS)",2021-06-21,9056
@@ -3038,6 +3108,8 @@
 "African Institute for Mathematical Sciences (AIMS)",2023-08-05,17305
 "African Institute for Mathematical Sciences (AIMS)",2023-08-08,17335
 "African Institute for Mathematical Sciences (AIMS)",2023-08-10,17365
+"African Institute for Mathematical Sciences (AIMS)",2023-08-29,17608
+"African Institute for Mathematical Sciences (AIMS)",2023-09-15,17829
 "African Institute for Mathematical Sciences Ghana",2021-06-09,648
 "African Institute for Mathematical Sciences Ghana",2021-06-16,655
 "African Institute for Mathematical Sciences Ghana",2021-06-21,661
@@ -3169,6 +3241,8 @@
 "African Institute for Mathematical Sciences Ghana",2023-08-02,1738
 "African Institute for Mathematical Sciences Ghana",2023-08-08,1747
 "African Institute for Mathematical Sciences Ghana",2023-08-10,1751
+"African Institute for Mathematical Sciences Ghana",2023-08-29,1710
+"African Institute for Mathematical Sciences Ghana",2023-09-15,1734
 "Aga Khan Foundation USA",2021-04-20,16890
 "Aga Khan Foundation USA",2021-04-24,16920
 "Aga Khan Foundation USA",2021-04-28,16935
@@ -3272,6 +3346,7 @@
 "Aga Khan Foundation USA",2023-07-23,22932
 "Aga Khan Foundation USA",2023-08-08,23040
 "Aga Khan Foundation USA",2023-08-10,23063
+"Aga Khan Foundation USA",2023-09-15,23245
 "Age Of Geeks",2022-05-12,154345
 "Age Of Geeks",2022-05-22,154579
 "Age Of Geeks",2022-05-23,154588
@@ -3371,6 +3446,8 @@
 "Age Of Geeks",2023-08-05,156619
 "Age Of Geeks",2023-08-08,156608
 "Age Of Geeks",2023-08-10,156608
+"Age Of Geeks",2023-08-29,156540
+"Age Of Geeks",2023-09-15,156486
 "AgniKul Cosmos",2023-01-21,52322
 "AgniKul Cosmos",2023-02-25,53115
 "AgniKul Cosmos",2023-03-13,53536
@@ -3383,6 +3460,7 @@
 "AgniKul Cosmos",2023-07-06,56268
 "AgniKul Cosmos",2023-07-23,57107
 "AgniKul Cosmos",2023-08-05,57607
+"AgniKul Cosmos",2023-08-29,59483
 "AgriProtein",2022-02-27,14730
 "AgriSat Iberia S.L.",2020-10-16,338
 "AgriSat Iberia S.L.",2020-10-18,338
@@ -3404,6 +3482,7 @@
 "Air Force",2023-07-06,16515
 "Air Force",2023-07-23,16687
 "Air Force",2023-08-05,16807
+"Air Force",2023-08-29,16912
 "Air Force Civilian Service",2023-01-21,126381
 "Air Force Civilian Service",2023-02-10,127748
 "Air Force Civilian Service",2023-02-25,128678
@@ -3417,6 +3496,7 @@
 "Air Force Civilian Service",2023-07-06,135704
 "Air Force Civilian Service",2023-07-23,136365
 "Air Force Civilian Service",2023-08-05,136909
+"Air Force Civilian Service",2023-08-29,138324
 "Air Force Materiel Command",2023-01-21,20587
 "Air Force Materiel Command",2023-02-25,21270
 "Air Force Materiel Command",2023-03-13,21510
@@ -3429,6 +3509,7 @@
 "Air Force Materiel Command",2023-07-06,22992
 "Air Force Materiel Command",2023-07-23,23170
 "Air Force Materiel Command",2023-08-05,23364
+"Air Force Materiel Command",2023-08-29,23652
 "Air Force Research Laboratory",2023-01-21,120784
 "Air Force Research Laboratory",2023-02-10,122992
 "Air Force Research Laboratory",2023-02-25,124614
@@ -3442,6 +3523,7 @@
 "Air Force Research Laboratory",2023-07-06,136780
 "Air Force Research Laboratory",2023-07-23,137953
 "Air Force Research Laboratory",2023-08-05,139146
+"Air Force Research Laboratory",2023-08-29,141147
 "Air Force Test Center",2023-01-21,8359
 "Air Force Test Center",2023-02-25,8549
 "Air Force Test Center",2023-03-13,8622
@@ -3454,6 +3536,7 @@
 "Air Force Test Center",2023-07-06,8925
 "Air Force Test Center",2023-07-23,8953
 "Air Force Test Center",2023-08-05,8981
+"Air Force Test Center",2023-08-29,8708
 "Airbnb",2023-01-22,2262373
 "Airbus",2023-03-29,1914285
 "Airbus",2023-04-10,1924589
@@ -3464,6 +3547,7 @@
 "Airbus",2023-07-06,2009880
 "Airbus",2023-07-23,2027713
 "Airbus",2023-08-05,2042566
+"Airbus",2023-08-29,2065023
 "Airbus OneWeb Satellites",2023-01-21,20791
 "Airbus OneWeb Satellites",2023-02-25,21125
 "Airbus OneWeb Satellites",2023-03-13,21298
@@ -3476,6 +3560,7 @@
 "Airbus OneWeb Satellites",2023-07-06,22325
 "Airbus OneWeb Satellites",2023-07-23,22401
 "Airbus OneWeb Satellites",2023-08-05,22484
+"Airbus OneWeb Satellites",2023-08-29,22759
 "Airbus Ventures",2023-01-21,6932
 "Airbus Ventures",2023-02-25,7030
 "Airbus Ventures",2023-03-13,7060
@@ -3488,6 +3573,7 @@
 "Airbus Ventures",2023-07-06,7582
 "Airbus Ventures",2023-07-23,7635
 "Airbus Ventures",2023-08-05,7688
+"Airbus Ventures",2023-08-29,7745
 "Akamai Technologies",2023-01-21,254379
 "Akamai Technologies",2023-02-10,256972
 "Akamai Technologies",2023-02-25,258723
@@ -3501,6 +3587,7 @@
 "Akamai Technologies",2023-07-06,277533
 "Akamai Technologies",2023-07-23,280749
 "Akamai Technologies",2023-08-05,283427
+"Akamai Technologies",2023-08-29,287612
 "AlCircleBiz",2021-05-10,2510
 "Albedo",2023-01-21,3495
 "Albedo",2023-02-25,3679
@@ -3514,6 +3601,7 @@
 "Albedo",2023-07-06,4461
 "Albedo",2023-07-23,4522
 "Albedo",2023-08-05,4576
+"Albedo",2023-08-29,4703
 "Aleph News",2021-02-19,14684
 "Aleph News",2021-03-06,15496
 "Aleph News",2021-03-26,16287
@@ -3708,6 +3796,8 @@
 "Alfred P. Sloan Foundation",2023-08-02,3069
 "Alfred P. Sloan Foundation",2023-08-08,3082
 "Alfred P. Sloan Foundation",2023-08-10,3089
+"Alfred P. Sloan Foundation",2023-08-29,3131
+"Alfred P. Sloan Foundation",2023-09-15,3160
 "Alice Insights Inc.",2021-03-28,235
 "Alice Insights Inc.",2021-03-31,237
 "Alice Insights Inc.",2021-04-06,241
@@ -3733,6 +3823,7 @@
 "Alimentation Couche-Tard",2023-07-06,11288
 "Alimentation Couche-Tard",2023-07-23,11396
 "Alimentation Couche-Tard",2023-08-05,11478
+"Alimentation Couche-Tard",2023-08-29,11609
 "Alkahest Inc.",2023-01-25,3207
 "Alkahest Inc.",2023-01-29,3208
 "AllBusiness.com",2023-01-21,33417
@@ -3748,6 +3839,7 @@
 "AllBusiness.com",2023-07-06,33404
 "AllBusiness.com",2023-07-23,33382
 "AllBusiness.com",2023-08-05,33381
+"AllBusiness.com",2023-08-29,33393
 "AllSeen Alliance",2023-01-21,1393
 "AllSeen Alliance",2023-02-25,1394
 "AllSeen Alliance",2023-03-13,1392
@@ -3760,6 +3852,7 @@
 "AllSeen Alliance",2023-07-06,1383
 "AllSeen Alliance",2023-07-23,1382
 "AllSeen Alliance",2023-08-05,1381
+"AllSeen Alliance",2023-08-29,1381
 "Alldus",2020-10-20,21527
 "Alldus",2020-10-20,21532
 "Alldus",2020-10-20,21533
@@ -3947,6 +4040,8 @@
 "Alldus",2023-08-02,59360
 "Alldus",2023-08-08,59774
 "Alldus",2023-08-10,60014
+"Alldus",2023-08-29,61849
+"Alldus",2023-09-15,63428
 "Allen Institute",2023-01-25,23198
 "Allen Institute",2023-01-29,23291
 "Allen Institute for AI (AI2)",2023-01-25,18340
@@ -3973,11 +4068,14 @@
 "Alloy Enterprises Inc",2023-07-06,1548
 "Alloy Enterprises Inc",2023-07-23,1567
 "Alloy Enterprises Inc",2023-08-05,1589
+"Alloy Enterprises Inc",2023-08-29,1616
+"Alluxio Inc.",2023-08-29,3109
 "Ally of",2023-06-11,529
 "Ally of",2023-06-23,532
 "Ally of",2023-07-06,532
 "Ally of",2023-07-23,534
 "Ally of",2023-08-05,533
+"Ally of",2023-08-29,536
 "Ally of the Year",2023-01-21,508
 "Ally of the Year",2023-02-25,513
 "Ally of the Year",2023-03-13,518
@@ -4007,6 +4105,8 @@
 "Altair RapidMiner",2023-08-02,20513
 "Altair RapidMiner",2023-08-08,20535
 "Altair RapidMiner",2023-08-10,20538
+"Altair RapidMiner",2023-08-29,20590
+"Altair RapidMiner",2023-09-15,20635
 "Alteryx",2020-10-20,128109
 "Alteryx",2020-10-21,128210
 "Alteryx",2020-10-23,128401
@@ -4199,6 +4299,8 @@
 "Alteryx",2023-08-02,269656
 "Alteryx",2023-08-08,270492
 "Alteryx",2023-08-10,270873
+"Alteryx",2023-08-29,273950
+"Alteryx",2023-09-15,277192
 "Altinity Inc.",2023-01-21,1881
 "Altinity Inc.",2023-02-25,1982
 "Altinity Inc.",2023-03-13,2101
@@ -4211,6 +4313,7 @@
 "Altinity Inc.",2023-07-06,2369
 "Altinity Inc.",2023-07-23,2747
 "Altinity Inc.",2023-08-05,2925
+"Altinity Inc.",2023-08-29,2970
 "Altmetric",2023-01-28,4396
 "Altos Labs",2023-01-25,19877
 "Altos Labs",2023-01-29,20073
@@ -4227,6 +4330,7 @@
 "Amadeus Labs",2023-07-06,39463
 "Amadeus Labs",2023-07-23,40418
 "Amadeus Labs",2023-08-05,40893
+"Amadeus Labs",2023-08-29,41638
 "Amazon",2023-01-21,29213573
 "Amazon",2023-01-25,29251962
 "Amazon",2023-01-28,29281883
@@ -4242,6 +4346,7 @@
 "Amazon",2023-07-06,31093626
 "Amazon",2023-07-23,31334500
 "Amazon",2023-08-05,31570992
+"Amazon",2023-08-29,31987691
 "Amazon Science",2020-10-16,19900
 "Amazon Science",2020-10-25,21570
 "Amazon Science",2020-10-28,21976
@@ -4432,11 +4537,14 @@
 "Amazon Science",2023-08-05,315875
 "Amazon Science",2023-08-08,316246
 "Amazon Science",2023-08-10,316564
+"Amazon Science",2023-08-29,319498
+"Amazon Science",2023-09-15,303690
 "Amazon Web Services",2023-06-11,7096
 "Amazon Web Services",2023-06-23,7205
 "Amazon Web Services",2023-07-06,7311
 "Amazon Web Services",2023-07-23,7417
 "Amazon Web Services",2023-08-05,7512
+"Amazon Web Services",2023-08-29,7696
 "Amazon Web Services (AWS)",2023-01-21,7875788
 "Amazon Web Services (AWS)",2023-01-22,7878690
 "Amazon Web Services (AWS)",2023-01-29,7901896
@@ -4452,6 +4560,7 @@
 "Amazon Web Services (AWS)",2023-07-06,8510899
 "Amazon Web Services (AWS)",2023-07-23,8612970
 "Amazon Web Services (AWS)",2023-08-05,8702865
+"Amazon Web Services (AWS)",2023-08-29,8844326
 "Amazon Web Services (AWS) Optimization",2023-01-21,5550
 "Amazon Web Services (AWS) Optimization",2023-02-25,6037
 "Amazon Web Services (AWS) Optimization",2023-03-13,6276
@@ -4476,6 +4585,7 @@
 "American Banker",2023-07-06,146756
 "American Banker",2023-07-23,147996
 "American Banker",2023-08-05,149314
+"American Banker",2023-08-29,152211
 "American Bankers Association",2023-03-13,133590
 "American Bankers Association",2023-03-29,134346
 "American Bankers Association",2023-04-10,135085
@@ -4486,6 +4596,7 @@
 "American Bankers Association",2023-07-06,141481
 "American Bankers Association",2023-07-23,142910
 "American Bankers Association",2023-08-05,144305
+"American Bankers Association",2023-08-29,146402
 "American Bar Association",2023-03-13,226044
 "American Bar Association",2023-03-29,227628
 "American Bar Association",2023-04-10,228775
@@ -4496,6 +4607,7 @@
 "American Bar Association",2023-07-06,239013
 "American Bar Association",2023-07-23,240810
 "American Bar Association",2023-08-05,242285
+"American Bar Association",2023-08-29,245851
 "American Cancer Society",2023-01-25,226222
 "American Cancer Society",2023-01-29,226781
 "American Century Investments Institutional",2023-01-21,2798
@@ -4510,6 +4622,7 @@
 "American Century Investments Institutional",2023-07-06,3050
 "American Century Investments Institutional",2023-07-23,3051
 "American Century Investments Institutional",2023-08-05,3057
+"American Century Investments Institutional",2023-08-29,3103
 "American Chemical Society",2023-01-28,166456
 "American Express",2023-01-21,1811715
 "American Express",2023-02-10,1827235
@@ -4524,6 +4637,7 @@
 "American Express",2023-07-06,1959822
 "American Express",2023-07-23,1974310
 "American Express",2023-08-05,1988876
+"American Express",2023-08-29,2013128
 "American Express Business",2023-01-21,87106
 "American Express Business",2023-02-10,88511
 "American Express Business",2023-02-25,89458
@@ -4537,6 +4651,7 @@
 "American Express Business",2023-07-06,96077
 "American Express Business",2023-07-23,96880
 "American Express Business",2023-08-05,97597
+"American Express Business",2023-08-29,98751
 "American Express Global Business Travel",2023-01-21,190141
 "American Express Global Business Travel",2023-02-25,194036
 "American Express Global Business Travel",2023-03-13,195828
@@ -4549,6 +4664,7 @@
 "American Express Global Business Travel",2023-07-06,209493
 "American Express Global Business Travel",2023-07-23,211719
 "American Express Global Business Travel",2023-08-05,213794
+"American Express Global Business Travel",2023-08-29,217305
 "American Federation for Children",2023-01-21,1273
 "American Federation for Children",2023-02-10,1283
 "American Federation for Children",2023-02-25,1285
@@ -4562,6 +4678,7 @@
 "American Federation for Children",2023-07-06,1351
 "American Federation for Children",2023-07-23,1663
 "American Federation for Children",2023-08-05,1725
+"American Federation for Children",2023-08-29,1758
 "American Geophysical Union",2023-01-28,14906
 "American Immigration Lawyers Association",2023-01-21,28457
 "American Immigration Lawyers Association",2023-02-10,28974
@@ -4576,6 +4693,7 @@
 "American Immigration Lawyers Association",2023-07-06,32207
 "American Immigration Lawyers Association",2023-07-23,32549
 "American Immigration Lawyers Association",2023-08-05,32813
+"American Immigration Lawyers Association",2023-08-29,33173
 "American Institute of Physics",2023-01-21,21226
 "American Institute of Physics",2023-02-10,21260
 "American Institute of Physics",2023-02-25,21283
@@ -4589,6 +4707,7 @@
 "American Institute of Physics",2023-07-06,21680
 "American Institute of Physics",2023-07-23,21729
 "American Institute of Physics",2023-08-05,21780
+"American Institute of Physics",2023-08-29,21859
 "American Meteorological Society",2023-01-28,11328
 "American Psychiatric Association",2023-01-21,288034
 "American Psychiatric Association",2023-02-10,292298
@@ -4603,6 +4722,7 @@
 "American Psychiatric Association",2023-07-06,326635
 "American Psychiatric Association",2023-07-23,331137
 "American Psychiatric Association",2023-08-05,334798
+"American Psychiatric Association",2023-08-29,340381
 "American Psychological Association",2023-01-21,821172
 "American Psychological Association",2023-02-10,829650
 "American Psychological Association",2023-02-25,835945
@@ -4616,6 +4736,7 @@
 "American Psychological Association",2023-07-06,892940
 "American Psychological Association",2023-07-23,901352
 "American Psychological Association",2023-08-05,907862
+"American Psychological Association",2023-08-29,918902
 "American Red Cross Central Florida Region",2023-01-21,3053
 "American Red Cross Central Florida Region",2023-02-10,3063
 "American Red Cross Central Florida Region",2023-02-25,3069
@@ -4629,6 +4750,7 @@
 "American Red Cross Central Florida Region",2023-07-06,3178
 "American Red Cross Central Florida Region",2023-07-23,3189
 "American Red Cross Central Florida Region",2023-08-05,3199
+"American Red Cross Central Florida Region",2023-08-29,3213
 "American Society of Civil Engineers",2023-01-28,248397
 "American Society of Gene & Cell Therapy",2023-01-25,10793
 "American Society of Gene & Cell Therapy",2023-01-29,10989
@@ -4646,6 +4768,7 @@
 "American University",2023-07-06,187974
 "American University",2023-07-23,188505
 "American University",2023-08-05,189022
+"American University",2023-08-29,190048
 "American University of Sharjah",2023-01-28,77795
 "American Water",2023-01-28,29442
 "American Water Works Association",2023-01-28,44557
@@ -4756,6 +4879,7 @@
 "Amherst H. Wilder Foundation",2023-07-23,7464
 "Amherst H. Wilder Foundation",2023-08-08,7542
 "Amherst H. Wilder Foundation",2023-08-10,7555
+"Amherst H. Wilder Foundation",2023-09-15,7714
 "Amsterdam Intelligence",2023-02-25,336
 "Amsterdam Intelligence",2023-03-13,361
 "Amsterdam Intelligence",2023-03-29,391
@@ -4767,6 +4891,7 @@
 "Amsterdam Intelligence",2023-07-06,471
 "Amsterdam Intelligence",2023-07-23,480
 "Amsterdam Intelligence",2023-08-05,480
+"Amsterdam Intelligence",2023-08-29,505
 "Amtrak",2023-01-21,113733
 "Amtrak",2023-02-10,115776
 "Amtrak",2023-02-25,117431
@@ -4780,6 +4905,7 @@
 "Amtrak",2023-07-06,128457
 "Amtrak",2023-07-23,129678
 "Amtrak",2023-08-05,130754
+"Amtrak",2023-08-29,132695
 "Amyris",2023-01-25,69909
 "Amyris",2023-01-29,70046
 "Anaconda",2020-10-08,19338
@@ -5015,6 +5141,9 @@
 "Anaconda Inc.",2023-08-05,67900
 "Anaconda Inc.",2023-08-08,68008
 "Anaconda Inc.",2023-08-10,68098
+"Anaconda Inc.",2023-08-29,72501
+"Anaconda Inc.",2023-09-15,75263
+"Anaconda Inc.",2023-09-15,75266
 "Anagenex",2023-01-25,621
 "Anagenex",2023-01-29,624
 "Analog Devices",2023-01-21,287623
@@ -5030,6 +5159,7 @@
 "Analog Devices",2023-07-06,321081
 "Analog Devices",2023-07-23,324882
 "Analog Devices",2023-08-05,328905
+"Analog Devices",2023-08-29,335040
 "Analytic Health",2023-01-22,449
 "Analytic Partners",2020-10-20,7377
 "Analytic Partners",2020-10-20,7378
@@ -5219,81 +5349,8 @@
 "Analytic Partners",2023-08-02,11932
 "Analytic Partners",2023-08-08,11956
 "Analytic Partners",2023-08-10,11968
-"Analytic Recruiting Inc.",2023-01-28,92547
-"Analytics Vidhya",2022-07-18,142337
-"Analytics Vidhya",2022-07-21,142617
-"Analytics Vidhya",2022-07-23,142757
-"Analytics Vidhya",2022-07-25,142876
-"Analytics Vidhya",2022-08-01,143442
-"Analytics Vidhya",2022-08-08,143949
-"Analytics Vidhya",2022-08-16,144378
-"Analytics Vidhya",2022-08-20,144764
-"Analytics Vidhya",2022-08-25,145178
-"Analytics Vidhya",2022-08-28,145408
-"Analytics Vidhya",2022-09-01,145950
-"Analytics Vidhya",2022-09-07,146469
-"Analytics Vidhya",2022-09-10,146702
-"Analytics Vidhya",2022-09-16,147269
-"Analytics Vidhya",2022-09-22,147723
-"Analytics Vidhya",2022-09-29,148174
-"Analytics Vidhya",2022-10-03,148392
-"Analytics Vidhya",2022-10-09,149008
-"Analytics Vidhya",2022-10-12,149276
-"Analytics Vidhya",2022-10-16,149561
-"Analytics Vidhya",2022-10-22,150052
-"Analytics Vidhya",2022-10-28,150397
-"Analytics Vidhya",2022-11-03,150923
-"Analytics Vidhya",2022-11-06,151162
-"Analytics Vidhya",2022-11-14,151866
-"Analytics Vidhya",2022-11-20,152363
-"Analytics Vidhya",2022-11-24,152570
-"Analytics Vidhya",2022-12-01,152968
-"Analytics Vidhya",2022-12-08,153396
-"Analytics Vidhya",2022-12-14,153681
-"Analytics Vidhya",2022-12-27,154399
-"Analytics Vidhya",2023-01-01,154704
-"Analytics Vidhya",2023-01-05,155155
-"Analytics Vidhya",2023-01-09,155453
-"Analytics Vidhya",2023-01-21,156537
-"Analytics Vidhya",2023-01-22,156570
-"Analytics Vidhya",2023-01-28,157289
-"Analytics Vidhya",2023-02-04,157713
-"Analytics Vidhya",2023-02-10,158092
-"Analytics Vidhya",2023-02-13,158299
-"Analytics Vidhya",2023-02-24,159234
-"Analytics Vidhya",2023-02-25,159270
-"Analytics Vidhya",2023-03-10,160050
-"Analytics Vidhya",2023-03-13,160188
-"Analytics Vidhya",2023-03-14,160371
-"Analytics Vidhya",2023-03-18,160620
-"Analytics Vidhya",2023-03-21,160847
-"Analytics Vidhya",2023-03-25,161065
-"Analytics Vidhya",2023-03-29,161421
-"Analytics Vidhya",2023-04-01,161619
-"Analytics Vidhya",2023-04-10,162187
-"Analytics Vidhya",2023-04-10,162198
-"Analytics Vidhya",2023-04-13,162453
-"Analytics Vidhya",2023-04-21,162935
-"Analytics Vidhya",2023-04-23,163011
-"Analytics Vidhya",2023-04-29,163428
-"Analytics Vidhya",2023-05-12,164222
-"Analytics Vidhya",2023-05-19,164752
-"Analytics Vidhya",2023-05-29,165449
-"Analytics Vidhya",2023-06-05,165977
-"Analytics Vidhya",2023-06-05,165981
-"Analytics Vidhya",2023-06-11,166363
-"Analytics Vidhya",2023-06-11,166364
-"Analytics Vidhya",2023-06-14,166589
-"Analytics Vidhya",2023-06-17,166766
-"Analytics Vidhya",2023-06-23,167306
-"Analytics Vidhya",2023-06-27,167682
-"Analytics Vidhya",2023-07-06,168609
-"Analytics Vidhya",2023-07-23,169946
-"Analytics Vidhya",2023-07-23,169947
-"Analytics Vidhya",2023-08-02,171120
-"Analytics Vidhya",2023-08-05,171785
-"Analytics Vidhya",2023-08-08,172131
-"Analytics Vidhya",2023-08-10,172353
+"Analytic Partners",2023-08-29,12055
+"Analytic Partners",2023-09-15,12237
 "allspatial - Geospatial Software and Services",2021-06-02,9
 "allspatial - Geospatial Software and Services",2021-06-09,9
 "allspatial - Geospatial Software and Services",2021-06-16,9
@@ -5424,5 +5481,7 @@
 "allspatial - Geospatial Software and Services",2023-08-02,17
 "allspatial - Geospatial Software and Services",2023-08-08,17
 "allspatial - Geospatial Software and Services",2023-08-10,17
+"allspatial - Geospatial Software and Services",2023-08-29,16
+"allspatial - Geospatial Software and Services",2023-09-15,16
 "altizem",2021-02-19,6282
 "altizem",2021-03-26,6479
