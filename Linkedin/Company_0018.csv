@@ -10,6 +10,9 @@
 "TSMC",2023-07-23,467103
 "TSMC",2023-08-05,473044
 "TSMC",2023-08-29,486977
+"TSMC",2023-10-18,481741
+"TSMC",2023-12-14,499092
+"TSMC",2023-12-17,500515
 "TTP plc",2023-01-21,11643
 "TTP plc",2023-02-10,11797
 "TTP plc",2023-02-25,11916
@@ -24,12 +27,103 @@
 "TTP plc",2023-07-23,12980
 "TTP plc",2023-08-05,13086
 "TTP plc",2023-08-29,13279
+"TTP plc",2023-10-18,13878
+"TTP plc",2023-12-14,14241
+"TTP plc",2023-12-17,14274
 "TWiT.tv",2023-06-23,2777
 "TWiT.tv",2023-07-06,2783
 "TWiT.tv",2023-07-23,2787
 "TWiT.tv",2023-08-05,2789
 "TWiT.tv",2023-08-29,2796
+"TWiT.tv",2023-10-18,2821
+"TWiT.tv",2023-12-17,2811
+"The Bloom",2023-01-25,14713
 "The COVID Tracking Project at The Atlantic",2023-01-22,526
+"The Carpentries",2023-01-25,1176
+"The CarpentriesThe Carpentries",2023-12-14,NA
+"The Catalyst",2022-06-03,630
+"The Catalyst",2022-06-07,629
+"The Catalyst",2022-06-08,629
+"The Catalyst",2022-06-11,632
+"The Catalyst",2022-06-22,671
+"The Catalyst",2022-06-24,672
+"The Catalyst",2022-06-26,676
+"The Catalyst",2022-06-28,681
+"The Catalyst",2022-06-30,686
+"The Catalyst",2022-07-01,689
+"The Catalyst",2022-07-02,691
+"The Catalyst",2022-07-04,694
+"The Catalyst",2022-07-05,694
+"The Catalyst",2022-07-09,698
+"The Catalyst",2022-07-12,702
+"The Catalyst",2022-07-18,708
+"The Catalyst",2022-07-21,712
+"The Catalyst",2022-07-23,715
+"The Catalyst",2022-07-25,719
+"The Catalyst",2022-08-01,723
+"The Catalyst",2022-08-08,726
+"The Catalyst",2022-08-16,736
+"The Catalyst",2022-08-20,738
+"The Catalyst",2022-08-25,741
+"The Catalyst",2022-08-28,746
+"The Catalyst",2022-09-01,752
+"The Catalyst",2022-09-07,761
+"The Catalyst",2022-09-10,764
+"The Catalyst",2022-09-16,768
+"The Catalyst",2022-09-22,771
+"The Catalyst",2022-09-29,774
+"The Catalyst",2022-10-03,778
+"The Catalyst",2022-10-09,779
+"The Catalyst",2022-10-12,781
+"The Catalyst",2022-10-16,782
+"The Catalyst",2022-10-22,787
+"The Catalyst",2022-10-28,792
+"The Catalyst",2022-11-03,799
+"The Catalyst",2022-11-06,800
+"The Catalyst",2022-11-14,811
+"The Catalyst",2022-11-20,817
+"The Catalyst",2022-11-24,821
+"The Catalyst",2022-12-01,831
+"The Catalyst",2022-12-08,839
+"The Catalyst",2022-12-14,844
+"The Catalyst",2022-12-27,855
+"The Catalyst",2023-01-01,857
+"The Catalyst",2023-01-05,861
+"The Catalyst",2023-01-09,861
+"The Catalyst",2023-01-22,878
+"The Catalyst",2023-01-28,887
+"The Catalyst",2023-02-04,896
+"The Catalyst",2023-02-10,902
+"The Catalyst",2023-02-13,904
+"The Catalyst",2023-02-24,929
+"The Catalyst",2023-03-10,959
+"The Catalyst",2023-03-14,964
+"The Catalyst",2023-03-18,969
+"The Catalyst",2023-03-21,973
+"The Catalyst",2023-03-25,978
+"The Catalyst",2023-04-01,981
+"The Catalyst",2023-04-10,988
+"The Catalyst",2023-04-13,991
+"The Catalyst",2023-04-21,998
+"The Catalyst",2023-04-29,1001
+"The Catalyst",2023-05-12,1010
+"The Catalyst",2023-05-19,1016
+"The Catalyst",2023-05-29,1022
+"The Catalyst",2023-06-05,1027
+"The Catalyst",2023-06-11,1033
+"The Catalyst",2023-06-14,1034
+"The Catalyst",2023-06-17,1036
+"The Catalyst",2023-06-23,1046
+"The Catalyst",2023-06-27,1047
+"The Catalyst",2023-07-06,1064
+"The Catalyst",2023-07-23,1075
+"The Catalyst",2023-08-02,1077
+"The Catalyst",2023-08-08,1080
+"The Catalyst",2023-08-10,1082
+"The Catalyst",2023-08-29,1091
+"The Catalyst",2023-09-15,1099
+"The Catalyst",2023-10-18,1135
+"The Climate Institute",2023-01-28,2416
 "The Collective Impact Group For Guinea",2021-06-02,154
 "The Collective Impact Group For Guinea",2021-06-09,154
 "The Collective Impact Group For Guinea",2021-06-16,154
@@ -156,6 +250,7 @@
 "The Collective Impact Group For Guinea",2023-08-10,163
 "The Collective Impact Group For Guinea",2023-08-29,163
 "The Collective Impact Group For Guinea",2023-09-15,163
+"The Collective Impact Group For Guinea",2023-10-18,163
 "The Constantine Group (TCG)",2023-01-21,5342
 "The Constantine Group (TCG)",2023-02-10,5347
 "The Constantine Group (TCG)",2023-02-25,5346
@@ -170,6 +265,8 @@
 "The Constantine Group (TCG)",2023-07-23,5360
 "The Constantine Group (TCG)",2023-08-05,5358
 "The Constantine Group (TCG) - An Ardurra Company",2023-08-29,5356
+"The Constantine Group (TCG) - An Ardurra Company",2023-10-18,5355
+"The Constantine Group (TCG) - An Ardurra Company",2023-12-17,5229
 "The Creative 9",2021-05-10,1226
 "The Cyber Resilience Centre for Wales",2023-01-21,1020
 "The Cyber Resilience Centre for Wales",2023-02-25,1059
@@ -191,12 +288,13 @@
 "The Cyber Security Hub<99>",2023-06-05,1623191
 "The Cyber Security Hub<99>",2023-06-11,1626755
 "The Cyber Security Hub<99>",2023-06-23,1642418
-"The Cyber Security Hub<U+0099>",2023-01-21,1558146
-"The Cyber Security Hub<U+0099>",2023-02-25,1573866
 "The Cyber Security Hub<99>",2023-07-06,1654209
 "The Cyber Security Hub<99>",2023-07-23,1664885
 "The Cyber Security Hub<99>",2023-08-05,1672798
-"The Cyber Security Hub™",2023-08-29,1686133
+"The Cyber Security Hub<U+0099>",2023-01-21,1558146
+"The Cyber Security Hub<U+0099>",2023-02-25,1573866
+"The Cyber Security Hub<99>",2023-08-29,1686133
+"The Cyber Security Hub™",2023-10-18,1716346
 "The CyberWire",2023-01-21,18835
 "The CyberWire",2023-02-25,19480
 "The CyberWire",2023-03-13,19660
@@ -210,6 +308,7 @@
 "The CyberWire",2023-07-23,20810
 "The CyberWire",2023-08-05,20997
 "The CyberWire",2023-08-29,21212
+"The CyberWire",2023-10-18,21629
 "The Data Incubator",2023-01-25,15216
 "The Data Lab - Innovation Centre",2021-01-25,6079
 "The Data Lab - Innovation Centre",2021-01-28,6112
@@ -335,6 +434,9 @@
 "The Data Lab - Innovation Centre",2023-08-08,11539
 "The Data Lab - Innovation Centre",2023-08-10,11558
 "The Data Lab - Innovation Centre",2023-09-15,11856
+"The Data Lab - Innovation Centre",2023-10-18,11856
+"The Data Lab - Innovation Centre",2023-12-17,12554
+"The Data Lab - Innovation Centre",2023-12-18,12562
 "The Data Pub",2021-01-25,1269
 "The Data Pub",2021-01-28,1270
 "The Data Pub",2021-01-31,1281
@@ -458,6 +560,9 @@
 "The Data Pub",2023-08-08,2508
 "The Data Pub",2023-08-10,2508
 "The Data Pub",2023-09-15,2550
+"The Data Pub",2023-10-18,2550
+"The Data Pub",2023-12-17,2589
+"The Data Pub",2023-12-18,2590
 "The Data Science & Statistics Society",2021-03-28,70
 "The Data Science & Statistics Society",2021-03-31,71
 "The Data Science & Statistics Society",2021-04-06,73
@@ -567,6 +672,9 @@
 "The Data Science & Statistics Society",2023-08-08,289
 "The Data Science & Statistics Society",2023-08-10,291
 "The Data Science & Statistics Society",2023-09-15,301
+"The Data Science & Statistics Society",2023-10-18,301
+"The Data Science & Statistics Society",2023-12-17,331
+"The Data Science & Statistics Society",2023-12-18,331
 "The David and Lucile Packard Foundation",2020-10-25,13987
 "The David and Lucile Packard Foundation",2020-10-28,14022
 "The David and Lucile Packard Foundation",2020-10-30,14056
@@ -750,6 +858,9 @@
 "The David and Lucile Packard Foundation",2023-08-10,33126
 "The David and Lucile Packard Foundation",2023-08-29,33815
 "The David and Lucile Packard Foundation",2023-09-15,34505
+"The David and Lucile Packard Foundation",2023-10-18,36190
+"The David and Lucile Packard Foundation",2023-12-14,37683
+"The David and Lucile Packard Foundation",2023-12-16,37801
 "The Deltic Group",2020-10-16,9203
 "The Deltic Group",2020-10-21,9211
 "The Deltic Group",2020-10-22,9215
@@ -774,6 +885,9 @@
 "The Detroit News",2023-07-23,7111
 "The Detroit News",2023-08-05,7154
 "The Detroit News",2023-08-29,7217
+"The Detroit News",2023-10-18,7133
+"The Detroit News",2023-12-14,7320
+"The Detroit News",2023-12-17,7328
 "The Diana Initiative",2023-01-21,2853
 "The Diana Initiative",2023-02-25,2940
 "The Diana Initiative",2023-03-13,3047
@@ -787,6 +901,7 @@
 "The Diana Initiative",2023-07-23,3529
 "The Diana Initiative",2023-08-05,3651
 "The Diana Initiative",2023-08-29,3903
+"The Diana Initiative",2023-10-18,3933
 "The Economic Times",2023-01-21,2677758
 "The Economic Times",2023-02-10,2692777
 "The Economic Times",2023-02-25,2702056
@@ -801,6 +916,9 @@
 "The Economic Times",2023-07-23,2836798
 "The Economic Times",2023-08-05,2858984
 "The Economic Times",2023-08-29,2904056
+"The Economic Times",2023-10-18,2973428
+"The Economic Times",2023-12-14,2852175
+"The Economic Times",2023-12-17,2855290
 "The Economist",2023-01-21,13124182
 "The Economist",2023-02-10,13137557
 "The Economist",2023-02-25,13145638
@@ -815,6 +933,9 @@
 "The Economist",2023-07-23,13276931
 "The Economist",2023-08-05,13299033
 "The Economist",2023-08-29,13333538
+"The Economist",2023-10-18,13363043
+"The Economist",2023-12-14,12894756
+"The Economist",2023-12-17,12897925
 "The Female Lead",2023-01-21,3534654
 "The Female Lead",2023-01-25,3537606
 "The Female Lead",2023-02-25,3558134
@@ -829,6 +950,7 @@
 "The Female Lead",2023-07-23,3688189
 "The Female Lead",2023-08-05,3697452
 "The Female Lead",2023-08-29,3715256
+"The Female Lead",2023-10-18,3752262
 "The Florida Oyster Trading Company",2023-01-21,1707
 "The Florida Oyster Trading Company",2023-02-25,1723
 "The Florida Oyster Trading Company",2023-03-13,1736
@@ -842,6 +964,7 @@
 "The Florida Oyster Trading Company",2023-07-23,1864
 "The Florida Oyster Trading Company",2023-08-05,1869
 "The Florida Oyster Trading Company",2023-08-29,1900
+"The Florida Oyster Trading Company",2023-10-18,1847
 "The Francis Crick Institute",2023-01-25,68149
 "The Francis Crick Institute",2023-01-29,68346
 "The Future of Privacy Forum",2021-02-19,15684
@@ -973,6 +1096,8 @@
 "The Global Academy",2023-08-10,384
 "The Global Academy",2023-08-29,384
 "The Global Academy",2023-09-15,387
+"The Global Academy",2023-10-18,389
+"The Global AcademyThe Global Academy",2023-12-14,NA
 "The Golden Lightbulb",2023-02-10,45
 "The Gradient",2023-01-21,956
 "The Gradient",2023-02-25,993
@@ -1001,6 +1126,8 @@
 "The Great Southern Restaurant Group",2023-07-23,151
 "The Great Southern Restaurant Group",2023-08-05,150
 "The Great Southern Restaurant Group",2023-08-29,150
+"The Great Southern Restaurant Group",2023-10-18,153
+"The Great Southern Restaurant Group",2023-12-17,152
 "The GreenJobs Network of Websites",2023-01-28,18345
 "The Hacker News",2023-01-21,411199
 "The Hacker News",2023-02-25,422557
@@ -1015,6 +1142,8 @@
 "The Hacker News",2023-07-23,471484
 "The Hacker News",2023-08-05,475497
 "The Hacker News",2023-08-29,481045
+"The Hacker News",2023-10-18,503216
+"The Hacker News",2023-12-17,512010
 "The Hebrew University of Jerusalem",2023-01-28,110270
 "The Hertz Corporation",2023-01-21,3388
 "The Hertz Corporation",2023-02-25,3419
@@ -1029,6 +1158,7 @@
 "The Hertz Corporation",2023-07-23,3642
 "The Hertz Corporation",2023-08-05,3674
 "The Hertz Corporation",2023-08-29,3708
+"The Hertz Corporation",2023-10-18,3757
 "The Hill",2023-01-21,37649
 "The Hill",2023-02-10,37820
 "The Hill",2023-02-25,37926
@@ -1043,6 +1173,9 @@
 "The Hill",2023-07-23,38822
 "The Hill",2023-08-05,38922
 "The Hill",2023-08-29,39057
+"The Hill",2023-10-18,37468
+"The Hill",2023-12-14,38238
+"The Hill",2023-12-17,38288
 "The Hong Kong University of Science and Technology",2023-01-28,124302
 "The Institute of Cancer Research",2023-01-25,48076
 "The Institute of Cancer Research",2023-01-29,48319
@@ -1204,6 +1337,9 @@
 "The James Irvine Foundation",2023-08-10,14586
 "The James Irvine Foundation",2023-08-29,14889
 "The James Irvine Foundation",2023-09-15,14776
+"The James Irvine Foundation",2023-10-18,15303
+"The James Irvine Foundation",2023-12-14,16131
+"The James Irvine Foundation",2023-12-16,16187
 "The Journal of Environmental Investing",2023-01-28,277
 "The Julia Language",2020-10-30,1154
 "The Julia Language",2020-10-31,1163
@@ -1437,6 +1573,11 @@
 "The Julia Language",2023-08-29,14685
 "The Julia Language",2023-09-15,14752
 "The Julia Language",2023-09-15,14753
+"The Julia Language",2023-10-18,14889
+"The Julia Language",2023-10-18,14753
+"The Julia Language",2023-12-17,14896
+"The Julia Language",2023-12-18,14898
+"The Julia LanguageThe Julia Language",2023-12-14,NA
 "The Knowledge Graph Conference",2023-01-21,3962
 "The Knowledge Graph Conference",2023-02-25,4106
 "The Knowledge Graph Conference",2023-03-13,4177
@@ -1450,6 +1591,7 @@
 "The Knowledge Graph Conference",2023-07-23,4843
 "The Knowledge Graph Conference",2023-08-05,4881
 "The Knowledge Graph Conference",2023-08-29,4985
+"The Knowledge Graph Conference",2023-10-18,5192
 "The Kraft Heinz Company",2023-01-28,1292443
 "The Kresge Foundation",2021-01-15,21607
 "The Kresge Foundation",2021-01-19,21729
@@ -1612,6 +1754,9 @@
 "The Kresge Foundation",2023-08-10,43088
 "The Kresge Foundation",2023-08-29,44016
 "The Kresge Foundation",2023-09-15,44705
+"The Kresge Foundation",2023-10-18,46040
+"The Kresge Foundation",2023-12-14,46731
+"The Kresge Foundation",2023-12-16,46827
 "The LEGO Foundation",2021-04-20,29785
 "The LEGO Foundation",2021-04-24,30037
 "The LEGO Foundation",2021-04-28,30255
@@ -1714,6 +1859,9 @@
 "The LEGO Foundation",2023-08-08,85727
 "The LEGO Foundation",2023-08-10,85886
 "The LEGO Foundation",2023-09-15,88347
+"The LEGO Foundation",2023-10-18,88347
+"The LEGO Foundation",2023-12-17,92205
+"The LEGO Foundation",2023-12-18,92311
 "The Linux Foundation",2023-01-25,253732
 "The Linux Foundation",2023-06-05,274724
 "The Linux Foundation",2023-06-11,275889
@@ -1722,6 +1870,9 @@
 "The Linux Foundation",2023-07-23,282030
 "The Linux Foundation",2023-08-05,283872
 "The Linux Foundation",2023-08-29,287030
+"The Linux Foundation",2023-10-18,296688
+"The Linux Foundation",2023-12-14,297472
+"The Linux Foundation",2023-12-17,297921
 "The Logical Indian",2023-01-28,30898
 "The Machine Learning Institute Certificate in Finance (MLI)",2021-01-31,489
 "The Machine Learning Institute Certificate in Finance (MLI)",2021-02-03,490
@@ -1846,6 +1997,9 @@
 "The Machine Learning Institute Certificate in Finance (MLI)",2023-08-08,1087
 "The Machine Learning Institute Certificate in Finance (MLI)",2023-08-10,1088
 "The Machine Learning Institute Certificate in Finance (MLI)",2023-09-15,1115
+"The Machine Learning Institute Certificate in Finance (MLI)",2023-10-18,1115
+"The Machine Learning Institute Certificate in Finance (MLI)",2023-12-17,1137
+"The Machine Learning Institute Certificate in Finance (MLI)",2023-12-18,1137
 "The Marketing Millennials",2023-01-21,573088
 "The Marketing Millennials",2023-02-25,602747
 "The Marketing Millennials",2023-03-13,630538
@@ -1859,6 +2013,7 @@
 "The Marketing Millennials",2023-07-23,724025
 "The Marketing Millennials",2023-08-05,731554
 "The Marketing Millennials",2023-08-29,746170
+"The Marketing Millennials",2023-10-18,747286
 "The Mars Society",2023-01-21,18725
 "The Mars Society",2023-02-10,18929
 "The Mars Society",2023-02-25,19029
@@ -1873,6 +2028,9 @@
 "The Mars Society",2023-07-23,20409
 "The Mars Society",2023-08-05,20526
 "The Mars Society",2023-08-29,20741
+"The Mars Society",2023-10-18,20443
+"The Mars Society",2023-12-17,20868
+"The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)",2023-12-17,6805
 "The Michael J. Fox Foundation for Parkinson's Research",2021-04-20,14011
 "The Michael J. Fox Foundation for Parkinson's Research",2021-04-24,14042
 "The Michael J. Fox Foundation for Parkinson's Research",2021-04-28,14077
@@ -1982,6 +2140,9 @@
 "The Michael J. Fox Foundation for Parkinson's Research",2023-08-08,28709
 "The Michael J. Fox Foundation for Parkinson's Research",2023-08-10,28747
 "The Michael J. Fox Foundation for Parkinson's Research",2023-09-15,29296
+"The Michael J. Fox Foundation for Parkinson's Research",2023-10-18,29296
+"The Michael J. Fox Foundation for Parkinson's Research",2023-12-17,30473
+"The Michael J. Fox Foundation for Parkinson's Research",2023-12-18,30502
 "The National Institutes of Health",2023-01-21,490445
 "The National Institutes of Health",2023-02-10,501920
 "The National Institutes of Health",2023-02-25,511806
@@ -1996,6 +2157,9 @@
 "The National Institutes of Health",2023-07-23,625447
 "The National Institutes of Health",2023-08-05,636801
 "The National Institutes of Health",2023-08-29,655310
+"The National Institutes of Health",2023-10-18,698753
+"The National Institutes of Health",2023-12-14,705942
+"The National Institutes of Health",2023-12-17,707445
 "The National Research Foundation of South Africa (NRF)",2023-01-28,63108
 "The Nature Conservancy",2023-01-28,559537
 "The New Stack",2023-01-21,11870
@@ -2011,6 +2175,7 @@
 "The New Stack",2023-07-23,13839
 "The New Stack",2023-08-05,14023
 "The New Stack",2023-08-29,14407
+"The New Stack",2023-10-18,14639
 "The New York Community Trust",2020-10-25,1693
 "The New York Community Trust",2020-10-28,1696
 "The New York Community Trust",2020-10-30,1697
@@ -2168,6 +2333,7 @@
 "The OSINT Curious Project",2023-07-23,14885
 "The OSINT Curious Project",2023-08-05,15005
 "The OSINT Curious Project",2023-08-29,15198
+"The OSINT Curious Project",2023-10-18,15512
 "The OSINTion",2023-01-21,3183
 "The OSINTion",2023-02-25,3289
 "The OSINTion",2023-03-13,3341
@@ -2181,7 +2347,9 @@
 "The OSINTion",2023-07-23,3656
 "The OSINTion",2023-08-05,3692
 "The OSINTion",2023-08-29,3738
+"The OSINTion",2023-10-18,3676
 "The Ocean Cleanup",2023-01-28,439367
+"The Open Mainframe Project",2023-10-18,7176
 "The Open University of Israel",2023-01-22,42812
 "The OpenAir Collective",2023-01-21,1326
 "The OpenAir Collective",2023-02-25,1496
@@ -2196,6 +2364,7 @@
 "The OpenAir Collective",2023-07-23,2099
 "The OpenAir Collective",2023-08-05,2162
 "The OpenAir Collective",2023-08-29,2241
+"The OpenAir Collective",2023-10-18,2539
 "The Organization for Women in Science for the Developing World (OWSD)",2022-08-20,1000
 "The Organization for Women in Science for the Developing World (OWSD)",2022-08-25,1027
 "The Organization for Women in Science for the Developing World (OWSD)",2022-08-28,1038
@@ -2255,6 +2424,8 @@
 "The Organization for Women in Science for the Developing World (OWSD)",2023-08-10,2803
 "The Organization for Women in Science for the Developing World (OWSD)",2023-08-29,2975
 "The Organization for Women in Science for the Developing World (OWSD)",2023-09-15,3125
+"The Organization for Women in Science for the Developing World (OWSD)",2023-10-18,3276
+"The Organization for Women in Science for the Developing World (OWSD)The Organization for Women in Science for the Developing World (OWSD)",2023-12-14,NA
 "The Partnership Inc.",2023-03-13,2879
 "The Partnership Inc.",2023-03-29,2896
 "The Partnership Inc.",2023-04-10,2921
@@ -2266,6 +2437,8 @@
 "The Partnership Inc.",2023-07-23,3133
 "The Partnership Inc.",2023-08-05,3149
 "The Partnership Inc.",2023-08-29,3216
+"The Partnership Inc.",2023-10-18,3233
+"The Partnership Inc.",2023-12-17,3347
 "The Paul G. Allen Frontiers Group",2023-01-25,3063
 "The Paul G. Allen Frontiers Group",2023-01-29,3081
 "The Personal Knowledge Graph Book",2023-04-10,252
@@ -2291,6 +2464,9 @@
 "The Predictive Index",2023-07-23,57247
 "The Predictive Index",2023-08-05,57550
 "The Predictive Index",2023-08-29,58009
+"The Predictive Index",2023-10-18,59158
+"The Predictive Index",2023-12-14,59385
+"The Predictive Index",2023-12-17,59454
 "The Public Economist",2020-10-16,1250
 "The Python Quants GmbH",2020-10-28,1003
 "The Python Quants GmbH",2020-11-07,1008
@@ -2513,6 +2689,8 @@
 "The R Foundation for Statistical Computing",2023-08-10,8531
 "The R Foundation for Statistical Computing",2023-08-29,8652
 "The R Foundation for Statistical Computing",2023-09-15,8785
+"The R Foundation for Statistical Computing",2023-10-18,9035
+"The R Foundation for Statistical ComputingThe R Foundation for Statistical Computing",2023-12-14,NA
 "The Rockefeller Foundation",2020-10-25,115217
 "The Rockefeller Foundation",2020-10-28,115438
 "The Rockefeller Foundation",2020-10-30,115665
@@ -2701,6 +2879,9 @@
 "The Rockefeller Foundation",2023-08-10,215662
 "The Rockefeller Foundation",2023-08-29,219282
 "The Rockefeller Foundation",2023-09-15,223010
+"The Rockefeller Foundation",2023-10-18,233667
+"The Rockefeller Foundation",2023-12-14,238979
+"The Rockefeller Foundation",2023-12-16,239611
 "The Scale Factory",2023-01-25,991
 "The Scale Factory",2023-01-29,993
 "The Shual Foundation",2023-01-22,134
@@ -2718,6 +2899,7 @@
 "The Spring Entrepreneur Hub",2023-07-23,171
 "The Spring Entrepreneur Hub",2023-08-05,171
 "The Spring Entrepreneur Hub",2023-08-29,171
+"The Spring Entrepreneur Hub",2023-10-18,173
 "The Stern Opportunity (The Oppy)",2023-01-21,1132
 "The Stern Opportunity (The Oppy)",2023-02-25,1136
 "The Stern Opportunity (The Oppy)",2023-03-13,1140
@@ -2731,6 +2913,7 @@
 "The Stern Opportunity (The Oppy)",2023-07-23,1150
 "The Stern Opportunity (The Oppy)",2023-08-05,1150
 "The Stern Opportunity (The Oppy)",2023-08-29,1151
+"The Stern Opportunity (The Oppy)",2023-10-18,1159
 "The Surfrider Foundation",2021-04-20,17427
 "The Surfrider Foundation",2021-04-24,17475
 "The Surfrider Foundation",2021-04-28,17509
@@ -2832,6 +3015,9 @@
 "The Surfrider Foundation",2023-08-08,30713
 "The Surfrider Foundation",2023-08-10,30754
 "The Surfrider Foundation",2023-09-15,31382
+"The Surfrider Foundation",2023-10-18,31382
+"The Surfrider Foundation",2023-12-17,32523
+"The Surfrider Foundation",2023-12-18,32542
 "The SustainAbility Institute by ERM",2023-01-28,127796
 "The University of Alabama in Huntsville",2023-01-21,50146
 "The University of Alabama in Huntsville",2023-02-10,50471
@@ -2847,6 +3033,9 @@
 "The University of Alabama in Huntsville",2023-07-23,52372
 "The University of Alabama in Huntsville",2023-08-05,52581
 "The University of Alabama in Huntsville",2023-08-29,52992
+"The University of Alabama in Huntsville",2023-10-18,51528
+"The University of Alabama in Huntsville",2023-12-14,52027
+"The University of Alabama in Huntsville",2023-12-17,52067
 "The University of Tokyo",2023-01-28,107080
 "The University of Western Australia",2023-01-28,172322
 "The Unlimited",2020-10-16,31839
@@ -2872,7 +3061,13 @@
 "The Wall Street Journal",2023-07-23,9936534
 "The Wall Street Journal",2023-08-05,9979404
 "The Wall Street Journal",2023-08-29,10047423
+"The Wall Street Journal",2023-10-18,10192869
+"The Wall Street Journal",2023-12-14,9640220
+"The Wall Street Journal",2023-12-17,9646472
 "The Walt Disney Company",2023-01-25,5398004
+"The Walt Disney Company",2023-10-18,5720145
+"The Walt Disney Company",2023-12-14,5546470
+"The Walt Disney Company",2023-12-17,5550452
 "The Washington Center",2023-01-21,9302
 "The Washington Center",2023-02-10,9393
 "The Washington Center",2023-02-25,9455
@@ -2887,6 +3082,9 @@
 "The Washington Center",2023-07-23,10003
 "The Washington Center",2023-08-05,10047
 "The Washington Center",2023-08-29,10150
+"The Washington Center",2023-10-18,10345
+"The Washington Center",2023-12-14,10322
+"The Washington Center",2023-12-17,10327
 "The Water Hydraulics Co. Ltd.",2023-01-28,1173
 "The Water Institute",2023-01-28,3171
 "The Water Research Foundation (WRF)",2023-01-28,44374
@@ -3078,6 +3276,9 @@
 "The unbelievable Machine Company GmbH",2023-08-10,2477
 "The unbelievable Machine Company GmbH",2023-08-29,2491
 "The unbelievable Machine Company GmbH",2023-09-15,2500
+"The unbelievable Machine Company GmbH",2023-10-18,2527
+"The unbelievable Machine Company GmbH",2023-12-14,2518
+"The unbelievable Machine Company GmbH",2023-12-16,2519
 "Thermo Fisher Scientific",2023-01-25,1138075
 "Thermo Fisher Scientific",2023-01-29,1140448
 "Thimphu TechPark",2021-06-02,83
@@ -3212,6 +3413,8 @@
 "Thimphu TechPark",2023-08-10,287
 "Thimphu TechPark",2023-08-29,282
 "Thimphu TechPark",2023-09-15,285
+"Thimphu TechPark",2023-10-18,298
+"Thimphu TechParkThimphu TechPark",2023-12-14,NA
 "ThinkOrbital",2023-01-21,3600
 "ThinkOrbital",2023-02-25,3820
 "ThinkOrbital",2023-03-13,3867
@@ -3421,6 +3624,9 @@
 "ThinkR (FR)",2023-08-10,741
 "ThinkR (FR)",2023-08-29,746
 "ThinkR (FR)",2023-09-15,751
+"ThinkR (FR)",2023-10-18,759
+"ThinkR (FR)ThinkR (FR)",2023-12-14,NA
+"Threat Tec",2023-12-17,4604
 "ThreatGEN",2023-01-21,3432
 "ThreatGEN",2023-02-25,3510
 "ThreatGEN",2023-03-13,3541
@@ -3434,6 +3640,7 @@
 "ThreatGEN",2023-07-23,3654
 "ThreatGEN",2023-08-05,3676
 "ThreatGEN",2023-08-29,3707
+"ThreatGEN",2023-10-18,3783
 "Thrust Carbon",2023-01-21,2498
 "Thrust Carbon",2023-02-25,2604
 "Thrust Carbon",2023-03-13,2621
@@ -3447,6 +3654,7 @@
 "Thrust Carbon",2023-07-23,2941
 "Thrust Carbon",2023-08-05,2964
 "Thrust Carbon",2023-08-29,3008
+"Thrust Carbon",2023-10-18,3397
 "TiSmart",2020-10-16,4764
 "TiSmart",2020-10-19,4779
 "TiSmart",2020-10-20,4781
@@ -3474,6 +3682,7 @@
 "Tidal Basin Group",2023-07-23,18821
 "Tidal Basin Group",2023-08-05,19203
 "Tidal Basin Group",2023-08-29,19937
+"Tidal Basin Group",2023-10-18,21137
 "Tiger Analytics",2020-10-20,45387
 "Tiger Analytics",2020-10-21,45414
 "Tiger Analytics",2020-10-23,45474
@@ -3666,6 +3875,9 @@
 "Tiger Analytics",2023-08-10,290452
 "Tiger Analytics",2023-08-29,296191
 "Tiger Analytics",2023-09-15,301023
+"Tiger Analytics",2023-10-18,310876
+"Tiger Analytics",2023-12-14,334527
+"Tiger Analytics",2023-12-16,335496
 "TikTok",2023-01-21,2295166
 "TikTok",2023-02-25,2352714
 "TikTok",2023-03-13,2380387
@@ -3679,6 +3891,7 @@
 "TikTok",2023-07-23,2610151
 "TikTok",2023-08-05,2635658
 "TikTok",2023-08-29,2674525
+"TikTok",2023-10-18,2778546
 "Tilt Five",2023-01-25,4043
 "TitanHQ",2023-01-29,8149
 "Titanium Wireless",2023-01-21,1477
@@ -3694,6 +3907,7 @@
 "Titanium Wireless",2023-07-23,1522
 "Titanium Wireless",2023-08-05,1525
 "Titanium Wireless",2023-08-29,1528
+"Titanium Wireless",2023-10-18,1530
 "Toast",2023-01-21,110632
 "Toast",2023-02-25,114897
 "Toast",2023-03-13,116972
@@ -3707,6 +3921,7 @@
 "Toast",2023-07-23,133524
 "Toast",2023-08-05,135596
 "Toast",2023-08-29,139025
+"Toast",2023-10-18,146648
 "Tocaro Blue",2023-02-25,55
 "Tocaro Blue",2023-03-13,55
 "Tocaro Blue",2023-03-29,58
@@ -3732,6 +3947,7 @@
 "Tom Thumb Stores",2023-07-23,953
 "Tom Thumb Stores",2023-08-05,963
 "Tom Thumb Stores",2023-08-29,943
+"Tom Thumb Stores",2023-10-18,955
 "TomTom",2023-01-28,152365
 "Tomorrow University of Applied Sciences",2023-01-25,5320
 "Ton Duc Thang University",2023-01-28,15702
@@ -3762,6 +3978,8 @@
 "Toreon",2023-07-23,2409
 "Toreon",2023-08-05,2428
 "Toreon",2023-08-29,2448
+"Toreon",2023-10-18,2550
+"Toreon",2023-12-17,2646
 "Toronto Machine Learning Meetup",2021-03-28,145
 "Toronto Machine Learning Meetup",2021-03-31,146
 "Toronto Machine Learning Meetup",2021-04-06,147
@@ -3872,6 +4090,9 @@
 "Toronto Machine Learning Meetup",2023-08-08,226
 "Toronto Machine Learning Meetup",2023-08-10,227
 "Toronto Machine Learning Meetup",2023-09-15,228
+"Toronto Machine Learning Meetup",2023-10-18,228
+"Toronto Machine Learning Meetup",2023-12-17,229
+"Toronto Machine Learning Meetup",2023-12-18,229
 "Toronto Machine Learning Society (TMLS)",2021-01-25,5710
 "Toronto Machine Learning Society (TMLS)",2021-01-28,5723
 "Toronto Machine Learning Society (TMLS)",2021-01-31,5730
@@ -4002,6 +4223,10 @@
 "Toronto Machine Learning Society (TMLS)",2023-08-10,11559
 "Toronto Machine Learning Society (TMLS)",2023-08-29,11623
 "Toronto Machine Learning Society (TMLS)",2023-09-15,11683
+"Toronto Machine Learning Society (TMLS)",2023-10-18,11790
+"Toronto Machine Learning Society (TMLS)",2023-10-18,11683
+"Toronto Machine Learning Society (TMLS)",2023-12-17,11911
+"Toronto Machine Learning Society (TMLS)",2023-12-18,11911
 "TotalVerify",2022-09-07,3185
 "TotalVerify",2022-09-10,3198
 "TotalVerify",2022-09-16,3217
@@ -4047,6 +4272,9 @@
 "TotalVerify",2023-08-08,3465
 "TotalVerify",2023-08-10,3466
 "TotalVerify",2023-09-15,3494
+"TotalVerify",2023-10-18,3494
+"TotalVerify",2023-12-17,3475
+"TotalVerify",2023-12-18,3475
 "Totient - Part of Absci",2023-01-25,892
 "Totient - Part of Absci",2023-01-29,893
 "Touchpoint Resource Ltd",2023-01-25,24503
@@ -4244,6 +4472,7 @@
 "Towards AI",2023-08-10,254171
 "Towards AI",2023-08-29,255219
 "Towards AI",2023-09-15,246481
+"Towards AI",2023-10-18,247903
 "Towards Data Science",2020-10-06,248000
 "Towards Data Science",2020-10-07,248701
 "Towards Data Science",2020-10-13,251530
@@ -4539,6 +4768,13 @@
 "Towards Data Science",2023-08-10,592122
 "Towards Data Science",2023-08-29,594921
 "Towards Data Science",2023-09-15,598161
+"Towards Data Science",2023-10-18,604538
+"Towards Data Science",2023-10-18,604547
+"Towards Data Science",2023-10-18,598161
+"Towards Data Science",2023-12-14,596843
+"Towards Data Science",2023-12-16,597379
+"Towards Data Science",2023-12-17,597551
+"Towards Data Science",2023-12-18,597772
 "Trade & Invest Wales",2023-01-21,10150
 "Trade & Invest Wales",2023-02-25,10416
 "Trade & Invest Wales",2023-03-13,10491
@@ -4552,10 +4788,13 @@
 "Trade & Invest Wales",2023-07-23,11183
 "Trade & Invest Wales",2023-08-05,11239
 "Trade & Invest Wales",2023-08-29,11342
+"Trade & Invest Wales",2023-10-18,11667
 "TradeIX",2021-02-19,7965
 "TradeIX",2021-03-26,8012
 "Tradus",2020-12-08,946
 "Trailmix Games",2023-01-25,2723
+"Trans",2023-10-18,381
+"Trans",2023-12-17,392
 "TransUnion",2023-01-21,303807
 "TransUnion",2023-02-10,309799
 "TransUnion",2023-02-25,314304
@@ -4570,6 +4809,9 @@
 "TransUnion",2023-07-23,350172
 "TransUnion",2023-08-05,354031
 "TransUnion",2023-08-29,359253
+"TransUnion",2023-10-18,370692
+"TransUnion",2023-12-14,373729
+"TransUnion",2023-12-17,374222
 "TransferMate Global Payments",2023-01-29,31546
 "Transgene",2023-01-25,13021
 "Transgene",2023-01-29,13055
@@ -4599,6 +4841,7 @@
 "Transhumanism Australia",2023-07-23,959
 "Transhumanism Australia",2023-08-05,1017
 "Transhumanism Australia",2023-08-29,1007
+"Transhumanism Australia",2023-10-18,1032
 "Transloadit",2023-01-25,508
 "Transloadit",2023-01-29,508
 "Transparency International",2023-01-21,104158
@@ -4615,6 +4858,9 @@
 "Transparency International",2023-07-23,115768
 "Transparency International",2023-08-05,116193
 "Transparency International",2023-08-29,116856
+"Transparency International",2023-10-18,119083
+"Transparency International",2023-12-14,119193
+"Transparency International",2023-12-17,119395
 "Transportation Security Administration (TSA)",2023-01-21,122550
 "Transportation Security Administration (TSA)",2023-02-10,123782
 "Transportation Security Administration (TSA)",2023-02-25,124952
@@ -4629,6 +4875,9 @@
 "Transportation Security Administration (TSA)",2023-07-23,135139
 "Transportation Security Administration (TSA)",2023-08-05,135926
 "Transportation Security Administration (TSA)",2023-08-29,137401
+"Transportation Security Administration (TSA)",2023-10-18,134076
+"Transportation Security Administration (TSA)",2023-12-14,137499
+"Transportation Security Administration (TSA)",2023-12-17,137739
 "Treemetrics Ltd",2020-10-20,682
 "Treemetrics Ltd",2020-10-21,683
 "Treemetrics Ltd",2020-10-23,684
@@ -4817,6 +5066,8 @@
 "Treemetrics Ltd",2023-08-10,1476
 "Treemetrics Ltd",2023-08-29,1480
 "Treemetrics Ltd",2023-09-15,1495
+"Treemetrics Ltd",2023-10-18,1510
+"Treemetrics LtdTreemetrics Ltd",2023-12-14,NA
 "Treeverse - the lakeFS creators",2023-01-22,3441
 "Trek Bicycle",2023-01-22,177335
 "Trellix",2023-02-25,440865
@@ -4845,7 +5096,11 @@
 "Trellus (YC W22)",2023-08-29,1719
 "TrialAssure",2023-08-29,1450
 "TrialAssure",2023-09-15,1479
+"TrialAssure",2023-10-18,1499
+"TrialAssureTrialAssure",2023-12-14,NA
 "Trimble Inc.",2023-01-28,198801
+"TruVoice from Corporate Visions",2023-12-14,2636
+"TruVoice from Corporate Visions",2023-12-17,2638
 "TruVoice from Corporate Visions (Formerly Primary Intelligence)",2023-06-05,2542
 "TruVoice from Corporate Visions (Formerly Primary Intelligence)",2023-06-11,2548
 "TruVoice from Corporate Visions (Formerly Primary Intelligence)",2023-06-23,2556
@@ -4853,6 +5108,7 @@
 "TruVoice from Corporate Visions (Formerly Primary Intelligence)",2023-07-23,2581
 "TruVoice from Corporate Visions (Formerly Primary Intelligence)",2023-08-05,2590
 "TruVoice from Corporate Visions (Formerly Primary Intelligence)",2023-08-29,2650
+"TruVoice from Corporate Visions (Formerly Primary Intelligence)",2023-10-18,2677
 "True Ventures",2023-01-28,13447
 "Truist",2023-01-21,96153
 "Truist",2023-02-25,99091
@@ -4867,6 +5123,7 @@
 "Truist",2023-07-23,112384
 "Truist",2023-08-05,113912
 "Truist",2023-08-29,116171
+"Truist",2023-10-18,117399
 "TrustYou",2020-12-27,7734
 "TrustYou",2021-02-19,7850
 "TrustYou",2021-03-26,7906
@@ -4885,6 +5142,7 @@
 "TryHackMe",2023-07-23,343524
 "TryHackMe",2023-08-05,348756
 "TryHackMe",2023-08-29,358038
+"TryHackMe",2023-10-18,382229
 "Tufts Health Plan",2023-01-21,26503
 "Tufts Health Plan",2023-02-10,26607
 "Tufts Health Plan",2023-02-25,26635
@@ -4899,6 +5157,9 @@
 "Tufts Health Plan",2023-07-23,27012
 "Tufts Health Plan",2023-08-05,27050
 "Tufts Health Plan",2023-08-29,27106
+"Tufts Health Plan",2023-10-18,27243
+"Tufts Health Plan",2023-12-14,26702
+"Tufts Health Plan",2023-12-17,26710
 "Tune Therapeutics",2023-01-25,5360
 "Tune Therapeutics",2023-01-29,5413
 "Tunis R User Group",2021-07-14,32
@@ -5029,6 +5290,8 @@
 "Tunis R User Group",2023-08-10,709
 "Tunis R User Group",2023-08-29,709
 "Tunis R User Group",2023-09-15,710
+"Tunis R User Group",2023-10-18,709
+"Tunis R User Group",2023-12-14,698
 "Turbulent Hydro",2023-01-28,13436
 "Turion Space",2023-01-21,2038
 "Turion Space",2023-02-25,2150
@@ -5171,6 +5434,7 @@
 "Twenty Billion Neurons",2023-08-10,3240
 "Twenty Billion Neurons",2023-08-29,3242
 "Twenty Billion Neurons",2023-09-15,3244
+"Twenty Billion Neurons",2023-10-18,3249
 "Twenty Billion Neurons GmbH",2020-10-25,2955
 "Twenty Billion Neurons GmbH",2020-10-28,2959
 "Twenty Billion Neurons GmbH",2020-10-30,2966
@@ -5231,6 +5495,7 @@
 "Twenty Billion Neurons GmbH",2021-07-09,3107
 "Twenty Billion Neurons GmbH",2021-07-14,3110
 "Twenty Billion Neurons GmbH",2021-07-18,3109
+"Twenty Billion NeuronsTwenty Billion Neurons",2023-12-14,NA
 "Twist Bioscience",2023-01-25,76797
 "Twist Bioscience",2023-01-29,77173
 "Twitch",2023-06-23,508494
@@ -5238,6 +5503,8 @@
 "Twitch",2023-07-23,513156
 "Twitch",2023-08-05,515587
 "Twitch",2023-08-29,519647
+"Twitch",2023-10-18,513071
+"Twitch",2023-12-17,520278
 "Twitter",2023-01-22,1621117
 "Twitter",2023-01-25,1621463
 "Twitter",2023-01-29,1621950
@@ -5246,6 +5513,9 @@
 "Twitter",2023-07-23,1640652
 "Twitter",2023-08-05,1643870
 "Twitter",2023-08-29,1646544
+"Twitter",2023-10-18,1649192
+"Twitter",2023-12-14,1592068
+"Twitter",2023-12-17,1592082
 "Two Sigma",2020-10-20,84861
 "Two Sigma",2020-10-21,84940
 "Two Sigma",2020-10-23,85065
@@ -5437,6 +5707,9 @@
 "Two Sigma",2023-08-10,163419
 "Two Sigma",2023-08-29,166815
 "Two Sigma",2023-09-15,170115
+"Two Sigma",2023-10-18,176732
+"Two Sigma",2023-12-14,180302
+"Two Sigma",2023-12-16,180566
 "Typeform",2023-01-25,54553
 "U.S. Army Cyber Command",2023-01-21,67111
 "U.S. Army Cyber Command",2023-02-25,68816
@@ -5451,6 +5724,7 @@
 "U.S. Army Cyber Command",2023-07-23,74040
 "U.S. Army Cyber Command",2023-08-05,74446
 "U.S. Army Cyber Command",2023-08-29,75445
+"U.S. Army Cyber Command",2023-10-18,74030
 "U.S. Bank",2023-01-21,409163
 "U.S. Bank",2023-02-10,413609
 "U.S. Bank",2023-02-25,416729
@@ -5465,6 +5739,9 @@
 "U.S. Bank",2023-07-23,456166
 "U.S. Bank",2023-08-05,460249
 "U.S. Bank",2023-08-29,466957
+"U.S. Bank",2023-10-18,483009
+"U.S. Bank",2023-12-14,442795
+"U.S. Bank",2023-12-17,443443
 "U.S. Customs and Border Protection",2023-01-21,208532
 "U.S. Customs and Border Protection",2023-02-10,211907
 "U.S. Customs and Border Protection",2023-02-25,214218
@@ -5479,6 +5756,9 @@
 "U.S. Customs and Border Protection",2023-07-23,237426
 "U.S. Customs and Border Protection",2023-08-05,239027
 "U.S. Customs and Border Protection",2023-08-29,241819
+"U.S. Customs and Border Protection",2023-10-18,247764
+"U.S. Customs and Border Protection",2023-12-14,236532
+"U.S. Customs and Border Protection",2023-12-17,237000
 "U.S. Cyber Command",2023-01-21,36939
 "U.S. Cyber Command",2023-02-25,39430
 "U.S. Cyber Command",2023-03-13,39780
@@ -5492,6 +5772,7 @@
 "U.S. Cyber Command",2023-07-23,51444
 "U.S. Cyber Command",2023-08-05,52087
 "U.S. Cyber Command",2023-08-29,52444
+"U.S. Cyber Command",2023-10-18,52941
 "U.S. Department of Commerce",2023-03-13,65304
 "U.S. Department of Commerce",2023-03-29,66418
 "U.S. Department of Commerce",2023-04-10,67091
@@ -5503,6 +5784,9 @@
 "U.S. Department of Commerce",2023-07-23,72733
 "U.S. Department of Commerce",2023-08-05,73601
 "U.S. Department of Commerce",2023-08-29,75017
+"U.S. Department of Commerce",2023-10-18,72499
+"U.S. Department of Commerce",2023-12-14,75942
+"U.S. Department of Commerce",2023-12-17,76175
 "U.S. Department of Homeland Security",2023-01-21,647019
 "U.S. Department of Homeland Security",2023-02-10,659181
 "U.S. Department of Homeland Security",2023-02-25,668619
@@ -5517,6 +5801,9 @@
 "U.S. Department of Homeland Security",2023-07-23,754609
 "U.S. Department of Homeland Security",2023-08-05,763186
 "U.S. Department of Homeland Security",2023-08-29,777390
+"U.S. Department of Homeland Security",2023-10-18,806096
+"U.S. Department of Homeland Security",2023-12-14,776409
+"U.S. Department of Homeland Security",2023-12-17,777958
 "U.S. Department of Justice Office of Justice Programs (OJP)",2023-01-21,80990
 "U.S. Department of Justice Office of Justice Programs (OJP)",2023-02-25,82380
 "U.S. Department of Justice Office of Justice Programs (OJP)",2023-03-13,82479
@@ -5530,6 +5817,8 @@
 "U.S. Department of Justice Office of Justice Programs (OJP)",2023-07-23,83276
 "U.S. Department of Justice Office of Justice Programs (OJP)",2023-08-05,83443
 "U.S. Department of Justice Office of Justice Programs (OJP)",2023-08-29,83633
+"U.S. Department of Justice Office of Justice Programs (OJP)",2023-10-18,80130
+"U.S. Department of Justice Office of Justice Programs (OJP)",2023-12-17,80317
 "U.S. Department of Labor",2023-01-21,177241
 "U.S. Department of Labor",2023-02-10,182655
 "U.S. Department of Labor",2023-02-25,186827
@@ -5544,6 +5833,9 @@
 "U.S. Department of Labor",2023-07-23,237680
 "U.S. Department of Labor",2023-08-05,242515
 "U.S. Department of Labor",2023-08-29,250290
+"U.S. Department of Labor",2023-10-18,269729
+"U.S. Department of Labor",2023-12-14,263066
+"U.S. Department of Labor",2023-12-17,264300
 "U.S. Department of State",2023-01-21,870250
 "U.S. Department of State",2023-02-10,890308
 "U.S. Department of State",2023-02-25,904309
@@ -5558,6 +5850,9 @@
 "U.S. Department of State",2023-07-23,1045663
 "U.S. Department of State",2023-08-05,1058181
 "U.S. Department of State",2023-08-29,1078842
+"U.S. Department of State",2023-10-18,1126456
+"U.S. Department of State",2023-12-14,1014170
+"U.S. Department of State",2023-12-17,1016554
 "U.S. Department of the Treasury",2023-03-13,94933
 "U.S. Department of the Treasury",2023-03-29,97382
 "U.S. Department of the Treasury",2023-04-10,98892
@@ -5569,6 +5864,9 @@
 "U.S. Department of the Treasury",2023-07-23,110393
 "U.S. Department of the Treasury",2023-08-05,111804
 "U.S. Department of the Treasury",2023-08-29,113904
+"U.S. Department of the Treasury",2023-10-18,119438
+"U.S. Department of the Treasury",2023-12-14,114657
+"U.S. Department of the Treasury",2023-12-17,115077
 "U.S. Forest Service",2023-01-28,152339
 "U.S. Geological Survey (USGS)",2023-01-28,111237
 "U.S. Immigration and Customs Enforcement (ICE)",2023-01-21,145681
@@ -5585,6 +5883,8 @@
 "U.S. Immigration and Customs Enforcement (ICE)",2023-07-23,158725
 "U.S. Immigration and Customs Enforcement (ICE)",2023-08-05,159838
 "U.S. Immigration and Customs Enforcement (ICE)",2023-08-29,161916
+"U.S. Immigration and Customs Enforcement (ICE)",2023-10-18,157832
+"U.S. Immigration and Customs Enforcement (ICE)",2023-12-17,161207
 "U.S. Marine Corps Forces Cyberspace Command (MARFORCYBER)",2023-01-21,6834
 "U.S. Marine Corps Forces Cyberspace Command (MARFORCYBER)",2023-02-25,6887
 "U.S. Marine Corps Forces Cyberspace Command (MARFORCYBER)",2023-03-13,6919
@@ -5598,6 +5898,7 @@
 "U.S. Marine Corps Forces Cyberspace Command (MARFORCYBER)",2023-07-23,7159
 "U.S. Marine Corps Forces Cyberspace Command (MARFORCYBER)",2023-08-05,7178
 "U.S. Marine Corps Forces Cyberspace Command (MARFORCYBER)",2023-08-29,7218
+"U.S. Marine Corps Forces Cyberspace Command (MARFORCYBER)",2023-10-18,6928
 "U.S. Navy Reserve",2023-01-21,52495
 "U.S. Navy Reserve",2023-02-10,52870
 "U.S. Navy Reserve",2023-02-25,53176
@@ -5612,6 +5913,9 @@
 "U.S. Navy Reserve",2023-07-23,55619
 "U.S. Navy Reserve",2023-08-05,55916
 "U.S. Navy Reserve",2023-08-29,56297
+"U.S. Navy Reserve",2023-10-18,53466
+"U.S. Navy Reserve",2023-12-14,54191
+"U.S. Navy Reserve",2023-12-17,54255
 "U.S. Secret Service",2023-01-21,240640
 "U.S. Secret Service",2023-02-10,243191
 "U.S. Secret Service",2023-02-25,244500
@@ -5626,6 +5930,9 @@
 "U.S. Secret Service",2023-07-23,257039
 "U.S. Secret Service",2023-08-05,258360
 "U.S. Secret Service",2023-08-29,261257
+"U.S. Secret Service",2023-10-18,255087
+"U.S. Secret Service",2023-12-14,260657
+"U.S. Secret Service",2023-12-17,260989
 "U.S. Securities and Exchange Commission",2023-03-13,113502
 "U.S. Securities and Exchange Commission",2023-03-29,114862
 "U.S. Securities and Exchange Commission",2023-04-10,115816
@@ -5637,6 +5944,9 @@
 "U.S. Securities and Exchange Commission",2023-07-23,124897
 "U.S. Securities and Exchange Commission",2023-08-05,126237
 "U.S. Securities and Exchange Commission",2023-08-29,128381
+"U.S. Securities and Exchange Commission",2023-10-18,128139
+"U.S. Securities and Exchange Commission",2023-12-14,131642
+"U.S. Securities and Exchange Commission",2023-12-17,131883
 "U.S. Small Business Administration",2023-01-21,141251
 "U.S. Small Business Administration",2023-02-10,142880
 "U.S. Small Business Administration",2023-02-25,144137
@@ -5651,6 +5961,9 @@
 "U.S. Small Business Administration",2023-07-23,166722
 "U.S. Small Business Administration",2023-08-05,170020
 "U.S. Small Business Administration",2023-08-29,174643
+"U.S. Small Business Administration",2023-10-18,173106
+"U.S. Small Business Administration",2023-12-14,181620
+"U.S. Small Business Administration",2023-12-17,182172
 "U.S. Space Command",2023-02-25,30528
 "U.S. Space Command",2023-03-13,32639
 "U.S. Space Command",2023-03-29,34550
@@ -5774,6 +6087,9 @@
 "UBC Computer Science Student Society",2023-08-08,547
 "UBC Computer Science Student Society",2023-08-10,547
 "UBC Computer Science Student Society",2023-09-15,563
+"UBC Computer Science Student Society",2023-10-18,563
+"UBC Computer Science Student Society",2023-12-17,596
+"UBC Computer Science Student Society",2023-12-18,596
 "UBI Banca",2020-10-16,103287
 "UBI Banca",2020-10-21,103430
 "UBI Banca",2020-10-22,103502
@@ -5794,6 +6110,7 @@
 "UC Berkeley School of Information",2023-07-23,12883
 "UC Berkeley School of Information",2023-08-05,13030
 "UC Berkeley School of Information",2023-08-29,13284
+"UC Berkeley School of Information",2023-10-18,13250
 "UC San Diego Health",2023-01-28,50806
 "UCAR - The University Corporation for Atmospheric Research",2023-01-28,8930
 "UCB",2020-10-20,152027
@@ -5926,6 +6243,9 @@
 "UCD I&E Student Managed Fund",2023-08-08,1253
 "UCD I&E Student Managed Fund",2023-08-10,1255
 "UCD I&E Student Managed Fund",2023-09-15,1287
+"UCD I&E Student Managed Fund",2023-10-18,1287
+"UCD I&E Student Managed Fund",2023-12-17,1585
+"UCD I&E Student Managed Fund",2023-12-18,1585
 "UCD Investors and Entrepreneurs Society",2021-01-22,1663
 "UCD Investors and Entrepreneurs Society",2021-01-25,1668
 "UCD Investors and Entrepreneurs Society",2021-01-28,1679
@@ -6052,165 +6372,9 @@
 "UCD Investors and Entrepreneurs Society",2023-08-08,2463
 "UCD Investors and Entrepreneurs Society",2023-08-10,2463
 "UCD Investors and Entrepreneurs Society",2023-09-15,2499
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-03-10,334
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-03-14,336
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-03-18,336
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-03-21,336
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-03-25,336
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-04-01,337
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-04-10,337
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-04-13,337
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-04-21,338
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-04-29,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-05-12,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-05-19,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-05-29,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-05,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-11,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-14,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-17,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-23,340
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-02-16,253
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-02-17,253
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-02-21,255
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-02-25,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-03-01,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-03-06,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-03-10,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-03-13,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-03-16,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-03-20,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-03-24,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-03-28,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-03-30,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-03-31,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-04-06,259
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-04-06,258
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-04-10,259
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-04-15,262
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-04-20,263
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-04-24,263
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-04-28,263
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-05-03,263
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-05-07,263
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-05-10,263
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-05-14,263
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-05-21,263
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-05-26,265
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-05-31,267
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-06-02,267
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-06-06,267
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-06-09,267
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-06-16,268
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-06-21,268
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-06-29,268
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-07-02,268
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-07-04,268
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-07-09,268
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-07-14,268
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-07-18,269
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-07-22,269
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-12-07,292
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-12-14,292
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-12-20,293
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-12-26,293
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-12-30,293
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-12-31,293
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-03,293
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-04,293
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-06,294
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-07,294
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-10,294
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-12,294
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-14,295
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-18,295
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-01-27,297
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-01,298
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-07,298
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-10,297
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-12,297
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-16,297
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-20,299
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-23,299
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-02-26,299
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-03-03,300
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-03-07,302
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-03-15,303
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-03-20,304
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-03-29,305
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-03-31,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-04-09,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-04-11,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-04-13,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-04-19,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-04-29,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-05-01,308
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-05-05,308
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-05-12,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-05-22,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-05-23,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-05-25,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-05-27,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-05-30,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-06-01,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-06-03,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-06-07,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-06-08,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-06-11,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-06-23,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-06-28,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-06-30,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-01,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-02,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-04,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-05,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-09,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-12,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-13,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-18,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-21,307
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-23,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-07-25,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-08-01,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-08-02,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-08-08,305
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-08-16,304
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-08-20,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-08-25,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-08-28,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-09-01,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-09-07,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-09-10,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-09-16,306
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-09-22,312
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-09-29,314
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-10-03,315
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-10-09,319
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-10-12,320
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-10-16,321
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-10-22,320
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-10-28,321
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-11-03,322
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-11-06,323
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-11-14,326
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-11-20,328
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-11-24,328
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-12-01,329
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-12-08,329
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-12-14,330
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2022-12-27,330
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-01-01,330
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-01-05,330
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-01-09,330
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-01-22,331
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-01-28,331
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-01-29,331
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-02-04,332
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-02-10,333
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-02-13,333
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-02-24,333
-"UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-02-25,333
-"UCD Netsoc <e2><U+0080><U+0093> UCD's Internet and Computer Science Society",2021-02-25,258
+"UCD Investors and Entrepreneurs Society",2023-10-18,2499
+"UCD Investors and Entrepreneurs Society",2023-12-17,2735
+"UCD Investors and Entrepreneurs Society",2023-12-18,2736
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-08-14,275
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-08-26,276
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-09-02,276
@@ -6221,284 +6385,10 @@
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-11-06,291
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-11-20,291
 "UCD Netsoc ? UCD's Internet and Computer Science Society",2021-12-03,292
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-27,340
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-07-06,341
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-07-23,341
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-08-02,341
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-08-08,341
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-08-10,342
-"UCD Netsoc – UCD's Internet and Computer Science Society",2023-07-23,341
-"UCD Netsoc – UCD's Internet and Computer Science Society",2023-08-29,344
-"UCD Netsoc – UCD's Internet and Computer Science Society",2023-09-15,346
-"UCL Cancer Institute",2023-01-25,4588
-"UCL Cancer Institute",2023-01-29,4614
-"UCL Data Science Society",2021-01-22,717
-"UCL Data Science Society",2021-01-25,728
-"UCL Data Science Society",2021-01-28,730
-"UCL Data Science Society",2021-01-31,732
-"UCL Data Science Society",2021-02-03,737
-"UCL Data Science Society",2021-02-07,740
-"UCL Data Science Society",2021-02-12,742
-"UCL Data Science Society",2021-02-16,745
-"UCL Data Science Society",2021-02-21,750
-"UCL Data Science Society",2021-02-25,756
-"UCL Data Science Society",2021-03-01,762
-"UCL Data Science Society",2021-03-06,767
-"UCL Data Science Society",2021-03-10,772
-"UCL Data Science Society",2021-03-13,777
-"UCL Data Science Society",2021-03-20,781
-"UCL Data Science Society",2021-03-28,782
-"UCL Data Science Society",2021-03-31,784
-"UCL Data Science Society",2021-04-06,785
-"UCL Data Science Society",2021-04-10,786
-"UCL Data Science Society",2021-04-15,787
-"UCL Data Science Society",2021-04-20,789
-"UCL Data Science Society",2021-04-24,791
-"UCL Data Science Society",2021-04-28,794
-"UCL Data Science Society",2021-05-07,799
-"UCL Data Science Society",2021-05-10,799
-"UCL Data Science Society",2021-05-14,799
-"UCL Data Science Society",2021-05-21,800
-"UCL Data Science Society",2021-05-26,801
-"UCL Data Science Society",2021-05-31,802
-"UCL Data Science Society",2021-06-06,804
-"UCL Data Science Society",2021-06-09,806
-"UCL Data Science Society",2021-06-16,808
-"UCL Data Science Society",2021-06-21,811
-"UCL Data Science Society",2021-06-29,813
-"UCL Data Science Society",2021-07-04,814
-"UCL Data Science Society",2021-07-09,818
-"UCL Data Science Society",2021-07-14,822
-"UCL Data Science Society",2021-07-22,827
-"UCL Data Science Society",2021-08-14,839
-"UCL Data Science Society",2021-08-26,844
-"UCL Data Science Society",2021-09-02,849
-"UCL Data Science Society",2021-09-09,854
-"UCL Data Science Society",2021-09-16,858
-"UCL Data Science Society",2021-10-17,900
-"UCL Data Science Society",2021-10-29,910
-"UCL Data Science Society",2021-11-20,925
-"UCL Data Science Society",2021-12-14,952
-"UCL Data Science Society",2021-12-20,963
-"UCL Data Science Society",2021-12-26,965
-"UCL Data Science Society",2022-01-12,974
-"UCL Data Science Society",2022-02-07,982
-"UCL Data Science Society",2022-02-12,986
-"UCL Data Science Society",2022-02-16,991
-"UCL Data Science Society",2022-02-20,993
-"UCL Data Science Society",2022-02-23,994
-"UCL Data Science Society",2022-02-26,997
-"UCL Data Science Society",2022-03-03,1003
-"UCL Data Science Society",2022-03-07,1005
-"UCL Data Science Society",2022-03-15,1008
-"UCL Data Science Society",2022-03-20,1012
-"UCL Data Science Society",2022-03-29,1154
-"UCL Data Science Society",2022-03-31,1166
-"UCL Data Science Society",2022-04-13,1192
-"UCL Data Science Society",2022-04-19,1192
-"UCL Data Science Society",2022-04-25,1197
-"UCL Data Science Society",2022-05-01,1203
-"UCL Data Science Society",2022-05-05,997
-"UCL Data Science Society",2022-05-22,1211
-"UCL Data Science Society",2022-05-27,1215
-"UCL Data Science Society",2022-05-30,1216
-"UCL Data Science Society",2022-06-01,1218
-"UCL Data Science Society",2022-06-03,1219
-"UCL Data Science Society",2022-06-07,1220
-"UCL Data Science Society",2022-06-08,1220
-"UCL Data Science Society",2022-06-11,1223
-"UCL Data Science Society",2022-06-20,1227
-"UCL Data Science Society",2022-06-23,1230
-"UCL Data Science Society",2022-06-24,1231
-"UCL Data Science Society",2022-06-28,1234
-"UCL Data Science Society",2022-06-30,1243
-"UCL Data Science Society",2022-07-01,1244
-"UCL Data Science Society",2022-07-02,1244
-"UCL Data Science Society",2022-07-04,1244
-"UCL Data Science Society",2022-07-05,1244
-"UCL Data Science Society",2022-07-09,1248
-"UCL Data Science Society",2022-07-12,1253
-"UCL Data Science Society",2022-07-13,1255
-"UCL Data Science Society",2022-07-18,1258
-"UCL Data Science Society",2022-07-21,1261
-"UCL Data Science Society",2022-07-23,1263
-"UCL Data Science Society",2022-07-25,1263
-"UCL Data Science Society",2022-08-01,1262
-"UCL Data Science Society",2022-08-02,1262
-"UCL Data Science Society",2022-08-08,1267
-"UCL Data Science Society",2022-08-16,1274
-"UCL Data Science Society",2022-08-20,1278
-"UCL Data Science Society",2022-08-25,1284
-"UCL Data Science Society",2022-08-28,1284
-"UCL Data Science Society",2022-09-01,1283
-"UCL Data Science Society",2022-09-07,1284
-"UCL Data Science Society",2022-09-10,1285
-"UCL Data Science Society",2022-09-16,1292
-"UCL Data Science Society",2022-09-22,1295
-"UCL Data Science Society",2022-09-29,1305
-"UCL Data Science Society",2022-10-03,1311
-"UCL Data Science Society",2022-10-09,1317
-"UCL Data Science Society",2022-10-12,1322
-"UCL Data Science Society",2022-10-16,1329
-"UCL Data Science Society",2022-10-22,1336
-"UCL Data Science Society",2022-10-28,1343
-"UCL Data Science Society",2022-11-03,1353
-"UCL Data Science Society",2022-11-06,1353
-"UCL Data Science Society",2022-11-14,1356
-"UCL Data Science Society",2022-11-20,1366
-"UCL Data Science Society",2022-11-24,1368
-"UCL Data Science Society",2022-12-01,1380
-"UCL Data Science Society",2022-12-08,1387
-"UCL Data Science Society",2022-12-14,1395
-"UCL Data Science Society",2022-12-27,1403
-"UCL Data Science Society",2023-01-01,1403
-"UCL Data Science Society",2023-01-05,1407
-"UCL Data Science Society",2023-01-09,1408
-"UCL Data Science Society",2023-01-22,1423
-"UCL Data Science Society",2023-01-28,1429
-"UCL Data Science Society",2023-01-29,1429
-"UCL Data Science Society",2023-02-04,1435
-"UCL Data Science Society",2023-02-10,1439
-"UCL Data Science Society",2023-02-13,1444
-"UCL Data Science Society",2023-02-24,1453
-"UCL Data Science Society",2023-02-25,1453
-"UCL Data Science Society",2023-03-10,1468
-"UCL Data Science Society",2023-03-14,1467
-"UCL Data Science Society",2023-03-18,1470
-"UCL Data Science Society",2023-03-21,1472
-"UCL Data Science Society",2023-03-25,1475
-"UCL Data Science Society",2023-04-01,1479
-"UCL Data Science Society",2023-04-10,1485
-"UCL Data Science Society",2023-04-13,1486
-"UCL Data Science Society",2023-04-21,1492
-"UCL Data Science Society",2023-04-29,1492
-"UCL Data Science Society",2023-05-12,1499
-"UCL Data Science Society",2023-05-19,1501
-"UCL Data Science Society",2023-05-29,1504
-"UCL Data Science Society",2023-06-05,1502
-"UCL Data Science Society",2023-06-11,1503
-"UCL Data Science Society",2023-06-14,1506
-"UCL Data Science Society",2023-06-17,1507
-"UCL Data Science Society",2023-06-23,1514
-"UCL Data Science Society",2023-06-27,1517
-"UCL Data Science Society",2023-07-06,1520
-"UCL Data Science Society",2023-07-23,1528
-"UCL Data Science Society",2023-08-02,1536
-"UCL Data Science Society",2023-08-08,1541
-"UCL Data Science Society",2023-08-10,1542
-"UCL Data Science Society",2023-08-29,1554
-"UCL Data Science Society",2023-09-15,1564
-"UCSD Computer Science & Engineering Society",2021-03-28,94
-"UCSD Computer Science & Engineering Society",2021-03-31,94
-"UCSD Computer Science & Engineering Society",2021-04-06,96
-"UCSD Computer Science & Engineering Society",2021-04-10,96
-"UCSD Computer Science & Engineering Society",2021-04-15,97
-"UCSD Computer Science & Engineering Society",2021-04-20,97
-"UCSD Computer Science & Engineering Society",2021-04-24,99
-"UCSD Computer Science & Engineering Society",2021-04-28,100
-"UCSD Computer Science & Engineering Society",2021-05-07,102
-"UCSD Computer Science & Engineering Society",2021-05-10,102
-"UCSD Computer Science & Engineering Society",2021-05-14,103
-"UCSD Computer Science & Engineering Society",2021-05-21,103
-"UCSD Computer Science & Engineering Society",2021-05-26,103
-"UCSD Computer Science & Engineering Society",2021-05-31,103
-"UCSD Computer Science & Engineering Society",2021-06-06,103
-"UCSD Computer Science & Engineering Society",2021-06-09,104
-"UCSD Computer Science & Engineering Society",2021-06-16,105
-"UCSD Computer Science & Engineering Society",2021-06-21,105
-"UCSD Computer Science & Engineering Society",2021-06-29,105
-"UCSD Computer Science & Engineering Society",2021-07-04,105
-"UCSD Computer Science & Engineering Society",2021-07-09,106
-"UCSD Computer Science & Engineering Society",2021-07-14,106
-"UCSD Computer Science & Engineering Society",2021-07-22,105
-"UCSD Computer Science & Engineering Society",2021-08-14,107
-"UCSD Computer Science & Engineering Society",2021-08-26,107
-"UCSD Computer Science & Engineering Society",2021-09-02,108
-"UCSD Computer Science & Engineering Society",2021-09-09,108
-"UCSD Computer Science & Engineering Society",2021-09-16,109
-"UCSD Computer Science & Engineering Society",2021-10-17,116
-"UCSD Computer Science & Engineering Society",2021-10-29,116
-"UCSD Computer Science & Engineering Society",2021-11-20,119
-"UCSD Computer Science & Engineering Society",2021-12-14,121
-"UCSD Computer Science & Engineering Society",2021-12-20,120
-"UCSD Computer Science & Engineering Society",2022-01-12,121
-"UCSD Computer Science & Engineering Society",2022-02-07,124
-"UCSD Computer Science & Engineering Society",2022-02-16,126
-"UCSD Computer Science & Engineering Society",2022-02-20,126
-"UCSD Computer Science & Engineering Society",2022-02-23,127
-"UCSD Computer Science & Engineering Society",2022-02-26,127
-"UCSD Computer Science & Engineering Society",2022-03-03,127
-"UCSD Computer Science & Engineering Society",2022-03-15,129
-"UCSD Computer Science & Engineering Society",2022-03-20,130
-"UCSD Computer Science & Engineering Society",2022-03-29,132
-"UCSD Computer Science & Engineering Society",2022-04-11,134
-"UCSD Computer Science & Engineering Society",2022-04-13,134
-"UCSD Computer Science & Engineering Society",2022-05-01,137
-"UCSD Computer Science & Engineering Society",2022-05-05,127
-"UCSD Computer Science & Engineering Society",2022-05-22,143
-"UCSD Computer Science & Engineering Society",2022-05-27,144
-"UCSD Computer Science & Engineering Society",2022-05-30,144
-"UCSD Computer Science & Engineering Society",2022-06-07,146
-"UCSD Computer Science & Engineering Society",2022-06-08,146
-"UCSD Computer Science & Engineering Society",2022-06-11,147
-"UCSD Computer Science & Engineering Society",2022-06-23,147
-"UCSD Computer Science & Engineering Society",2022-06-24,147
-"UCSD Computer Science & Engineering Society",2022-06-30,147
-"UCSD Computer Science & Engineering Society",2022-07-02,147
-"UCSD Computer Science & Engineering Society",2022-07-05,150
-"UCSD Computer Science & Engineering Society",2022-07-13,151
-"UCSD Computer Science & Engineering Society",2022-07-18,150
-"UCSD Computer Science & Engineering Society",2022-07-23,151
-"UCSD Computer Science & Engineering Society",2022-07-25,151
-"UCSD Computer Science & Engineering Society",2022-08-02,153
-"UCSD Computer Science & Engineering Society",2022-08-16,155
-"UCSD Computer Science & Engineering Society",2022-08-20,155
-"UCSD Computer Science & Engineering Society",2022-08-25,155
-"UCSD Computer Science & Engineering Society",2022-08-28,156
-"UCSD Computer Science & Engineering Society",2022-09-07,161
-"UCSD Computer Science & Engineering Society",2022-09-10,161
-"UCSD Computer Science & Engineering Society",2022-09-16,160
-"UCSD Computer Science & Engineering Society",2022-09-22,161
-"UCSD Computer Science & Engineering Society",2022-09-29,161
-"UCSD Computer Science & Engineering Society",2022-10-03,161
-"UCSD Computer Science & Engineering Society",2022-10-09,165
-"UCSD Computer Science & Engineering Society",2022-10-16,166
-"UCSD Computer Science & Engineering Society",2022-10-22,167
-"UCSD Computer Science & Engineering Society",2022-10-28,168
-"UCSD Computer Science & Engineering Society",2022-11-03,171
-"UCSD Computer Science & Engineering Society",2022-11-06,174
-"UCSD Computer Science & Engineering Society",2022-11-14,176
-"UCSD Computer Science & Engineering Society",2022-11-20,176
-"UCSD Computer Science & Engineering Society",2022-11-24,177
-"UCSD Computer Science & Engineering Society",2022-12-01,180
-"UCSD Computer Science & Engineering Society",2022-12-08,181
-"UCSD Computer Science & Engineering Society",2022-12-14,183
-"UCSD Computer Science & Engineering Society",2022-12-27,184
-"UCSD Computer Science & Engineering Society",2023-01-01,184
-"UCSD Computer Science & Engineering Society",2023-01-05,184
-"UCSD Computer Science & Engineering Society",2023-01-09,185
-"UCSD Computer Science & Engineering Society",2023-01-22,189
-"UCSD Computer Science & Engineering Society",2023-01-29,189
-"UCSD Computer Science & Engineering Society",2023-02-04,189
-"UCSD Computer Science & Engineering Society",2023-02-25,193
-"UCSD Computer Science & Engineering Society",2023-03-18,197
-"UCSD Computer Science & Engineering Society",2023-03-21,197
-"UCSD Computer Science & Engineering Society",2023-03-25,198
-"UCSD Computer Science & Engineering Society",2023-04-10,199
-"UCSD Computer Science & Engineering Society",2023-04-13,199
-"UCSD Computer Science & Engineering Society",2023-04-21,200
-"UCSD Computer Science & Engineering Society",2023-04-29,200
-"UCSD Computer Science & Engineering Society",2023-05-19,202
-"UCSD Computer Science & Engineering Society",2023-05-29,235
-"UCSD Computer Science & Engineering Society",2023-06-05,234
-"UCSD Computer Science & Engineering Society",2023-06-14,238
-"UCSD Computer Science & Engineering Society",2023-06-17,239
-"UCSD Computer Science & Engineering Society",2023-06-27,244
-"UCSD Computer Science & Engineering Society",2023-07-06,244
-"UCSD Computer Science & Engineering Society",2023-07-23,247
-"UCSD Computer Science & Engineering Society",2023-08-08,251
-"UCSD Computer Science & Engineering Society",2023-08-10,253
-"UCSD Computer Science & Engineering Society",2023-09-15,267
+"UCD Netsoc – UCD's Internet and Computer Science Society",2023-10-18,352
+"UCD Netsoc – UCD's Internet and Computer Science Society",2023-10-18,346
+"UCD Netsoc – UCD's Internet and Computer Science Society",2023-12-17,353
+"UCD Netsoc – UCD's Internet and Computer Science Society",2023-12-18,353
 "Uber",2023-01-21,2519893
 "Uber",2023-02-10,2535501
 "Uber",2023-02-25,2547301
@@ -6513,6 +6403,8 @@
 "Uber",2023-07-23,2699589
 "Uber",2023-08-05,2719349
 "Uber",2023-08-29,2756775
+"Uber",2023-10-18,2826871
+"Uber",2023-12-17,2686453
 "Uber Engineering",2023-01-22,143967
 "Uberall",2023-01-25,13081
 "Ubiquity Ventures",2023-01-21,1405
@@ -6528,203 +6420,10 @@
 "Ubiquity Ventures",2023-07-23,1652
 "Ubiquity Ventures",2023-08-05,1677
 "Ubiquity Ventures",2023-08-29,1702
+"Ubiquity Ventures",2023-10-18,1805
 "Ubisoft",2023-01-25,1062285
 "Ubuntu",2023-01-25,61430
 "Ubuntu",2023-01-29,61458
-"Udemy",2020-10-07,440820
-"Udemy",2020-10-09,442859
-"Udemy",2020-10-13,446021
-"Udemy",2020-10-19,451176
-"Udemy",2020-10-20,452081
-"Udemy",2020-10-21,452816
-"Udemy",2020-10-23,454159
-"Udemy",2020-10-25,456285
-"Udemy",2020-10-25,455544
-"Udemy",2020-10-28,458194
-"Udemy",2020-10-30,460100
-"Udemy",2020-11-03,463030
-"Udemy",2020-11-06,466065
-"Udemy",2020-11-10,469551
-"Udemy",2020-11-14,472880
-"Udemy",2020-11-18,476208
-"Udemy",2020-11-23,481768
-"Udemy",2020-11-28,485199
-"Udemy",2020-12-03,488959
-"Udemy",2020-12-05,490827
-"Udemy",2020-12-12,495027
-"Udemy",2020-12-15,497056
-"Udemy",2020-12-20,500397
-"Udemy",2020-12-25,503241
-"Udemy",2020-12-29,506117
-"Udemy",2021-01-03,509285
-"Udemy",2021-01-06,511735
-"Udemy",2021-01-11,515427
-"Udemy",2021-01-15,518924
-"Udemy",2021-01-19,521886
-"Udemy",2021-01-25,526800
-"Udemy",2021-01-30,530647
-"Udemy",2021-01-31,531362
-"Udemy",2021-02-03,533629
-"Udemy",2021-02-07,536716
-"Udemy",2021-02-12,540969
-"Udemy",2021-02-17,544588
-"Udemy",2021-02-21,548262
-"Udemy",2021-02-25,551707
-"Udemy",2021-03-01,554670
-"Udemy",2021-03-06,558960
-"Udemy",2021-03-10,562171
-"Udemy",2021-03-16,566307
-"Udemy",2021-03-20,570380
-"Udemy",2021-03-24,573326
-"Udemy",2021-03-30,578993
-"Udemy",2021-04-06,583852
-"Udemy",2021-04-10,587762
-"Udemy",2021-04-15,591468
-"Udemy",2021-04-20,595793
-"Udemy",2021-04-24,599034
-"Udemy",2021-04-28,602560
-"Udemy",2021-05-03,606960
-"Udemy",2021-05-07,610370
-"Udemy",2021-05-10,612566
-"Udemy",2021-05-14,616189
-"Udemy",2021-05-21,622010
-"Udemy",2021-05-26,626816
-"Udemy",2021-06-02,633991
-"Udemy",2021-06-09,640073
-"Udemy",2021-06-16,645539
-"Udemy",2021-06-21,649576
-"Udemy",2021-06-29,655707
-"Udemy",2021-07-02,658714
-"Udemy",2021-07-04,660059
-"Udemy",2021-07-09,664404
-"Udemy",2021-07-14,668672
-"Udemy",2021-07-18,671672
-"Udemy",2021-07-22,675430
-"Udemy",2021-08-14,694269
-"Udemy",2021-08-26,703884
-"Udemy",2021-09-02,709404
-"Udemy",2021-09-16,721229
-"Udemy",2021-10-17,745294
-"Udemy",2021-10-29,754558
-"Udemy",2021-11-06,762884
-"Udemy",2021-11-20,774516
-"Udemy",2021-12-07,787965
-"Udemy",2021-12-14,792829
-"Udemy",2021-12-20,797163
-"Udemy",2021-12-26,801011
-"Udemy",2021-12-30,803858
-"Udemy",2021-12-31,804628
-"Udemy",2022-01-03,806251
-"Udemy",2022-01-04,807547
-"Udemy",2022-01-06,809451
-"Udemy",2022-01-07,811065
-"Udemy",2022-01-10,813506
-"Udemy",2022-01-14,817904
-"Udemy",2022-01-18,821662
-"Udemy",2022-01-27,829564
-"Udemy",2022-02-01,834799
-"Udemy",2022-02-07,840245
-"Udemy",2022-02-10,843370
-"Udemy",2022-02-12,844751
-"Udemy",2022-02-16,847829
-"Udemy",2022-02-20,850963
-"Udemy",2022-03-03,859155
-"Udemy",2022-03-07,861801
-"Udemy",2022-03-15,867790
-"Udemy",2022-03-29,878533
-"Udemy",2022-03-31,880272
-"Udemy",2022-04-09,887029
-"Udemy",2022-04-11,888407
-"Udemy",2022-04-19,894290
-"Udemy",2022-04-25,898444
-"Udemy",2022-04-29,902069
-"Udemy",2022-05-05,906190
-"Udemy",2022-05-12,911094
-"Udemy",2022-05-22,918192
-"Udemy",2022-05-23,918986
-"Udemy",2022-05-25,920555
-"Udemy",2022-05-30,924151
-"Udemy",2022-06-01,925386
-"Udemy",2022-06-03,926974
-"Udemy",2022-06-07,929864
-"Udemy",2022-06-08,929864
-"Udemy",2022-06-20,938821
-"Udemy",2022-06-22,940902
-"Udemy",2022-06-24,943312
-"Udemy",2022-06-28,946769
-"Udemy",2022-06-30,948211
-"Udemy",2022-07-01,949026
-"Udemy",2022-07-02,949334
-"Udemy",2022-07-04,950689
-"Udemy",2022-07-05,951707
-"Udemy",2022-07-09,954296
-"Udemy",2022-07-12,956270
-"Udemy",2022-07-18,959971
-"Udemy",2022-07-21,962697
-"Udemy",2022-07-23,964360
-"Udemy",2022-07-25,965894
-"Udemy",2022-08-01,971315
-"Udemy",2022-08-08,976122
-"Udemy",2022-08-16,982098
-"Udemy",2022-08-20,985753
-"Udemy",2022-08-25,989157
-"Udemy",2022-08-28,991361
-"Udemy",2022-09-01,995304
-"Udemy",2022-09-07,999348
-"Udemy",2022-09-10,1001730
-"Udemy",2022-09-16,1007052
-"Udemy",2022-09-22,1011960
-"Udemy",2022-09-29,1017927
-"Udemy",2022-10-03,1021050
-"Udemy",2022-10-09,1025976
-"Udemy",2022-10-12,1028939
-"Udemy",2022-10-16,1031860
-"Udemy",2022-10-22,1037041
-"Udemy",2022-10-28,1041230
-"Udemy",2022-11-03,1044711
-"Udemy",2022-11-06,1046650
-"Udemy",2022-11-14,1052264
-"Udemy",2022-11-20,1056533
-"Udemy",2022-11-24,1059135
-"Udemy",2022-12-01,1063896
-"Udemy",2022-12-08,1068101
-"Udemy",2022-12-14,1071892
-"Udemy",2022-12-27,1078761
-"Udemy",2023-01-01,1082171
-"Udemy",2023-01-05,1085426
-"Udemy",2023-01-09,1088467
-"Udemy",2023-01-22,1098362
-"Udemy",2023-01-28,1102935
-"Udemy",2023-02-04,1107521
-"Udemy",2023-02-10,1111470
-"Udemy",2023-02-13,1113461
-"Udemy",2023-02-24,1120443
-"Udemy",2023-03-10,1130063
-"Udemy",2023-03-14,1132756
-"Udemy",2023-03-18,1135551
-"Udemy",2023-03-21,1137424
-"Udemy",2023-03-25,1139812
-"Udemy",2023-04-01,1144803
-"Udemy",2023-04-10,1150844
-"Udemy",2023-04-13,1153466
-"Udemy",2023-04-21,1158505
-"Udemy",2023-04-29,1163682
-"Udemy",2023-05-12,1172498
-"Udemy",2023-05-19,1177370
-"Udemy",2023-05-29,1183759
-"Udemy",2023-06-05,1188455
-"Udemy",2023-06-11,1192865
-"Udemy",2023-06-14,1195587
-"Udemy",2023-06-17,1197734
-"Udemy",2023-06-23,1201782
-"Udemy",2023-06-27,1204625
-"Udemy",2023-07-06,1211999
-"Udemy",2023-07-23,1223998
-"Udemy",2023-08-02,1232455
-"Udemy",2023-08-08,1236864
-"Udemy",2023-08-10,1238780
-"Udemy",2023-08-29,1252740
-"Udemy",2023-09-15,1264779
 "the LEGO Group",2023-01-25,1082355
 "thegolangguy",2023-01-25,334
 "thegolangguy",2023-01-29,336

@@ -18,6 +18,7 @@
 "LSBU Busin",2023-08-10,2686
 "LSBU Busin",2023-08-29,2692
 "LSBU Busin",2023-09-15,2701
+"LSBU Busin",2023-10-18,2748
 "LSBU Business School",2022-02-23,1778
 "LSBU Business School",2022-02-26,1788
 "LSBU Business School",2022-03-07,1811
@@ -107,6 +108,7 @@
 "LSBU Business School",2023-05-19,2651
 "LSBU Business School",2023-05-29,2653
 "LSBU Business School",2023-06-05,2657
+"LSBU Business School",2023-12-14,NA
 "LSESU Data Science Society",2021-03-28,5
 "LSESU Data Science Society",2021-03-28,170
 "LSESU Data Science Society",2021-03-31,5
@@ -297,6 +299,12 @@
 "LSESU Data Science Society",2023-08-10,464
 "LSESU Data Science Society",2023-09-15,12
 "LSESU Data Science Society",2023-09-15,468
+"LSESU Data Science Society",2023-10-18,12
+"LSESU Data Science Society",2023-10-18,468
+"LSESU Data Science Society",2023-12-17,13
+"LSESU Data Science Society",2023-12-17,513
+"LSESU Data Science Society",2023-12-18,13
+"LSESU Data Science Society",2023-12-18,513
 "LSESU Machine Learning Society",2021-03-28,82
 "LSESU Machine Learning Society",2021-03-31,83
 "LSESU Machine Learning Society",2021-04-06,83
@@ -405,6 +413,12 @@
 "LSESU Machine Learning Society",2023-08-08,118
 "LSESU Machine Learning Society",2023-08-10,119
 "LSESU Machine Learning Society",2023-09-15,120
+"LSESU Machine Learning Society",2023-10-18,120
+"LSESU Machine Learning Society",2023-12-17,123
+"LSESU Machine Learning Society",2023-12-18,123
+"LSI",2023-10-18,15009
+"LSI",2023-12-14,15281
+"LSI",2023-12-17,15322
 "LSI - Life Science Intelligence<99>",2023-03-13,11761
 "LSI - Life Science Intelligence<99>",2023-03-29,12328
 "LSI - Life Science Intelligence<99>",2023-04-10,12571
@@ -412,13 +426,13 @@
 "LSI - Life Science Intelligence<99>",2023-06-05,13099
 "LSI - Life Science Intelligence<99>",2023-06-11,13183
 "LSI - Life Science Intelligence<99>",2023-06-23,13284
-"LSI - Life Science Intelligence<U+0099>",2023-01-21,10910
-"LSI - Life Science Intelligence<U+0099>",2023-02-10,11139
-"LSI - Life Science Intelligence<U+0099>",2023-02-25,11389
 "LSI - Life Science Intelligence<99>",2023-07-06,13465
 "LSI - Life Science Intelligence<99>",2023-07-23,13687
 "LSI - Life Science Intelligence<99>",2023-08-05,13859
-"LSI - Life Science Intelligence™",2023-08-29,14159
+"LSI - Life Science Intelligence<U+0099>",2023-01-21,10910
+"LSI - Life Science Intelligence<U+0099>",2023-02-10,11139
+"LSI - Life Science Intelligence<U+0099>",2023-02-25,11389
+"LSI - Life Science Intelligence<99>",2023-08-29,14159
 "LUMS Data Science Society",2021-01-22,337
 "LUMS Data Science Society",2021-01-25,337
 "LUMS Data Science Society",2021-01-28,338
@@ -542,7 +556,180 @@
 "LUMS Data Science Society",2023-08-08,889
 "LUMS Data Science Society",2023-08-10,890
 "LUMS Data Science Society",2023-09-15,893
+"LUMS Data Science Society",2023-10-18,893
+"LUMS Data Science Society",2023-12-17,879
+"LUMS Data Science Society",2023-12-18,879
 "LVI Associates",2023-01-28,94220
+"Leibniz-Institut f<fc>r Astrophysik Potsdam (AIP)",2023-01-25,871
+"Leiden University",2023-01-28,272473
+"Leidos",2023-01-21,324214
+"Leidos",2023-02-10,327160
+"Leidos",2023-02-25,329447
+"Leidos",2023-03-13,332431
+"Leidos",2023-03-29,335156
+"Leidos",2023-04-10,337256
+"Leidos",2023-04-23,339434
+"Leidos",2023-06-05,346464
+"Leidos",2023-06-11,347996
+"Leidos",2023-06-23,351035
+"Leidos",2023-07-06,354314
+"Leidos",2023-07-23,358814
+"Leidos",2023-08-05,362763
+"Leidos",2023-08-29,368147
+"Leidos",2023-10-18,379133
+"Leidos",2023-12-17,377327
+"Lemonade",2020-10-16,51044
+"Lemonade",2020-10-20,51185
+"Lenntech Water Treatment Solutions",2023-01-28,19129
+"LeoLabs",2023-01-21,9470
+"LeoLabs",2023-02-25,10099
+"LeoLabs",2023-03-13,10282
+"LeoLabs",2023-03-29,10497
+"LeoLabs",2023-04-10,10632
+"LeoLabs",2023-04-23,10806
+"LeoLabs",2023-06-05,11500
+"LeoLabs",2023-06-11,11567
+"LeoLabs",2023-06-23,11742
+"LeoLabs",2023-07-06,11856
+"LeoLabs",2023-07-23,11996
+"LeoLabs",2023-08-05,12097
+"LeoLabs",2023-08-29,12287
+"LeoLabs",2023-10-18,12940
+"LeoSt",2023-06-11,5257
+"LeoSt",2023-06-23,5350
+"LeoSt",2023-07-06,5398
+"LeoSt",2023-07-23,5553
+"LeoSt",2023-08-05,5623
+"LeoSt",2023-08-29,5784
+"LeoSt",2023-10-18,6152
+"LeoStella",2023-01-21,4529
+"LeoStella",2023-02-25,4675
+"LeoStella",2023-03-13,4746
+"LeoStella",2023-03-29,4819
+"LeoStella",2023-04-10,4876
+"LeoStella",2023-04-23,4934
+"LeoStella",2023-06-05,5147
+"Lesniewski Borkiewicz & Partners",2020-10-16,486
+"Lesniewski Borkiewicz & Partners",2020-10-19,486
+"Lesniewski Borkiewicz & Partners",2020-10-20,486
+"Lesniewski Borkiewicz & Partners",2020-10-28,488
+"Lesniewski Borkiewicz & Partners",2020-11-07,490
+"Lesniewski Borkiewicz & Partners",2020-11-21,498
+"Lesniewski Borkiewicz & Partners",2020-11-30,499
+"Lesniewski Borkiewicz & Partners",2020-12-08,500
+"Lesniewski Borkiewicz & Partners",2020-12-15,500
+"Lesniewski Borkiewicz & Partners",2020-12-27,504
+"Lesniewski Borkiewicz & Partners",2021-01-19,508
+"Lesniewski Borkiewicz & Partners",2021-02-19,515
+"Lesniewski Borkiewicz & Partners",2021-03-06,515
+"Lesniewski Borkiewicz & Partners",2021-03-26,516
+"Let The Data Confess Pvt Ltd",2023-01-21,8823
+"Let The Data Confess Pvt Ltd",2023-02-25,9003
+"Let The Data Confess Pvt Ltd",2023-03-13,9066
+"Let The Data Confess Pvt Ltd",2023-03-29,9145
+"Let The Data Confess Pvt Ltd",2023-04-10,9178
+"Let The Data Confess Pvt Ltd",2023-04-23,9186
+"Let The Data Confess Pvt Ltd",2023-06-05,9206
+"Let The Data Confess Pvt Ltd",2023-06-11,9207
+"Let The Data Confess Pvt Ltd",2023-06-23,9214
+"Let The Data Confess Pvt Ltd",2023-07-06,9222
+"Let The Data Confess Pvt Ltd",2023-07-23,9216
+"Let The Data Confess Pvt Ltd",2023-08-05,9216
+"Let The Data Confess Pvt Ltd",2023-08-29,9222
+"Let The Data Confess Pvt Ltd",2023-10-18,9225
+"LetsDefend",2023-01-21,55575
+"LetsDefend",2023-02-25,60103
+"LetsDefend",2023-03-13,62219
+"LetsDefend",2023-03-29,64562
+"LetsDefend",2023-04-10,66413
+"LetsDefend",2023-04-23,68979
+"LetsDefend",2023-06-05,74943
+"LetsDefend",2023-06-11,75788
+"LetsDefend",2023-06-23,78680
+"LetsDefend",2023-07-06,80694
+"LetsDefend",2023-07-23,83147
+"LetsDefend",2023-08-05,85150
+"LetsDefend",2023-08-29,89469
+"Level Access",2023-04-23,8823
+"Level Access",2023-06-05,9272
+"Level Access",2023-06-11,9327
+"Level Access",2023-06-23,9459
+"Level Access",2023-07-06,9573
+"Level Access",2023-07-23,9750
+"Level Access",2023-08-05,9894
+"Level Access",2023-08-29,10166
+"Level Access",2023-10-18,10585
+"Levels",2023-01-25,9788
+"Levels.fyi",2023-01-21,15123
+"Levels.fyi",2023-02-25,15787
+"Levels.fyi",2023-03-13,17095
+"Levels.fyi",2023-03-29,17545
+"Levels.fyi",2023-04-10,18712
+"Levels.fyi",2023-04-23,19012
+"Levels.fyi",2023-06-05,19592
+"Levels.fyi",2023-06-11,19675
+"Levels.fyi",2023-06-23,20272
+"Levels.fyi",2023-07-06,20643
+"Levels.fyi",2023-07-23,21354
+"Levels.fyi",2023-08-05,21686
+"Levels.fyi",2023-08-29,22329
+"Levels.fyi",2023-10-18,23478
+"Liberty Corporate Finance",2020-12-08,251
+"Liberty Mutual Insurance",2023-03-13,389877
+"Liberty Mutual Insurance",2023-03-29,393827
+"Liberty Mutual Insurance",2023-04-10,396557
+"Liberty Mutual Insurance",2023-04-23,399104
+"Liberty Mutual Insurance",2023-06-05,409474
+"Liberty Mutual Insurance",2023-06-11,410948
+"Liberty Mutual Insurance",2023-06-23,413921
+"Liberty Mutual Insurance",2023-07-06,416916
+"Liberty Mutual Insurance",2023-07-23,420204
+"Liberty Mutual Insurance",2023-08-05,423239
+"Liberty Mutual Insurance",2023-08-29,427552
+"Liberty Mutual Insurance",2023-10-18,437585
+"Liberty Mutual Insurance",2023-12-14,414284
+"Liberty Mutual Insurance",2023-12-17,414608
+"Library Connect",2023-01-28,23251
+"Life Changers",2023-03-29,11294
+"Life Changers",2023-04-10,11355
+"Life Changers",2023-04-23,11397
+"Lifeboat Foundation",2023-01-21,2551
+"Lifeboat Foundation",2023-02-10,2569
+"Lifeboat Foundation",2023-02-25,2589
+"Lifeboat Foundation",2023-03-13,2601
+"Lifeboat Foundation",2023-03-29,2608
+"Lifeboat Foundation",2023-04-10,2609
+"Lifeboat Foundation",2023-04-23,2614
+"Lifeboat Foundation",2023-06-05,2639
+"Lifeboat Foundation",2023-06-11,2643
+"Lifeboat Foundation",2023-06-23,2659
+"Lifeboat Foundation",2023-07-06,2665
+"Lifeboat Foundation",2023-07-23,2677
+"Lifeboat Foundation",2023-08-05,2684
+"Lifeboat Foundation",2023-08-29,2733
+"Lifeboat Foundation",2023-10-18,2588
+"Lifeboat Foundation",2023-12-17,2631
+"Lifecode Inc.",2023-01-25,871
+"Lifecode Inc.",2023-01-29,871
+"Lightning AI",2023-01-22,42240
+"Lightspeed",2023-03-29,98655
+"Lightspeed",2023-04-10,99630
+"Lightspeed",2023-04-23,100663
+"Lightspeed",2023-06-05,104134
+"Lightspeed",2023-06-11,104759
+"Lightspeed",2023-06-23,106182
+"Lightspeed",2023-07-06,107627
+"Lightspeed",2023-07-23,109421
+"Lightspeed",2023-08-05,111058
+"Lightspeed",2023-08-29,113522
+"Lightspeed",2023-10-18,116063
+"Lightspeed",2023-12-14,120957
+"Lightspeed",2023-12-17,121314
+"Lightspeed Venture Partners",2023-01-21,90360
+"Lightspeed Venture Partners",2023-02-10,92320
+"Lightspeed Venture Partners",2023-02-25,93758
+"Lightspeed Venture Partners",2023-03-13,97006
+"Like Minded Females (LMF Network)",2023-01-25,14952
 "Liminal",2023-01-21,5069
 "Liminal",2023-02-25,5188
 "Liminal",2023-03-13,5217
@@ -556,6 +743,7 @@
 "Liminal",2023-07-23,5642
 "Liminal",2023-08-05,5719
 "Liminal",2023-08-29,5846
+"Liminal",2023-10-18,5992
 "Limitless Space Institute",2023-01-21,1978
 "Limitless Space Institute",2023-02-25,2091
 "Limitless Space Institute",2023-03-13,2121
@@ -569,6 +757,7 @@
 "Limitless Space Institute",2023-07-23,2368
 "Limitless Space Institute",2023-08-05,2406
 "Limitless Space Institute",2023-08-29,2457
+"Limitless Space Institute",2023-10-18,2548
 "Lingoda GmbH",2023-01-25,22749
 "LinkedIn",2020-10-16,13332157
 "LinkedIn",2020-10-21,13375762
@@ -594,6 +783,9 @@
 "LinkedIn",2023-07-23,25538430
 "LinkedIn",2023-08-05,23804341
 "LinkedIn",2023-08-29,24057725
+"LinkedIn",2023-10-18,24577436
+"LinkedIn",2023-12-14,24998772
+"LinkedIn",2023-12-17,25039827
 "LinkedIn Guide to Networking",2023-01-29,15764672
 "LinkedIn Learning",2023-01-21,2818760
 "LinkedIn Learning",2023-02-25,2836702
@@ -608,6 +800,7 @@
 "LinkedIn Learning",2023-07-23,2921589
 "LinkedIn Learning",2023-08-05,2927456
 "LinkedIn Learning",2023-08-29,2935150
+"LinkedIn Learning",2023-10-18,2948362
 "LinkedIn News",2023-01-21,12683944
 "LinkedIn News",2023-01-22,12694885
 "LinkedIn News",2023-02-25,13410231
@@ -622,6 +815,7 @@
 "LinkedIn News",2023-07-23,16418850
 "LinkedIn News",2023-08-05,16657660
 "LinkedIn News",2023-08-29,17080421
+"LinkedIn News",2023-10-18,13335343
 "LinkedIn News India",2023-01-21,5073382
 "LinkedIn News India",2023-02-25,5274846
 "LinkedIn News India",2023-03-13,5362110
@@ -635,7 +829,9 @@
 "LinkedIn News India",2023-07-23,6169614
 "LinkedIn News India",2023-08-05,6263606
 "LinkedIn News India",2023-08-29,6407520
+"LinkedIn News India",2023-10-18,5917407
 "LinkedIn Talent Solutions",2023-01-28,1025452
+"LinkedIn Talent Solutions",2023-12-17,1124187
 "LinkedIn for Creators",2023-01-22,1362449
 "LinkedIn for Creators",2023-01-25,1366782
 "LinkedIn for Nonprofits",2023-01-21,234438
@@ -651,6 +847,7 @@
 "LinkedIn for Nonprofits",2023-07-23,260617
 "LinkedIn for Nonprofits",2023-08-05,262268
 "LinkedIn for Nonprofits",2023-08-29,265979
+"LinkedIn for Nonprofits",2023-10-18,271249
 "LinkedIn's Economic Graph",2023-01-25,178694
 "LinkedIn's Economic Graph",2023-01-29,178803
 "Linux",2020-10-20,9750
@@ -695,6 +892,9 @@
 "Lockheed Martin",2023-07-23,2199544
 "Lockheed Martin",2023-08-05,2216944
 "Lockheed Martin",2023-08-29,2243815
+"Lockheed Martin",2023-10-18,2148892
+"Lockheed Martin",2023-12-14,2206506
+"Lockheed Martin",2023-12-17,2210024
 "Loft Orbital",2023-01-21,11390
 "Loft Orbital",2023-02-25,11914
 "Loft Orbital",2023-03-13,12134
@@ -708,6 +908,7 @@
 "Loft Orbital",2023-07-23,13942
 "Loft Orbital",2023-08-05,14145
 "Loft Orbital",2023-08-29,14417
+"Loft Orbital",2023-10-18,15321
 "Logi Analytics",2020-10-19,16636
 "Logica",2023-01-25,87276
 "Logica",2023-01-29,87289
@@ -828,6 +1029,9 @@
 "Los Angeles Machine Learning Meetup",2023-08-08,10
 "Los Angeles Machine Learning Meetup",2023-08-10,10
 "Los Angeles Machine Learning Meetup",2023-09-15,10
+"Los Angeles Machine Learning Meetup",2023-10-18,10
+"Los Angeles Machine Learning Meetup",2023-12-17,10
+"Los Angeles Machine Learning Meetup",2023-12-18,10
 "Los Angeles R Users Group",2022-02-27,150
 "Love Open Source Community",2023-01-22,66654
 "Lovely Professional University",2023-01-28,185376
@@ -949,6 +1153,8 @@
 "Lucid Advertising",2023-07-23,265
 "Lucid Advertising",2023-08-05,266
 "Lucid Advertising",2023-08-29,269
+"Lucid Advertising",2023-10-18,272
+"Lucid Advertising",2023-12-17,275
 "Lucid Motors",2023-01-21,309613
 "Lucid Motors",2023-02-10,314504
 "Lucid Motors",2023-02-25,317840
@@ -963,6 +1169,8 @@
 "Lucid Motors",2023-07-23,353393
 "Lucid Motors",2023-08-05,357125
 "Lucid Motors",2023-08-29,364161
+"Lucid Motors",2023-10-18,384471
+"Lucid Motors",2023-12-17,396803
 "Lucid Software",2022-05-12,52174
 "Lucid Software",2022-05-30,53681
 "Lucid Software",2022-06-01,53751
@@ -1051,6 +1259,9 @@
 "Lucid Software",2023-08-10,102043
 "Lucid Software",2023-08-29,103224
 "Lucid Software",2023-09-15,104177
+"Lucid Software",2023-10-18,107680
+"Lucid Software",2023-12-14,111901
+"Lucid Software",2023-12-16,112019
 "Lumina Foundation",2021-04-20,14892
 "Lumina Foundation",2021-04-24,14948
 "Lumina Foundation",2021-04-28,14996
@@ -1154,6 +1365,9 @@
 "Lumina Foundation",2023-08-08,23808
 "Lumina Foundation",2023-08-10,23835
 "Lumina Foundation",2023-09-15,24552
+"Lumina Foundation",2023-10-18,24552
+"Lumina Foundation",2023-12-17,26245
+"Lumina Foundation",2023-12-18,26265
 "Lumminary",2023-01-25,89
 "Lumminary",2023-01-29,89
 "Lumos Global",2023-01-28,6888
@@ -1170,8 +1384,10 @@
 "Lunar Outpost",2023-07-23,8533
 "Lunar Outpost",2023-08-05,8677
 "Lunar Outpost",2023-08-29,8864
+"Lunar Outpost",2023-10-18,9137
 "LyGenesis",2023-01-25,1177
 "LyGenesis",2023-01-29,1179
+"Lyda Hill Department of Bioinformatics",2023-10-18,492
 "Lyell Immunopharma",2023-01-25,13382
 "Lyell Immunopharma",2023-01-29,13418
 "Lyman-Morse Technologies",2023-02-25,254
@@ -1186,7 +1402,6 @@
 "Lyman-Morse Technologies",2023-07-23,273
 "Lyman-Morse Technologies",2023-08-05,274
 "Lyman-Morse Technologies",2023-08-29,279
-"Lúnasa Space",2023-08-29,2142
 "M13 <U+0001F680>",2023-01-25,12394
 "M2GEN",2023-01-25,8366
 "M2GEN",2023-01-29,8379
@@ -1204,6 +1419,8 @@
 "MAG Aerospace",2023-07-23,27187
 "MAG Aerospace",2023-08-05,27293
 "MAG Aerospace",2023-08-29,27532
+"MAG Aerospace",2023-10-18,28149
+"MAG Aerospace",2023-12-17,27901
 "MAG Interactive",2023-01-25,5490
 "MAIA Biotechnology Inc.",2023-01-25,4286
 "MAIA Biotechnology Inc.",2023-01-29,4297
@@ -1313,6 +1530,9 @@
 "MAVA Foundation",2023-08-08,6756
 "MAVA Foundation",2023-08-10,6767
 "MAVA Foundation",2023-09-15,6895
+"MAVA Foundation",2023-10-18,6895
+"MAVA Foundation",2023-12-17,7035
+"MAVA Foundation",2023-12-18,7038
 "MBL International Corporation",2023-01-25,3968
 "MBL International Corporation",2023-01-29,3974
 "MBTA",2023-01-21,24117
@@ -1329,6 +1549,9 @@
 "MBTA",2023-07-23,26503
 "MBTA",2023-08-05,26699
 "MBTA",2023-08-29,27051
+"MBTA",2023-10-18,28035
+"MBTA",2023-12-14,28792
+"MBTA",2023-12-17,28854
 "MD Anderson Cancer Center",2023-01-25,173947
 "MD Anderson Cancer Center",2023-01-29,174275
 "MDPI",2023-01-28,42882
@@ -1346,10 +1569,14 @@
 "MFS Investment Management",2023-07-23,67991
 "MFS Investment Management",2023-08-05,68377
 "MFS Investment Management",2023-08-29,69300
+"MFS Investment Management",2023-10-18,72257
+"MFS Investment Management",2023-12-14,72507
+"MFS Investment Management",2023-12-17,72655
 "MIT AeroAstro",2023-07-06,2753
 "MIT AeroAstro",2023-07-23,2875
 "MIT AeroAstro",2023-08-05,2972
 "MIT AeroAstro",2023-08-29,3177
+"MIT AeroAstro",2023-10-18,3869
 "MIT Alumni Association",2023-01-21,4095
 "MIT Alumni Association",2023-02-25,4342
 "MIT Alumni Association",2023-03-13,4398
@@ -1363,6 +1590,7 @@
 "MIT Alumni Association",2023-07-23,4820
 "MIT Alumni Association",2023-08-05,4878
 "MIT Alumni Association",2023-08-29,4811
+"MIT Alumni Association",2023-10-18,5033
 "MIT Civil and Environmental Engineering",2023-01-21,9486
 "MIT Civil and Environmental Engineering",2023-02-25,9930
 "MIT Civil and Environmental Engineering",2023-03-13,10149
@@ -1376,6 +1604,7 @@
 "MIT Civil and Environmental Engineering",2023-07-23,11415
 "MIT Civil and Environmental Engineering",2023-08-05,11568
 "MIT Civil and Environmental Engineering",2023-08-29,11760
+"MIT Civil and Environmental Engineering",2023-10-18,11916
 "MIT College of Engineering",2023-01-28,2002
 "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",2020-10-16,20269
 "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",2020-10-18,20318
@@ -1409,6 +1638,7 @@
 "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",2023-07-23,117418
 "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",2023-08-05,119755
 "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",2023-08-29,122979
+"MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",2023-10-18,130993
 "MIT Energy Initiative",2023-01-21,13203
 "MIT Energy Initiative",2023-02-25,13558
 "MIT Energy Initiative",2023-03-13,13689
@@ -1422,237 +1652,9 @@
 "MIT Energy Initiative",2023-07-23,14646
 "MIT Energy Initiative",2023-08-05,14723
 "MIT Energy Initiative",2023-08-29,14835
+"MIT Energy Initiative",2023-10-18,15159
 "MIT Jameel Clinic - AI & Health",2023-01-25,17081
 "MIT Leaders for Global Operations (LGO)",2023-01-25,6353
-"MIT Media Lab",2020-10-16,78997
-"MIT Media Lab",2020-10-21,79252
-"MIT Media Lab",2020-10-22,79322
-"MIT Media Lab",2020-11-02,80078
-"MIT Media Lab",2020-11-07,80360
-"MIT Media Lab",2020-11-21,81259
-"MIT Media Lab",2020-12-15,82900
-"MIT Media Lab",2023-01-21,132714
-"MIT Media Lab",2023-01-25,132944
-"MIT Media Lab",2023-02-10,133789
-"MIT Media Lab",2023-02-25,134834
-"MIT Media Lab",2023-03-13,136125
-"MIT Media Lab",2023-03-29,137162
-"MIT Media Lab",2023-04-10,137815
-"MIT Media Lab",2023-04-23,138617
-"MIT Media Lab",2023-06-05,141028
-"MIT Media Lab",2023-06-11,141415
-"MIT Media Lab",2023-06-23,142126
-"MIT Media Lab",2023-07-06,142830
-"MIT Media Lab",2023-07-23,143702
-"MIT Media Lab",2023-08-05,144738
-"MIT Media Lab",2023-08-29,146264
-"MIT Office of Innovation",2023-01-21,68288
-"MIT Office of Innovation",2023-02-25,68821
-"MIT Office of Innovation",2023-03-13,69072
-"MIT Office of Innovation",2023-03-29,69277
-"MIT Office of Innovation",2023-04-10,69364
-"MIT Office of Innovation",2023-04-23,69486
-"MIT Office of Innovation",2023-06-05,69862
-"MIT Office of Innovation",2023-06-11,69914
-"MIT Office of Innovation",2023-06-23,69982
-"MIT Office of Innovation",2023-07-06,70038
-"MIT Office of Innovation",2023-07-23,70007
-"MIT Office of Innovation",2023-08-05,70055
-"MIT Office of Innovation",2023-08-29,70129
-"MIT Office of Resource Development",2023-01-21,5324
-"MIT Office of Resource Development",2023-02-25,5656
-"MIT Office of Resource Development",2023-03-13,5797
-"MIT Office of Resource Development",2023-03-29,5923
-"MIT Office of Resource Development",2023-04-10,6038
-"MIT Office of Resource Development",2023-04-23,6156
-"MIT Office of Resource Development",2023-06-05,6460
-"MIT Office of Resource Development",2023-06-11,6510
-"MIT Office of Resource Development",2023-06-23,6600
-"MIT Office of Resource Development",2023-07-06,6714
-"MIT Office of Resource Development",2023-07-23,6865
-"MIT Office of Resource Development",2023-08-05,7019
-"MIT Office of Resource Development",2023-08-29,6981
-"MIT Open Learning",2023-01-21,9961
-"MIT Open Learning",2023-02-25,11968
-"MIT Open Learning",2023-03-13,12866
-"MIT Open Learning",2023-03-29,13893
-"MIT Open Learning",2023-04-10,14681
-"MIT Open Learning",2023-04-23,15543
-"MIT Open Learning",2023-06-05,18475
-"MIT Open Learning",2023-06-11,18798
-"MIT Open Learning",2023-06-23,19347
-"MIT Open Learning",2023-07-06,19935
-"MIT Open Learning",2023-07-23,20632
-"MIT Open Learning",2023-08-05,21160
-"MIT Open Learning",2023-08-29,21602
-"MIT School of Engineering",2023-01-21,64572
-"MIT School of Engineering",2023-02-25,69423
-"MIT School of Engineering",2023-03-13,71679
-"MIT School of Engineering",2023-03-29,74579
-"MIT School of Engineering",2023-04-10,76866
-"MIT School of Engineering",2023-04-23,78602
-"MIT School of Engineering",2023-06-05,83679
-"MIT School of Engineering",2023-06-11,84338
-"MIT School of Engineering",2023-06-23,85397
-"MIT School of Engineering",2023-07-06,86444
-"MIT School of Engineering",2023-07-23,87889
-"MIT School of Engineering",2023-08-05,89459
-"MIT School of Engineering",2023-08-29,91847
-"MIT Senseable City Lab",2023-01-21,10836
-"MIT Senseable City Lab",2023-02-10,10933
-"MIT Senseable City Lab",2023-02-25,11071
-"MIT Senseable City Lab",2023-03-13,11181
-"MIT Senseable City Lab",2023-03-29,11317
-"MIT Senseable City Lab",2023-04-10,11382
-"MIT Senseable City Lab",2023-04-23,11439
-"MIT Senseable City Lab",2023-06-05,11704
-"MIT Senseable City Lab",2023-06-11,11752
-"MIT Senseable City Lab",2023-06-23,12096
-"MIT Senseable City Lab",2023-07-06,12322
-"MIT Senseable City Lab",2023-07-23,12456
-"MIT Senseable City Lab",2023-08-05,12519
-"MIT Senseable City Lab",2023-08-29,12665
-"MIT Sloan Management Review",2023-01-21,91586
-"MIT Sloan Management Review",2023-02-10,93011
-"MIT Sloan Management Review",2023-02-25,93576
-"MIT Sloan Management Review",2023-03-13,94194
-"MIT Sloan Management Review",2023-03-29,94913
-"MIT Sloan Management Review",2023-04-10,95676
-"MIT Sloan Management Review",2023-04-23,96510
-"MIT Sloan Management Review",2023-06-05,100223
-"MIT Sloan Management Review",2023-06-11,100481
-"MIT Sloan Management Review",2023-06-23,101013
-"MIT Sloan Management Review",2023-07-06,101946
-"MIT Sloan Management Review",2023-07-23,103221
-"MIT Sloan Management Review",2023-08-05,104715
-"MIT Sloan Management Review",2023-08-29,106167
-"MIT Sloan School of Management",2023-01-21,439077
-"MIT Sloan School of Management",2023-02-10,442160
-"MIT Sloan School of Management",2023-02-25,444068
-"MIT Sloan School of Management",2023-03-13,446924
-"MIT Sloan School of Management",2023-03-29,448595
-"MIT Sloan School of Management",2023-04-10,449991
-"MIT Sloan School of Management",2023-04-23,451655
-"MIT Sloan School of Management",2023-06-05,457283
-"MIT Sloan School of Management",2023-06-11,458374
-"MIT Sloan School of Management",2023-06-23,460510
-"MIT Sloan School of Management",2023-07-06,462739
-"MIT Sloan School of Management",2023-07-23,465320
-"MIT Sloan School of Management",2023-08-05,467731
-"MIT Sloan School of Management",2023-08-29,471627
-"MIT Technology Review",2020-10-16,638915
-"MIT Technology Review",2020-10-21,644057
-"MIT Technology Review",2020-10-24,647914
-"MIT Technology Review",2020-10-28,651999
-"MIT Technology Review",2020-11-07,660850
-"MIT Technology Review",2020-11-21,675114
-"MIT Technology Review",2022-01-12,1073133
-"MIT Technology Review",2022-02-01,1088231
-"MIT Technology Review",2022-02-07,1092012
-"MIT Technology Review",2022-02-16,1097883
-"MIT Technology Review",2022-02-23,1102385
-"MIT Technology Review",2022-02-26,1104037
-"MIT Technology Review",2022-03-03,1106763
-"MIT Technology Review",2022-03-20,1115269
-"MIT Technology Review",2022-03-29,1119962
-"MIT Technology Review",2022-04-11,1126580
-"MIT Technology Review",2022-05-01,1136112
-"MIT Technology Review",2022-05-05,1104037
-"MIT Technology Review",2022-05-22,1144837
-"MIT Technology Review",2022-05-27,1147142
-"MIT Technology Review",2022-05-30,1148251
-"MIT Technology Review",2022-06-07,1151934
-"MIT Technology Review",2022-06-08,1151934
-"MIT Technology Review",2022-06-11,1153461
-"MIT Technology Review",2022-06-16,1155567
-"MIT Technology Review",2022-06-23,1157548
-"MIT Technology Review",2022-06-30,1159740
-"MIT Technology Review",2022-07-02,1160284
-"MIT Technology Review",2022-07-05,1161533
-"MIT Technology Review",2022-07-13,1164475
-"MIT Technology Review",2022-07-18,1166382
-"MIT Technology Review",2022-07-23,1168606
-"MIT Technology Review",2022-07-25,1169405
-"MIT Technology Review",2022-08-02,1172868
-"MIT Technology Review",2022-08-16,1179052
-"MIT Technology Review",2022-08-20,1181506
-"MIT Technology Review",2022-08-25,1183606
-"MIT Technology Review",2022-08-28,1184878
-"MIT Technology Review",2022-09-07,1189264
-"MIT Technology Review",2022-09-10,1190514
-"MIT Technology Review",2022-09-16,1193065
-"MIT Technology Review",2022-09-22,1195350
-"MIT Technology Review",2022-09-29,1197967
-"MIT Technology Review",2022-10-03,1199215
-"MIT Technology Review",2022-10-09,1201360
-"MIT Technology Review",2022-10-12,1202534
-"MIT Technology Review",2022-10-16,1203733
-"MIT Technology Review",2022-10-22,1205623
-"MIT Technology Review",2022-10-28,1207328
-"MIT Technology Review",2022-11-03,1208639
-"MIT Technology Review",2022-11-06,1209362
-"MIT Technology Review",2022-11-14,1211531
-"MIT Technology Review",2022-11-20,1213321
-"MIT Technology Review",2022-11-24,1214476
-"MIT Technology Review",2022-12-01,1216791
-"MIT Technology Review",2022-12-08,1218955
-"MIT Technology Review",2022-12-14,1220721
-"MIT Technology Review",2022-12-27,1223757
-"MIT Technology Review",2023-01-01,1225421
-"MIT Technology Review",2023-01-05,1226849
-"MIT Technology Review",2023-01-09,1228000
-"MIT Technology Review",2023-01-21,1233419
-"MIT Technology Review",2023-01-22,1233675
-"MIT Technology Review",2023-01-25,1234926
-"MIT Technology Review",2023-01-28,1236110
-"MIT Technology Review",2023-01-29,1236256
-"MIT Technology Review",2023-02-04,1238205
-"MIT Technology Review",2023-02-10,1239839
-"MIT Technology Review",2023-02-25,1245807
-"MIT Technology Review",2023-02-25,1245812
-"MIT Technology Review",2023-03-13,1251728
-"MIT Technology Review",2023-03-18,1253619
-"MIT Technology Review",2023-03-21,1254496
-"MIT Technology Review",2023-03-25,1255659
-"MIT Technology Review",2023-03-29,1257360
-"MIT Technology Review",2023-04-10,1262137
-"MIT Technology Review",2023-04-10,1262170
-"MIT Technology Review",2023-04-13,1263355
-"MIT Technology Review",2023-04-21,1267194
-"MIT Technology Review",2023-04-23,1267870
-"MIT Technology Review",2023-04-29,1270419
-"MIT Technology Review",2023-05-19,1279648
-"MIT Technology Review",2023-05-29,1283505
-"MIT Technology Review",2023-06-05,1286742
-"MIT Technology Review",2023-06-05,1286743
-"MIT Technology Review",2023-06-11,1290007
-"MIT Technology Review",2023-06-14,1291878
-"MIT Technology Review",2023-06-17,1293170
-"MIT Technology Review",2023-06-23,1295873
-"MIT Technology Review",2023-06-27,1297837
-"MIT Technology Review",2023-07-06,1302347
-"MIT Technology Review",2023-07-06,1302348
-"MIT Technology Review",2023-07-23,1308936
-"MIT Technology Review",2023-07-23,1308950
-"MIT Technology Review",2023-08-05,1316110
-"MIT Technology Review",2023-08-08,1317522
-"MIT Technology Review",2023-08-10,1318785
-"MIT Technology Review",2023-08-29,1326923
-"MIT Technology Review",2023-09-15,1334099
-"MIT Technology Review (ES)",2023-01-21,78831
-"MIT Technology Review (ES)",2023-02-10,79285
-"MIT Technology Review (ES)",2023-02-25,79531
-"MIT Technology Review (ES)",2023-03-13,79823
-"MIT Technology Review (ES)",2023-03-29,80026
-"MIT Technology Review (ES)",2023-04-10,80200
-"MIT Technology Review (ES)",2023-04-23,80393
-"MIT Technology Review (ES)",2023-06-05,81012
-"MIT Technology Review (ES)",2023-06-11,81115
-"MIT Technology Review (ES)",2023-06-23,81312
-"MIT Technology Review (ES)",2023-07-06,81483
-"MIT Technology Review (ES)",2023-07-23,81621
-"MIT Technology Review (ES)",2023-08-05,81762
-"MIT Technology Review (ES)",2023-08-29,82018
 "MIT's New Space Age Conference",2023-01-21,463
 "MIT's New Space Age Conference",2023-02-25,570
 "MIT's New Space Age Conference",2023-03-13,799
@@ -1666,403 +1668,7 @@
 "MIT's New Space Age Conference",2023-07-23,957
 "MIT's New Space Age Conference",2023-08-05,961
 "MIT's New Space Age Conference",2023-08-29,966
-"MITRE",2023-01-21,150092
-"MITRE",2023-02-10,152029
-"MITRE",2023-02-25,153591
-"MITRE",2023-03-13,155277
-"MITRE",2023-03-29,156806
-"MITRE",2023-04-10,157854
-"MITRE",2023-04-23,159023
-"MITRE",2023-06-05,162536
-"MITRE",2023-06-11,163118
-"MITRE",2023-06-23,164421
-"MITRE",2023-07-06,165738
-"MITRE",2023-07-23,166964
-"MITRE",2023-08-05,168253
-"MITRE",2023-08-29,170555
-"MITRE ATT&CK",2023-01-21,111474
-"MITRE ATT&CK",2023-02-25,118751
-"MITRE ATT&CK",2023-03-13,120933
-"MITRE ATT&CK",2023-03-29,124612
-"MITRE ATT&CK",2023-04-10,126344
-"MITRE ATT&CK",2023-04-23,127819
-"MITRE ATT&CK",2023-06-05,132605
-"MITRE ATT&CK",2023-06-11,133306
-"MITRE ATT&CK",2023-06-23,134669
-"MITRE ATT&CK",2023-07-06,135694
-"MITRE ATT&CK",2023-07-23,136485
-"MITRE ATT&CK",2023-08-05,137068
-"MITRE ATT&CK",2023-08-29,138245
-"ML6 | Your partner in AI",2023-01-25,9281
-"MLDublin",2023-01-25,114
-"MLDublin",2023-01-29,114
-"MLOps",2021-03-28,246
-"MLOps",2021-03-31,250
-"MLOps",2021-04-06,255
-"MLOps",2021-04-10,267
-"MLOps",2021-04-15,275
-"MLOps",2021-04-20,288
-"MLOps",2021-04-24,299
-"MLOps",2021-04-28,312
-"MLOps",2021-05-07,331
-"MLOps",2021-05-10,337
-"MLOps",2021-05-14,344
-"MLOps",2021-05-21,353
-"MLOps",2021-05-26,368
-"MLOps",2021-05-31,385
-"MLOps",2021-06-06,396
-"MLOps",2021-06-09,408
-"MLOps",2021-06-16,427
-"MLOps",2021-06-21,451
-"MLOps",2021-06-29,465
-"MLOps",2021-07-04,491
-"MLOps",2021-07-09,507
-"MLOps",2021-07-14,516
-"MLOps",2021-07-22,534
-"MLOps",2021-08-14,567
-"MLOps",2021-08-26,606
-"MLOps",2021-09-02,615
-"MLOps",2021-09-09,635
-"MLOps",2021-09-16,662
-"MLOps",2021-10-17,724
-"MLOps",2021-10-29,737
-"MLOps",2021-11-20,800
-"MLOps",2021-12-14,844
-"MLOps",2021-12-20,855
-"MLOps",2021-12-26,872
-"MLOps",2021-12-31,884
-"MLOps",2022-02-07,983
-"MLOps",2022-02-12,991
-"MLOps",2022-02-16,1001
-"MLOps",2022-02-20,1009
-"MLOps",2022-02-26,1028
-"MLOps",2022-03-03,1042
-"MLOps",2022-03-15,1071
-"MLOps",2022-03-20,1087
-"MLOps",2022-03-29,1122
-"MLOps",2022-05-01,1257
-"MLOps",2022-05-05,1028
-"MLOps",2022-05-22,1372
-"MLOps",2022-05-27,1392
-"MLOps",2022-05-30,1398
-"MLOps",2022-06-07,1437
-"MLOps",2022-06-08,1437
-"MLOps",2022-06-16,1481
-"MLOps",2022-06-23,1515
-"MLOps",2022-06-24,1525
-"MLOps",2022-06-30,1548
-"MLOps",2022-07-02,1555
-"MLOps",2022-07-05,1563
-"MLOps",2022-07-13,1589
-"MLOps",2022-07-18,1604
-"MLOps",2022-07-23,1623
-"MLOps",2022-07-25,1632
-"MLOps",2022-08-02,1667
-"MLOps",2022-08-16,1719
-"MLOps",2022-08-20,1732
-"MLOps",2022-08-25,1750
-"MLOps",2022-08-28,1759
-"MLOps",2022-09-07,1802
-"MLOps",2022-09-10,1814
-"MLOps",2022-09-16,1837
-"MLOps",2022-09-22,1856
-"MLOps",2022-09-29,1886
-"MLOps",2022-10-03,1900
-"MLOps",2022-10-09,1917
-"MLOps",2022-10-16,1940
-"MLOps",2022-10-22,1953
-"MLOps",2022-10-28,1973
-"MLOps",2022-11-03,1995
-"MLOps",2022-11-06,2001
-"MLOps",2022-11-14,2023
-"MLOps",2022-11-20,2042
-"MLOps",2022-11-24,2054
-"MLOps",2022-12-01,2078
-"MLOps",2022-12-08,2096
-"MLOps",2022-12-14,2122
-"MLOps",2022-12-27,2156
-"MLOps",2023-01-01,2181
-"MLOps",2023-01-05,2201
-"MLOps",2023-01-09,2215
-"MLOps",2023-01-22,2262
-"MLOps",2023-01-29,2279
-"MLOps",2023-02-04,2297
-"MLOps",2023-02-25,2344
-"MLOps",2023-03-18,2381
-"MLOps",2023-03-21,2390
-"MLOps",2023-03-25,2396
-"MLOps",2023-04-10,2445
-"MLOps",2023-04-13,2460
-"MLOps",2023-04-21,2477
-"MLOps",2023-04-29,2500
-"MLOps",2023-05-19,2546
-"MLOps",2023-05-29,2564
-"MLOps",2023-06-05,2581
-"MLOps",2023-06-14,2597
-"MLOps",2023-06-17,2605
-"MLOps",2023-06-27,2622
-"MLOps",2023-07-06,2638
-"MLOps",2023-07-23,2663
-"MLOps",2023-08-08,2688
-"MLOps",2023-08-10,2691
-"MLOps",2023-09-15,2745
-"MLOps Community",2021-01-22,1003
-"MLOps Community",2021-01-25,1037
-"MLOps Community",2021-01-28,1058
-"MLOps Community",2021-01-31,1077
-"MLOps Community",2021-02-03,1100
-"MLOps Community",2021-02-07,1127
-"MLOps Community",2021-02-12,1164
-"MLOps Community",2021-02-16,1192
-"MLOps Community",2021-02-21,1233
-"MLOps Community",2021-02-25,1270
-"MLOps Community",2021-03-01,1287
-"MLOps Community",2021-03-06,1331
-"MLOps Community",2021-03-10,1361
-"MLOps Community",2021-03-13,1404
-"MLOps Community",2021-03-20,1507
-"MLOps Community",2021-03-28,1585
-"MLOps Community",2021-03-31,1616
-"MLOps Community",2021-04-06,1653
-"MLOps Community",2021-04-10,1698
-"MLOps Community",2021-04-15,1753
-"MLOps Community",2021-04-20,1828
-"MLOps Community",2021-04-24,1880
-"MLOps Community",2021-04-28,1928
-"MLOps Community",2021-05-07,2094
-"MLOps Community",2021-05-10,2124
-"MLOps Community",2021-05-14,2172
-"MLOps Community",2021-05-21,2246
-"MLOps Community",2021-05-26,2354
-"MLOps Community",2021-05-31,2426
-"MLOps Community",2021-06-06,2504
-"MLOps Community",2021-06-09,2541
-"MLOps Community",2021-06-16,2625
-"MLOps Community",2021-06-21,2723
-"MLOps Community",2021-06-29,2787
-"MLOps Community",2021-07-04,3000
-"MLOps Community",2021-07-09,3076
-"MLOps Community",2021-07-14,3133
-"MLOps Community",2021-07-22,3250
-"MLOps Community",2021-08-14,3495
-"MLOps Community",2021-08-26,3589
-"MLOps Community",2021-09-02,3643
-"MLOps Community",2021-09-09,3752
-"MLOps Community",2021-09-16,3840
-"MLOps Community",2021-10-17,4224
-"MLOps Community",2021-10-29,4363
-"MLOps Community",2021-11-20,4666
-"MLOps Community",2021-12-03,4778
-"MLOps Community",2021-12-20,4985
-"MLOps Community",2021-12-26,5036
-"MLOps Community",2021-12-31,5077
-"MLOps Community",2022-02-01,5452
-"MLOps Community",2022-02-07,5570
-"MLOps Community",2022-02-20,5730
-"MLOps Community",2022-02-23,5861
-"MLOps Community",2022-03-03,5989
-"MLOps Community",2022-03-15,6154
-"MLOps Community",2022-03-20,6223
-"MLOps Community",2022-03-29,6334
-"MLOps Community",2022-04-11,6511
-"MLOps Community",2022-04-13,6528
-"MLOps Community",2022-05-22,7307
-"MLOps Community",2022-05-27,7441
-"MLOps Community",2022-06-11,7752
-"MLOps Community",2022-06-16,7880
-"MLOps Community",2022-06-23,7996
-"MLOps Community",2022-06-24,8031
-"MLOps Community",2022-06-30,8118
-"MLOps Community",2022-07-02,8145
-"MLOps Community",2022-07-05,8216
-"MLOps Community",2022-07-13,8335
-"MLOps Community",2022-07-18,8460
-"MLOps Community",2022-07-23,8585
-"MLOps Community",2022-07-25,8622
-"MLOps Community",2022-08-02,8819
-"MLOps Community",2022-08-16,9551
-"MLOps Community",2022-08-20,9667
-"MLOps Community",2022-08-25,9812
-"MLOps Community",2022-08-28,9956
-"MLOps Community",2022-09-07,10359
-"MLOps Community",2022-09-10,10459
-"MLOps Community",2022-09-16,10667
-"MLOps Community",2022-09-22,10862
-"MLOps Community",2022-09-29,11122
-"MLOps Community",2022-10-03,11271
-"MLOps Community",2022-10-09,11473
-"MLOps Community",2022-10-16,11675
-"MLOps Community",2022-10-22,11859
-"MLOps Community",2022-10-28,12088
-"MLOps Community",2022-11-03,12257
-"MLOps Community",2022-11-06,12341
-"MLOps Community",2022-11-14,12565
-"MLOps Community",2022-11-20,12734
-"MLOps Community",2022-11-24,12865
-"MLOps Community",2022-12-01,13164
-"MLOps Community",2022-12-08,13445
-"MLOps Community",2022-12-14,13693
-"MLOps Community",2022-12-27,14028
-"MLOps Community",2023-01-01,14388
-"MLOps Community",2023-01-05,14702
-"MLOps Community",2023-01-09,14841
-"MLOps Community",2023-01-22,15456
-"MLOps Community",2023-01-25,15635
-"MLOps Community",2023-01-29,15781
-"MLOps Community",2023-02-04,16038
-"MLOps Community",2023-02-25,16838
-"MLOps Community",2023-03-18,17699
-"MLOps Community",2023-03-21,17843
-"MLOps Community",2023-03-25,18005
-"MLOps Community",2023-04-10,18769
-"MLOps Community",2023-04-13,18966
-"MLOps Community",2023-04-21,19452
-"MLOps Community",2023-04-29,19852
-"MLOps Community",2023-05-19,20680
-"MLOps Community",2023-05-29,21060
-"MLOps Community",2023-06-05,21439
-"MLOps Community",2023-06-14,21906
-"MLOps Community",2023-06-17,22232
-"MLOps Community",2023-06-27,22835
-"MLOps Community",2023-07-06,23250
-"MLOps Community",2023-07-23,23767
-"MLOps Community",2023-08-08,24278
-"MLOps Community",2023-08-10,24353
-"MLOps Community",2023-09-15,25120
-"MLT",2021-01-25,6494
-"MLT",2021-01-28,6502
-"MLT",2021-01-31,6509
-"MLT",2021-02-03,6524
-"MLT",2021-02-07,6544
-"MLT",2021-02-12,6566
-"MLT",2021-02-16,6573
-"MLT",2021-02-21,6585
-"MLT",2021-02-25,6610
-"MLT",2021-03-01,6632
-"MLT",2021-03-06,6671
-"MLT",2021-03-10,6676
-"MLT",2021-03-13,6696
-"MLT",2021-03-20,6763
-"MLT",2021-03-28,6790
-"MLT",2021-03-31,6794
-"MLT",2021-04-06,6830
-"MLT",2021-04-10,6946
-"MLT",2021-04-15,6971
-"MLT",2021-04-20,7010
-"MLT",2021-04-24,7055
-"MLT",2021-04-28,7067
-"MLT",2021-05-07,7118
-"MLT",2021-05-10,7132
-"MLT",2021-05-14,7159
-"MLT",2021-05-21,7191
-"MLT",2021-05-26,7217
-"MLT",2021-05-31,7248
-"MLT",2021-06-06,7296
-"MLT",2021-06-09,7320
-"MLT",2021-06-16,7381
-"MLT",2021-06-21,7403
-"MLT",2021-06-29,7449
-"MLT",2021-07-04,7470
-"MLT",2021-07-09,7481
-"MLT",2021-07-14,7529
-"MLT",2021-07-22,7594
-"MLT",2021-08-14,7650
-"MLT",2021-08-26,7701
-"MLT",2021-09-02,7723
-"MLT",2021-09-09,7755
-"MLT",2021-09-16,7789
-"MLT",2021-10-17,7848
-"MLT",2021-10-29,7898
-"MLT",2021-11-20,8004
-"MLT",2021-12-03,8026
-"MLT",2021-12-14,8036
-"MLT",2021-12-20,8045
-"MLT",2021-12-31,8078
-"MLT",2022-01-12,8101
-"MLT",2022-02-01,8316
-"MLT",2022-02-16,8364
-"MLT",2022-02-23,8385
-"MLT",2022-02-26,8409
-"MLT",2022-03-03,8601
-"MLT",2022-03-29,8686
-"MLT",2022-04-11,8717
-"MLT",2022-04-13,8721
-"MLT",2022-05-01,8762
-"MLT",2022-05-05,8409
-"MLT",2022-05-22,8793
-"MLT",2022-05-27,8795
-"MLT",2022-06-07,8809
-"MLT",2022-06-08,8809
-"MLT",2022-06-11,8806
-"MLT",2022-06-16,8805
-"MLT",2022-06-23,8810
-"MLT",2022-06-30,8817
-"MLT",2022-07-02,8830
-"MLT",2022-07-05,8826
-"MLT",2022-07-13,8838
-"MLT",2022-07-18,8842
-"MLT",2022-07-23,8852
-"MLT",2022-07-25,8861
-"MLT",2022-08-02,8887
-"MLT",2022-08-16,8915
-"MLT",2022-08-20,8923
-"MLT",2022-08-25,8934
-"MLT",2022-08-28,8933
-"MLT",2022-09-07,8941
-"MLT",2022-09-10,8942
-"MLT",2022-09-16,8944
-"MLT",2022-09-22,8951
-"MLT",2022-09-29,8954
-"MLT",2022-10-03,8957
-"MLT",2022-10-09,8960
-"MLT",2022-10-12,8961
-"MLT",2022-10-16,8964
-"MLT",2022-10-22,8962
-"MLT",2022-10-28,8989
-"MLT",2022-11-03,8992
-"MLT",2022-11-06,8995
-"MLT",2022-11-14,9021
-"MLT",2022-11-20,9051
-"MLT",2022-11-24,9054
-"MLT",2022-12-01,9061
-"MLT",2022-12-08,9073
-"MLT",2022-12-14,9075
-"MLT",2022-12-27,9081
-"MLT",2023-01-01,9084
-"MLT",2023-01-05,9084
-"MLT",2023-01-09,9085
-"MLT",2023-01-22,9097
-"MLT",2023-01-29,9101
-"MLT",2023-02-04,9100
-"MLT",2023-02-25,9107
-"MLT",2023-03-18,9115
-"MLT",2023-03-21,9116
-"MLT",2023-03-25,9107
-"MLT",2023-04-10,9106
-"MLT",2023-04-13,9105
-"MLT",2023-04-21,9106
-"MLT",2023-04-29,9108
-"MLT",2023-05-19,9113
-"MLT",2023-05-29,9115
-"MLT",2023-06-05,9124
-"MLT",2023-06-14,9123
-"MLT",2023-06-17,9125
-"MLT",2023-06-27,9125
-"MLT",2023-07-06,9125
-"MLT",2023-07-23,9126
-"MLT",2023-08-08,9129
-"MLT",2023-08-10,9130
-"MLT",2023-09-15,9132
-"MLflow",2023-03-29,18289
-"MLflow",2023-04-10,19558
-"MLflow",2023-04-23,20736
-"MLflow",2023-06-05,24363
-"MLflow",2023-06-11,24975
-"MLflow",2023-06-23,26031
-"MLflow",2023-07-06,27040
-"MLflow",2023-07-23,28190
-"MLflow",2023-08-05,29889
-"MLflow",2023-08-29,32147
+"MIT's New Space Age Conference",2023-10-18,981
 "MacArthur Foundation",2020-10-25,53434
 "MacArthur Foundation",2020-10-28,53570
 "MacArthur Foundation",2020-10-30,53715
@@ -2251,6 +1857,9 @@
 "MacArthur Foundation",2023-08-10,110777
 "MacArthur Foundation",2023-08-29,112989
 "MacArthur Foundation",2023-09-15,114807
+"MacArthur Foundation",2023-10-18,119357
+"MacArthur Foundation",2023-12-14,122147
+"MacArthur Foundation",2023-12-16,122426
 "Machine Learning",2020-11-21,60084
 "Machine Learning",2020-11-30,63090
 "Machine Learning",2020-12-08,66419
@@ -2392,6 +2001,10 @@
 "Machine Learning",2023-08-29,215665
 "Machine Learning",2023-08-29,284019
 "Machine Learning",2023-09-15,216369
+"Machine Learning",2023-10-18,217229
+"Machine Learning",2023-10-18,216369
+"Machine Learning",2023-12-17,218171
+"Machine Learning",2023-12-18,218185
 "Machine Learning & Data Science Meetup Roma",2021-03-28,150
 "Machine Learning & Data Science Meetup Roma",2021-03-31,150
 "Machine Learning & Data Science Meetup Roma",2021-04-06,152
@@ -2507,6 +2120,9 @@
 "Machine Learning & Data Science Meetup Roma",2023-08-08,276
 "Machine Learning & Data Science Meetup Roma",2023-08-10,277
 "Machine Learning & Data Science Meetup Roma",2023-09-15,264
+"Machine Learning & Data Science Meetup Roma",2023-10-18,264
+"Machine Learning & Data Science Meetup Roma",2023-12-17,273
+"Machine Learning & Data Science Meetup Roma",2023-12-18,273
 "Machine Learning India",2020-11-06,75095
 "Machine Learning India",2020-11-10,75995
 "Machine Learning India",2020-11-14,76816
@@ -2792,6 +2408,11 @@
 "Machine Learning Mastery",2023-08-10,281653
 "Machine Learning Mastery",2023-08-29,283211
 "Machine Learning Mastery",2023-09-15,284421
+"Machine Learning Mastery",2023-10-18,286497
+"Machine Learning Mastery",2023-10-18,284421
+"Machine Learning Mastery",2023-12-17,280496
+"Machine Learning Mastery",2023-12-18,280537
+"Machine Learning MasteryMachine Learning Mastery",2023-12-14,NA
 "Machine Learning Porto Alegre",2021-01-25,345
 "Machine Learning Porto Alegre",2021-01-28,345
 "Machine Learning Porto Alegre",2021-01-31,345
@@ -2914,6 +2535,9 @@
 "Machine Learning Porto Alegre",2023-08-08,499
 "Machine Learning Porto Alegre",2023-08-10,500
 "Machine Learning Porto Alegre",2023-09-15,500
+"Machine Learning Porto Alegre",2023-10-18,500
+"Machine Learning Porto Alegre",2023-12-17,493
+"Machine Learning Porto Alegre",2023-12-18,493
 "Machine Learning Prague conference",2021-12-14,201
 "Machine Learning Prague conference",2021-12-20,201
 "Machine Learning Prague conference",2021-12-26,203
@@ -3027,6 +2651,8 @@
 "Machine Learning Prague conference",2023-08-10,406
 "Machine Learning Prague conference",2023-08-29,409
 "Machine Learning Prague conference",2023-09-15,413
+"Machine Learning Prague conference",2023-10-18,418
+"Machine Learning Prague conferenceMachine Learning Prague conference",2023-12-14,NA
 "Machine Learning Society",2020-10-16,18559
 "Machine Learning Society",2020-10-18,18562
 "Machine Learning Society",2020-10-21,18573
@@ -3155,6 +2781,9 @@
 "Machine Learning Society",2023-08-08,21043
 "Machine Learning Society",2023-08-10,21047
 "Machine Learning Society",2023-09-15,21100
+"Machine Learning Society",2023-10-18,21100
+"Machine Learning Society",2023-12-17,20702
+"Machine Learning Society",2023-12-18,20703
 "Machine Learning Society at MIM UW",2021-03-28,104
 "Machine Learning Society at MIM UW",2021-03-31,105
 "Machine Learning Society at MIM UW",2021-04-06,105
@@ -3265,6 +2894,9 @@
 "Machine Learning Society at MIM UW",2023-08-08,233
 "Machine Learning Society at MIM UW",2023-08-10,234
 "Machine Learning Society at MIM UW",2023-09-15,241
+"Machine Learning Society at MIM UW",2023-10-18,241
+"Machine Learning Society at MIM UW",2023-12-17,254
+"Machine Learning Society at MIM UW",2023-12-18,254
 "Machine Learning and Data Analytics Lab at NTU EEE",2021-01-25,1096
 "Machine Learning and Data Analytics Lab at NTU EEE",2021-01-28,1102
 "Machine Learning and Data Analytics Lab at NTU EEE",2021-01-31,1103
@@ -3388,6 +3020,9 @@
 "Machine Learning and Data Analytics Lab at NTU EEE",2023-08-08,2534
 "Machine Learning and Data Analytics Lab at NTU EEE",2023-08-10,2537
 "Machine Learning and Data Analytics Lab at NTU EEE",2023-09-15,2580
+"Machine Learning and Data Analytics Lab at NTU EEE",2023-10-18,2580
+"Machine Learning and Data Analytics Lab at NTU EEE",2023-12-17,2578
+"Machine Learning and Data Analytics Lab at NTU EEE",2023-12-18,2579
 "Machine Learning at Berkeley",2021-01-25,2015
 "Machine Learning at Berkeley",2021-01-28,2019
 "Machine Learning at Berkeley",2021-01-31,2021
@@ -3511,6 +3146,9 @@
 "Machine Learning at Berkeley",2023-08-08,4217
 "Machine Learning at Berkeley",2023-08-10,4220
 "Machine Learning at Berkeley",2023-09-15,4310
+"Machine Learning at Berkeley",2023-10-18,4310
+"Machine Learning at Berkeley",2023-12-17,4265
+"Machine Learning at Berkeley",2023-12-18,4266
 "Machine Learning in Healthcare",2021-01-28,251
 "Machine Learning in Healthcare",2021-01-31,252
 "Machine Learning in Healthcare",2021-02-03,285
@@ -3631,6 +3269,9 @@
 "Machine Learning in Healthcare",2023-08-08,850
 "Machine Learning in Healthcare",2023-08-10,851
 "Machine Learning in Healthcare",2023-09-15,864
+"Machine Learning in Healthcare",2023-10-18,864
+"Machine Learning in Healthcare",2023-12-17,865
+"Machine Learning in Healthcare",2023-12-18,866
 "MachineX Intelligence",2020-10-25,1589
 "MachineX Intelligence",2020-10-28,1589
 "MachineX Intelligence",2020-10-30,1589
@@ -3819,6 +3460,7 @@
 "MachineX Intelligence",2023-08-10,1789
 "MachineX Intelligence",2023-08-29,1792
 "MachineX Intelligence",2023-09-15,1792
+"MachineX Intelligence",2023-10-18,1789
 "Made In Space Europe",2023-01-21,3542
 "Made In Space Inc.",2023-01-21,13870
 "Made In Space Inc.",2023-02-10,13909
@@ -3834,6 +3476,8 @@
 "Made In Space Inc.",2023-07-23,14173
 "Made In Space Inc.",2023-08-05,14200
 "Made In Space Inc.",2023-08-29,14253
+"Made In Space Inc.",2023-10-18,14318
+"Made In Space Inc.",2023-12-17,14084
 "MagCanica",2021-05-10,1302
 "Mailhem Environment Pvt. Ltd.",2023-01-28,1945
 "Mainstream Renewable Power",2023-01-28,56537
@@ -3985,6 +3629,8 @@
 "Major League Hacking",2023-08-10,35333
 "Major League Hacking",2023-08-29,35806
 "Major League Hacking",2023-09-15,36195
+"Major League Hacking",2023-10-18,37134
+"Major League Hacking",2023-10-18,37136
 "Make Every Woman Count",2021-06-02,63
 "Make Every Woman Count",2021-06-09,63
 "Make Every Woman Count",2021-06-16,63
@@ -4125,8 +3771,12 @@
 "Make Every Woman Count",2023-08-10,327
 "Make Every Woman Count",2023-08-29,329
 "Make Every Woman Count",2023-09-15,333
+"Make Every Woman Count",2023-10-18,347
+"Make Every Woman CountMake Every Woman Count",2023-12-14,NA
 "Makie",2023-08-29,33
 "Makie",2023-09-15,34
+"Makie",2023-10-18,34
+"Makie",2023-12-14,37
 "Making Credit Decissions",2023-01-21,113
 "Making Credit Decissions",2023-02-25,113
 "Making Credit Decissions",2023-03-13,115
@@ -4140,6 +3790,7 @@
 "Making Credit Decissions",2023-07-23,125
 "Making Credit Decissions",2023-08-05,126
 "Making Credit Decissions",2023-08-29,128
+"Making Credit Decissions",2023-10-18,124
 "Malaviya National Institute of Technology Jaipur",2023-01-28,33830
 "Malung-S<e4>lens kommun",2021-05-10,431
 "Mammoth Biosciences",2023-01-25,34378
@@ -4157,6 +3808,7 @@
 "ManageEngine IAM",2023-07-23,6189
 "ManageEngine IAM",2023-08-05,6310
 "ManageEngine IAM",2023-08-29,6539
+"ManageEngine IAM",2023-10-18,6705
 "Manchester University Data Science Society",2022-09-16,324
 "Manchester University Data Science Society",2022-09-22,350
 "Manchester University Data Science Society",2022-09-29,405
@@ -4199,6 +3851,9 @@
 "Manchester University Data Science Society",2023-08-08,701
 "Manchester University Data Science Society",2023-08-10,701
 "Manchester University Data Science Society",2023-09-15,718
+"Manchester University Data Science Society",2023-10-18,718
+"Manchester University Data Science Society",2023-12-17,749
+"Manchester University Data Science Society",2023-12-18,749
 "Mandiant (now part of Google Cloud)",2023-01-21,136564
 "Mandiant (now part of Google Cloud)",2023-02-10,138254
 "Mandiant (now part of Google Cloud)",2023-02-25,139813
@@ -4213,6 +3868,9 @@
 "Mandiant (now part of Google Cloud)",2023-07-23,164158
 "Mandiant (now part of Google Cloud)",2023-08-05,165674
 "Mandiant (now part of Google Cloud)",2023-08-29,168847
+"Mandiant (now part of Google Cloud)",2023-10-18,170141
+"Mandiant (now part of Google Cloud)",2023-12-14,173808
+"Mandiant (now part of Google Cloud)",2023-12-17,174197
 "Mango Solutions",2020-10-05,3249
 "Mango Solutions",2020-10-13,3258
 "Mango Solutions",2020-10-14,3260
@@ -4432,6 +4090,8 @@
 "Manning Publications Co.",2023-07-23,15092
 "Manning Publications Co.",2023-08-05,15156
 "Manning Publications Co.",2023-08-29,15361
+"Manning Publications Co.",2023-10-18,15693
+"Manning Publications Co.",2023-12-17,15860
 "Manufacturing Extension Partnership (MEP)",2023-01-21,3161
 "Manufacturing Extension Partnership (MEP)",2023-02-25,3290
 "Manufacturing Extension Partnership (MEP)",2023-03-13,3341
@@ -4445,6 +4105,7 @@
 "Manufacturing Extension Partnership (MEP)",2023-07-23,3682
 "Manufacturing Extension Partnership (MEP)",2023-08-05,3723
 "Manufacturing Extension Partnership (MEP)",2023-08-29,3813
+"Manufacturing Extension Partnership (MEP)",2023-10-18,4095
 "Maolte",2021-09-02,12
 "Maolte",2021-09-16,21
 "Maolte",2021-10-17,27
@@ -4568,6 +4229,8 @@
 "Maolte Technical Solutions Limited",2023-08-10,479
 "Maolte Technical Solutions Limited",2023-08-29,479
 "Maolte Technical Solutions Limited",2023-09-15,489
+"Maolte Technical Solutions Limited",2023-10-18,503
+"Maolte Technical Solutions Limited",2023-12-14,521
 "Mapal Aeration Solutions",2023-01-28,375
 "March of Dimes",2023-01-21,35646
 "March of Dimes",2023-02-10,35912
@@ -4583,6 +4246,9 @@
 "March of Dimes",2023-07-23,38501
 "March of Dimes",2023-08-05,38717
 "March of Dimes",2023-08-29,39142
+"March of Dimes",2023-10-18,40291
+"March of Dimes",2023-12-14,40387
+"March of Dimes",2023-12-17,40419
 "Marcus by Goldman Sachs",2023-01-21,31262
 "Marcus by Goldman Sachs",2023-02-25,31475
 "Marcus by Goldman Sachs",2023-03-13,31538
@@ -4596,6 +4262,7 @@
 "Marcus by Goldman Sachs",2023-07-23,32026
 "Marcus by Goldman Sachs",2023-08-05,32085
 "Marcus by Goldman Sachs",2023-08-29,32161
+"Marcus by Goldman Sachs",2023-10-18,31342
 "Marico Limited",2021-02-19,300393
 "Marico Limited",2021-03-26,309525
 "Marie Curie Alumni Association",2023-01-28,12270
@@ -4629,6 +4296,7 @@
 "Mass Transit magazine",2023-07-23,9835
 "Mass Transit magazine",2023-08-05,9986
 "Mass Transit magazine",2023-08-29,10326
+"Mass Transit magazine",2023-10-18,10835
 "MassDOT",2023-01-21,9316
 "MassDOT",2023-02-10,9537
 "MassDOT",2023-02-25,9749
@@ -4643,6 +4311,12 @@
 "MassDOT",2023-07-23,11355
 "MassDOT",2023-08-05,11488
 "MassDOT",2023-08-29,11726
+"MassDOT",2023-10-18,12355
+"MassDOT",2023-12-17,12877
+"MassDevelopment",2023-12-14,7512
+"MassDevelopment",2023-12-17,7531
+"MassHousing",2023-12-14,9741
+"MassHousing",2023-12-17,9771
 "MassMutual",2023-01-21,103913
 "MassMutual",2023-02-10,104481
 "MassMutual",2023-02-25,104933
@@ -4657,6 +4331,9 @@
 "MassMutual",2023-07-23,109559
 "MassMutual",2023-08-05,110071
 "MassMutual",2023-08-29,110863
+"MassMutual",2023-10-18,113235
+"MassMutual",2023-12-14,112090
+"MassMutual",2023-12-17,112201
 "Massachusetts Attorney General's Office",2023-01-21,6317
 "Massachusetts Attorney General's Office",2023-02-10,6461
 "Massachusetts Attorney General's Office",2023-02-25,6577
@@ -4671,6 +4348,8 @@
 "Massachusetts Attorney General's Office",2023-07-23,7508
 "Massachusetts Attorney General's Office",2023-08-05,7570
 "Massachusetts Attorney General's Office",2023-08-29,7697
+"Massachusetts Attorney General's Office",2023-10-18,7954
+"Massachusetts Attorney General's Office",2023-12-17,7910
 "Massachusetts Conference for Women",2023-03-13,6157
 "Massachusetts Conference for Women",2023-03-29,6186
 "Massachusetts Conference for Women",2023-04-10,6196
@@ -4682,6 +4361,8 @@
 "Massachusetts Conference for Women",2023-07-23,6308
 "Massachusetts Conference for Women",2023-08-05,6324
 "Massachusetts Conference for Women",2023-08-29,6342
+"Massachusetts Conference for Women",2023-10-18,6398
+"Massachusetts Conference for Women",2023-12-17,7330
 "Massachusetts Department of Public Health",2023-01-21,25925
 "Massachusetts Department of Public Health",2023-02-10,26437
 "Massachusetts Department of Public Health",2023-02-25,26745
@@ -4696,6 +4377,9 @@
 "Massachusetts Department of Public Health",2023-07-23,29329
 "Massachusetts Department of Public Health",2023-08-05,29592
 "Massachusetts Department of Public Health",2023-08-29,30070
+"Massachusetts Department of Public Health",2023-10-18,31270
+"Massachusetts Department of Public Health",2023-12-14,31702
+"Massachusetts Department of Public Health",2023-12-17,31788
 "Massachusetts General Hospital",2023-01-21,159085
 "Massachusetts General Hospital",2023-02-10,160376
 "Massachusetts General Hospital",2023-02-25,161417
@@ -4710,6 +4394,9 @@
 "Massachusetts General Hospital",2023-07-23,169987
 "Massachusetts General Hospital",2023-08-05,170884
 "Massachusetts General Hospital",2023-08-29,172511
+"Massachusetts General Hospital",2023-10-18,168272
+"Massachusetts General Hospital",2023-12-14,171485
+"Massachusetts General Hospital",2023-12-17,171743
 "Massachusetts Institute of Technology",2023-01-21,1302645
 "Massachusetts Institute of Technology",2023-01-25,1304516
 "Massachusetts Institute of Technology",2023-01-25,1304517
@@ -4727,6 +4414,9 @@
 "Massachusetts Institute of Technology",2023-07-23,1394974
 "Massachusetts Institute of Technology",2023-08-05,1404774
 "Massachusetts Institute of Technology",2023-08-29,1419583
+"Massachusetts Institute of Technology",2023-10-18,1457912
+"Massachusetts Institute of Technology",2023-12-14,1399116
+"Massachusetts Institute of Technology",2023-12-17,1401042
 "Massachusetts Port Authority",2023-01-21,10785
 "Massachusetts Port Authority",2023-02-10,10919
 "Massachusetts Port Authority",2023-02-25,11008
@@ -4741,6 +4431,9 @@
 "Massachusetts Port Authority",2023-07-23,11771
 "Massachusetts Port Authority",2023-08-05,11815
 "Massachusetts Port Authority",2023-08-29,11930
+"Massachusetts Port Authority",2023-10-18,12305
+"Massachusetts Port Authority",2023-12-14,12371
+"Massachusetts Port Authority",2023-12-17,12384
 "Massachusetts Trial Court",2023-01-21,9246
 "Massachusetts Trial Court",2023-02-10,9341
 "Massachusetts Trial Court",2023-02-25,9420
@@ -4755,6 +4448,8 @@
 "Massachusetts Trial Court",2023-07-23,10314
 "Massachusetts Trial Court",2023-08-05,10389
 "Massachusetts Trial Court",2023-08-29,10487
+"Massachusetts Trial Court",2023-10-18,10740
+"Massachusetts Trial Court",2023-12-17,10872
 "Massey University",2023-01-28,141669
 "Massive Entertainment - A Ubisoft Studio",2023-01-25,83480
 "Masten Space Systems",2023-01-21,18921
@@ -4771,6 +4466,9 @@
 "Masten Space Systems",2023-07-23,19116
 "Masten Space Systems",2023-08-05,19144
 "Masten Space Systems",2023-08-29,19194
+"Masten Space Systems",2023-10-18,19223
+"Masten Space Systems",2023-12-14,18733
+"Masten Space Systems",2023-12-17,18739
 "Mastercard",2023-01-21,1174373
 "Mastercard",2023-02-10,1184631
 "Mastercard",2023-02-25,1192124
@@ -4785,6 +4483,9 @@
 "Mastercard",2023-07-23,1282624
 "Mastercard",2023-08-05,1296339
 "Mastercard",2023-08-29,1320596
+"Mastercard",2023-10-18,1376707
+"Mastercard",2023-12-14,1388651
+"Mastercard",2023-12-17,1391891
 "Masters of Scale",2023-01-21,26858
 "Masters of Scale",2023-02-25,27731
 "Masters of Scale",2023-03-13,28084
@@ -4798,6 +4499,7 @@
 "Masters of Scale",2023-07-23,30039
 "Masters of Scale",2023-08-05,30127
 "Masters of Scale",2023-08-29,30234
+"Masters of Scale",2023-10-18,30651
 "Mastodon",2023-06-23,4850
 "Mastodon",2023-07-06,4934
 "Mastodon",2023-07-23,5027
@@ -4915,6 +4617,7 @@
 "Maxar Technologies",2023-07-23,66816
 "Maxar Technologies",2023-08-05,67885
 "Maxar Technologies",2023-08-29,69034
+"Maxar Technologies",2023-10-18,71407
 "Maxim Healthcare Staffing",2023-01-21,126199
 "Maxim Healthcare Staffing",2023-02-10,127396
 "Maxim Healthcare Staffing",2023-02-25,128249
@@ -4929,6 +4632,9 @@
 "Maxim Healthcare Staffing",2023-07-23,136994
 "Maxim Healthcare Staffing",2023-08-05,137964
 "Maxim Healthcare Staffing",2023-08-29,139531
+"Maxim Healthcare Staffing",2023-10-18,142517
+"Maxim Healthcare Staffing",2023-12-14,140242
+"Maxim Healthcare Staffing",2023-12-17,140366
 "Maxim Integrated",2023-01-21,113821
 "Maxim Integrated",2023-02-10,114038
 "Maxim Integrated",2023-02-25,114223
@@ -4943,6 +4649,9 @@
 "Maxim Integrated",2023-07-23,116197
 "Maxim Integrated",2023-08-05,116438
 "Maxim Integrated",2023-08-29,116763
+"Maxim Integrated",2023-10-18,117339
+"Maxim Integrated",2023-12-14,115101
+"Maxim Integrated",2023-12-17,115121
 "McKinsey & Company",2020-10-05,3572193
 "McKinsey & Company",2020-10-12,3585573
 "McKinsey & Company",2020-10-16,3593919
@@ -5151,6 +4860,9 @@
 "McKinsey & Company",2023-08-10,5399881
 "McKinsey & Company",2023-08-29,5451717
 "McKinsey & Company",2023-09-15,5503840
+"McKinsey & Company",2023-10-18,5592341
+"McKinsey & Company",2023-12-14,5575204
+"McKinsey & Company",2023-12-16,5580800
 "McKinsey Africa",2021-12-20,7293
 "McKinsey Africa",2021-12-26,7440
 "McKinsey Africa",2021-12-30,7517
@@ -5265,6 +4977,8 @@
 "McKinsey Africa",2023-08-10,29738
 "McKinsey Africa",2023-08-29,30248
 "McKinsey Africa",2023-09-15,30682
+"McKinsey Africa",2023-10-18,31594
+"McKinsey Africa",2023-12-14,35314
 "McKinsey Analytics",2020-10-05,103374
 "McKinsey Analytics",2020-10-07,103455
 "McKinsey Analytics",2020-10-12,103797
@@ -5392,6 +5106,9 @@
 "McMaster Artificial Intelligence Society",2023-08-08,985
 "McMaster Artificial Intelligence Society",2023-08-10,985
 "McMaster Artificial Intelligence Society",2023-09-15,1001
+"McMaster Artificial Intelligence Society",2023-10-18,1001
+"McMaster Artificial Intelligence Society",2023-12-17,1030
+"McMaster Artificial Intelligence Society",2023-12-18,1031
 "McMaster Computer Science Society",2021-03-28,76
 "McMaster Computer Science Society",2021-03-28,83
 "McMaster Computer Science Society",2021-03-31,76
@@ -5583,6 +5300,12 @@
 "McMaster Computer Science Society",2023-08-10,180
 "McMaster Computer Science Society",2023-09-15,85
 "McMaster Computer Science Society",2023-09-15,183
+"McMaster Computer Science Society",2023-10-18,85
+"McMaster Computer Science Society",2023-10-18,183
+"McMaster Computer Science Society",2023-12-17,85
+"McMaster Computer Science Society",2023-12-17,193
+"McMaster Computer Science Society",2023-12-18,85
+"McMaster Computer Science Society",2023-12-18,193
 "Mechanical Engineering World",2023-01-21,794849
 "Mechanical Engineering World",2023-02-25,830704
 "Mechanical Engineering World",2023-03-13,845853
@@ -5596,6 +5319,7 @@
 "Mechanical Engineering World",2023-07-23,1030190
 "Mechanical Engineering World",2023-08-05,1056263
 "Mechanical Engineering World",2023-08-29,1091436
+"Mechanical Engineering World",2023-10-18,1136670
 "Medical Research Council",2023-01-25,45125
 "Medical Research Council",2023-01-29,45207
 "Medical Select",2021-05-10,526
@@ -5699,12 +5423,15 @@
 "Meetup Machine Learning Qu<e9>bec",2023-06-05,83
 "Meetup Machine Learning Qu<e9>bec",2023-06-14,83
 "Meetup Machine Learning Qu<e9>bec",2023-06-17,83
-"Meetup Machine Learning Québec",2023-09-15,84
 "Meetup Machine Learning Qu<e9>bec",2023-06-27,83
 "Meetup Machine Learning Qu<e9>bec",2023-07-06,83
 "Meetup Machine Learning Qu<e9>bec",2023-07-23,83
 "Meetup Machine Learning Qu<e9>bec",2023-08-08,83
 "Meetup Machine Learning Qu<e9>bec",2023-08-10,83
+"Meetup Machine Learning Québec",2023-10-18,84
+"Meetup Machine Learning Québec",2023-12-17,84
+"Meetup Machine Learning Québec",2023-12-18,84
+"Meetup Machine Learning Qu<e9>bec",2023-09-15,84
 "Mekong River Commission Secretariat",2023-01-28,5679
 "Mellon Foundation",2022-03-15,16937
 "Mellon Foundation",2022-03-20,17021
@@ -5806,6 +5533,9 @@
 "Mellon Foundation",2023-08-10,35397
 "Mellon Foundation",2023-08-29,36434
 "Mellon Foundation",2023-09-15,37326
+"Mellon Foundation",2023-10-18,39169
+"Mellon Foundation",2023-12-14,40943
+"Mellon Foundation",2023-12-16,41077
 "Mendeley",2023-01-28,26369
 "Menora Mivtachim Group",2023-01-22,6221
 "Mentech",2023-02-10,2134
@@ -5822,6 +5552,7 @@
 "Mentor Me Collective",2023-07-23,12398
 "Mentor Me Collective",2023-08-05,12515
 "Mentor Me Collective",2023-08-29,13521
+"Mentor Me Collective",2023-10-18,13913
 "Merantix",2023-01-25,9321
 "Merantix",2023-01-29,9364
 "MerciBOOKoup",2023-02-10,312
@@ -5847,6 +5578,9 @@
 "Meta",2023-07-23,10116574
 "Meta",2023-08-05,10192219
 "Meta",2023-08-29,10326903
+"Meta",2023-10-18,10565929
+"Meta",2023-12-14,10096488
+"Meta",2023-12-17,10106492
 "Meta AI",2023-01-21,437039
 "Meta AI",2023-01-22,437220
 "Meta AI",2023-02-25,447442
@@ -5864,6 +5598,9 @@
 "Meta RH Multiservice",2021-05-10,3727
 "MetaDocencia",2023-01-25,233
 "Metafy",2023-01-25,5776
+"Miami Herald",2023-10-18,13173
+"Miami Herald",2023-12-14,12891
+"Miami Herald",2023-12-17,12905
 "MicroMap IT & GIS Consultancy Abu Dhabi",2021-01-22,668
 "MicroMap IT & GIS Consultancy Abu Dhabi",2021-01-25,668
 "MicroMap IT & GIS Consultancy Abu Dhabi",2021-01-28,669
@@ -5990,6 +5727,9 @@
 "MicroMap IT & GIS Consultancy Abu Dhabi",2023-08-08,1527
 "MicroMap IT & GIS Consultancy Abu Dhabi",2023-08-10,1530
 "MicroMap IT & GIS Consultancy Abu Dhabi",2023-09-15,1532
+"MicroMap IT & GIS Consultancy Abu Dhabi",2023-10-18,1532
+"MicroMap IT & GIS Consultancy Abu Dhabi",2023-12-17,1716
+"MicroMap IT & GIS Consultancy Abu Dhabi",2023-12-18,1718
 "Microchip Technology Inc.",2023-01-21,291518
 "Microchip Technology Inc.",2023-02-10,294591
 "Microchip Technology Inc.",2023-02-25,297240
@@ -6004,6 +5744,9 @@
 "Microchip Technology Inc.",2023-07-23,327190
 "Microchip Technology Inc.",2023-08-05,331514
 "Microchip Technology Inc.",2023-08-29,337806
+"Microchip Technology Inc.",2023-10-18,351008
+"Microchip Technology Inc.",2023-12-14,355018
+"Microchip Technology Inc.",2023-12-17,355684
 "Micron Technology",2023-06-05,512604
 "Micron Technology",2023-06-11,514172
 "Micron Technology",2023-06-23,517750
@@ -6011,6 +5754,9 @@
 "Micron Technology",2023-07-23,526975
 "Micron Technology",2023-08-05,531856
 "Micron Technology",2023-08-29,541168
+"Micron Technology",2023-10-18,560425
+"Micron Technology",2023-12-14,550875
+"Micron Technology",2023-12-17,552275
 "Microsoft",2021-01-19,13452516
 "Microsoft",2021-02-19,13668277
 "Microsoft",2021-03-06,13764186
@@ -6030,6 +5776,9 @@
 "Microsoft",2023-07-23,20562775
 "Microsoft",2023-08-05,20749598
 "Microsoft",2023-08-29,21131208
+"Microsoft",2023-10-18,21978971
+"Microsoft",2023-12-14,21031311
+"Microsoft",2023-12-17,21081506
 "Microsoft 365",2023-01-22,421928
 "Microsoft Cloud",2023-01-21,527879
 "Microsoft Cloud",2023-02-25,535527
@@ -6044,9 +5793,12 @@
 "Microsoft Cloud",2023-07-23,568945
 "Microsoft Cloud",2023-08-05,570959
 "Microsoft Cloud",2023-08-29,573939
+"Microsoft Cloud",2023-10-18,581360
+"Microsoft Cloud",2023-12-17,588245
 "Microsoft Developer",2023-07-23,282346
 "Microsoft Developer",2023-08-05,283518
 "Microsoft Developer",2023-08-29,285052
+"Microsoft Developer",2023-10-18,291013
 "Microsoft Developers",2023-01-21,236968
 "Microsoft Developers",2023-02-25,245659
 "Microsoft Developers",2023-03-13,249893
@@ -6070,6 +5822,8 @@
 "Microsoft Learn",2023-07-23,580427
 "Microsoft Learn",2023-08-05,584253
 "Microsoft Learn",2023-08-29,591035
+"Microsoft Learn",2023-10-18,609843
+"Microsoft Learn",2023-12-17,616295
 "Microsoft Power BI by Solution Systems",2021-03-24,47608
 "Microsoft Power BI by Solution Systems",2021-03-30,48013
 "Microsoft Power BI by Solution Systems",2021-04-06,48291
@@ -6220,6 +5974,8 @@
 "Microsoft Power BI by Solution Systems",2023-08-10,86142
 "Microsoft Power BI by Solution Systems",2023-08-29,86267
 "Microsoft Power BI by Solution Systems",2023-09-15,86404
+"Microsoft Power BI by Solution Systems",2023-10-18,86757
+"Microsoft Power BI by Solution SystemsMicrosoft Power BI by Solution Systems",2023-12-14,NA
 "Microsoft Research",2023-03-13,66699
 "Microsoft Research",2023-03-29,73978
 "Microsoft Research",2023-04-10,79669
@@ -6246,6 +6002,8 @@
 "Microsoft Research",2023-08-10,134521
 "Microsoft Research",2023-08-29,138501
 "Microsoft Research",2023-09-15,140419
+"Microsoft Research",2023-10-18,161713
+"Microsoft Research",2023-12-14,198681
 "Microsoft Security",2023-01-21,216047
 "Microsoft Security",2023-02-25,225109
 "Microsoft Security",2023-03-13,229597
@@ -6259,6 +6017,7 @@
 "Microsoft Security",2023-07-23,259796
 "Microsoft Security",2023-08-05,262541
 "Microsoft Security",2023-08-29,266034
+"Microsoft Security",2023-10-18,275744
 "Microsoft for Healthcare",2023-03-13,44624
 "Microsoft for Healthcare",2023-03-29,45016
 "Microsoft for Healthcare",2023-04-10,45237
@@ -6270,6 +6029,7 @@
 "Microsoft for Healthcare",2023-07-23,47033
 "Microsoft for Healthcare",2023-08-05,47216
 "Microsoft for Healthcare",2023-08-29,47576
+"Microsoft for Healthcare",2023-10-18,48115
 "Middle East Jobs",2023-01-21,76373
 "Middle East Jobs",2023-02-25,76880
 "Middle East Jobs",2023-03-13,77048
@@ -6283,6 +6043,7 @@
 "Middle East Jobs",2023-07-23,78092
 "Middle East Jobs",2023-08-05,78150
 "Middle East Jobs",2023-08-29,78329
+"Middle East Jobs",2023-10-18,71524
 "Midjourney",2023-03-29,50150
 "Midjourney",2023-04-10,53873
 "Midjourney",2023-04-23,57632
@@ -6315,6 +6076,8 @@
 "MidlandsIreland.ie",2023-08-10,3355
 "MidlandsIreland.ie",2023-08-29,3408
 "MidlandsIreland.ie",2023-09-15,3453
+"MidlandsIreland.ie",2023-10-18,3588
+"MidlandsIreland.ie",2023-12-14,3732
 "Migdal Insurance Co.",2023-01-22,429
 "Millennium Space Systems A Boeing Company",2023-01-21,25594
 "Millennium Space Systems A Boeing Company",2023-02-25,27612
@@ -6329,6 +6092,7 @@
 "Millennium Space Systems A Boeing Company",2023-07-23,35687
 "Millennium Space Systems A Boeing Company",2023-08-05,36377
 "Millennium Space Systems A Boeing Company",2023-08-29,37445
+"Millennium Space Systems A Boeing Company",2023-10-18,41144
 "Milliman",2023-01-22,50074
 "Ministry of Education Culture and Science",2023-01-28,120001
 "MinneAnalytics",2023-01-22,3355
@@ -6345,6 +6109,7 @@
 "Minorities in Cybersecurity",2023-07-23,11117
 "Minorities in Cybersecurity",2023-08-05,11235
 "Minorities in Cybersecurity",2023-08-29,11631
+"Minorities in Cybersecurity",2023-10-18,12205
 "Mirai Solutions GmbH",2023-01-25,274
 "m-ld.io",2023-01-25,128
 "m-ld.io",2023-01-29,128
@@ -6474,3 +6239,6 @@
 "meetup.ai",2023-08-08,482
 "meetup.ai",2023-08-10,482
 "meetup.ai",2023-09-15,483
+"meetup.ai",2023-10-18,483
+"meetup.ai",2023-12-17,481
+"meetup.ai",2023-12-18,481
