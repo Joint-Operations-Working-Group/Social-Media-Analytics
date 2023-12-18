@@ -1,28 +1,4 @@
 "Company","Date","Followers"
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-03-10,334
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-03-14,336
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-03-18,336
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-03-21,336
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-03-25,336
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-04-01,337
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-04-10,337
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-04-13,337
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-04-21,338
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-04-29,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-05-12,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-05-19,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-05-29,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-05,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-11,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-14,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-17,339
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-23,340
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-06-27,340
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-07-06,341
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-07-23,341
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-08-02,341
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-08-08,341
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-08-10,342
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-02-16,253
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-02-17,253
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2021-02-21,255
@@ -164,9 +140,6 @@
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-02-24,333
 "UCD Netsoc <U+0096> UCD's Internet and Computer Science Society",2023-02-25,333
 "UCD Netsoc <e2><U+0080><U+0093> UCD's Internet and Computer Science Society",2021-02-25,258
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-07-23,341
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-08-29,344
-"UCD Netsoc <96> UCD's Internet and Computer Science Society",2023-09-15,346
 "UCL Cancer Institute",2023-01-25,4588
 "UCL Cancer Institute",2023-01-29,4614
 "UCL Data Science Society",2021-01-22,717
@@ -461,6 +434,7 @@
 "UK Space Agency",2023-08-29,84366
 "UK Space Agency",2023-10-18,87326
 "UK Space Agency",2023-12-17,89317
+"UK Space Agency",2023-12-18,89367
 "UK Statistic",2023-06-11,4079
 "UK Statistic",2023-06-14,4090
 "UK Statistic",2023-06-17,4099
@@ -474,6 +448,7 @@
 "UK Statistic",2023-08-29,4214
 "UK Statistic",2023-09-15,4110
 "UK Statistic",2023-10-18,4138
+"UK Statistic",2023-12-18,4200
 "UK Statistics Authority",2020-10-20,735
 "UK Statistics Authority",2020-10-21,736
 "UK Statistics Authority",2020-10-23,737
@@ -666,6 +641,7 @@
 "UKCloud Ltd",2023-08-29,5866
 "UKCloud Ltd",2023-10-18,5880
 "UKCloud Ltd",2023-12-17,5781
+"UKCloud Ltd",2023-12-18,5781
 "UKG",2023-01-21,98764
 "UKG",2023-02-25,104362
 "UKG",2023-03-13,107011
@@ -799,6 +775,7 @@
 "UMass Boston",2023-10-18,105915
 "UMass Boston",2023-12-14,106777
 "UMass Boston",2023-12-17,106809
+"UMass Boston",2023-12-18,106820
 "UN Climate Change",2023-01-21,349985
 "UN Climate Change",2023-01-28,351732
 "UN Climate Change",2023-02-10,354570
@@ -817,6 +794,7 @@
 "UN Climate Change",2023-10-18,435806
 "UN Climate Change",2023-12-14,457187
 "UN Climate Change",2023-12-17,459316
+"UN Climate Change",2023-12-18,459776
 "UN Environment Programme",2023-01-21,979762
 "UN Environment Programme",2023-01-28,983170
 "UN Environment Programme",2023-02-10,988803
@@ -835,8 +813,10 @@
 "UN Environment Programme",2023-10-18,1123004
 "UN Environment Programme",2023-12-14,1159953
 "UN Environment Programme",2023-12-17,1161988
+"UN Environment Programme",2023-12-18,1162592
 "UN Sustainable Development Group",2023-12-14,230585
 "UN Sustainable Development Group",2023-12-16,231004
+"UN Sustainable Development Group",2023-12-18,231188
 "UN Women",2023-01-21,1033391
 "UN Women",2023-01-28,1037190
 "UN Women",2023-02-10,1043699
@@ -854,6 +834,7 @@
 "UN Women",2023-08-29,1204833
 "UN Women",2023-10-18,1260108
 "UN Women",2023-12-17,1285115
+"UN Women",2023-12-18,1285743
 "UNDP",2023-01-28,2006941
 "UNDP Guin",2023-06-11,3098
 "UNDP Guin",2023-06-14,3103
@@ -868,6 +849,7 @@
 "UNDP Guin",2023-08-29,3100
 "UNDP Guin",2023-09-15,3126
 "UNDP Guin",2023-10-18,3163
+"UNDP Guin",2023-12-18,3306
 "UNDP Guinea-Bissau",2021-06-02,1426
 "UNDP Guinea-Bissau",2021-06-09,1449
 "UNDP Guinea-Bissau",2021-06-16,1459
@@ -1019,6 +1001,7 @@
 "UNESCO",2023-10-18,1910179
 "UNESCO",2023-12-14,1910874
 "UNESCO",2023-12-17,1913849
+"UNESCO",2023-12-18,1914806
 "UNHCR the UN Refugee Agency",2023-01-28,1714787
 "UNICEF",2023-01-21,4140952
 "UNICEF",2023-02-10,4169505
@@ -1037,6 +1020,7 @@
 "UNICEF",2023-10-18,4640828
 "UNICEF",2023-12-14,4553132
 "UNICEF",2023-12-17,4558911
+"UNICEF",2023-12-18,4560601
 "UNICEF Ethiopia",2023-01-28,71141
 "UNICEF Innocenti",2023-02-04,57770
 "UNICEF Innocenti",2023-02-10,57881
@@ -1069,6 +1053,7 @@
 "UNICEF Innocenti",2023-08-29,61941
 "UNICEF Innocenti",2023-09-15,60324
 "UNICEF Innocenti",2023-10-18,60652
+"UNICEF Innocenti",2023-12-18,61863
 "UNICEF Office of Research - Innocenti",2021-12-20,34517
 "UNICEF Office of Research - Innocenti",2021-12-26,34929
 "UNICEF Office of Research - Innocenti",2021-12-30,35153
@@ -1426,6 +1411,7 @@
 "UP42",2023-08-05,10707
 "UP42",2023-08-29,10811
 "UP42",2023-10-18,11121
+"UP42",2023-12-18,11471
 "US Army TRADOC",2023-01-21,9185
 "US Army TRADOC",2023-02-25,9514
 "US Army TRADOC",2023-03-13,9676
@@ -1440,6 +1426,7 @@
 "US Army TRADOC",2023-08-05,11625
 "US Army TRADOC",2023-08-29,12005
 "US Army TRADOC",2023-10-18,12747
+"US Army TRADOC",2023-12-18,12386
 "US Environmental Protection Agency (EPA)",2023-01-28,353088
 "US IT S",2023-06-11,59958
 "US IT S",2023-06-23,60184
@@ -1448,6 +1435,7 @@
 "US IT S",2023-08-05,60889
 "US IT S",2023-08-29,61403
 "US IT S",2023-10-18,63268
+"US IT S",2023-12-18,57539
 "US IT Staffing",2023-01-21,52959
 "US IT Staffing",2023-02-25,55008
 "US IT Staffing",2023-03-13,55885
@@ -1472,6 +1460,7 @@
 "US Navy",2023-10-18,741369
 "US Navy",2023-12-14,706750
 "US Navy",2023-12-17,707796
+"US Navy",2023-12-18,707987
 "USAA",2023-01-21,351939
 "USAA",2023-02-10,354226
 "USAA",2023-02-25,355856
@@ -1489,6 +1478,7 @@
 "USAA",2023-10-18,363401
 "USAA",2023-12-14,369369
 "USAA",2023-12-17,369639
+"USAA",2023-12-18,369734
 "USAF SBIR/STTR",2023-01-21,15258
 "USAF SBIR/STTR",2023-02-25,15389
 "USAF SBIR/STTR",2023-03-13,15423
@@ -1503,6 +1493,7 @@
 "USAF SBIR/STTR",2023-08-05,15635
 "USAF SBIR/STTR",2023-08-29,15667
 "USAF SBIR/STTR",2023-10-18,15124
+"USAF SBIR/STTR",2023-12-18,15151
 "USAID",2023-01-21,1818335
 "USAID",2023-01-28,1829227
 "USAID",2023-02-10,1847142
@@ -1521,6 +1512,7 @@
 "USAID",2023-10-18,2158203
 "USAID",2023-12-14,2119136
 "USAID",2023-12-17,2122446
+"USAID",2023-12-18,2123378
 "USAJOBS",2023-01-21,621323
 "USAJOBS",2023-02-25,661569
 "USAJOBS",2023-03-13,680352
@@ -1535,6 +1527,7 @@
 "USAJOBS",2023-08-05,835107
 "USAJOBS",2023-08-29,857031
 "USAJOBS",2023-10-18,918262
+"USAJOBS",2023-12-18,874812
 "USC Center for AI in Society's Student Branch (CAIS++)",2021-03-28,137
 "USC Center for AI in Society's Student Branch (CAIS++)",2021-03-31,137
 "USC Center for AI in Society's Student Branch (CAIS++)",2021-04-06,137
@@ -1660,6 +1653,7 @@
 "USCIS",2023-08-05,93685
 "USCIS",2023-08-29,96165
 "USCIS",2023-10-18,96185
+"USCIS",2023-12-18,101997
 "USCIS- U.S. Citizenship and Immigration Services",2023-01-21,5051
 "USCIS- U.S. Citizenship and Immigration Services",2023-02-25,5354
 "USCIS- U.S. Citizenship and Immigration Services",2023-03-13,5493
@@ -1813,6 +1807,7 @@
 "UWF Center for Cybersecurity",2023-08-05,2059
 "UWF Center for Cybersecurity",2023-08-29,2107
 "UWF Center for Cybersecurity",2023-10-18,2228
+"UWF Center for Cybersecurity",2023-12-18,2294
 "UWF Graduate School",2023-02-25,161
 "UWF Graduate School",2023-03-13,176
 "UWF Graduate School",2023-03-29,180
@@ -1853,6 +1848,7 @@
 "UWF Innovation Institute",2023-08-05,219
 "UWF Innovation Institute",2023-08-29,219
 "UWF Innovation Institute",2023-10-18,210
+"UWF Innovation Institute",2023-12-18,212
 "Udemy",2020-10-07,440820
 "Udemy",2020-10-09,442859
 "Udemy",2020-10-13,446021
@@ -2050,6 +2046,7 @@
 "Udemy",2023-10-18,1287507
 "Udemy",2023-12-14,1287834
 "Udemy",2023-12-16,1289041
+"Udemy",2023-12-18,1289893
 "Ukrainian Military Pages",2022-02-27,1878
 "Ultima Genomics",2023-01-25,8382
 "Ultima Genomics",2023-01-29,8418
@@ -2163,6 +2160,7 @@
 "Ultimate",2023-08-29,9769
 "Ultimate",2023-09-15,10008
 "Ultimate",2023-10-18,10389
+"Ultimate",2023-12-18,10850
 "UltimateUltimate",2023-12-14,NA
 "Umbra",2023-01-21,4943
 "Umbra",2023-02-25,5586
@@ -2178,6 +2176,7 @@
 "Umbra",2023-08-05,7603
 "Umbra",2023-08-29,8090
 "Umbra",2023-10-18,8798
+"Umbra",2023-12-18,9325
 "UnCruise Adventures Small Ship Cruising",2023-01-21,4508
 "UnCruise Adventures Small Ship Cruising",2023-02-10,4572
 "UnCruise Adventures Small Ship Cruising",2023-02-25,4605
@@ -2194,6 +2193,7 @@
 "UnCruise Adventures Small Ship Cruising",2023-08-29,5188
 "UnCruise Adventures Small Ship Cruising",2023-10-18,5295
 "UnCruise Adventures Small Ship Cruising",2023-12-17,5327
+"UnCruise Adventures Small Ship Cruising",2023-12-18,5336
 "Unbelievable Machine",2020-10-13,1791
 "Unbelievable Machine",2020-10-19,1795
 "Uncrewed Systems Technology",2023-02-25,1869
@@ -2243,6 +2243,7 @@
 "United Launch Alliance (ULA)",2023-10-18,84804
 "United Launch Alliance (ULA)",2023-12-14,85782
 "United Launch Alliance (ULA)",2023-12-17,85998
+"United Launch Alliance (ULA)",2023-12-18,86041
 "United Nations",2023-01-21,4810252
 "United Nations",2023-01-28,4823476
 "United Nations",2023-02-10,4846799
@@ -2261,6 +2262,7 @@
 "United Nations",2023-10-18,5374249
 "United Nations",2023-12-14,5248994
 "United Nations",2023-12-17,5255376
+"United Nations",2023-12-18,5257284
 "United Nations Environment Programme Finance Initiative (UNEP FI)",2023-01-28,297579
 "United Nations Foundation",2021-07-14,107974
 "United Nations Foundation",2021-07-18,108138
@@ -2391,6 +2393,7 @@
 "United Nations Foundation",2023-10-18,179818
 "United Nations Foundation",2023-12-14,181412
 "United Nations Foundation",2023-12-16,181675
+"United Nations Foundation",2023-12-18,181858
 "United Nations Global Compact",2023-01-28,122694
 "United Nations Institute for Training and Research (UNITAR)",2021-12-20,218704
 "United Nations Institute for Training and Research (UNITAR)",2021-12-26,220385
@@ -2506,6 +2509,7 @@
 "United Nations Institute for Training and Research (UNITAR)",2023-10-18,363133
 "United Nations Institute for Training and Research (UNITAR)",2023-12-14,378904
 "United Nations Institute for Training and Research (UNITAR)",2023-12-16,379737
+"United Nations Institute for Training and Research (UNITAR)",2023-12-18,380365
 "United Nations OCHA",2023-01-21,456967
 "United Nations OCHA",2023-01-28,459378
 "United Nations OCHA",2023-02-10,463249
@@ -2524,6 +2528,7 @@
 "United Nations OCHA",2023-10-18,521802
 "United Nations OCHA",2023-12-14,515160
 "United Nations OCHA",2023-12-17,516080
+"United Nations OCHA",2023-12-18,516340
 "United Nations Office for Outer Space Affairs (UNOOSA)",2023-01-21,19947
 "United Nations Office for Outer Space Affairs (UNOOSA)",2023-02-10,20396
 "United Nations Office for Outer Space Affairs (UNOOSA)",2023-02-25,20773
@@ -2541,6 +2546,7 @@
 "United Nations Office for Outer Space Affairs (UNOOSA)",2023-10-18,27608
 "United Nations Office for Outer Space Affairs (UNOOSA)",2023-12-14,29045
 "United Nations Office for Outer Space Affairs (UNOOSA)",2023-12-17,29200
+"United Nations Office for Outer Space Affairs (UNOOSA)",2023-12-18,29232
 "United Nations Satellite Centre (UNOSAT)",2023-03-18,4636
 "United Nations Satellite Centre (UNOSAT)",2023-03-21,4659
 "United Nations Satellite Centre (UNOSAT)",2023-03-25,4692
@@ -2566,6 +2572,7 @@
 "United Nations Satellite Centre (UNOSAT)",2023-08-29,5234
 "United Nations Satellite Centre (UNOSAT)",2023-09-15,5332
 "United Nations Satellite Centre (UNOSAT)",2023-10-18,5437
+"United Nations Satellite Centre (UNOSAT)",2023-12-18,5634
 "United Nations Satellite Centre (UNOSAT)United Nations Satellite Centre (UNOSAT)",2023-12-14,NA
 "United Nations Sustainable Development Group",2021-07-14,119736
 "United Nations Sustainable Development Group",2021-07-18,119910
@@ -2712,6 +2719,7 @@
 "United States Air Force",2023-10-18,771056
 "United States Air Force",2023-12-14,748546
 "United States Air Force",2023-12-17,749196
+"United States Air Force",2023-12-18,749350
 "United States Air Force Security Forces",2023-01-21,8751
 "United States Air Force Security Forces",2023-02-10,8772
 "United States Air Force Security Forces",2023-02-25,8792
@@ -2728,6 +2736,7 @@
 "United States Air Force Security Forces",2023-08-29,8901
 "United States Air Force Security Forces",2023-10-18,8930
 "United States Air Force Security Forces",2023-12-17,8545
+"United States Air Force Security Forces",2023-12-18,8545
 "United States Attorneys'<U+200B> Offices",2023-03-13,105387
 "United States Attorneys'<U+200B> Offices",2023-03-29,106368
 "United States Attorneys'<U+200B> Offices",2023-04-10,107009
@@ -2742,6 +2751,7 @@
 "United States Attorneys'<U+200B> Offices",2023-10-18,114495
 "United States Attorneys'<U+200B> Offices",2023-12-14,117378
 "United States Attorneys'<U+200B> Offices",2023-12-17,117575
+"United States Attorneys'<U+200B> Offices",2023-12-18,117611
 "United States Cybersecurity Magazine",2023-01-21,1672
 "United States Cybersecurity Magazine",2023-02-25,1716
 "United States Cybersecurity Magazine",2023-03-13,1729
@@ -2773,6 +2783,7 @@
 "United States Department of Defense",2023-10-18,1390726
 "United States Department of Defense",2023-12-14,1273677
 "United States Department of Defense",2023-12-17,1275979
+"United States Department of Defense",2023-12-18,1276466
 "United States Geospatial Intelligence Foundation (USGIF)",2023-01-21,9868
 "United States Geospatial Intelligence Foundation (USGIF)",2023-02-10,9985
 "United States Geospatial Intelligence Foundation (USGIF)",2023-02-25,10059
@@ -2789,6 +2800,7 @@
 "United States Geospatial Intelligence Foundation (USGIF)",2023-08-29,11722
 "United States Geospatial Intelligence Foundation (USGIF)",2023-10-18,11951
 "United States Geospatial Intelligence Foundation (USGIF)",2023-12-17,12001
+"United States Geospatial Intelligence Foundation (USGIF)",2023-12-18,12004
 "United States Marshals Service",2023-01-21,126916
 "United States Marshals Service",2023-02-25,130095
 "United States Marshals Service",2023-03-13,131592
@@ -2803,6 +2815,7 @@
 "United States Marshals Service",2023-08-05,145824
 "United States Marshals Service",2023-08-29,148010
 "United States Marshals Service",2023-10-18,153518
+"United States Marshals Service",2023-12-18,148859
 "United States Naval Academy",2023-01-21,71055
 "United States Naval Academy",2023-02-10,71483
 "United States Naval Academy",2023-02-25,71846
@@ -2820,6 +2833,7 @@
 "United States Naval Academy",2023-10-18,71179
 "United States Naval Academy",2023-12-14,72045
 "United States Naval Academy",2023-12-17,72144
+"United States Naval Academy",2023-12-18,72175
 "United States Space Force",2023-01-21,98647
 "United States Space Force",2023-02-25,102015
 "United States Space Force",2023-03-13,103684
@@ -2848,6 +2862,7 @@
 "United States Strategic Command",2023-08-05,63500
 "United States Strategic Command",2023-08-29,64186
 "United States Strategic Command",2023-10-18,61508
+"United States Strategic Command",2023-12-18,62313
 "United States-India Educational Foundation (USIEF) New Delhi",2023-01-28,3696
 "Universal Music Group",2021-01-19,554822
 "Universidad Autonoma Metropolitana Cuajimalpa",2021-02-19,304
@@ -3346,6 +3361,7 @@
 "University of Massachusetts",2023-10-18,60179
 "University of Massachusetts",2023-12-14,59085
 "University of Massachusetts",2023-12-17,59106
+"University of Massachusetts",2023-12-18,59112
 "University of Michigan",2023-01-22,661337
 "University of Michigan - Rackham Graduate School",2023-01-22,11656
 "University of North Carolina at Charlotte",2023-01-28,185455
@@ -3380,6 +3396,7 @@
 "University of West Florida",2023-10-18,72589
 "University of West Florida",2023-12-14,71128
 "University of West Florida",2023-12-17,71179
+"University of West Florida",2023-12-18,71197
 "University of West Florida - College of Business",2023-01-21,10745
 "University of West Florida - College of Business",2023-02-25,10818
 "University of West Florida - College of Business",2023-03-13,10868
@@ -3394,6 +3411,7 @@
 "University of West Florida - College of Business",2023-08-05,11241
 "University of West Florida - College of Business",2023-08-29,11305
 "University of West Florida - College of Business",2023-10-18,11496
+"University of West Florida - College of Business",2023-12-18,11367
 "University of the Philippines",2023-01-28,308654
 "University of the West of Scotland",2023-01-28,69031
 "UoM AI and Machine Learning Society",2021-03-28,52
@@ -3687,6 +3705,7 @@
 "Ursa Labs",2023-08-29,457
 "Ursa Labs",2023-09-15,457
 "Ursa Labs",2023-10-18,457
+"Ursa Labs",2023-12-18,447
 "Ursa LabsUrsa Labs",2023-12-14,NA
 "Ursa Major",2023-01-21,18149
 "Ursa Major",2023-02-25,18976
@@ -3702,6 +3721,7 @@
 "Ursa Major",2023-08-05,24226
 "Ursa Major",2023-08-29,24923
 "Ursa Major",2023-10-18,25851
+"Ursa Major",2023-12-18,27902
 "Ursa Space Systems",2023-01-21,7559
 "Ursa Space Systems",2023-02-25,7676
 "Ursa Space Systems",2023-03-13,7740
@@ -3716,6 +3736,7 @@
 "Ursa Space Systems",2023-08-05,8514
 "Ursa Space Systems",2023-08-29,8611
 "Ursa Space Systems",2023-10-18,8890
+"Ursa Space Systems",2023-12-18,8907
 "Utah State University",2023-01-28,124338
 "Utrecht University",2023-01-28,281887
 "VA TECH WABAG LTD.",2023-01-28,44080
@@ -3858,6 +3879,7 @@
 "VERDE",2023-08-29,192
 "VERDE",2023-09-15,192
 "VERDE",2023-10-18,193
+"VERDE",2023-12-18,189
 "VERDEVERDE",2023-12-14,NA
 "VIB",2023-01-25,20733
 "VIB",2023-01-29,20780
@@ -3909,6 +3931,7 @@
 "VINE",2023-12-18,1297
 "VISIT FLORIDA",2023-12-14,18329
 "VISIT FLORIDA",2023-12-17,18346
+"VISIT FLORIDA",2023-12-18,18353
 "VISO Cyber Security",2022-08-20,597
 "VISO Cyber Security",2022-08-25,601
 "VISO Cyber Security",2022-08-28,605
@@ -3970,6 +3993,7 @@
 "VISO Cyber Security",2023-09-15,861
 "VISO Cyber Security",2023-10-18,932
 "VISO Cyber Security",2023-12-14,986
+"VISO Cyber Security",2023-12-18,986
 "VIZZU",2023-01-21,457
 "VIZZU",2023-02-25,463
 "VIZZU",2023-03-13,483
@@ -3984,6 +4008,37 @@
 "VIZZU",2023-08-05,597
 "VIZZU",2023-08-29,603
 "VIZZU",2023-10-18,616
+"VMware",2023-01-21,1833964
+"VMware",2023-02-10,1842871
+"VMware",2023-02-25,1848952
+"VMware",2023-03-13,1855315
+"VMware",2023-03-29,1862091
+"VMware",2023-04-10,1868079
+"VMware",2023-04-23,1875068
+"VMware",2023-06-05,1895839
+"VMware",2023-06-11,1899659
+"VMware",2023-06-23,1907831
+"VMware",2023-07-06,1916500
+"VMware",2023-07-23,1926591
+"VMware",2023-08-05,1935388
+"VMware",2023-08-29,1949031
+"VMware",2023-10-18,1991041
+"VMware",2023-12-14,1941878
+"VMware",2023-12-17,1943395
+"VMware",2023-12-18,1943771
+"VMware Networking and Security",2023-01-21,5812
+"VMware Networking and Security",2023-02-25,6306
+"VMware Networking and Security",2023-03-13,6472
+"VMware Networking and Security",2023-03-29,6613
+"VMware Networking and Security",2023-04-10,6695
+"VMware Networking and Security",2023-04-23,6774
+"VMware Networking and Security",2023-06-05,7096
+"VMware Networking and Security",2023-06-11,7123
+"VMware Networking and Security",2023-06-23,7169
+"VMware Networking and Security",2023-07-06,7197
+"VMware Networking and Security",2023-07-23,7225
+"VMware Networking and Security",2023-08-05,7286
+"VMware Networking and Security",2023-08-29,7364
 "Valence",2023-01-25,2515
 "Valiance Solutions",2023-01-28,32456
 "ValleyML",2023-01-21,688
@@ -4037,6 +4092,7 @@
 "Venner Shipley",2023-10-18,2518
 "Venner Shipley",2023-12-14,2528
 "Venner Shipley",2023-12-17,2534
+"Venner Shipley",2023-12-18,2535
 "Venner Shipley LLP",2023-01-21,2208
 "Venner Shipley LLP",2023-02-10,2220
 "Venner Shipley LLP",2023-02-25,2246
@@ -4067,6 +4123,7 @@
 "VentureFizz",2023-10-18,6134
 "VentureFizz",2023-12-14,6320
 "VentureFizz",2023-12-17,6323
+"VentureFizz",2023-12-18,6324
 "Veolia Water Technologies",2023-01-28,149558
 "Veolia Water Technologies UK",2023-01-28,29654
 "Vera",2023-01-25,356
@@ -4100,12 +4157,14 @@
 "Vertex Pharmaceuticals",2023-10-18,299290
 "Vertex Pharmaceuticals",2023-12-14,308391
 "Vertex Pharmaceuticals",2023-12-17,309503
+"Vertex Pharmaceuticals",2023-12-18,309786
 "Vertex Solutions International Ltd",2023-01-25,51875
 "Vessel",2023-01-25,2152
 "Vevo Therapeutics",2023-01-25,450
 "Vevo Therapeutics",2023-01-29,463
 "Via",2023-01-25,94051
 "Via Satellite",2023-12-17,8791
+"Via Satellite",2023-12-18,8795
 "Via Satellite Magazine",2023-01-21,6722
 "Via Satellite Magazine",2023-02-25,7041
 "Via Satellite Magazine",2023-03-13,7228
@@ -4125,6 +4184,7 @@
 "Viasat",2023-10-18,125727
 "Viasat",2023-12-14,126949
 "Viasat",2023-12-17,127130
+"Viasat",2023-12-18,127183
 "Viasat Inc.",2023-01-21,100813
 "Viasat Inc.",2023-02-10,102420
 "Viasat Inc.",2023-02-25,103876
@@ -4319,6 +4379,7 @@
 "ViennaR",2023-08-29,391
 "ViennaR",2023-09-15,391
 "ViennaR",2023-10-18,392
+"ViennaR",2023-12-18,384
 "VietnamWorks",2023-01-28,278439
 "Vietnamese-German University",2023-01-28,5742
 "Vigil Neuroscience",2023-01-21,4176
@@ -4351,6 +4412,7 @@
 "Village Capital",2023-08-29,31968
 "Village Capital",2023-10-18,33197
 "Village Capital",2023-12-17,33838
+"Village Capital",2023-12-18,33851
 "Vimeo",2023-01-25,111861
 "Vimeo",2023-01-29,111989
 "Vincere Biosciences",2023-01-25,711
@@ -4373,6 +4435,7 @@
 "Virgin",2023-10-18,280021
 "Virgin",2023-12-14,275173
 "Virgin",2023-12-17,275501
+"Virgin",2023-12-18,275568
 "Virgin Galactic",2023-01-21,235348
 "Virgin Galactic",2023-01-25,235648
 "Virgin Galactic",2023-02-10,236892
@@ -4390,6 +4453,7 @@
 "Virgin Galactic",2023-08-29,252164
 "Virgin Galactic",2023-10-18,255932
 "Virgin Galactic",2023-12-17,252201
+"Virgin Galactic",2023-12-18,252243
 "Virgin Orbit",2023-01-21,93526
 "Virgin Orbit",2023-02-25,95281
 "Virgin Orbit",2023-03-13,95911
@@ -4404,6 +4468,7 @@
 "Virgin Orbit",2023-08-05,98774
 "Virgin Orbit",2023-08-29,98990
 "Virgin Orbit",2023-10-18,99219
+"Virgin Orbit",2023-12-18,96541
 "Virtually Testing Foundation",2023-01-21,30830
 "Virtually Testing Foundation",2023-02-25,32073
 "Virtually Testing Foundation",2023-03-13,32773
@@ -4435,6 +4500,7 @@
 "Visa",2023-10-18,1565799
 "Visa",2023-12-14,1527383
 "Visa",2023-12-17,1529828
+"Visa",2023-12-18,1530588
 "Vision Health Pioneers Incubator",2023-01-25,4449
 "Vision World Tech Pvt.Ltd.",2023-01-28,1922
 "Visit Pensacola Inc.",2023-01-21,2981

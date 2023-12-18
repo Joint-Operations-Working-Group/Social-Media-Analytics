@@ -1,4 +1,5 @@
 "Company","Date","Followers"
+"CARE",2023-01-28,616665
 "CAS",2023-01-28,26945
 "CAST AI",2023-01-25,4372
 "CAST AI",2023-01-29,4392
@@ -19,6 +20,7 @@
 "CATALYST",2023-10-18,5326
 "CATALYST",2023-12-14,5271
 "CATALYST",2023-12-17,5274
+"CATALYST",2023-12-18,5274
 "CAWST",2023-01-28,4698
 "CCS Global Tech",2021-02-19,9389
 "CCS Global Tech",2021-03-26,9988
@@ -56,6 +58,7 @@
 "CFA Institute",2023-10-18,674165
 "CFA Institute",2023-12-14,668069
 "CFA Institute",2023-12-17,669264
+"CFA Institute",2023-12-18,669494
 "CFA Program",2023-01-21,133307
 "CFA Program",2023-02-25,136328
 "CFA Program",2023-03-13,137476
@@ -70,6 +73,7 @@
 "CFA Program",2023-08-05,150524
 "CFA Program",2023-08-29,152494
 "CFA Program",2023-10-18,156388
+"CFA Program",2023-12-18,157749
 "CGI",2023-01-21,1053499
 "CGI",2023-02-10,1072598
 "CGI",2023-02-25,1085777
@@ -87,6 +91,7 @@
 "CGI",2023-10-18,1302434
 "CGI",2023-12-14,1312888
 "CGI",2023-12-17,1315847
+"CGI",2023-12-18,1316688
 "CGTN",2023-01-21,61106
 "CGTN",2023-02-25,61970
 "CGTN",2023-03-13,62374
@@ -102,6 +107,7 @@
 "CGTN",2023-08-29,87094
 "CGTN",2023-10-18,102363
 "CGTN",2023-12-17,105246
+"CGTN",2023-12-18,105311
 "CINECA",2023-03-13,14547
 "CINECA",2023-03-29,14748
 "CINECA",2023-04-10,14891
@@ -116,6 +122,7 @@
 "CINECA",2023-10-18,17202
 "CINECA",2023-12-14,17726
 "CINECA",2023-12-17,17771
+"CINECA",2023-12-18,17790
 "CIWEM (The Chartered Institution of Water and Environmental Management)",2023-01-28,18556
 "CIWM",2023-01-28,11506
 "CMMC 2.0 information",2023-01-21,2230
@@ -149,6 +156,7 @@
 "CNN",2023-10-18,3295820
 "CNN",2023-12-14,3042171
 "CNN",2023-12-17,3043105
+"CNN",2023-12-18,3043425
 "CO:LAB Pensacola",2023-01-21,401
 "CO:LAB Pensacola",2023-02-25,406
 "CO:LAB Pensacola",2023-03-13,413
@@ -163,6 +171,7 @@
 "CO:LAB Pensacola",2023-08-05,472
 "CO:LAB Pensacola",2023-08-29,477
 "CO:LAB Pensacola",2023-10-18,497
+"CO:LAB Pensacola",2023-12-18,522
 "CONNECT Centre",2021-01-22,2396
 "CONNECT Centre",2021-01-25,2401
 "CONNECT Centre",2021-01-28,2405
@@ -296,12 +305,8 @@
 "CONNECT Centre",2023-10-18,4054
 "CONNECT Centre",2023-12-17,4092
 "CONNECT Centre",2023-12-18,4092
-"CPI Formations",2020-10-16,912
-"CPI Formations",2020-10-21,917
-"CPI Formations",2020-10-22,918
-"CPI Formations",2020-11-02,944
-"CPI Formations",2020-11-07,948
-"CPI Formations",2020-11-21,966
+"Carboncopies Foundation",2023-01-25,508
+"Cardno International Development",2023-01-28,50642
 "CareerBuilder Vietnam",2023-01-28,176968
 "Careerflow",2023-01-21,103604
 "Careerflow.ai",2023-02-25,106696
@@ -365,6 +370,7 @@
 "Carelon Global Solutions Ireland",2023-09-15,18058
 "Carelon Global Solutions Ireland",2023-10-18,18904
 "Carelon Global Solutions Ireland",2023-12-14,21160
+"Carelon Global Solutions Ireland",2023-12-18,21265
 "Caribou Biosciences",2023-01-25,17697
 "Caribou Biosciences",2023-01-29,17784
 "Carleton Artificial Intelligence Society",2021-03-28,214
@@ -493,7 +499,9 @@
 "Carnegie Mellon University",2023-10-18,275988
 "Carnegie Mellon University",2023-12-14,280667
 "Carnegie Mellon University",2023-12-17,281036
+"Carnegie Mellon University",2023-12-18,281141
 "Carnegie Mellon University Africa",2023-10-18,17134
+"Carnegie Mellon University Africa",2023-12-18,18703
 "Carnegie Mellon University Silicon Valley",2023-01-25,2883
 "Carrefour",2023-01-21,1112389
 "Carrefour",2023-02-10,1120182
@@ -512,6 +520,7 @@
 "Carrefour",2023-10-18,1212717
 "Carrefour",2023-12-14,1121480
 "Carrefour",2023-12-17,1122576
+"Carrefour",2023-12-18,1122932
 "Cartography Biosciences",2023-01-25,1269
 "Cartography Biosciences",2023-01-29,1271
 "Cascadia R Conference",2023-08-08,254
@@ -519,6 +528,7 @@
 "Cascadia R Conference",2023-08-29,314
 "Cascadia R Conference",2023-09-15,321
 "Cascadia R Conference",2023-10-18,325
+"Cascadia R Conference",2023-12-18,328
 "Cascadia R ConferenceCascadia R Conference",2023-12-14,NA
 "Castle",2023-01-25,2575
 "Casual Space Podcast",2023-01-21,415
@@ -566,6 +576,7 @@
 "Catalyst Inc.",2023-08-29,41457
 "Catalyst Inc.",2023-10-18,42388
 "Catalyst Inc.",2023-12-17,42313
+"Catalyst Inc.",2023-12-18,42321
 "Catalyst Seychelles",2021-06-02,180
 "Catalyst Seychelles",2021-06-09,182
 "Catalyst Seychelles",2021-06-16,183
@@ -704,6 +715,7 @@
 "Catalyst Seychelles",2023-08-29,229
 "Catalyst Seychelles",2023-09-15,230
 "Catalyst Seychelles",2023-10-18,230
+"Catalyst Seychelles",2023-12-18,227
 "Catalyst SeychellesCatalyst Seychelles",2023-12-14,NA
 "CeADAR Ireland",2022-06-15,1352
 "CeADAR Ireland",2022-06-16,1366
@@ -784,6 +796,7 @@
 "CeADAR Ireland",2023-08-29,2362
 "CeADAR Ireland",2023-09-15,2424
 "CeADAR Ireland",2023-10-18,2575
+"CeADAR Ireland",2023-12-18,2783
 "CeADAR IrelandCeADAR Ireland",2023-12-14,NA
 "Cedo",2023-01-28,3816
 "Cegedim e-business",2020-10-16,1961
@@ -797,6 +810,7 @@
 "Cell and Gene Therapy Catapult",2023-01-25,34397
 "Cell and Gene Therapy Catapult",2023-01-29,34484
 "CellClar",2023-12-14,1046
+"CellClar",2023-12-18,1046
 "Cellino",2023-01-25,5727
 "Cellino",2023-01-29,5765
 "Cenla Environmental Science",2023-01-28,113
@@ -842,6 +856,7 @@
 "Center for International Environmental Law (CIEL)",2023-10-18,15861
 "Center for International Environmental Law (CIEL)",2023-12-14,16616
 "Center for International Environmental Law (CIEL)",2023-12-16,16643
+"Center for International Environmental Law (CIEL)",2023-12-18,16657
 "Center for Internet Security",2023-01-21,95204
 "Center for Internet Security",2023-02-10,96887
 "Center for Internet Security",2023-02-25,98200
@@ -859,6 +874,7 @@
 "Center for Internet Security",2023-10-18,120224
 "Center for Internet Security",2023-12-14,120395
 "Center for Internet Security",2023-12-17,120588
+"Center for Internet Security",2023-12-18,120634
 "Center for Scientific Collaboration and Community Engagement",2023-01-25,814
 "Center for Scientific Collaboration and Community Engagement",2023-10-18,1074
 "Center for Systems Security and Information Assurance (CSSIA)",2023-01-21,67
@@ -875,6 +891,7 @@
 "Center for Systems Security and Information Assurance (CSSIA)",2023-08-05,90
 "Center for Systems Security and Information Assurance (CSSIA)",2023-08-29,90
 "Center for Systems Security and Information Assurance (CSSIA)",2023-10-18,97
+"Center for Systems Security and Information Assurance (CSSIA)",2023-12-18,98
 "Center for Technology Responding to Climate Change (CliTech)",2023-01-28,86
 "Centered",2023-01-25,1338
 "Centers for Disease Control and Prevention",2023-01-21,1900128
@@ -894,6 +911,7 @@
 "Centers for Disease Control and Prevention",2023-10-18,2118141
 "Centers for Disease Control and Prevention",2023-12-14,2010562
 "Centers for Disease Control and Prevention",2023-12-17,2012809
+"Centers for Disease Control and Prevention",2023-12-18,2013357
 "Central Bank of Ireland",2020-10-20,50660
 "Central Intelligence Agency",2023-01-21,225667
 "Central Intelligence Agency",2023-02-10,232560
@@ -912,6 +930,7 @@
 "Central Intelligence Agency",2023-10-18,268300
 "Central Intelligence Agency",2023-12-14,272080
 "Central Intelligence Agency",2023-12-17,272243
+"Central Intelligence Agency",2023-12-18,272287
 "Centre for Environment Education",2023-01-28,17456
 "Centre for Science and Environment New Delhi",2023-01-28,45653
 "Centre for Sustainable Fashion",2021-04-20,45157
@@ -1040,6 +1059,7 @@
 "Champlain College",2023-10-18,33941
 "Champlain College",2023-12-14,33572
 "Champlain College",2023-12-17,33587
+"Champlain College",2023-12-18,33592
 "Chan Zuckerberg Biohub",2023-01-25,18811
 "Chan Zuckerberg Biohub",2023-01-29,18838
 "Chan Zuckerberg Initiative",2023-01-25,70535
@@ -1065,6 +1085,7 @@
 "Charles Schwab",2023-10-18,289481
 "Charles Schwab",2023-12-14,298035
 "Charles Schwab",2023-12-17,298800
+"Charles Schwab",2023-12-18,298981
 "Charlotte Street Capital",2023-01-25,724
 "Charlotte Street Capital",2023-01-29,727
 "Chartered Institute of Ecology and Environmental Management (CIEEM)",2023-01-28,32288
@@ -1085,6 +1106,7 @@
 "Chase",2023-10-18,411513
 "Chase",2023-12-14,421683
 "Chase",2023-12-17,422217
+"Chase",2023-12-18,422343
 "Chase for Business",2023-01-21,39535
 "Chase for Business",2023-02-10,39725
 "Chase for Business",2023-02-25,39849
@@ -1102,6 +1124,7 @@
 "Chase for Business",2023-10-18,40516
 "Chase for Business",2023-12-14,41229
 "Chase for Business",2023-12-17,41257
+"Chase for Business",2023-12-18,41263
 "Chasing Returns",2020-12-27,455
 "Chasing Returns",2021-02-19,467
 "Chasing Returns",2021-03-26,470
@@ -1125,6 +1148,7 @@
 "Children's National Hospital",2023-10-18,51784
 "Children's National Hospital",2023-12-14,51847
 "Children's National Hospital",2023-12-17,51934
+"Children's National Hospital",2023-12-18,51944
 "Chitkara University",2023-01-28,67440
 "Chroma Medicine",2023-01-25,3027
 "Chroma Medicine",2023-01-29,3035
@@ -1147,6 +1171,7 @@
 "Circle K",2023-10-18,149150
 "Circle K",2023-12-14,151349
 "Circle K",2023-12-17,151622
+"Circle K",2023-12-18,151705
 "Circularis Biotechnologies",2023-01-25,1688
 "Circularis Biotechnologies",2023-01-29,1689
 "Circularity",2023-01-25,1960
@@ -1164,6 +1189,7 @@
 "CisLunar Industries",2023-08-05,2243
 "CisLunar Industries",2023-08-29,2284
 "CisLunar Industries",2023-10-18,2418
+"CisLunar Industries",2023-12-18,2653
 "Cisco",2023-01-21,5647695
 "Cisco",2023-02-10,5684069
 "Cisco",2023-02-25,5710742
@@ -1181,6 +1207,7 @@
 "Cisco",2023-10-18,6361582
 "Cisco",2023-12-14,6066858
 "Cisco",2023-12-17,6075236
+"Cisco",2023-12-18,6077698
 "Cisco Secure",2023-01-21,296267
 "Cisco Secure",2023-02-25,297503
 "Cisco Secure",2023-03-13,298010
@@ -1196,6 +1223,7 @@
 "Cisco Secure",2023-08-29,307313
 "Cisco Secure",2023-10-18,310271
 "Cisco Secure",2023-12-17,302685
+"Cisco Secure",2023-12-18,302730
 "Citi",2023-01-21,3963643
 "Citi",2023-01-22,3964309
 "Citi",2023-01-29,3971827
@@ -1215,6 +1243,7 @@
 "Citi",2023-10-18,4396893
 "Citi",2023-12-14,4096704
 "Citi",2023-12-17,4101895
+"Citi",2023-12-18,4103168
 "Citizens",2023-01-21,116971
 "Citizens",2023-02-10,118084
 "Citizens",2023-02-25,118778
@@ -1232,6 +1261,7 @@
 "Citizens",2023-10-18,122173
 "Citizens",2023-12-14,124675
 "Citizens",2023-12-17,124822
+"Citizens",2023-12-18,124851
 "City Data Science Society",2021-03-28,98
 "City Data Science Society",2021-03-31,98
 "City Data Science Society",2021-04-06,98
@@ -1347,12 +1377,15 @@
 "City of Boston",2023-10-18,36456
 "City of Boston",2023-12-14,37540
 "City of Boston",2023-12-17,37625
+"City of Boston",2023-12-18,37643
 "City of Cambridge",2023-10-18,7689
 "City of Cambridge",2023-12-14,7829
 "City of Cambridge",2023-12-17,7855
+"City of Cambridge",2023-12-18,7863
 "City of Malden",2023-10-18,1309
 "City of Malden",2023-12-14,1334
 "City of Malden",2023-12-17,1335
+"City of Malden",2023-12-18,1337
 "City of Pensacola Government",2023-01-21,1545
 "City of Pensacola Government",2023-02-25,1579
 "City of Pensacola Government",2023-03-13,1609
@@ -1367,8 +1400,10 @@
 "City of Pensacola Government",2023-08-05,1849
 "City of Pensacola Government",2023-08-29,1955
 "City of Pensacola Government",2023-10-18,2028
+"City of Pensacola Government",2023-12-18,2044
 "City of Somerville",2023-10-18,3816
 "City of Somerville",2023-12-17,3960
+"City of Somerville",2023-12-18,3962
 "City of Winchester Virginia Local Government",2023-01-21,1290
 "City of Winchester Virginia Local Government",2023-02-10,1309
 "City of Winchester Virginia Local Government",2023-02-25,1320
@@ -1385,6 +1420,7 @@
 "City of Winchester Virginia Local Government",2023-08-29,1425
 "City of Winchester Virginia Local Government",2023-10-18,1475
 "City of Winchester Virginia Local Government",2023-12-17,1474
+"City of Winchester Virginia Local Government",2023-12-18,1474
 "CivicCon",2023-02-25,232
 "CivicCon",2023-03-13,234
 "CivicCon",2023-03-29,254
@@ -1587,6 +1623,7 @@
 "CivicDataLab",2023-08-29,4787
 "CivicDataLab",2023-09-15,4816
 "CivicDataLab",2023-10-18,4879
+"CivicDataLab",2023-12-18,5237
 "CivicDataLabCivicDataLab",2023-12-14,NA
 "Claranet Cyber Security",2023-01-21,4951
 "Claranet Cyber Security",2023-02-10,5008
@@ -1605,6 +1642,7 @@
 "Claranet Cyber Security",2023-10-18,5461
 "Claranet Cyber Security",2023-12-14,5401
 "Claranet Cyber Security",2023-12-17,5404
+"Claranet Cyber Security",2023-12-18,5405
 "Clean Ocean Action",2023-01-28,2022
 "Clean Water Action",2023-01-28,8815
 "Clean Water Technology",2023-01-28,2401
@@ -1624,6 +1662,7 @@
 "Clearfell",2023-08-29,16
 "Clearfell",2023-10-18,16
 "Clearfell",2023-12-17,15
+"Clearfell",2023-12-18,15
 "Clearstream",2020-10-16,17391
 "Clearstream",2020-10-18,17403
 "Clearstream",2020-10-21,17436
@@ -1676,7 +1715,9 @@
 "Cloud Security Alliance",2023-10-18,86159
 "Cloud Security Alliance",2023-12-14,86256
 "Cloud Security Alliance",2023-12-17,86401
+"Cloud Security Alliance",2023-12-18,86432
 "Cloud-Native Geospatial Foundation",2023-12-14,1034
+"Cloud-Native Geospatial Foundation",2023-12-18,1085
 "CloudThat",2023-01-21,47237
 "CloudThat",2023-02-10,47961
 "CloudThat",2023-02-25,48449
@@ -1693,6 +1734,7 @@
 "CloudThat",2023-08-29,56316
 "CloudThat",2023-10-18,58974
 "CloudThat",2023-12-17,59349
+"CloudThat",2023-12-18,59417
 "Cloudera",2023-01-28,234753
 "Cloudflare",2023-01-21,437281
 "Cloudflare",2023-02-10,451950
@@ -1711,6 +1753,7 @@
 "Cloudflare",2023-10-18,665322
 "Cloudflare",2023-12-14,713638
 "Cloudflare",2023-12-17,715942
+"Cloudflare",2023-12-18,716750
 "Clubhouse",2023-01-22,26207
 "ClusterAI",2020-10-20,295
 "ClusterAI",2020-10-21,295
@@ -1907,12 +1950,12 @@
 "ClusterAI",2023-08-29,462
 "ClusterAI",2023-09-15,462
 "ClusterAI",2023-10-18,459
+"ClusterAI",2023-12-18,455
 "CoFounder",2021-02-19,625
 "CoFounder",2021-03-06,648
 "CoFounder",2021-03-26,664
 "CoMind",2023-01-25,2847
 "CoMind",2023-01-29,2849
-"CoWomen",2023-01-25,849
 "Coalfire",2023-01-21,22916
 "Coalfire",2023-02-10,23097
 "Coalfire",2023-02-25,23265
@@ -1930,6 +1973,7 @@
 "Coalfire",2023-10-18,25874
 "Coalfire",2023-12-14,25943
 "Coalfire",2023-12-17,25985
+"Coalfire",2023-12-18,25997
 "Code for Cause",2021-06-02,16174
 "Code for Cause",2021-06-09,16909
 "Code for Cause",2021-06-16,17430
@@ -2065,6 +2109,7 @@
 "Code for Cause",2023-08-29,22564
 "Code for Cause",2023-09-15,21775
 "Code for Cause",2023-10-18,21732
+"Code for Cause",2023-12-18,21747
 "Code in Place",2023-01-25,2931
 "CodeControl",2023-01-25,2564
 "CodeGreen Solutions",2023-01-28,8839
@@ -2085,6 +2130,7 @@
 "Codecademy",2023-08-29,254374
 "Codecademy",2023-10-18,260498
 "Codecademy",2023-12-17,258175
+"Codecademy",2023-12-18,258271
 "Codemonk",2020-10-16,1305
 "Codemonk",2020-10-18,1306
 "Codemonk",2020-10-21,1308
@@ -2266,6 +2312,7 @@
 "Coding Black Females",2023-08-29,14414
 "Coding Black Females",2023-09-15,14540
 "Coding Black Females",2023-10-18,14895
+"Coding Black Females",2023-12-18,15057
 "Coding Black FemalesCoding Black Females",2023-12-14,NA
 "Coding Blocks",2023-01-25,140838
 "Coffee Analysts",2023-01-21,5126
@@ -2284,6 +2331,7 @@
 "Coffee Analysts",2023-08-29,5405
 "Coffee Analysts",2023-10-18,5461
 "Coffee Analysts",2023-12-17,5299
+"Coffee Analysts",2023-12-18,5300
 "Cognitect",2020-10-16,2593
 "Cognitect",2020-10-20,2598
 "Cognitect",2020-10-21,2598
@@ -2312,6 +2360,7 @@
 "Cognitive Big Data Systems Inc",2023-08-29,117
 "Cognitive Big Data Systems Inc",2023-10-18,120
 "Cognitive Big Data Systems Inc",2023-12-17,118
+"Cognitive Big Data Systems Inc",2023-12-18,118
 "Cognitive Space",2023-01-21,3798
 "Cognitive Space",2023-02-25,4013
 "Cognitive Space",2023-03-13,4078
@@ -2535,6 +2584,8 @@
 "Cognizant",2023-12-14,6875547
 "Cognizant",2023-12-16,6882914
 "Cognizant",2023-12-17,6884854
+"Cognizant",2023-12-18,6887810
+"Cognizant",2023-12-18,6887799
 "Coiled",2023-01-21,1914
 "Coiled",2023-02-25,1933
 "Coiled",2023-03-13,1939
@@ -2741,6 +2792,7 @@
 "Coillte",2023-10-18,17634
 "Coillte",2023-12-14,17519
 "Coillte",2023-12-16,17529
+"Coillte",2023-12-18,17540
 "Coimbatore Institute of Technology",2023-01-28,27159
 "Coinbase",2023-01-21,642320
 "Coinbase",2023-02-10,646570
@@ -2758,6 +2810,7 @@
 "Coinbase",2023-08-29,696649
 "Coinbase",2023-10-18,709919
 "Coinbase",2023-12-17,632018
+"Coinbase",2023-12-18,632329
 "College Democrats of America",2023-01-21,1870
 "College Democrats of America",2023-02-10,1876
 "College Democrats of America",2023-02-25,1879
@@ -2774,6 +2827,7 @@
 "College Democrats of America",2023-08-29,1975
 "College Democrats of America",2023-10-18,2006
 "College Democrats of America",2023-12-17,2002
+"College Democrats of America",2023-12-18,2002
 "College Democrats of Massachusetts",2023-01-21,210
 "College Democrats of Massachusetts",2023-02-10,210
 "College Democrats of Massachusetts",2023-02-25,209
@@ -2790,6 +2844,7 @@
 "College Democrats of Massachusetts",2023-08-29,212
 "College Democrats of Massachusetts",2023-10-18,214
 "College Democrats of Massachusetts",2023-12-17,206
+"College Democrats of Massachusetts",2023-12-18,206
 "College Democrats of New York",2023-01-21,107
 "College Democrats of New York",2023-02-10,107
 "College Democrats of New York",2023-02-25,106
@@ -2806,6 +2861,7 @@
 "College Democrats of New York",2023-08-29,101
 "College Democrats of New York",2023-10-18,101
 "College Democrats of New York",2023-12-17,101
+"College Democrats of New York",2023-12-18,101
 "Collibra",2020-10-20,23338
 "Collibra",2020-10-21,23382
 "Collibra",2020-10-23,23469
@@ -2999,6 +3055,7 @@
 "Collibra",2023-10-18,65435
 "Collibra",2023-12-14,66033
 "Collibra",2023-12-16,66098
+"Collibra",2023-12-18,66116
 "Collins Aerospace",2023-01-21,551632
 "Collins Aerospace",2023-02-25,653812
 "Collins Aerospace",2023-03-13,660224
@@ -3013,6 +3070,7 @@
 "Collins Aerospace",2023-08-05,724076
 "Collins Aerospace",2023-08-29,734118
 "Collins Aerospace",2023-10-18,761086
+"Collins Aerospace",2023-12-18,769091
 "Cologne AI and Machine Learning Meetup",2021-03-28,160
 "Cologne AI and Machine Learning Meetup",2021-03-31,160
 "Cologne AI and Machine Learning Meetup",2021-04-06,161
@@ -3352,6 +3410,7 @@
 "Commerce et Administration des Entreprises- INP-HB",2023-09-15,619
 "Commerce et Administration des Entreprises- INP-HB",2023-10-18,619
 "Commerce et Administration des Entreprises- INP-HB",2023-12-14,613
+"Commerce et Administration des Entreprises- INP-HB",2023-12-18,613
 "Commonwealth Care Alliance",2023-01-21,14954
 "Commonwealth Care Alliance",2023-02-10,15260
 "Commonwealth Care Alliance",2023-02-25,15365
@@ -3369,6 +3428,7 @@
 "Commonwealth Care Alliance",2023-10-18,19061
 "Commonwealth Care Alliance",2023-12-14,19419
 "Commonwealth Care Alliance",2023-12-17,19457
+"Commonwealth Care Alliance",2023-12-18,19470
 "Commonwealth of Learning",2023-01-28,6227
 "Commonwealth of Massachusetts",2023-01-21,80505
 "Commonwealth of Massachusetts",2023-02-10,81568
@@ -3387,6 +3447,7 @@
 "Commonwealth of Massachusetts",2023-10-18,97333
 "Commonwealth of Massachusetts",2023-12-14,100148
 "Commonwealth of Massachusetts",2023-12-17,100415
+"Commonwealth of Massachusetts",2023-12-18,100497
 "Commvault",2023-01-21,115139
 "Commvault",2023-02-10,116341
 "Commvault",2023-02-25,117021
@@ -3404,6 +3465,7 @@
 "Commvault",2023-10-18,134509
 "Commvault",2023-12-14,134359
 "Commvault",2023-12-17,134535
+"Commvault",2023-12-18,134599
 "CompTIA",2023-01-21,395876
 "CompTIA",2023-02-10,398803
 "CompTIA",2023-02-25,401343
@@ -3421,6 +3483,7 @@
 "CompTIA",2023-10-18,449773
 "CompTIA",2023-12-14,469704
 "CompTIA",2023-12-17,470970
+"CompTIA",2023-12-18,471294
 "CompTIA Security+",2023-01-21,14891
 "CompTIA Security+",2023-02-25,15330
 "CompTIA Security+",2023-03-13,15560
@@ -3435,6 +3498,7 @@
 "CompTIA Security+",2023-08-05,17968
 "CompTIA Security+",2023-08-29,18206
 "CompTIA Security+",2023-10-18,18844
+"CompTIA Security+",2023-12-18,18844
 "Company",NA,NA
 "Computer History Museum",2023-01-21,7605
 "Computer History Museum",2023-02-10,7679
@@ -3453,6 +3517,7 @@
 "Computer History Museum",2023-10-18,8895
 "Computer History Museum",2023-12-14,8772
 "Computer History Museum",2023-12-17,8789
+"Computer History Museum",2023-12-18,8793
 "Computer Repair",2023-03-13,0
 "Computer Repair",2023-03-29,59172
 "Computer Repair",2023-04-10,59013
@@ -3672,12 +3737,14 @@
 "Compylo",2023-09-15,1323
 "Compylo",2023-10-18,1318
 "Compylo",2023-12-14,1312
+"Compylo",2023-12-18,1312
 "Comtravo",2023-01-25,8501
 "Comunidad R Hispano",2020-11-30,252
 "Comunidad R Hispano",2020-12-08,262
 "Comunidad R Hispano",2023-08-29,918
 "Comunidad R Hispano",2023-09-15,927
 "Comunidad R Hispano",2023-10-18,965
+"Comunidad R Hispano",2023-12-18,1015
 "Comunidad R HispanoComunidad R Hispano",2023-12-14,NA
 "Confluence",2020-10-16,5338
 "Connected Data World",2023-01-21,2798
@@ -3694,6 +3761,7 @@
 "Connected Data World",2023-08-05,3223
 "Connected Data World",2023-08-29,3232
 "Connected Data World",2023-10-18,3240
+"Connected Data World",2023-12-18,3271
 "Connectivity Business News",2023-01-21,1111
 "Connectivity Business News",2023-02-25,1127
 "Connectivity Business News",2023-03-13,1140
@@ -3708,6 +3776,7 @@
 "Connectivity Business News",2023-08-05,1285
 "Connectivity Business News",2023-08-29,1332
 "Connectivity Business News",2023-10-18,1509
+"Connectivity Business News",2023-12-18,1653
 "Conning",2020-10-14,11215
 "Conning",2020-10-19,11222
 "Conning",2020-10-20,11221
@@ -3902,6 +3971,7 @@
 "Conning",2023-10-18,15617
 "Conning",2023-12-14,15544
 "Conning",2023-12-16,15558
+"Conning",2023-12-18,15557
 "Conrad N. Hilton Foundation",2021-02-17,8331
 "Conrad N. Hilton Foundation",2021-02-21,8351
 "Conrad N. Hilton Foundation",2021-02-25,8380
@@ -4066,6 +4136,7 @@
 "Conrad N. Hilton Foundation",2023-10-18,19282
 "Conrad N. Hilton Foundation",2023-12-14,19852
 "Conrad N. Hilton Foundation",2023-12-16,19916
+"Conrad N. Hilton Foundation",2023-12-18,19962
 "Conservation International",2023-01-28,199022
 "ConstructionBOS",2021-03-26,1355
 "Contenda",2023-01-25,139
@@ -4106,6 +4177,7 @@
 "Convenience Store News",2023-08-05,27807
 "Convenience Store News",2023-08-29,28137
 "Convenience Store News",2023-10-18,28658
+"Convenience Store News",2023-12-18,29952
 "ConversationStarter.net",2020-10-16,426
 "ConversationStarter.net",2020-10-21,429
 "ConversationStarter.net",2020-10-22,430
@@ -4150,6 +4222,7 @@
 "Couche-Tard",2023-10-18,31768
 "Couche-Tard",2023-12-14,31965
 "Couche-Tard",2023-12-17,31989
+"Couche-Tard",2023-12-18,32005
 "Council for Advancement and Support of Education",2023-01-21,26258
 "Council for Advancement and Support of Education",2023-02-10,26554
 "Council for Advancement and Support of Education",2023-02-25,26701
@@ -4167,6 +4240,7 @@
 "Council for Advancement and Support of Education",2023-10-18,30050
 "Council for Advancement and Support of Education",2023-12-14,29902
 "Council for Advancement and Support of Education",2023-12-17,29927
+"Council for Advancement and Support of Education",2023-12-18,29931
 "Council for Scientific and Industrial Research (CSIR)",2023-01-28,146260
 "Council of the European Union",2023-01-21,274470
 "Council of the European Union",2023-02-10,278280
@@ -4185,6 +4259,7 @@
 "Council of the European Union",2023-10-18,316654
 "Council of the European Union",2023-12-14,320907
 "Council of the European Union",2023-12-17,321695
+"Council of the European Union",2023-12-18,321888
 "Country Club Bank",2023-01-21,2860
 "Country Club Bank",2023-02-10,2896
 "Country Club Bank",2023-02-25,2917
@@ -4202,6 +4277,7 @@
 "Country Club Bank",2023-10-18,3386
 "Country Club Bank",2023-12-14,3372
 "Country Club Bank",2023-12-17,3377
+"Country Club Bank",2023-12-18,3377
 "Coupang",2021-01-19,52569
 "Coursera",2020-10-07,657271
 "Coursera",2020-10-09,660720
@@ -4427,8 +4503,8 @@
 "Coursera",2023-12-14,1819477
 "Coursera",2023-12-16,1821765
 "Coursera",2023-12-17,1822541
-"Covance",2021-02-19,269132
-"Covance",2021-03-26,277312
+"Coursera",2023-12-18,1823436
+"Coursera",2023-12-18,1823428
 "charityboard.io",2021-06-29,153091
 "cienciadedatos.net",2020-11-07,572
 "cienciadedatos.net",2020-11-21,718

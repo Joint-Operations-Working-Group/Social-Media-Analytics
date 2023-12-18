@@ -33,6 +33,7 @@
 "STAR-Dundee",2023-08-29,1064
 "STAR-Dundee",2023-10-18,1097
 "STAR-Dundee",2023-12-17,1121
+"STAR-Dundee",2023-12-18,1122
 "STATSports",2020-10-20,14111
 "STATSports",2020-10-20,14115
 "STATSports",2020-10-21,14120
@@ -230,6 +231,7 @@
 "STATSports",2023-08-29,32520
 "STATSports",2023-09-15,32870
 "STATSports",2023-10-18,33531
+"STATSports",2023-12-18,34360
 "STMicroelectronics",2023-01-21,584673
 "STMicroelectronics",2023-02-10,591528
 "STMicroelectronics",2023-02-25,597364
@@ -247,6 +249,7 @@
 "STMicroelectronics",2023-10-18,671129
 "STMicroelectronics",2023-12-14,689182
 "STMicroelectronics",2023-12-17,690311
+"STMicroelectronics",2023-12-18,690630
 "SUEZ",2023-01-28,699471
 "SUPERRR Lab",2023-01-25,1357
 "SpaceFund",2023-01-21,4496
@@ -296,6 +299,7 @@
 "SpaceNews",2023-08-29,38787
 "SpaceNews",2023-10-18,40117
 "SpaceNews",2023-12-17,41866
+"SpaceNews",2023-12-18,41886
 "SpaceWERX",2023-01-21,5836
 "SpaceWERX",2023-02-25,6552
 "SpaceWERX",2023-03-13,6914
@@ -328,23 +332,7 @@
 "SpaceX",2023-10-18,3082655
 "SpaceX",2023-12-14,3108244
 "SpaceX",2023-12-17,3110211
-"Spaceflight Inc.",2023-01-21,11643
-"Spaceflight Inc.",2023-02-10,11845
-"Spaceflight Inc.",2023-02-25,11945
-"Spaceflight Inc.",2023-03-13,12132
-"Spaceflight Inc.",2023-03-29,12319
-"Spaceflight Inc.",2023-04-10,12501
-"Spaceflight Inc.",2023-04-23,12646
-"Spaceflight Inc.",2023-06-05,12806
-"Spaceflight Inc.",2023-06-11,12880
-"Spaceflight Inc.",2023-06-23,12955
-"Spaceflight Inc.",2023-07-06,12993
-"Spaceflight Inc.",2023-07-23,13036
-"Spaceflight Inc.",2023-08-05,13057
-"Spaceflight Inc.",2023-08-29,13091
-"Spaceflight Inc.",2023-10-18,13128
-"Spaceflight Inc.",2023-12-14,12829
-"Spaceflight Inc.",2023-12-17,12834
+"SpaceX",2023-12-18,3110724
 "Spaceport Cornwall",2023-01-21,14138
 "Spaceport Cornwall",2023-02-25,14748
 "Spaceport Cornwall",2023-03-13,14944
@@ -359,6 +347,7 @@
 "Spaceport Cornwall",2023-08-05,16204
 "Spaceport Cornwall",2023-08-29,16385
 "Spaceport Cornwall",2023-10-18,16695
+"Spaceport Cornwall",2023-12-18,16726
 "Spark",2023-06-17,6218
 "Spark",2023-06-23,6247
 "Spark",2023-06-27,6253
@@ -370,6 +359,7 @@
 "Spark",2023-08-29,6493
 "Spark",2023-09-15,6545
 "Spark",2023-10-18,6675
+"Spark",2023-12-18,6704
 "SparkSpark",2023-12-14,NA
 "Sparks Group",2023-01-21,47400
 "Sparks Group",2023-02-10,48313
@@ -387,6 +377,7 @@
 "Sparks Group",2023-08-29,57041
 "Sparks Group",2023-10-18,62871
 "Sparks Group",2023-12-17,69334
+"Sparks Group",2023-12-18,69386
 "Spill",2023-01-25,11035
 "SpinLaunch",2023-01-21,28508
 "SpinLaunch",2023-02-25,28638
@@ -402,6 +393,7 @@
 "SpinLaunch",2023-08-05,30945
 "SpinLaunch",2023-08-29,31160
 "SpinLaunch",2023-10-18,32018
+"SpinLaunch",2023-12-18,32228
 "Spire",2023-01-21,35823
 "Spire",2023-02-25,36431
 "Spire",2023-03-13,36701
@@ -417,6 +409,7 @@
 "Spire",2023-08-29,40222
 "Spire",2023-10-18,41276
 "Spire",2023-12-17,41723
+"Spire",2023-12-18,41731
 "Spire Aviation",2023-01-21,2061
 "Spire Aviation",2023-02-25,2137
 "Spire Aviation",2023-03-13,2166
@@ -460,6 +453,7 @@
 "Splunk",2023-10-18,576174
 "Splunk",2023-12-14,591303
 "Splunk",2023-12-17,592303
+"Splunk",2023-12-18,592573
 "Splunk Training and Certification",2023-01-21,4263
 "Splunk Training and Certification",2023-02-25,4558
 "Splunk Training and Certification",2023-03-13,4658
@@ -674,6 +668,7 @@
 "Squarepoint Capital",2023-08-29,24353
 "Squarepoint Capital",2023-09-15,24950
 "Squarepoint Capital",2023-10-18,26001
+"Squarepoint Capital",2023-12-18,27945
 "Squarepoint CapitalSquarepoint Capital",2023-12-14,NA
 "Stable Diffusion API",2023-03-29,1301
 "Stable Diffusion API",2023-04-10,1427
@@ -952,6 +947,8 @@
 "Stack Overflow",2023-12-16,1462645
 "Stack Overflow",2023-12-17,1463078
 "Stack Overflow",2023-12-17,1463080
+"Stack Overflow",2023-12-18,1463565
+"Stack Overflow",2023-12-18,1463560
 "Stack Overflow",2023-12-18,1463550
 "StackFuel",2023-01-25,2079
 "StackRaft",2023-01-25,810
@@ -973,6 +970,7 @@
 "Standard Chartered Bank",2023-10-18,2034299
 "Standard Chartered Bank",2023-12-14,1950316
 "Standard Chartered Bank",2023-12-17,1953765
+"Standard Chartered Bank",2023-12-18,1954718
 "Stanford Artificial Intelligence Laboratory (SAIL)",2021-01-19,2061
 "Stanford Artificial Intelligence Laboratory (SAIL)",2021-02-19,2190
 "Stanford Artificial Intelligence Laboratory (SAIL)",2021-03-06,2324
@@ -1007,6 +1005,8 @@
 "Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)",2023-09-15,54578
 "Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)",2023-10-18,56819
 "Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)",2023-10-18,56824
+"Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)",2023-12-18,60822
+"Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)",2023-12-18,60821
 "Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)",2023-12-14,NA
 "Stanford Continuing Studies",2023-01-25,14620
 "Stanford GSB Executive Education",2023-01-25,100832
@@ -1042,6 +1042,7 @@
 "Stanford University Graduate School of Business",2023-10-18,450290
 "Stanford University Graduate School of Business",2023-12-14,456259
 "Stanford University Graduate School of Business",2023-12-17,456886
+"Stanford University Graduate School of Business",2023-12-18,456990
 "Stanford Woods Institute for the Environment",2023-01-28,2838
 "StarBerry Games",2023-01-25,1170
 "Starfish Space",2023-03-29,5496
@@ -1065,6 +1066,7 @@
 "Starschema",2023-10-18,6435
 "Starschema",2023-12-14,6388
 "Starschema",2023-12-17,6390
+"Starschema",2023-12-18,6392
 "Startup Network Europe",2023-01-25,14169
 "Startup Network Europe",2023-01-29,14198
 "Startup Pakistan",2023-01-21,391519
@@ -1100,6 +1102,7 @@
 "State of Arizona Enterprise Technology (ASET)",2023-08-29,2070
 "State of Arizona Enterprise Technology (ASET)",2023-10-18,2111
 "State of Arizona Enterprise Technology (ASET)",2023-12-17,2092
+"State of Arizona Enterprise Technology (ASET)",2023-12-18,2091
 "Statista",2021-02-19,107057
 "Statista",2021-03-06,109064
 "Statista",2021-03-26,111552
@@ -1121,6 +1124,7 @@
 "Statistical Models for Social Sciences Consultant",2023-09-15,3089
 "Statistical Models for Social Sciences Consultant",2023-10-18,3153
 "Statistical Models for Social Sciences Consultant",2023-12-14,3215
+"Statistical Models for Social Sciences Consultant",2023-12-18,3226
 "Statistics Globe",2021-06-21,1860
 "Statistics Globe",2021-06-29,1918
 "Statistics Globe",2021-07-02,1949
@@ -1254,6 +1258,7 @@
 "Statistics Globe",2023-09-15,5636
 "Statistics Globe",2023-10-18,5713
 "Statistics Globe",2023-12-14,5891
+"Statistics Globe",2023-12-18,5935
 "Statistics Without Borders",2020-10-25,397
 "Statistics Without Borders",2020-10-28,398
 "Statistics Without Borders",2020-10-30,399
@@ -1444,12 +1449,14 @@
 "Statistics Without Borders",2023-08-29,1804
 "Statistics Without Borders",2023-09-15,1814
 "Statistics Without Borders",2023-10-18,1840
+"Statistics Without Borders",2023-12-18,1795
 "Statsig",2023-06-23,5115
 "Statsig",2023-07-06,5205
 "Statsig",2023-07-23,5568
 "Statsig",2023-08-05,5707
 "Statsig",2023-08-29,5984
 "Statsig",2023-10-18,6756
+"Statsig",2023-12-18,8551
 "Stemettes",2023-01-25,7827
 "StemoniX",2023-01-25,2580
 "StemoniX",2023-01-29,2581
@@ -1468,6 +1475,7 @@
 "Stochastic Solutions",2023-08-05,91
 "Stochastic Solutions",2023-08-29,91
 "Stochastic Solutions",2023-10-18,91
+"Stochastic Solutions",2023-12-18,89
 "Stockholm University",2023-01-28,243837
 "Stoke Space",2023-01-21,9051
 "Stoke Space",2023-02-25,10925
@@ -1524,6 +1532,7 @@
 "Studer Community Institute",2023-08-05,2971
 "Studer Community Institute",2023-08-29,3030
 "Studer Community Institute",2023-10-18,3098
+"Studer Community Institute",2023-12-18,3135
 "Studer Group",2023-01-21,26629
 "Studer Group",2023-02-10,26641
 "Studer Group",2023-02-25,26656
@@ -1541,6 +1550,7 @@
 "Studer Group",2023-10-18,26948
 "Studer Group",2023-12-14,26198
 "Studer Group",2023-12-17,26199
+"Studer Group",2023-12-18,26202
 "Style Theory",2020-10-16,19585
 "Style Theory",2020-10-20,19579
 "Style Theory",2020-10-21,19577
@@ -1694,6 +1704,7 @@
 "Sun Life",2023-10-18,324496
 "Sun Life",2023-12-14,328459
 "Sun Life",2023-12-17,328971
+"Sun Life",2023-12-18,329188
 "SunTrust",2023-01-21,122327
 "SunTrust",2023-02-10,122367
 "SunTrust",2023-02-25,122410
@@ -1711,6 +1722,7 @@
 "SunTrust",2023-10-18,123179
 "SunTrust",2023-12-14,117596
 "SunTrust",2023-12-17,117599
+"SunTrust",2023-12-18,117602
 "Sunshine",2023-01-25,4882
 "Super Technologies",2023-01-21,1273
 "Super Technologies",2023-02-10,1274
@@ -1729,6 +1741,7 @@
 "Super Technologies",2023-10-18,1308
 "Super Technologies",2023-12-14,1248
 "Super Technologies",2023-12-17,1255
+"Super Technologies",2023-12-18,1257
 "SuperAwesome",2023-01-25,15649
 "SuperDataScience",2020-10-16,54199
 "SuperDataScience",2020-12-15,58062
@@ -1924,6 +1937,7 @@
 "SuperDataScience",2023-10-18,95635
 "SuperDataScience",2023-10-18,95422
 "SuperDataScience",2023-12-17,92965
+"SuperDataScience",2023-12-18,92994
 "SuperDataScience",2023-12-18,92993
 "SuperDataScienceSuperDataScience",2023-12-14,NA
 "Susquehanna International Group LLP (SIG)",2020-10-20,66986
@@ -2122,6 +2136,7 @@
 "Susquehanna International Group LLP (SIG)",2023-10-18,135803
 "Susquehanna International Group LLP (SIG)",2023-12-14,139825
 "Susquehanna International Group LLP (SIG)",2023-12-16,140076
+"Susquehanna International Group LLP (SIG)",2023-12-18,140206
 "SustainOSS",2023-01-25,188
 "Sustainable Development Solutions Network",2021-07-14,30571
 "Sustainable Development Solutions Network",2021-07-18,30688
@@ -2254,6 +2269,7 @@
 "Sustainable Development Solutions Network",2023-08-29,62209
 "Sustainable Development Solutions Network",2023-09-15,62863
 "Sustainable Development Solutions Network",2023-10-18,64106
+"Sustainable Development Solutions Network",2023-12-18,64203
 "Sustainalytics",2023-01-28,114260
 "Sweden Water Research",2023-01-28,2449
 "Swift Developer",2020-10-16,683
@@ -2652,6 +2668,7 @@
 "Sylvera",2023-08-29,26022
 "Sylvera",2023-09-15,26676
 "Sylvera",2023-10-18,28054
+"Sylvera",2023-12-18,29967
 "SylveraSylvera",2023-12-14,NA
 "Synack Inc.",2023-01-21,38640
 "Synack Inc.",2023-02-10,38865
@@ -2669,6 +2686,7 @@
 "Synack Inc.",2023-08-29,44027
 "Synack Inc.",2023-10-18,45601
 "Synack Inc.",2023-12-17,45787
+"Synack Inc.",2023-12-18,45802
 "Synack Red Team",2023-01-21,52921
 "Synack Red Team",2023-02-25,54098
 "Synack Red Team",2023-03-13,54716
@@ -2684,6 +2702,7 @@
 "Synack Red Team",2023-08-29,61821
 "Synack Red Team",2023-10-18,64391
 "Synack Red Team",2023-12-17,64423
+"Synack Red Team",2023-12-18,64466
 "Synapse Florida",2023-01-21,7772
 "Synapse Florida",2023-02-25,8350
 "Synapse Florida",2023-03-13,8439
@@ -2698,6 +2717,7 @@
 "Synapse Florida",2023-08-05,9218
 "Synapse Florida",2023-08-29,9341
 "Synapse Florida",2023-10-18,9587
+"Synapse Florida",2023-12-18,9586
 "Synectics for Management Decisions Inc",2020-12-15,1283
 "Synergy Health Partners",2023-01-21,687
 "Synergy Health Partners",2023-02-25,709
@@ -2726,6 +2746,7 @@
 "Synergy Surgicalists Inc.",2023-08-05,252
 "Synergy Surgicalists Inc.",2023-08-29,254
 "Synergy Surgicalists Inc.",2023-10-18,261
+"Synergy Surgicalists Inc.",2023-12-18,259
 "Syngenta",2023-01-25,1145538
 "Syngenta",2023-01-29,1147914
 "Synovus",2023-01-21,33330
@@ -2745,6 +2766,7 @@
 "Synovus",2023-10-18,36529
 "Synovus",2023-12-14,36248
 "Synovus",2023-12-17,36283
+"Synovus",2023-12-18,36290
 "Synovus Bank",2023-01-21,966
 "Synovus Bank",2023-02-10,974
 "Synovus Bank",2023-02-25,981
@@ -2761,6 +2783,7 @@
 "Synovus Bank",2023-08-29,1059
 "Synovus Bank",2023-10-18,1089
 "Synovus Bank",2023-12-17,1107
+"Synovus Bank",2023-12-18,1108
 "Synthego Corporation",2023-01-25,21104
 "Synthego Corporation",2023-01-29,21126
 "Synthetic Futures",2023-01-21,558
@@ -2793,6 +2816,7 @@
 "T-Mobile",2023-10-18,515472
 "T-Mobile",2023-12-14,522888
 "T-Mobile",2023-12-17,523646
+"T-Mobile",2023-12-18,523872
 "T.G.Masaryk Water Research Institute",2023-01-28,114
 "TAMU WiCyS",2023-01-21,126
 "TAMU WiCyS",2023-02-25,125
@@ -2839,6 +2863,7 @@
 "TD",2023-10-18,758641
 "TD",2023-12-14,777331
 "TD",2023-12-17,778737
+"TD",2023-12-18,779056
 "TECH(K)NOW Day",2023-01-21,976
 "TECH(K)NOW Day",2023-02-25,977
 "TECH(K)NOW Day",2023-03-13,978
@@ -2853,6 +2878,7 @@
 "TECH(K)NOW Day",2023-08-05,979
 "TECH(K)NOW Day",2023-08-29,978
 "TECH(K)NOW Day",2023-10-18,980
+"TECH(K)NOW Day",2023-12-18,969
 "TED Conferences",2023-01-28,23216699
 "TED Conferences",2023-06-23,23585353
 "TED Conferences",2023-07-06,23631314
@@ -2861,6 +2887,7 @@
 "TED Conferences",2023-08-29,23766213
 "TED Conferences",2023-10-18,23650520
 "TED Conferences",2023-12-17,22932913
+"TED Conferences",2023-12-18,22934676
 "TEKsystems",2023-01-21,696497
 "TEKsystems",2023-02-10,708448
 "TEKsystems",2023-02-25,717136
@@ -2878,6 +2905,7 @@
 "TEKsystems",2023-10-18,834804
 "TEKsystems",2023-12-14,834276
 "TEKsystems",2023-12-17,835806
+"TEKsystems",2023-12-18,836387
 "TEKsystems Global Services in India",2023-02-25,14580
 "TEKsystems Global Services in India",2023-03-13,15142
 "TEKsystems Global Services in India",2023-03-29,16269
@@ -3048,6 +3076,7 @@
 "Tableau",2023-12-14,908208
 "Tableau",2023-12-16,909228
 "Tableau",2023-12-17,909533
+"Tableau",2023-12-18,909818
 "Tableau Events and Webinars",2021-10-17,32075
 "Tableau Events and Webinars",2021-10-29,32183
 "Tableau Events and Webinars",2021-11-06,32269
@@ -3436,6 +3465,7 @@
 "Tag Ng",2023-08-29,3407
 "Tag Ng",2023-09-15,3417
 "Tag Ng",2023-10-18,3422
+"Tag Ng",2023-12-18,3361
 "Tag NgTag Ng",2023-12-14,NA
 "Talentese GmbH",2023-01-25,1373
 "Talentyon",2022-02-07,21
@@ -3465,6 +3495,7 @@
 "TalkAndroid.com",2023-08-29,15387
 "TalkAndroid.com",2023-10-18,15371
 "TalkAndroid.com",2023-12-17,14859
+"TalkAndroid.com",2023-12-18,14859
 "Tanzania AI Lab",2021-05-10,78
 "Targeted Oncology",2023-01-25,25720
 "Targeted Oncology",2023-01-29,26162
@@ -3671,6 +3702,8 @@
 "Tata Consultancy Services",2023-12-14,13843911
 "Tata Consultancy Services",2023-12-16,13868510
 "Tata Consultancy Services",2023-12-17,13874722
+"Tata Consultancy Services",2023-12-18,13884833
+"Tata Consultancy Services",2023-12-18,13884809
 "Tata Consulting Engineers Limited",2023-01-28,517989
 "Tata Institute of Social Sciences",2023-01-28,115701
 "Tata Projects",2023-01-28,1456002
@@ -3841,7 +3874,8 @@
 "Tech Ladies<ae>",2023-07-23,24059
 "Tech Ladies<ae>",2023-08-05,24141
 "Tech Ladies<ae>",2023-08-29,24371
-"Tech Ladies®",2023-10-18,24969
+"Tech Ladies<ae>",2023-10-18,24969
+"Tech Ladies®",2023-12-18,25256
 "Tech.Rocks",2020-11-30,3185
 "Tech.Rocks",2020-12-08,3280
 "TechCrunch",2023-01-21,2868063
@@ -3861,6 +3895,7 @@
 "TechCrunch",2023-10-18,2935710
 "TechCrunch",2023-12-14,2882129
 "TechCrunch",2023-12-17,2883712
+"TechCrunch",2023-12-18,2884168
 "Techcombank (TCB)",2023-01-28,60866
 "Technological University Dublin",2023-01-21,164658
 "Technological University Dublin",2023-02-25,165823
@@ -3876,6 +3911,7 @@
 "Technological University Dublin",2023-08-05,169682
 "Technological University Dublin",2023-08-29,170130
 "Technological University Dublin",2023-10-18,172748
+"Technological University Dublin",2023-12-18,170999
 "Technologies For Tomorrow Inc.",2023-01-21,65
 "Technologies For Tomorrow Inc.",2023-02-25,65
 "Technologies For Tomorrow Inc.",2023-03-13,65
@@ -3890,6 +3926,7 @@
 "Technologies For Tomorrow Inc.",2023-08-05,70
 "Technologies For Tomorrow Inc.",2023-08-29,71
 "Technologies For Tomorrow Inc.",2023-10-18,71
+"Technologies For Tomorrow Inc.",2023-12-18,70
 "Technology Ireland ICT Skillnet",2023-01-25,5000
 "Technology Ireland ICT Skillnet",2023-01-29,5006
 "Techonomy",2023-01-21,25781
@@ -3908,6 +3945,7 @@
 "Techonomy",2023-08-29,25918
 "Techonomy",2023-10-18,26038
 "Techonomy",2023-12-17,24449
+"Techonomy",2023-12-18,24451
 "Techpoint Charlie",2023-01-25,59
 "Techspert",2023-01-25,3630
 "Techspert",2023-01-29,3641
@@ -3926,6 +3964,7 @@
 "Tekkare",2023-08-29,1130
 "Tekkare",2023-09-15,1132
 "Tekkare",2023-10-18,1142
+"Tekkare",2023-12-18,1175
 "Tekkare<ae>",2023-06-05,1020
 "TekkareTekkare",2023-12-14,NA
 "Tel Aviv University",2023-01-25,173407
@@ -3950,6 +3989,7 @@
 "Telesat",2023-10-18,43888
 "Telesat",2023-12-14,43782
 "Telesat",2023-12-17,43880
+"Telesat",2023-12-18,43888
 "Temasek",2023-01-28,128223
 "Tempo",2023-01-25,14279
 "Tempus Labs Inc.",2023-01-25,41823
@@ -3971,6 +4011,7 @@
 "Tenable",2023-10-18,138484
 "Tenable",2023-12-14,140328
 "Tenable",2023-12-17,140586
+"Tenable",2023-12-18,140656
 "Tensor Community",2023-04-21,115769
 "Tensor Community",2023-04-23,115962
 "Tensor Community",2023-04-29,116496
@@ -4024,6 +4065,7 @@
 "Terran Orbital Corporation",2023-08-29,21923
 "Terran Orbital Corporation",2023-10-18,23153
 "Terran Orbital Corporation",2023-12-17,24012
+"Terran Orbital Corporation",2023-12-18,24016
 "Tesla",2023-01-21,11019049
 "Tesla",2023-01-25,11029721
 "Tesla",2023-02-10,11076864
@@ -4042,6 +4084,7 @@
 "Tesla",2023-10-18,12097609
 "Tesla",2023-12-14,11704283
 "Tesla",2023-12-17,11715317
+"Tesla",2023-12-18,11718430
 "Texas A&M University",2023-06-05,740522
 "Texas A&M University",2023-06-11,743677
 "Texas A&M University",2023-06-23,750598
@@ -4052,6 +4095,7 @@
 "Texas A&M University",2023-10-18,806761
 "Texas A&M University",2023-12-14,732404
 "Texas A&M University",2023-12-17,733874
+"Texas A&M University",2023-12-18,734293
 "Texas Instruments",2023-01-21,693085
 "Texas Instruments",2023-02-10,699078
 "Texas Instruments",2023-02-25,706205
@@ -4069,6 +4113,7 @@
 "Texas Instruments",2023-10-18,794130
 "Texas Instruments",2023-12-14,786782
 "Texas Instruments",2023-12-17,787813
+"Texas Instruments",2023-12-18,788119
 "Texas Water Journal",2023-01-28,1475
 "Thales",2023-01-21,1100754
 "Thales",2023-01-25,1103157
@@ -4088,6 +4133,7 @@
 "Thales",2023-10-18,1301097
 "Thales",2023-12-14,1322833
 "Thales",2023-12-17,1325541
+"Thales",2023-12-18,1326354
 "Thales Alenia Space",2023-01-21,211677
 "Thales Alenia Space",2023-02-10,214042
 "Thales Alenia Space",2023-02-25,215798
@@ -4105,6 +4151,7 @@
 "Thales Alenia Space",2023-10-18,242945
 "Thales Alenia Space",2023-12-14,245408
 "Thales Alenia Space",2023-12-17,245804
+"Thales Alenia Space",2023-12-18,245934
 "Thalesians Ltd",2021-01-22,3523
 "Thalesians Ltd",2021-01-25,3527
 "Thalesians Ltd",2021-01-28,3527
@@ -4266,6 +4313,7 @@
 "The Aerospace Corporation",2023-10-18,94509
 "The Aerospace Corporation",2023-12-14,96480
 "The Aerospace Corporation",2023-12-17,96579
+"The Aerospace Corporation",2023-12-18,96598
 "The Agency of Pensacola",2023-01-21,64
 "The Agency of Pensacola",2023-02-25,64
 "The Agency of Pensacola",2023-03-13,65
@@ -4281,6 +4329,7 @@
 "The Agency of Pensacola",2023-08-29,65
 "The Agency of Pensacola",2023-10-18,65
 "The Agency of Pensacola",2023-12-17,63
+"The Agency of Pensacola",2023-12-18,63
 "The Alan Turing Institute",2021-12-20,19782
 "The Alan Turing Institute",2021-12-26,19868
 "The Alan Turing Institute",2021-12-30,19892
@@ -4395,6 +4444,7 @@
 "The Alan Turing Institute",2023-08-29,45982
 "The Alan Turing Institute",2023-09-15,47617
 "The Alan Turing Institute",2023-10-18,50274
+"The Alan Turing Institute",2023-12-18,53768
 "The Alan Turing InstituteThe Alan Turing Institute",2023-12-14,NA
 "The Ambition Revolution with Amanda Blesing",2023-01-25,1114
 "The Analytics Institute of Ireland",2020-10-17,4407
@@ -4588,6 +4638,7 @@
 "The Analytics Institute of Ireland",2023-10-18,7952
 "The Analytics Institute of Ireland",2023-12-14,7956
 "The Analytics Institute of Ireland",2023-12-16,7958
+"The Analytics Institute of Ireland",2023-12-18,7958
 "The Andrew W. Mellon Foundation",2020-10-25,8748
 "The Andrew W. Mellon Foundation",2020-10-28,8791
 "The Andrew W. Mellon Foundation",2020-10-30,8835
@@ -4869,6 +4920,7 @@
 "The Apache Software Foundation",2023-10-18,69331
 "The Apache Software Foundation",2023-12-14,68712
 "The Apache Software Foundation",2023-12-16,68741
+"The Apache Software Foundation",2023-12-18,68758
 "The Arc Gateway",2023-01-21,286
 "The Arc Gateway",2023-02-10,291
 "The Arc Gateway",2023-02-25,291
@@ -4885,12 +4937,14 @@
 "The Arc Gateway",2023-08-29,316
 "The Arc Gateway",2023-10-18,329
 "The Arc Gateway",2023-12-17,333
+"The Arc Gateway",2023-12-18,333
 "The Bioinformatics CRO",2023-01-25,4455
 "The Bioinformatics CRO",2023-01-29,4479
 "The Blacks In Technology Foundation",2023-07-23,16779
 "The Blacks In Technology Foundation",2023-08-05,16984
 "The Blacks In Technology Foundation",2023-08-29,17400
 "The Blacks In Technology Foundation",2023-10-18,17219
+"The Bloom",2023-01-25,14713
 "storytelling with data",2020-10-15,39653
 "storytelling with data",2020-10-16,39773
 "storytelling with data",2020-10-19,39979
@@ -5113,6 +5167,7 @@
 "storytelling with data",2023-10-18,140939
 "storytelling with data",2023-10-18,138475
 "storytelling with data",2023-12-17,140376
+"storytelling with data",2023-12-18,140402
 "storytelling with data",2023-12-18,140401
 "streetfootballworld",2023-01-25,3641
 "taara.quest",2023-02-25,132

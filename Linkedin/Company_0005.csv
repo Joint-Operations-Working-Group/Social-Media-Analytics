@@ -1,4 +1,10 @@
 "Company","Date","Followers"
+"CPI Formations",2020-10-16,912
+"CPI Formations",2020-10-21,917
+"CPI Formations",2020-10-22,918
+"CPI Formations",2020-11-02,944
+"CPI Formations",2020-11-07,948
+"CPI Formations",2020-11-21,966
 "CPL",2020-10-13,154540
 "CPL",2020-10-16,155163
 "CQDM",2023-01-25,2763
@@ -25,6 +31,7 @@
 "CSIRO",2023-10-18,275209
 "CSIRO",2023-12-14,285161
 "CSIRO",2023-12-17,285633
+"CSIRO",2023-12-18,285801
 "CSIRO's Data61",2023-01-21,31450
 "CSIRO's Data61",2023-02-25,31912
 "CSIRO's Data61",2023-03-13,32118
@@ -39,6 +46,7 @@
 "CSIRO's Data61",2023-08-05,34457
 "CSIRO's Data61",2023-08-29,34875
 "CSIRO's Data61",2023-10-18,35923
+"CSIRO's Data61",2023-12-18,36419
 "CSO (Central Statistics Office Ireland)",2021-02-03,5139
 "CSO (Central Statistics Office Ireland)",2021-02-07,5152
 "CSO (Central Statistics Office Ireland)",2021-02-12,5167
@@ -192,6 +200,7 @@
 "CSO (Central Statistics Office Ireland)",2023-10-18,10869
 "CSO (Central Statistics Office Ireland)",2023-12-14,10935
 "CSO (Central Statistics Office Ireland)",2023-12-16,10954
+"CSO (Central Statistics Office Ireland)",2023-12-18,10958
 "CSO (Central Statistics Office)",2020-10-15,4818
 "CSO (Central Statistics Office)",2020-10-20,4830
 "CSO (Central Statistics Office)",2020-10-21,4832
@@ -236,6 +245,7 @@
 "CSP Daily News",2023-08-05,5052
 "CSP Daily News",2023-08-29,5164
 "CSP Daily News",2023-10-18,5501
+"CSP Daily News",2023-12-18,5675
 "CSR Europe",2020-10-16,10755
 "CSR Europe",2020-10-21,10872
 "CSR Europe",2020-10-22,10919
@@ -372,6 +382,7 @@
 "CTS Inc.",2023-10-18,5972
 "CTS Inc.",2023-12-14,5950
 "CTS Inc.",2023-12-17,5954
+"CTS Inc.",2023-12-18,5954
 "CUMMINS TECHNOLOGIES INDIA LIMITED",2023-01-28,5042
 "CYSAT",2023-01-21,1913
 "CYSAT",2023-02-25,2031
@@ -399,6 +410,9 @@
 "CYSEC GLOBAL",2023-07-23,2481
 "CYSEC GLOBAL",2023-08-05,2497
 "CYSEC GLOBAL",2023-08-29,2606
+"CoWomen",2023-01-25,849
+"Covance",2021-02-19,269132
+"Covance",2021-03-26,277312
 "Cpl",2020-10-25,156857
 "Cpl",2020-10-28,157314
 "Cpl",2020-10-30,157750
@@ -591,6 +605,7 @@
 "Cpl",2023-10-18,309662
 "Cpl",2023-12-14,312893
 "Cpl",2023-12-16,313200
+"Cpl",2023-12-18,313427
 "CppCon The C++ Conference",2023-10-18,14281
 "Cranfield University",2023-01-28,104058
 "Cray Inc.",2023-01-25,23707
@@ -610,6 +625,7 @@
 "Credit Union Times",2023-08-29,29290
 "Credit Union Times",2023-10-18,29058
 "Credit Union Times",2023-12-17,29578
+"Credit Union Times",2023-12-18,29581
 "Croatan Institute",2020-10-16,861
 "Croatan Institute",2020-10-20,879
 "Croatan Institute",2020-10-22,893
@@ -649,6 +665,7 @@
 "CrowdStrike",2023-08-29,493467
 "CrowdStrike",2023-10-18,521244
 "CrowdStrike",2023-12-17,535569
+"CrowdStrike",2023-12-18,535957
 "Culture Summit",2023-01-25,1762
 "Customer Service",2023-03-13,0
 "Customer Service",2023-03-29,3492070
@@ -675,6 +692,7 @@
 "Cyber Aegis",2023-08-05,633
 "Cyber Aegis",2023-08-29,633
 "Cyber Aegis",2023-10-18,635
+"Cyber Aegis",2023-12-18,618
 "Cyber Bytes Foundation",2023-01-21,3728
 "Cyber Bytes Foundation",2023-02-25,3765
 "Cyber Bytes Foundation",2023-03-13,3798
@@ -703,6 +721,7 @@
 "Cyber Florida: The Florida Center for Cybersecurity",2023-08-05,4467
 "Cyber Florida: The Florida Center for Cybersecurity",2023-08-29,4552
 "Cyber Florida: The Florida Center for Cybersecurity",2023-10-18,4814
+"Cyber Florida: The Florida Center for Cybersecurity",2023-12-18,5026
 "Cyber Future Foundation",2023-01-21,3208
 "Cyber Future Foundation",2023-02-25,3325
 "Cyber Future Foundation",2023-03-13,3342
@@ -717,6 +736,7 @@
 "Cyber Future Foundation",2023-08-05,3545
 "Cyber Future Foundation",2023-08-29,3581
 "Cyber Future Foundation",2023-10-18,3800
+"Cyber Future Foundation",2023-12-18,3805
 "Cyber Huntsville",2023-01-21,1290
 "Cyber Huntsville",2023-02-25,1446
 "Cyber Huntsville",2023-03-13,1508
@@ -755,6 +775,7 @@
 "Cyber Institute",2023-08-05,585
 "Cyber Institute",2023-08-29,587
 "Cyber Institute",2023-10-18,586
+"Cyber Institute",2023-12-18,567
 "Cyber Jobs Hunting",2023-02-25,18919
 "Cyber Jobs Hunting",2023-03-13,19518
 "Cyber Jobs Hunting",2023-03-29,20051
@@ -797,6 +818,7 @@
 "Cyber Security Forum Initiative",2023-08-29,83494
 "Cyber Security Forum Initiative",2023-10-18,84462
 "Cyber Security Forum Initiative",2023-12-17,82725
+"Cyber Security Forum Initiative",2023-12-18,82760
 "Cyber Security Hub<U+00AE>",2023-01-21,36590
 "Cyber Security Hub<U+00AE>",2023-02-25,37350
 "Cyber Security Hub<ae>",2023-03-13,37587
@@ -812,6 +834,7 @@
 "Cyber Security Hub<ae>",2023-08-29,39065
 "Cyber Security Hub®",2023-10-18,39305
 "Cyber Security Hub®",2023-12-17,38478
+"Cyber Security Hub®",2023-12-18,38480
 "Cyber Security Intelligence",2023-01-21,30131
 "Cyber Security Intelligence",2023-02-25,31026
 "Cyber Security Intelligence",2023-03-13,31456
@@ -826,6 +849,7 @@
 "Cyber Security Intelligence",2023-08-05,33903
 "Cyber Security Intelligence",2023-08-29,32953
 "Cyber Security Intelligence",2023-10-18,33063
+"Cyber Security Intelligence",2023-12-18,33191
 "Cyber Security Jobsite",2023-01-21,41227
 "Cyber Security Jobsite",2023-02-25,42852
 "Cyber Security Jobsite",2023-03-13,43598
@@ -841,6 +865,7 @@
 "Cyber Security Jobsite",2023-08-29,50662
 "Cyber Security Jobsite",2023-10-18,52033
 "Cyber Security Jobsite",2023-12-17,51661
+"Cyber Security Jobsite",2023-12-18,51689
 "Cyber Security News",2023-01-21,361430
 "Cyber Security News",2023-02-25,376864
 "Cyber Security News",2023-03-13,383852
@@ -855,6 +880,7 @@
 "Cyber Security News",2023-08-05,468785
 "Cyber Security News",2023-08-29,483511
 "Cyber Security News",2023-10-18,513893
+"Cyber Security News",2023-12-18,558665
 "Cyber Security Recruitment",2023-01-21,72395
 "Cyber Security Recruitment",2023-02-25,76886
 "Cyber Security Recruitment",2023-03-13,78802
@@ -869,6 +895,7 @@
 "Cyber Security Recruitment",2023-08-05,89749
 "Cyber Security Recruitment",2023-08-29,91388
 "Cyber Security Recruitment",2023-10-18,91920
+"Cyber Security Recruitment",2023-12-18,95230
 "Cyber Security Strategies - providing consulting services worldwide to manage cyber security risks",2023-01-21,13232
 "Cyber Security Strategies - providing consulting services worldwide to manage cyber security risks",2023-02-10,13508
 "Cyber Security Strategies - providing consulting services worldwide to manage cyber security risks",2023-02-25,13546
@@ -885,6 +912,7 @@
 "Cyber Security Strategies - providing consulting services worldwide to manage cyber security risks",2023-08-29,14221
 "Cyber Security Strategies - providing consulting services worldwide to manage cyber security risks",2023-10-18,14367
 "Cyber Security Strategies - providing consulting services worldwide to manage cyber security risks",2023-12-17,14046
+"Cyber Security Strategies - providing consulting services worldwide to manage cyber security risks",2023-12-18,14047
 "Cyber Security Summit Brasil",2023-01-21,14110
 "Cyber Security Summit Brasil",2023-02-25,14455
 "Cyber Security Summit Brasil",2023-03-13,14619
@@ -899,6 +927,7 @@
 "Cyber Security Summit Brasil",2023-08-05,16630
 "Cyber Security Summit Brasil",2023-08-29,17099
 "Cyber Security Summit Brasil",2023-10-18,18378
+"Cyber Security Summit Brasil",2023-12-18,18501
 "Cyber Security Summit | cybersecuritysummit.org",2023-01-21,14111
 "Cyber Security Summit | cybersecuritysummit.org",2023-02-25,15291
 "Cyber Security Summit | cybersecuritysummit.org",2023-03-13,15914
@@ -913,6 +942,7 @@
 "Cyber Security Summit | cybersecuritysummit.org",2023-08-05,19064
 "Cyber Security Summit | cybersecuritysummit.org",2023-08-29,19412
 "Cyber Security Summit | cybersecuritysummit.org",2023-10-18,19540
+"Cyber Security Summit | cybersecuritysummit.org",2023-12-18,20408
 "Cyber Supply Drop",2023-01-21,10114
 "Cyber Supply Drop",2023-02-25,10413
 "Cyber Supply Drop",2023-03-13,10764
@@ -957,6 +987,7 @@
 "CyberArk",2023-10-18,166907
 "CyberArk",2023-12-14,167724
 "CyberArk",2023-12-17,167937
+"CyberArk",2023-12-18,168011
 "CyberCoast",2023-01-21,107
 "CyberCoast",2023-02-25,113
 "CyberCoast",2023-03-13,116
@@ -987,6 +1018,7 @@
 "CyberCoders",2023-10-18,1394829
 "CyberCoders",2023-12-14,1444704
 "CyberCoders",2023-12-17,1447189
+"CyberCoders",2023-12-18,1447852
 "CyberEdBoard Community",2023-01-21,4460
 "CyberEdBoard Community",2023-02-25,4563
 "CyberEdBoard Community",2023-03-13,4603
@@ -1015,6 +1047,7 @@
 "CyberNow Labs",2023-08-05,9319
 "CyberNow Labs",2023-08-29,9969
 "CyberNow Labs",2023-10-18,10717
+"CyberNow Labs",2023-12-18,11406
 "CyberPreserve",2023-01-21,940
 "CyberPreserve",2023-02-25,954
 "CyberPreserve",2023-03-13,961
@@ -1044,6 +1077,7 @@
 "CyberSN",2023-08-29,25075
 "CyberSN",2023-10-18,26131
 "CyberSN",2023-12-17,25801
+"CyberSN",2023-12-18,25810
 "CyberSecurity Jobs",2023-01-21,210625
 "CyberSecurity Jobs",2023-02-25,217039
 "CyberSecurity Jobs",2023-03-13,219877
@@ -1071,6 +1105,7 @@
 "CyberUniversity",2023-07-23,1561
 "CyberUniversity",2023-08-05,1593
 "CyberUniversity",2023-08-29,1619
+"CyberWire Daily by N2K",2023-12-18,21554
 "Cybersecurity Central",2023-02-25,4465
 "Cybersecurity Central",2023-03-13,4584
 "Cybersecurity Central",2023-03-29,4658
@@ -1111,6 +1146,7 @@
 "Cybersecurity and Infrastructure Security Agency",2023-08-05,404721
 "Cybersecurity and Infrastructure Security Agency",2023-08-29,414631
 "Cybersecurity and Infrastructure Security Agency",2023-10-18,415924
+"Cybersecurity and Infrastructure Security Agency",2023-12-18,436946
 "Cybrary",2023-01-21,145783
 "Cybrary",2023-02-25,147897
 "Cybrary",2023-03-13,148690
@@ -1125,6 +1161,7 @@
 "Cybrary",2023-08-05,157149
 "Cybrary",2023-08-29,158496
 "Cybrary",2023-10-18,160285
+"Cybrary",2023-12-18,156581
 "Cyclopharma SA Maroc",2021-05-10,348
 "Cyntegrity | Data Science for Clinical Trials",2020-12-15,2980
 "Cyntegrity | Data Science for Clinical Trials",2020-12-27,3000
@@ -1147,6 +1184,7 @@
 "D-Orbit",2023-08-29,47450
 "D-Orbit",2023-10-18,49256
 "D-Orbit",2023-12-17,50793
+"D-Orbit",2023-12-18,50822
 "DAAD German Academic Exchange Service",2023-01-28,69154
 "DAIN Studios",2021-01-22,1302
 "DAIN Studios",2021-01-25,1307
@@ -1430,6 +1468,7 @@
 "DATA CENTRIC AFRICA",2023-08-29,1438
 "DATA CENTRIC AFRICA",2023-09-15,1438
 "DATA CENTRIC AFRICA",2023-10-18,1434
+"DATA CENTRIC AFRICA",2023-12-18,1416
 "DATA CENTRIC AFRICADATA CENTRIC AFRICA",2023-12-14,NA
 "DATA MANSA",2021-06-02,100
 "DATA MANSA",2021-06-09,102
@@ -1566,6 +1605,7 @@
 "DATA MANSA",2023-08-29,190
 "DATA MANSA",2023-09-15,190
 "DATA MANSA",2023-10-18,190
+"DATA MANSA",2023-12-18,187
 "DATA MANSADATA MANSA",2023-12-14,NA
 "DATA SCIENCE LAB",2021-03-30,76
 "DATA SCIENCE LAB",2021-04-06,82
@@ -1648,6 +1688,7 @@
 "DAV (Disabled American Veterans)",2023-10-18,147783
 "DAV (Disabled American Veterans)",2023-12-14,151829
 "DAV (Disabled American Veterans)",2023-12-17,152066
+"DAV (Disabled American Veterans)",2023-12-18,152138
 "DBpedia Association",2023-01-21,765
 "DBpedia Association",2023-02-25,775
 "DBpedia Association",2023-03-13,779
@@ -1662,6 +1703,7 @@
 "DBpedia Association",2023-08-05,828
 "DBpedia Association",2023-08-29,841
 "DBpedia Association",2023-10-18,859
+"DBpedia Association",2023-12-18,861
 "DC Water",2023-01-28,12038
 "DCVC",2023-01-21,9101
 "DCVC",2023-02-10,9428
@@ -1679,6 +1721,7 @@
 "DCVC",2023-08-29,12494
 "DCVC",2023-10-18,13589
 "DCVC",2023-12-17,14156
+"DCVC",2023-12-18,14176
 "Da Vinci CyberSecurity",2023-01-21,1414
 "Da Vinci CyberSecurity",2023-02-25,1445
 "Da Vinci CyberSecurity",2023-03-13,1460
@@ -1693,6 +1736,7 @@
 "Da Vinci CyberSecurity",2023-08-05,1592
 "Da Vinci CyberSecurity",2023-08-29,1605
 "Da Vinci CyberSecurity",2023-10-18,1655
+"Da Vinci CyberSecurity",2023-12-18,1721
 "DagsHub",2023-01-21,5396
 "DagsHub",2023-02-25,5887
 "DagsHub",2023-03-13,6117
@@ -1707,6 +1751,7 @@
 "DagsHub",2023-08-05,7923
 "DagsHub",2023-08-29,8017
 "DagsHub",2023-10-18,8201
+"DagsHub",2023-12-18,8093
 "Dalhousie Computer Science Society",2021-03-28,43
 "Dalhousie Computer Science Society",2021-03-31,43
 "Dalhousie Computer Science Society",2021-04-06,43
@@ -1841,6 +1886,7 @@
 "Dalrymple Sallis Architecture",2023-08-29,227
 "Dalrymple Sallis Architecture",2023-10-18,233
 "Dalrymple Sallis Architecture",2023-12-17,233
+"Dalrymple Sallis Architecture",2023-12-18,233
 "Dana-Farber Cancer Institute",2023-01-25,96420
 "Dana-Farber Cancer Institute",2023-01-29,96693
 "Danah Tech",2022-01-18,290
@@ -1935,6 +1981,7 @@
 "Dark Reading",2023-08-29,83053
 "Dark Reading",2023-10-18,89336
 "Dark Reading",2023-12-17,91965
+"Dark Reading",2023-12-18,92036
 "Darwin Recruitment",2023-04-10,78538
 "Darwin Recruitment",2023-04-23,79249
 "Darwin Recruitment",2023-06-05,81818
@@ -1947,6 +1994,7 @@
 "Darwin Recruitment",2023-10-18,90980
 "Darwin Recruitment",2023-12-14,94146
 "Darwin Recruitment",2023-12-17,94396
+"Darwin Recruitment",2023-12-18,94513
 "Dasa",2021-02-19,280273
 "Dasa",2021-03-26,304593
 "DatSci.Ai",2023-01-25,992
@@ -2135,6 +2183,7 @@
 "Data & Society Research Institute",2023-08-29,14595
 "Data & Society Research Institute",2023-09-15,14822
 "Data & Society Research Institute",2023-10-18,15366
+"Data & Society Research Institute",2023-12-18,16146
 "Data & Society Research InstituteData & Society Research Institute",2023-12-14,NA
 "Data Analysis",2023-08-29,2071994
 "Data Axle",2021-04-20,47001
@@ -2264,6 +2313,7 @@
 "Data Breach Resolution",2023-08-05,742
 "Data Breach Resolution",2023-08-29,749
 "Data Breach Resolution",2023-10-18,732
+"Data Breach Resolution",2023-12-18,739
 "Data Core Systems Romania",2023-01-25,262
 "Data Core Systems Romania",2023-01-29,262
 "Data Council",2023-02-25,2132
@@ -2280,6 +2330,7 @@
 "Data Council",2023-08-29,3295
 "Data Council",2023-10-18,3387
 "Data Council",2023-12-17,3480
+"Data Council",2023-12-18,3482
 "Data For Good",2020-10-25,2898
 "Data For Good",2020-10-28,2911
 "Data For Good",2020-10-30,2925
@@ -2467,6 +2518,7 @@
 "Data For Good",2023-08-29,11856
 "Data For Good",2023-09-15,12094
 "Data For Good",2023-10-18,12604
+"Data For Good",2023-12-18,14400
 "Data For GoodData For Good",2023-12-14,NA
 "Data Ireland",2020-10-20,761
 "Data Ireland",2020-10-21,761
@@ -3416,6 +3468,7 @@
 "Data Science Academy",2023-10-18,470194
 "Data Science Academy",2023-10-18,465205
 "Data Science Academy",2023-12-17,469689
+"Data Science Academy",2023-12-18,469831
 "Data Science Academy",2023-12-18,469825
 "Data Science AcademyData Science Academy",2023-12-14,NA
 "Data Science Central",2020-10-06,187780
@@ -3619,6 +3672,7 @@
 "Data Science Central",2023-08-29,279577
 "Data Science Central",2023-09-15,279841
 "Data Science Central",2023-10-18,280294
+"Data Science Central",2023-12-18,272596
 "Data Science CentralData Science Central",2023-12-14,NA
 "Data Science Club at UTDallas",2021-01-22,946
 "Data Science Club at UTDallas",2021-01-25,946
@@ -3874,6 +3928,7 @@
 "Data Science Conference",2023-08-05,8252
 "Data Science Conference",2023-08-29,8364
 "Data Science Conference",2023-10-18,8913
+"Data Science Conference",2023-12-18,9881
 "Data Science Council of America",2020-10-15,44996
 "Data Science Council of America",2020-10-20,45117
 "Data Science Council of America",2020-10-20,45123
@@ -4071,6 +4126,7 @@
 "Data Science Council of America",2023-08-29,66068
 "Data Science Council of America",2023-09-15,57849
 "Data Science Council of America",2023-10-18,57915
+"Data Science Council of America",2023-12-18,58151
 "Data Science Council of AmericaData Science Council of America",2023-12-14,NA
 "Data Science Dojo",2020-10-12,51933
 "Data Science Dojo",2020-10-15,52095
@@ -4334,6 +4390,8 @@
 "Data Science Dojo",2023-10-18,285829
 "Data Science Dojo",2023-12-17,288178
 "Data Science Dojo",2023-12-17,288179
+"Data Science Dojo",2023-12-18,288313
+"Data Science Dojo",2023-12-18,288312
 "Data Science Dojo",2023-12-18,288310
 "Data Science Foundation International",2022-03-07,2413
 "Data Science Foundation International",2022-03-15,2448
@@ -4435,6 +4493,7 @@
 "Data Science Foundation International",2023-08-29,3015
 "Data Science Foundation International",2023-09-15,3028
 "Data Science Foundation International",2023-10-18,3035
+"Data Science Foundation International",2023-12-18,2989
 "Data Science Foundation InternationalData Science Foundation International",2023-12-14,NA
 "Data Science Ghent",2021-03-28,237
 "Data Science Ghent",2021-03-31,237
@@ -5555,10 +5614,10 @@
 "Data Science Research Per<fa>",2023-07-23,23054
 "Data Science Research Per<fa>",2023-08-08,23274
 "Data Science Research Per<fa>",2023-08-10,23323
+"Data Science Research Per<fa>",2023-09-15,23720
 "Data Science Research Perú",2023-10-18,23720
 "Data Science Research Perú",2023-12-17,24271
 "Data Science Research Perú",2023-12-18,24274
-"Data Science Research Per<fa>",2023-09-15,23720
 "Data Science Retreat",2023-01-25,4645
 "Data Science Salon",2023-01-21,3662
 "Data Science Salon",2023-02-25,3825
@@ -6191,6 +6250,7 @@
 "Data Science Zimbabwe",2023-08-29,7689
 "Data Science Zimbabwe",2023-09-15,7813
 "Data Science Zimbabwe",2023-10-18,8011
+"Data Science Zimbabwe",2023-12-18,8224
 "Data Science ZimbabweData Science Zimbabwe",2023-12-14,NA
 "Data Science and AI Society - UTS",2021-03-28,91
 "Data Science and AI Society - UTS",2021-03-31,91
@@ -6737,6 +6797,7 @@
 "Data Science for Social Good Foundation",2023-08-29,5193
 "Data Science for Social Good Foundation",2023-09-15,5277
 "Data Science for Social Good Foundation",2023-10-18,5427
+"Data Science for Social Good Foundation",2023-12-18,5580
 "Data Science for Social Good FoundationData Science for Social Good Foundation",2023-12-14,NA
 "Data Scientists Ltd",2021-06-02,12
 "Data Scientists Ltd",2021-06-09,12
@@ -6881,6 +6942,7 @@
 "Data Scientists Ltd",2023-10-18,37
 "Data Scientists Ltd",2023-12-14,37
 "Data Scientists Ltd",2023-12-16,37
+"Data Scientists Ltd",2023-12-18,37
 "Data Scientists Network (DSN)",2021-12-03,5014
 "Data Umbrella",2023-01-21,1887
 "Data Umbrella",2023-01-22,1887
@@ -7189,6 +7251,7 @@
 "Data Works MD",2023-08-05,449
 "Data Works MD",2023-08-29,450
 "Data Works MD",2023-10-18,453
+"Data Works MD",2023-12-18,444
 "Data for Good",2020-10-25,5074
 "Data for Good",2020-10-28,5088
 "Data for Good",2020-10-30,5103
@@ -7377,6 +7440,7 @@
 "Data for Good",2023-08-29,11697
 "Data for Good",2023-09-15,11788
 "Data for Good",2023-10-18,12010
+"Data for Good",2023-12-18,12199
 "Data for Good Foundation",2020-10-25,1042
 "Data for Good Foundation",2020-10-28,1045
 "Data for Good Foundation",2020-10-30,1049
@@ -7562,6 +7626,7 @@
 "Data for Good Foundation",2023-08-29,2276
 "Data for Good Foundation",2023-09-15,2285
 "Data for Good Foundation",2023-10-18,2295
+"Data for Good Foundation",2023-12-18,2264
 "Data for Good FoundationData for Good Foundation",2023-12-14,NA
 "Data2X United Nations Foundation",2021-07-14,2316
 "Data2X United Nations Foundation",2021-07-18,2320
@@ -7691,6 +7756,7 @@
 "Data2X United Nations Foundation",2023-08-29,4319
 "Data2X United Nations Foundation",2023-09-15,4355
 "Data2X United Nations Foundation",2023-10-18,4455
+"Data2X United Nations Foundation",2023-12-18,4631
 "DataCamp",2020-10-05,178112
 "DataCamp",2020-10-06,178223
 "DataCamp",2020-10-07,178437
@@ -7972,6 +8038,8 @@
 "DataCamp",2023-10-18,406636
 "DataCamp",2023-12-17,414368
 "DataCamp",2023-12-17,414369
+"DataCamp",2023-12-18,414531
+"DataCamp",2023-12-18,414528
 "DataCamp",2023-12-18,414522
 "DataDotOrg",2020-10-25,686
 "DataDotOrg",2020-10-28,688
@@ -8162,6 +8230,7 @@
 "DataDotOrg",2023-08-29,7931
 "DataDotOrg",2023-09-15,8098
 "DataDotOrg",2023-10-18,8481
+"DataDotOrg",2023-12-18,8950
 "DataDotOrgDataDotOrg",2023-12-14,NA
 "DataIQ",2020-10-25,6917
 "DataIQ",2020-10-28,6935
@@ -8350,6 +8419,7 @@
 "DataIQ",2023-08-29,16476
 "DataIQ",2023-09-15,16589
 "DataIQ",2023-10-18,17288
+"DataIQ",2023-12-18,17506
 "DataIQ School of Analysis",2021-03-30,123
 "DataIQ School of Analysis",2021-04-06,124
 "DataIQ School of Analysis",2021-04-10,125
@@ -8502,6 +8572,7 @@
 "DataIQ School of Analysis",2023-08-29,142
 "DataIQ School of Analysis",2023-09-15,143
 "DataIQ School of Analysis",2023-10-18,144
+"DataIQ School of Analysis",2023-12-18,141
 "DataKind",2020-10-08,10631
 "DataKind",2020-10-13,10672
 "DataKind",2020-10-16,10699
@@ -8700,6 +8771,7 @@
 "DataKind",2023-10-18,20020
 "DataKind",2023-12-14,20422
 "DataKind",2023-12-16,20461
+"DataKind",2023-12-18,20476
 "DataKind UK",2020-10-25,1568
 "DataKind UK",2020-10-28,1571
 "DataKind UK",2020-10-30,1575
@@ -8884,6 +8956,7 @@
 "DataKind UK",2023-08-29,3376
 "DataKind UK",2023-09-15,3401
 "DataKind UK",2023-10-18,3483
+"DataKind UK",2023-12-18,3701
 "DataLab USA",2021-02-19,2507
 "DataLab USA",2021-03-06,2535
 "DataLab USA",2021-03-26,2640
@@ -9146,6 +9219,7 @@
 "DataRobot",2023-08-29,128171
 "DataRobot",2023-09-15,128777
 "DataRobot",2023-10-18,129880
+"DataRobot",2023-12-18,128631
 "DataSeries",2020-11-21,269
 "DataSeries",2020-11-30,284
 "DataSeries",2020-12-08,290
@@ -9522,6 +9596,7 @@
 "Databand.ai",2023-08-05,3925
 "Databand.ai",2023-08-29,3955
 "Databand.ai",2023-10-18,4014
+"Databand.ai",2023-12-18,4009
 "Databricks",2020-10-11,168140
 "Databricks",2020-10-13,168642
 "Databricks",2020-10-14,169027
@@ -9736,6 +9811,8 @@
 "Databricks",2023-10-18,550603
 "Databricks",2023-10-18,550616
 "Databricks",2023-12-17,566376
+"Databricks",2023-12-18,566870
+"Databricks",2023-12-18,566867
 "Datadog",2023-01-21,178957
 "Datadog",2023-02-10,183055
 "Datadog",2023-02-25,185833
@@ -9752,6 +9829,7 @@
 "Datadog",2023-08-29,228470
 "Datadog",2023-10-18,243618
 "Datadog",2023-12-17,252758
+"Datadog",2023-12-18,252990
 "Datafloq",2023-01-28,2757
 "Datahack",2023-04-23,1042
 "Datahack",2023-06-05,1056
@@ -9762,6 +9840,7 @@
 "Datahack",2023-08-05,1089
 "Datahack",2023-08-29,1094
 "Datahack",2023-10-18,1122
+"Datahack",2023-12-18,1110
 "Datahug (acquired by CallidusCloud)",2020-10-20,3174
 "Datahug (acquired by CallidusCloud)",2020-10-21,3174
 "Datahug (acquired by CallidusCloud)",2020-10-23,3174
@@ -9960,6 +10039,7 @@
 "Datahug (acquired by CallidusCloud)",2023-10-18,3091
 "Datahug (acquired by CallidusCloud)",2023-12-14,2645
 "Datahug (acquired by CallidusCloud)",2023-12-16,2645
+"Datahug (acquired by CallidusCloud)",2023-12-18,2645
 "Dataiku",2020-10-14,55338
 "Dataiku",2020-10-16,55439
 "Dataiku",2020-10-18,55481
@@ -10152,6 +10232,7 @@
 "Dataiku",2023-08-29,157106
 "Dataiku",2023-09-15,158856
 "Dataiku",2023-10-18,162015
+"Dataiku",2023-12-18,163674
 "Datakind",2020-10-15,10694
 "Datakind",2020-10-20,10733
 "Datalitics",2021-03-30,64
@@ -10307,6 +10388,7 @@
 "Datalitics",2023-08-29,208
 "Datalitics",2023-09-15,207
 "Datalitics",2023-10-18,208
+"Datalitics",2023-12-18,207
 "Datalytics",2020-10-16,6466
 "Datalytics",2020-10-25,6487
 "Datalytics",2020-10-28,6488
@@ -10496,10 +10578,12 @@
 "Datalytics",2023-10-18,28380
 "Datalytics",2023-12-14,29028
 "Datalytics",2023-12-16,29070
+"Datalytics",2023-12-18,29092
 "Dataminr",2023-01-29,118059
 "Datamotus",2023-08-29,1295
 "Datamotus",2023-10-18,1372
 "Datamotus",2023-12-17,1467
+"Datamotus",2023-12-18,1475
 "Datapeople",2023-01-25,2503
 "Dataport A<f6>R",2020-11-30,1830
 "Dataport A<f6>R",2020-12-08,1874
@@ -10707,6 +10791,7 @@
 "Dataquest.io",2023-08-29,43724
 "Dataquest.io",2023-09-15,43864
 "Dataquest.io",2023-10-18,44052
+"Dataquest.io",2023-12-18,43137
 "Dataquest.ioDataquest.io",2023-12-14,NA
 "Datarade",2023-01-25,2420
 "Dave on Data",2023-01-22,11720
@@ -10724,6 +10809,7 @@
 "Day of Shecurity",2023-08-05,3174
 "Day of Shecurity",2023-08-29,3246
 "Day of Shecurity",2023-10-18,3420
+"Day of Shecurity",2023-12-18,3596
 "De Anza College",2023-01-25,64865
 "Dearest.",2023-01-25,783
 "Deci AI",2023-01-22,5975
@@ -10915,6 +11001,7 @@
 "Decision Inc.",2023-08-29,33825
 "Decision Inc.",2023-09-15,33950
 "Decision Inc.",2023-10-18,34632
+"Decision Inc.",2023-12-18,34954
 "DecisionBrain",2022-02-01,1614
 "DecisionBrain",2022-02-07,1619
 "DecisionBrain",2022-02-16,1626
@@ -11245,6 +11332,8 @@
 "DeepLearning.AI",2023-10-18,739393
 "DeepLearning.AI",2023-10-18,730998
 "DeepLearning.AI",2023-12-17,793978
+"DeepLearning.AI",2023-12-18,794732
+"DeepLearning.AI",2023-12-18,794731
 "DeepLearning.AI",2023-12-18,794716
 "DeepLearning.AIDeepLearning.AI",2023-12-14,NA
 "DeepMind",2023-01-21,426455
@@ -11377,6 +11466,7 @@
 "DeepVidhya",2023-09-15,416
 "DeepVidhya",2023-10-18,416
 "DeepVidhya",2023-12-14,409
+"DeepVidhya",2023-12-18,409
 "Deepcell Inc.",2023-01-25,6834
 "Deepcell Inc.",2023-01-29,6857
 "Deepchecks",2023-01-22,4665
@@ -11394,6 +11484,7 @@
 "Deepnote",2023-08-05,6453
 "Deepnote",2023-08-29,6528
 "Deepnote",2023-10-18,7194
+"Deepnote",2023-12-18,7618
 "Defence Forces of Ireland",2020-10-20,3833
 "Defence Forces of Ireland",2020-10-21,3833
 "Defence Forces of Ireland",2020-10-23,3833
@@ -11538,6 +11629,7 @@
 "Defense Advanced Research Projects Agency (DARPA)",2023-10-18,203972
 "Defense Advanced Research Projects Agency (DARPA)",2023-12-14,203569
 "Defense Advanced Research Projects Agency (DARPA)",2023-12-17,203946
+"Defense Advanced Research Projects Agency (DARPA)",2023-12-18,204026
 "Defense Counterintelligence and Security Agency (DCSA)",2023-01-21,68371
 "Defense Counterintelligence and Security Agency (DCSA)",2023-02-25,71233
 "Defense Counterintelligence and Security Agency (DCSA)",2023-03-13,73187
@@ -11583,6 +11675,7 @@
 "Defense Intelligence Agency",2023-10-18,272172
 "Defense Intelligence Agency",2023-12-14,281301
 "Defense Intelligence Agency",2023-12-17,281947
+"Defense Intelligence Agency",2023-12-18,282107
 "Defense News",2023-01-21,415659
 "Defense News",2023-02-25,418107
 "Defense News",2023-03-13,419238
@@ -11597,7 +11690,9 @@
 "Defense News",2023-08-05,429436
 "Defense News",2023-08-29,431117
 "Defense News",2023-10-18,415671
+"Defense News",2023-12-18,419467
 "Defense Strategies Institute",2023-12-17,3638
+"Defense Strategies Institute",2023-12-18,3638
 "Delft University of Technology",2023-01-25,269360
 "Delft University of Technology",2023-01-28,269713
 "Delft University of Technology",2023-01-29,269750
@@ -11622,6 +11717,7 @@
 "Deloitte",2023-10-18,13963506
 "Deloitte",2023-12-14,13993600
 "Deloitte",2023-12-17,14035134
+"Deloitte",2023-12-18,14046800
 "Deloitte Deutschland",2020-12-27,49294
 "Deloitte Deutschland",2021-02-19,52987
 "Deloitte Deutschland",2021-03-26,55939
@@ -11630,6 +11726,7 @@
 "Delta Air Lines",2023-10-18,1251554
 "Delta Air Lines",2023-12-14,1233624
 "Delta Air Lines",2023-12-17,1235006
+"Delta Air Lines",2023-12-18,1235418
 "Delta Lake",2023-03-29,22694
 "Delta Lake",2023-04-10,23582
 "Delta Lake",2023-04-23,24217
@@ -11640,7 +11737,6 @@
 "Delta Lake",2023-07-23,30770
 "Delta Lake",2023-08-05,31560
 "Delta Lake",2023-08-29,32656
-"Deltares",2023-01-28,33822
 "crispycoaching",2023-01-25,210
 "datatraining.io",2023-05-12,25784
 "datatraining.io",2023-05-19,25968
@@ -11659,6 +11755,7 @@
 "datatraining.io",2023-08-29,30380
 "datatraining.io",2023-09-15,31137
 "datatraining.io",2023-10-18,32612
+"datatraining.io",2023-12-18,33994
 "datatraining.iodatatraining.io",2023-12-14,NA
 "deepkapha.ai",2020-12-27,38286
 "deepkapha.ai",2021-02-19,39033

@@ -1,4 +1,21 @@
 "Company","Date","Followers"
+"MIT Energy Initiative",2023-01-21,13203
+"MIT Energy Initiative",2023-02-25,13558
+"MIT Energy Initiative",2023-03-13,13689
+"MIT Energy Initiative",2023-03-29,13778
+"MIT Energy Initiative",2023-04-10,13845
+"MIT Energy Initiative",2023-04-23,13935
+"MIT Energy Initiative",2023-06-05,14194
+"MIT Energy Initiative",2023-06-11,14220
+"MIT Energy Initiative",2023-06-23,14269
+"MIT Energy Initiative",2023-07-06,14507
+"MIT Energy Initiative",2023-07-23,14646
+"MIT Energy Initiative",2023-08-05,14723
+"MIT Energy Initiative",2023-08-29,14835
+"MIT Energy Initiative",2023-10-18,15159
+"MIT Energy Initiative",2023-12-18,15095
+"MIT Jameel Clinic - AI & Health",2023-01-25,17081
+"MIT Leaders for Global Operations (LGO)",2023-01-25,6353
 "MIT Media Lab",2020-10-16,78997
 "MIT Media Lab",2020-10-21,79252
 "MIT Media Lab",2020-10-22,79322
@@ -24,6 +41,7 @@
 "MIT Media Lab",2023-10-18,150913
 "MIT Media Lab",2023-12-14,151738
 "MIT Media Lab",2023-12-17,151953
+"MIT Media Lab",2023-12-18,152023
 "MIT Office of Innovation",2023-01-21,68288
 "MIT Office of Innovation",2023-02-25,68821
 "MIT Office of Innovation",2023-03-13,69072
@@ -38,6 +56,7 @@
 "MIT Office of Innovation",2023-08-05,70055
 "MIT Office of Innovation",2023-08-29,70129
 "MIT Office of Innovation",2023-10-18,70356
+"MIT Office of Innovation",2023-12-18,68581
 "MIT Office of Resource Development",2023-01-21,5324
 "MIT Office of Resource Development",2023-02-25,5656
 "MIT Office of Resource Development",2023-03-13,5797
@@ -52,6 +71,7 @@
 "MIT Office of Resource Development",2023-08-05,7019
 "MIT Office of Resource Development",2023-08-29,6981
 "MIT Office of Resource Development",2023-10-18,7377
+"MIT Office of Resource Development",2023-12-18,7642
 "MIT Open Learning",2023-01-21,9961
 "MIT Open Learning",2023-02-25,11968
 "MIT Open Learning",2023-03-13,12866
@@ -79,6 +99,7 @@
 "MIT School of Engineering",2023-08-05,89459
 "MIT School of Engineering",2023-08-29,91847
 "MIT School of Engineering",2023-10-18,93676
+"MIT School of Engineering",2023-12-18,98559
 "MIT Senseable City Lab",2023-01-21,10836
 "MIT Senseable City Lab",2023-02-10,10933
 "MIT Senseable City Lab",2023-02-25,11071
@@ -95,6 +116,7 @@
 "MIT Senseable City Lab",2023-08-29,12665
 "MIT Senseable City Lab",2023-10-18,13074
 "MIT Senseable City Lab",2023-12-17,13269
+"MIT Senseable City Lab",2023-12-18,13275
 "MIT Sloan Management Review",2023-01-21,91586
 "MIT Sloan Management Review",2023-02-10,93011
 "MIT Sloan Management Review",2023-02-25,93576
@@ -112,6 +134,7 @@
 "MIT Sloan Management Review",2023-10-18,109812
 "MIT Sloan Management Review",2023-12-14,111170
 "MIT Sloan Management Review",2023-12-17,111381
+"MIT Sloan Management Review",2023-12-18,111729
 "MIT Sloan School of Management",2023-01-21,439077
 "MIT Sloan School of Management",2023-02-10,442160
 "MIT Sloan School of Management",2023-02-25,444068
@@ -129,6 +152,7 @@
 "MIT Sloan School of Management",2023-10-18,458460
 "MIT Sloan School of Management",2023-12-14,468720
 "MIT Sloan School of Management",2023-12-17,469685
+"MIT Sloan School of Management",2023-12-18,469924
 "MIT Technology Review",2020-10-16,638915
 "MIT Technology Review",2020-10-21,644057
 "MIT Technology Review",2020-10-24,647914
@@ -232,6 +256,7 @@
 "MIT Technology Review",2023-10-18,1334099
 "MIT Technology Review",2023-12-17,1305776
 "MIT Technology Review",2023-12-17,1305777
+"MIT Technology Review",2023-12-18,1306376
 "MIT Technology Review",2023-12-18,1306361
 "MIT Technology Review (ES)",2023-01-21,78831
 "MIT Technology Review (ES)",2023-02-10,79285
@@ -249,6 +274,7 @@
 "MIT Technology Review (ES)",2023-08-29,82018
 "MIT Technology Review (ES)",2023-10-18,79907
 "MIT Technology Review (ES)",2023-12-17,80202
+"MIT Technology Review (ES)",2023-12-18,80207
 "MITRE",2023-01-21,150092
 "MITRE",2023-02-10,152029
 "MITRE",2023-02-25,153591
@@ -266,6 +292,7 @@
 "MITRE",2023-10-18,175603
 "MITRE",2023-12-14,176677
 "MITRE",2023-12-17,177037
+"MITRE",2023-12-18,177143
 "MITRE ATT&CK",2023-01-21,111474
 "MITRE ATT&CK",2023-02-25,118751
 "MITRE ATT&CK",2023-03-13,120933
@@ -762,6 +789,7 @@
 "Moderna",2023-08-29,485256
 "Moderna",2023-10-18,514604
 "Moderna",2023-12-17,524498
+"Moderna",2023-12-18,524837
 "Mogrify",2023-01-25,6416
 "Mogrify",2023-01-29,6434
 "Momentus",2023-01-21,13933
@@ -778,6 +806,7 @@
 "Momentus",2023-08-05,15570
 "Momentus",2023-08-29,15728
 "Momentus",2023-10-18,16105
+"Momentus",2023-12-18,16147
 "Monash Data Science Society",2021-03-28,224
 "Monash Data Science Society",2021-03-31,225
 "Monash Data Science Society",2021-04-06,226
@@ -919,6 +948,7 @@
 "Monroe County Democratic Committee",2023-08-29,194
 "Monroe County Democratic Committee",2023-10-18,195
 "Monroe County Democratic Committee",2023-12-17,190
+"Monroe County Democratic Committee",2023-12-18,190
 "Monsanto Company",2023-01-22,465926
 "Monte Carlo",2023-01-21,15165
 "Monte Carlo",2023-02-25,16032
@@ -934,6 +964,7 @@
 "Monte Carlo",2023-08-05,19820
 "Monte Carlo",2023-08-29,20305
 "Monte Carlo",2023-10-18,21018
+"Monte Carlo",2023-12-18,22329
 "Montreal AI Ethics Institute",2023-03-13,8852
 "Montreal AI Ethics Institute",2023-03-29,8975
 "Montreal AI Ethics Institute",2023-04-10,9055
@@ -963,6 +994,7 @@
 "Morgan Stanley",2023-08-29,2788369
 "Morgan Stanley",2023-10-18,2884102
 "Morgan Stanley",2023-12-17,2849020
+"Morgan Stanley",2023-12-18,2850494
 "Morningstar",2023-01-28,232232
 "Morpheus Space",2023-01-21,6634
 "Morpheus Space",2023-02-25,6836
@@ -978,6 +1010,7 @@
 "Morpheus Space",2023-08-05,7650
 "Morpheus Space",2023-08-29,7876
 "Morpheus Space",2023-10-18,8508
+"Morpheus Space",2023-12-18,8922
 "Mortgage Bankers Association",2023-01-21,66623
 "Mortgage Bankers Association",2023-02-10,67309
 "Mortgage Bankers Association",2023-02-25,67894
@@ -995,6 +1028,7 @@
 "Mortgage Bankers Association",2023-10-18,75423
 "Mortgage Bankers Association",2023-12-14,73738
 "Mortgage Bankers Association",2023-12-17,73823
+"Mortgage Bankers Association",2023-12-18,73837
 "MotherDuck",2023-04-23,3403
 "MotherDuck",2023-06-05,3977
 "MotherDuck",2023-06-11,4051
@@ -1029,6 +1063,7 @@
 "Museum of Fine Arts Boston",2023-10-18,42817
 "Museum of Fine Arts Boston",2023-12-14,45099
 "Museum of Fine Arts Boston",2023-12-17,45245
+"Museum of Fine Arts Boston",2023-12-18,45280
 "Museum of History & Industry (MOHAI)",2023-03-29,1389
 "Museum of History & Industry (MOHAI)",2023-04-10,1424
 "Museum of History & Industry (MOHAI)",2023-04-23,1450
@@ -1041,6 +1076,7 @@
 "Museum of History & Industry (MOHAI)",2023-08-29,1594
 "Museum of History & Industry (MOHAI)",2023-10-18,1629
 "Museum of History & Industry (MOHAI)",2023-12-17,1638
+"Museum of History & Industry (MOHAI)",2023-12-18,1638
 "Mushlabs",2023-01-25,12279
 "Muv.ac GmbH",2023-01-25,90
 "MyTutorsOnline (HapGen Educational Services Private Limited)",2020-11-21,364
@@ -1063,6 +1099,7 @@
 "NAACP",2023-10-18,109642
 "NAACP",2023-12-14,114021
 "NAACP",2023-12-17,114386
+"NAACP",2023-12-18,114474
 "NACTO (National Association of City Transportation Officials)",2023-01-21,12815
 "NACTO (National Association of City Transportation Officials)",2023-02-10,13358
 "NACTO (National Association of City Transportation Officials)",2023-02-25,13674
@@ -1079,6 +1116,7 @@
 "NACTO (National Association of City Transportation Officials)",2023-08-29,18315
 "NACTO (National Association of City Transportation Officials)",2023-10-18,19465
 "NACTO (National Association of City Transportation Officials)",2023-12-17,20220
+"NACTO (National Association of City Transportation Officials)",2023-12-18,20230
 "NASA - National Aeronautics and Space Administration",2021-01-19,5184257
 "NASA - National Aeronautics and Space Administration",2021-02-19,5245329
 "NASA - National Aeronautics and Space Administration",2021-03-06,5290375
@@ -1101,6 +1139,7 @@
 "NASA - National Aeronautics and Space Administration",2023-10-18,6279395
 "NASA - National Aeronautics and Space Administration",2023-12-14,6335464
 "NASA - National Aeronautics and Space Administration",2023-12-17,6339135
+"NASA - National Aeronautics and Space Administration",2023-12-18,6340185
 "NASA Ames Research Center",2023-01-21,89165
 "NASA Ames Research Center",2023-01-25,89311
 "NASA Ames Research Center",2023-01-28,89448
@@ -1120,6 +1159,7 @@
 "NASA Ames Research Center",2023-10-18,100842
 "NASA Ames Research Center",2023-12-14,100539
 "NASA Ames Research Center",2023-12-17,100682
+"NASA Ames Research Center",2023-12-18,100733
 "NASA Glenn Research Center",2023-01-21,116335
 "NASA Glenn Research Center",2023-02-10,117789
 "NASA Glenn Research Center",2023-02-25,118788
@@ -1137,6 +1177,7 @@
 "NASA Glenn Research Center",2023-10-18,129621
 "NASA Glenn Research Center",2023-12-14,132797
 "NASA Glenn Research Center",2023-12-17,133041
+"NASA Glenn Research Center",2023-12-18,133108
 "NASA Goddard Space Flight Center",2023-01-21,164537
 "NASA Goddard Space Flight Center",2023-02-10,165691
 "NASA Goddard Space Flight Center",2023-02-25,166563
@@ -1154,10 +1195,12 @@
 "NASA Goddard Space Flight Center",2023-10-18,175879
 "NASA Goddard Space Flight Center",2023-12-14,178987
 "NASA Goddard Space Flight Center",2023-12-17,179083
+"NASA Goddard Space Flight Center",2023-12-18,179116
 "NASA International Space Apps Challenge 2023 Dublin",2023-08-29,122
 "NASA International Space Apps Challenge 2023 Dublin",2023-09-15,177
 "NASA International Space Apps Challenge Dublin",2023-10-18,351
 "NASA International Space Apps Challenge Dublin",2023-12-14,443
+"NASA International Space Apps Challenge Dublin",2023-12-18,450
 "NASA Jet Propulsion Laboratory",2023-01-21,895045
 "NASA Jet Propulsion Laboratory",2023-01-25,895841
 "NASA Jet Propulsion Laboratory",2023-02-10,899312
@@ -1176,6 +1219,7 @@
 "NASA Jet Propulsion Laboratory",2023-10-18,995054
 "NASA Jet Propulsion Laboratory",2023-12-14,985257
 "NASA Jet Propulsion Laboratory",2023-12-17,986319
+"NASA Jet Propulsion Laboratory",2023-12-18,986604
 "NASA Langley Research Center",2023-01-21,33346
 "NASA Langley Research Center",2023-02-10,33672
 "NASA Langley Research Center",2023-02-25,33878
@@ -1193,6 +1237,7 @@
 "NASA Langley Research Center",2023-10-18,37791
 "NASA Langley Research Center",2023-12-14,38751
 "NASA Langley Research Center",2023-12-17,38800
+"NASA Langley Research Center",2023-12-18,38816
 "NASA Marshall Space Flight Center",2023-03-13,20377
 "NASA Marshall Space Flight Center",2023-03-29,21762
 "NASA Marshall Space Flight Center",2023-04-10,22743
@@ -1205,6 +1250,7 @@
 "NASA Marshall Space Flight Center",2023-08-05,28080
 "NASA Marshall Space Flight Center",2023-08-29,28863
 "NASA Marshall Space Flight Center",2023-10-18,30457
+"NASA Marshall Space Flight Center",2023-12-18,34204
 "NAVSEA Warfare Centers (NSWC/NUWC)",2023-01-21,92522
 "NAVSEA Warfare Centers (NSWC/NUWC)",2023-02-25,94503
 "NAVSEA Warfare Centers (NSWC/NUWC)",2023-03-13,95349
@@ -1365,6 +1411,7 @@
 "NCX",2023-10-18,8772
 "NCX",2023-12-14,8823
 "NCX",2023-12-16,8829
+"NCX",2023-12-18,8833
 "NCyTE Center",2023-01-21,523
 "NCyTE Center",2023-02-25,546
 "NCyTE Center",2023-03-13,564
@@ -1379,6 +1426,7 @@
 "NCyTE Center",2023-08-05,689
 "NCyTE Center",2023-08-29,701
 "NCyTE Center",2023-10-18,744
+"NCyTE Center",2023-12-18,763
 "NGI - Norwegian Geotechnical Institute",2023-01-28,21043
 "NICE",2023-06-11,30659
 "NICE",2023-06-23,30788
@@ -1387,6 +1435,7 @@
 "NICE",2023-08-05,31125
 "NICE",2023-08-29,31334
 "NICE",2023-10-18,30537
+"NICE",2023-12-18,30730
 "NICO.LAB",2020-12-15,1400
 "NIMBADATA",2021-06-02,4
 "NIMBADATA",2021-06-09,4
@@ -1525,6 +1574,7 @@
 "NIMBADATA",2023-08-29,4
 "NIMBADATA",2023-09-15,4
 "NIMBADATA",2023-10-18,4
+"NIMBADATA",2023-12-18,4
 "NIOZ Royal Netherlands Institute for Sea Research",2023-01-28,8294
 "NIST Communications Technology Laboratory",2023-01-21,1268
 "NIST Communications Technology Laboratory",2023-02-25,1282
@@ -1540,6 +1590,7 @@
 "NIST Communications Technology Laboratory",2023-08-05,1368
 "NIST Communications Technology Laboratory",2023-08-29,1387
 "NIST Communications Technology Laboratory",2023-10-18,1407
+"NIST Communications Technology Laboratory",2023-12-18,1435
 "NIT -Rourklea",2023-01-28,7105
 "NOAA: National Oceanic & Atmospheric Administration",2023-01-28,153952
 "NRI (Nomura Research Institute)",2021-02-19,25334
@@ -1559,6 +1610,7 @@
 "NSIN - National Security Innovation Network",2023-08-05,16108
 "NSIN - National Security Innovation Network",2023-08-29,16480
 "NSIN - National Security Innovation Network",2023-10-18,16753
+"NSIN - National Security Innovation Network",2023-12-18,17703
 "NTT DATA",2023-01-21,332132
 "NTT DATA",2023-02-10,341521
 "NTT DATA",2023-02-25,348194
@@ -1576,6 +1628,7 @@
 "NTT DATA",2023-10-18,450977
 "NTT DATA",2023-12-14,469189
 "NTT DATA",2023-12-17,471283
+"NTT DATA",2023-12-18,472083
 "NULLCON",2023-01-21,20381
 "NULLCON",2023-02-25,20601
 "NULLCON",2023-03-13,20776
@@ -1590,6 +1643,7 @@
 "NULLCON",2023-08-05,22104
 "NULLCON",2023-08-29,22480
 "NULLCON",2023-10-18,25060
+"NULLCON",2023-12-18,25362
 "Nagarro",2020-10-25,120119
 "Nagarro",2020-10-28,120363
 "Nagarro",2020-10-30,120708
@@ -1782,6 +1836,7 @@
 "Nagarro",2023-10-18,945466
 "Nagarro",2023-12-14,996571
 "Nagarro",2023-12-16,998496
+"Nagarro",2023-12-18,999557
 "Nalanda University",2023-01-28,1995
 "Nalco Water An Ecolab Company",2023-01-28,178207
 "Namocell",2023-01-25,4713
@@ -1903,6 +1958,7 @@
 "NannyML",2023-08-29,4851
 "NannyML",2023-09-15,4918
 "NannyML",2023-10-18,5061
+"NannyML",2023-12-18,5111
 "NannyMLNannyML",2023-12-14,NA
 "NanoCellect Biomedical Inc.",2023-01-25,6593
 "NanoCellect Biomedical Inc.",2023-01-29,6599
@@ -1910,6 +1966,7 @@
 "Nanoracks <U+0096> Powered by Voyager Space",2023-07-06,14364
 "Nanoracks <U+0096> Powered by Voyager Space",2023-07-23,14558
 "Nanoracks <U+0096> Powered by Voyager Space",2023-08-05,14657
+"Nanoracks <U+0096> Powered by Voyager Space",2023-08-29,14762
 "Nanoracks LLC",2023-01-21,12530
 "Nanoracks LLC",2023-02-10,12780
 "Nanoracks LLC",2023-02-25,12960
@@ -1919,9 +1976,9 @@
 "Nanoracks LLC",2023-04-23,13426
 "Nanoracks LLC",2023-06-05,13890
 "Nanoracks LLC",2023-06-11,14036
-"Nanoracks <U+0096> Powered by Voyager Space",2023-08-29,14762
-"Nanoracks – Powered by Voyager Space",2023-10-18,15052
-"Nanoracks – Powered by Voyager Space",2023-12-17,14870
+"Nanoracks <96> Powered by Voyager Space",2023-10-18,15052
+"Nanoracks <96> Powered by Voyager Space",2023-12-17,14870
+"Nanoracks – Powered by Voyager Space",2023-12-18,14871
 "Nanyang Technological University Singapore",2023-01-28,330010
 "Nassau Street Ventures",2020-10-16,706
 "Nassau Street Ventures",2020-10-21,708
@@ -1948,6 +2005,7 @@
 "Nation's Restaurant News",2023-10-18,477637
 "Nation's Restaurant News",2023-12-14,460494
 "Nation's Restaurant News",2023-12-17,460574
+"Nation's Restaurant News",2023-12-18,460595
 "NationBuilder",2023-06-05,6738
 "NationBuilder",2023-06-11,6753
 "NationBuilder",2023-06-23,6779
@@ -1957,6 +2015,7 @@
 "NationBuilder",2023-08-29,6858
 "NationBuilder",2023-10-18,6936
 "NationBuilder",2023-12-17,6863
+"NationBuilder",2023-12-18,6863
 "National Academy of Sciences",2023-01-28,24373
 "National Bureau of Economic Research",2023-03-13,26088
 "National Bureau of Economic Research",2023-03-29,26912
@@ -1972,6 +2031,7 @@
 "National Bureau of Economic Research",2023-10-18,38070
 "National Bureau of Economic Research",2023-12-14,40117
 "National Bureau of Economic Research",2023-12-17,40390
+"National Bureau of Economic Research",2023-12-18,40460
 "National Cancer Institute (NCI)",2023-01-25,193459
 "National Cancer Institute (NCI)",2023-01-29,194485
 "National Center for Biotechnology Information (NCBI)",2023-01-28,75741
@@ -1992,6 +2052,7 @@
 "National Committee on American Foreign Policy",2023-08-29,2628
 "National Committee on American Foreign Policy",2023-10-18,2601
 "National Committee on American Foreign Policy",2023-12-17,2671
+"National Committee on American Foreign Policy",2023-12-18,2674
 "National Council for Mental Wellbeing",2023-01-21,110127
 "National Council for Mental Wellbeing",2023-02-10,111343
 "National Council for Mental Wellbeing",2023-02-25,112264
@@ -2008,6 +2069,7 @@
 "National Council for Mental Wellbeing",2023-08-29,127045
 "National Council for Mental Wellbeing",2023-10-18,130805
 "National Council for Mental Wellbeing",2023-12-17,130508
+"National Council for Mental Wellbeing",2023-12-18,130548
 "National Counterintelligence and Security Center",2023-01-21,105407
 "National Counterintelligence and Security Center",2023-02-25,108021
 "National Counterintelligence and Security Center",2023-03-13,109378
@@ -2048,6 +2110,7 @@
 "National Cyber Security Centre",2023-08-05,418499
 "National Cyber Security Centre",2023-08-29,422096
 "National Cyber Security Centre",2023-10-18,431172
+"National Cyber Security Centre",2023-12-18,428088
 "National Cyber Summit",2023-01-21,2683
 "National Cyber Summit",2023-02-25,2854
 "National Cyber Summit",2023-03-13,2884
@@ -2062,6 +2125,7 @@
 "National Cyber Summit",2023-08-05,3037
 "National Cyber Summit",2023-08-29,3096
 "National Cyber Summit",2023-10-18,3550
+"National Cyber Summit",2023-12-18,3535
 "National CyberWatch Center",2023-01-21,715
 "National CyberWatch Center",2023-02-25,725
 "National CyberWatch Center",2023-03-13,730
@@ -2076,6 +2140,7 @@
 "National CyberWatch Center",2023-08-05,790
 "National CyberWatch Center",2023-08-29,801
 "National CyberWatch Center",2023-10-18,809
+"National CyberWatch Center",2023-12-18,813
 "National Cybersecurity Alliance",2023-01-21,38758
 "National Cybersecurity Alliance",2023-02-10,39158
 "National Cybersecurity Alliance",2023-02-25,39320
@@ -2092,6 +2157,7 @@
 "National Cybersecurity Alliance",2023-08-29,40344
 "National Cybersecurity Alliance",2023-10-18,40989
 "National Cybersecurity Alliance",2023-12-17,40210
+"National Cybersecurity Alliance",2023-12-18,40212
 "National Disaster Management Authority (NDMA) Pakistan",2023-01-28,1542
 "National Disaster Management Authority (NDMA)INDIA",2023-01-28,4077
 "National Environment Agency",2023-01-28,27397
@@ -2114,6 +2180,7 @@
 "National Geographic",2023-10-18,3574409
 "National Geographic",2023-12-14,3447627
 "National Geographic",2023-12-17,3448363
+"National Geographic",2023-12-18,3448590
 "National Geospatial-Intelligence Agency",2023-03-29,68333
 "National Geospatial-Intelligence Agency",2023-04-10,68734
 "National Geospatial-Intelligence Agency",2023-04-23,69125
@@ -2127,6 +2194,7 @@
 "National Geospatial-Intelligence Agency",2023-10-18,75952
 "National Geospatial-Intelligence Agency",2023-12-14,75173
 "National Geospatial-Intelligence Agency",2023-12-17,75306
+"National Geospatial-Intelligence Agency",2023-12-18,75330
 "National Initiative for Cybersecurity Education (NICE)",2023-01-21,26940
 "National Initiative for Cybersecurity Education (NICE)",2023-02-25,28136
 "National Initiative for Cybersecurity Education (NICE)",2023-03-13,28644
@@ -2166,6 +2234,7 @@
 "National Institute of Standards and Technology (NIST)",2023-10-18,279127
 "National Institute of Standards and Technology (NIST)",2023-12-14,286227
 "National Institute of Standards and Technology (NIST)",2023-12-17,287192
+"National Institute of Standards and Technology (NIST)",2023-12-18,287451
 "National Institute of Technology Hamirpur",2023-01-28,13799
 "National Institute of Technology Srinagar",2023-01-28,11070
 "National Physical Laboratory",2020-10-16,2157
@@ -2236,6 +2305,7 @@
 "National Security Agency",2023-10-18,397697
 "National Security Agency",2023-12-14,409667
 "National Security Agency",2023-12-17,410575
+"National Security Agency",2023-12-18,410792
 "National Security Institute (NSI)",2023-01-25,4370
 "National Taiwan University",2023-01-28,131954
 "National University of Singapore",2023-01-28,553599
@@ -2258,6 +2328,7 @@
 "National Wildlife Federation",2023-10-18,106541
 "National Wildlife Federation",2023-12-14,109796
 "National Wildlife Federation",2023-12-17,110068
+"National Wildlife Federation",2023-12-18,110130
 "Native Instruments",2021-01-19,72997
 "Nature Globe",2023-08-08,78
 "Nature Globe",2023-08-10,80
@@ -2265,6 +2336,7 @@
 "Nature Globe",2023-09-15,146
 "Nature Globe",2023-10-18,176
 "Nature Globe",2023-12-14,270
+"Nature Globe",2023-12-18,271
 "Nature Portfolio",2023-01-28,187381
 "Nautilus Biotechnology",2023-01-25,5526
 "Nautilus Biotechnology",2023-01-29,5564
@@ -2282,6 +2354,7 @@
 "Naval News",2023-08-05,45581
 "Naval News",2023-08-29,46300
 "Naval News",2023-10-18,47079
+"Naval News",2023-12-18,49858
 "Naval Sea Systems Command (NAVSEA)",2023-01-21,63239
 "Naval Sea Systems Command (NAVSEA)",2023-02-10,64118
 "Naval Sea Systems Command (NAVSEA)",2023-02-25,64773
@@ -2299,6 +2372,7 @@
 "Naval Sea Systems Command (NAVSEA)",2023-10-18,75724
 "Naval Sea Systems Command (NAVSEA)",2023-12-14,75617
 "Naval Sea Systems Command (NAVSEA)",2023-12-17,75760
+"Naval Sea Systems Command (NAVSEA)",2023-12-18,75793
 "Navjyoti India Foundation",2023-01-28,7306
 "Navrachana University",2023-01-28,9424
 "Navy Federal Credit Union",2023-01-21,102711
@@ -2318,6 +2392,7 @@
 "Navy Federal Credit Union",2023-10-18,115414
 "Navy Federal Credit Union",2023-12-14,118609
 "Navy Federal Credit Union",2023-12-17,118821
+"Navy Federal Credit Union",2023-12-18,118897
 "Navy SEAL Foundation",2023-01-21,89737
 "Navy SEAL Foundation",2023-02-10,90144
 "Navy SEAL Foundation",2023-02-25,90406
@@ -2334,6 +2409,7 @@
 "Navy SEAL Foundation",2023-08-29,93280
 "Navy SEAL Foundation",2023-10-18,89173
 "Navy SEAL Foundation",2023-12-17,90565
+"Navy SEAL Foundation",2023-12-18,90584
 "Near Space Labs",2023-01-21,3754
 "Near Space Labs",2023-02-25,3860
 "Near Space Labs",2023-03-13,3908
@@ -2348,6 +2424,7 @@
 "Near Space Labs",2023-08-05,4202
 "Near Space Labs",2023-08-29,4223
 "Near Space Labs",2023-10-18,4340
+"Near Space Labs",2023-12-18,4369
 "Nearmap",2023-01-21,26663
 "Nearmap",2023-02-10,26912
 "Nearmap",2023-02-25,27073
@@ -2365,6 +2442,7 @@
 "Nearmap",2023-10-18,31747
 "Nearmap",2023-12-14,32180
 "Nearmap",2023-12-17,32233
+"Nearmap",2023-12-18,32236
 "NeoGenomics Laboratories",2023-01-25,21896
 "NeoGenomics Laboratories",2023-01-29,21931
 "Neon",2023-01-21,769578
@@ -2381,6 +2459,7 @@
 "Neon",2023-08-05,861983
 "Neon",2023-08-29,872206
 "Neon",2023-10-18,894741
+"Neon",2023-12-18,886206
 "Neptune Energy",2021-01-22,40037
 "Neptune Energy",2021-01-25,40147
 "Neptune Energy",2021-01-28,40348
@@ -2527,6 +2606,7 @@
 "NetWise (a Dun & Bradstreet Company)",2023-08-05,719
 "NetWise (a Dun & Bradstreet Company)",2023-08-29,726
 "NetWise (a Dun & Bradstreet Company)",2023-10-18,698
+"NetWise (a Dun & Bradstreet Company)",2023-12-18,704
 "Netcelero",2022-02-20,637
 "Netcelero",2022-02-26,643
 "Netcelero",2022-03-03,646
@@ -2631,6 +2711,7 @@
 "Netcelero",2023-08-29,1316
 "Netcelero",2023-09-15,1330
 "Netcelero",2023-10-18,1364
+"Netcelero",2023-12-18,1405
 "Netdata",2023-01-25,2846
 "Netdata",2023-01-29,2848
 "Netflix",2023-01-22,9459868
@@ -2651,6 +2732,7 @@
 "Neumann Space",2023-08-05,6155
 "Neumann Space",2023-08-29,6301
 "Neumann Space",2023-10-18,6507
+"Neumann Space",2023-12-18,6879
 "NeurAlbertaTech",2023-02-10,1514
 "Neuralink",2021-01-19,67017
 "Neuralink",2023-03-13,254556
@@ -2665,6 +2747,7 @@
 "Neuralink",2023-08-05,296804
 "Neuralink",2023-08-29,292716
 "Neuralink",2023-10-18,304719
+"Neuralink",2023-12-18,315957
 "Neuralog",2021-01-22,997
 "Neuralog",2021-01-25,998
 "Neuralog",2021-01-28,998
@@ -2811,6 +2894,7 @@
 "Neuroscience News",2023-08-29,393240
 "Neuroscience News",2023-10-18,403974
 "Neuroscience News",2023-12-17,418989
+"Neuroscience News",2023-12-18,419168
 "Neusoft",2021-01-19,27042
 "Neusoft",2021-02-19,27146
 "Neusoft",2021-03-06,27215
@@ -2857,6 +2941,7 @@
 "New York Community Trust",2023-10-18,4567
 "New York Community Trust",2023-12-14,4714
 "New York Community Trust",2023-12-16,4730
+"New York Community Trust",2023-12-18,4732
 "New York State Economic Development Council",2023-01-21,5518
 "New York State Economic Development Council",2023-02-25,5823
 "New York State Economic Development Council",2023-03-13,5945
@@ -2872,6 +2957,7 @@
 "New York State Economic Development Council",2023-08-29,6629
 "New York State Economic Development Council",2023-10-18,6908
 "New York State Economic Development Council",2023-12-17,7108
+"New York State Economic Development Council",2023-12-18,7116
 "NewLimit",2023-01-25,594
 "NewLimit",2023-01-29,600
 "NewSpace New Mexico",2023-01-21,1031
@@ -3079,6 +3165,7 @@
 "Newgen Software",2023-10-18,180703
 "Newgen Software",2023-12-14,186100
 "Newgen Software",2023-12-16,186479
+"Newgen Software",2023-12-18,187244
 "Nexcelom Bioscience",2023-01-25,12679
 "Nexcelom Bioscience",2023-01-29,12689
 "Next Generation Recruitment",2020-10-20,11402
@@ -3211,16 +3298,17 @@
 "Nintendo",2023-10-18,696343
 "Nintendo",2023-12-14,694383
 "Nintendo",2023-12-17,694939
+"Nintendo",2023-12-18,695095
 "Niscka",2023-01-28,3185
-"Nième Conseil",2023-06-27,531
-"Nième Conseil",2023-07-06,532
-"Nième Conseil",2023-07-23,538
-"Nième Conseil",2023-08-08,540
-"Nième Conseil",2023-08-10,541
-"Nième Conseil",2023-09-15,546
-"Nième Conseil",2023-10-18,546
-"Nième Conseil",2023-12-17,552
-"Nième Conseil",2023-12-18,552
+"Ni<e8>me Conseil",2023-06-27,531
+"Ni<e8>me Conseil",2023-07-06,532
+"Ni<e8>me Conseil",2023-07-23,538
+"Ni<e8>me Conseil",2023-08-08,540
+"Ni<e8>me Conseil",2023-08-10,541
+"Ni<e8>me Conseil",2023-09-15,546
+"Ni<e8>me Conseil",2023-10-18,546
+"Ni<e8>me Conseil",2023-12-17,552
+"Ni<e8>me Conseil",2023-12-18,552
 "NoVolante",2021-05-10,640
 "Noa - News Over Audio",2023-01-25,3351
 "Noa - News Over Audio",2023-01-29,3353
@@ -3242,6 +3330,7 @@
 "Nokia Bell Labs",2023-10-18,84253
 "Nokia Bell Labs",2023-12-14,84072
 "Nokia Bell Labs",2023-12-17,84234
+"Nokia Bell Labs",2023-12-18,84256
 "Noodle.ai",2020-10-20,17995
 "Noodle.ai",2020-10-21,18002
 "Noodle.ai",2020-10-23,18014
@@ -3428,6 +3517,7 @@
 "Noodle.ai",2023-08-29,25182
 "Noodle.ai",2023-09-15,25417
 "Noodle.ai",2023-10-18,25877
+"Noodle.ai",2023-12-18,25760
 "Noodle.aiNoodle.ai",2023-12-14,NA
 "Nor-Shipping",2023-06-05,15066
 "Nor-Shipping",2023-06-11,16024
@@ -3438,6 +3528,7 @@
 "Nor-Shipping",2023-08-29,16471
 "Nor-Shipping",2023-10-18,16526
 "Nor-Shipping",2023-12-17,16359
+"Nor-Shipping",2023-12-18,16359
 "Nordic.AI",2021-01-25,474
 "Nordic.AI",2021-01-28,475
 "Nordic.AI",2021-01-31,476
@@ -3590,6 +3681,7 @@
 "NorthSec",2023-08-29,2683
 "NorthSec",2023-10-18,2766
 "NorthSec",2023-12-17,2773
+"NorthSec",2023-12-18,2775
 "Northern Arizona University",2023-01-28,146093
 "Northrop Grumman",2023-01-21,1036477
 "Northrop Grumman",2023-02-10,1046455
@@ -3608,6 +3700,7 @@
 "Northrop Grumman",2023-10-18,1181600
 "Northrop Grumman",2023-12-14,1143270
 "Northrop Grumman",2023-12-17,1145175
+"Northrop Grumman",2023-12-18,1145642
 "Northwestern Mutual",2023-01-28,304779
 "Northwestern University Pritzker School of Law",2023-01-25,24305
 "Northwestern University School of Professional Studies",2023-01-28,7006
@@ -3780,6 +3873,7 @@
 "Novo Space",2023-08-05,2074
 "Novo Space",2023-08-29,2096
 "Novo Space",2023-10-18,2183
+"Novo Space",2023-12-18,2257
 "Nucleome Informatics Pvt Ltd",2020-10-16,1659
 "Nuffic",2023-01-28,15080
 "Null VIT Bhopal Student Chapter",2023-02-25,100
@@ -4011,36 +4105,6 @@
 "NumFOCUS",2023-10-18,4296
 "NumFOCUS",2023-12-17,4527
 "NumFOCUS",2023-12-18,4526
-"NumFOCUSNumFOCUS",2023-12-14,NA
-"NumPy",2023-01-25,1227
-"NumPy",2023-03-25,1563
-"NumPy",2023-03-29,1590
-"NumPy",2023-04-01,1599
-"NumPy",2023-04-10,1643
-"NumPy",2023-04-10,1645
-"NumPy",2023-04-13,1651
-"NumPy",2023-04-21,1673
-"NumPy",2023-04-23,1677
-"NumPy",2023-04-29,1693
-"NumPy",2023-05-12,1733
-"NumPy",2023-05-19,1767
-"NumPy",2023-05-29,1808
-"NumPy",2023-06-05,1850
-"NumPy",2023-06-11,1876
-"NumPy",2023-06-14,1883
-"NumPy",2023-06-17,1889
-"NumPy",2023-06-23,1905
-"NumPy",2023-06-27,1915
-"NumPy",2023-07-06,1944
-"NumPy",2023-07-23,1982
-"NumPy",2023-08-02,2030
-"NumPy",2023-08-05,2038
-"NumPy",2023-08-08,2040
-"NumPy",2023-08-10,2045
-"NumPy",2023-08-29,2096
-"NumPy",2023-09-15,2161
-"NumPy",2023-10-18,2276
-"NumPy",2023-12-14,2418
 "Numenta",2023-01-25,7052
 "Numenta",2023-01-29,7059
 "Numeric Mind",2021-06-29,336
@@ -4178,8 +4242,7 @@
 "NumericMind",2023-08-29,1039
 "NumericMind",2023-09-15,1053
 "NumericMind",2023-10-18,1100
-"Nuritas",2023-01-25,9200
-"Nuritas",2023-01-29,9209
+"NumericMind",2023-12-18,1164
 "mobileX AG",2020-12-27,560
 "mobileX AG",2021-02-19,563
 "mobileX AG",2021-03-26,569
@@ -4198,6 +4261,7 @@
 "moinworld",2023-08-05,1260
 "moinworld",2023-08-29,1267
 "moinworld",2023-10-18,1274
+"moinworld",2023-12-18,1255
 "mydealz",2023-01-25,1183
 "n.e.f Business Automation",2023-01-22,79
 "n8n",2023-01-25,9733
@@ -4218,3 +4282,4 @@
 "null - The Open Security Community",2023-08-29,14003
 "null - The Open Security Community",2023-10-18,15163
 "null - The Open Security Community",2023-12-17,15710
+"null - The Open Security Community",2023-12-18,15733
