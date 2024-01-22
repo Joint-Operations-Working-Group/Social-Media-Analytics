@@ -1,429 +1,46 @@
 "Company","Date","Followers"
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-01-21,391
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-02-25,400
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-03-13,405
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-03-29,416
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-04-10,422
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-04-23,428
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-06-05,448
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-06-11,451
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-06-23,462
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-07-06,469
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-07-23,482
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-08-05,486
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-08-29,479
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-10-18,494
+"ALPHA DATA (FPGA Solutions Company) [located in US and UK]",2023-12-18,545
+"ALX Oncology",2021-02-19,1267
+"ALX Oncology",2021-03-06,1308
+"ALX Oncology",2021-03-26,1355
+"AMBOSS",2023-01-25,29663
+"AMD",2020-12-27,566682
+"AMD",2021-02-19,597068
+"AMD",2021-03-26,615670
+"AMD",2023-01-21,1014930
+"AMD",2023-02-10,1029268
+"AMD",2023-02-25,1039865
+"AMD",2023-03-13,1052299
+"AMD",2023-03-29,1066669
+"AMD",2023-04-10,1076715
+"AMD",2023-04-23,1087688
+"AMD",2023-06-05,1129606
+"AMD",2023-06-11,1136534
+"AMD",2023-06-23,1150277
+"AMD",2023-07-06,1167075
+"AMD",2023-07-23,1184904
+"AMD",2023-08-05,1200120
+"AMD",2023-08-29,1221265
+"AMD",2023-10-18,1276831
+"AMD",2023-12-14,1273313
+"AMD",2023-12-17,1277007
+"AMD",2023-12-18,1277998
 "AMOTION Games",2023-01-25,128
 "AMS Staffing Inc.",2023-01-21,26845
-"IBM",2024-01-22,15804283
-"Accenture",2024-01-22,11500601
-"Tata Consultancy Services",2024-01-22,14118343
-"McKinsey & Company",2024-01-22,5644987
-"SAS",2024-01-22,862743
-"Roche",2024-01-22,3170683
-"Cognizant",2024-01-22,6968315
-"Boston Consulting Group (BCG)",2024-01-22,4176520
-"Informatica",2024-01-22,281585
-"Ascential",2024-01-22,63810
-"Esri",2024-01-22,362129
-"Globant",2024-01-22,910415
-"Bill & Melinda Gates Foundation",2024-01-22,1178489
-"Nagarro",2024-01-22,1017382
-"Newgen Software",2024-01-22,193867
-"Open Society Foundations",2024-01-22,215307
-"IUCN",2024-01-22,169870
-"Ford Foundation",2024-01-22,191440
-"Office for National Statistics",2024-01-22,70079
-"KIPP Foundation",2024-01-22,55499
-"Robert Wood Johnson Foundation",2024-01-22,96227
-"United Nations Foundation",2024-01-22,185246
-"Oceana",2024-01-22,59262
-"Packt",2024-01-22,116119
-"Qatar Foundation",2024-01-22,558817
-"MacArthur Foundation",2024-01-22,125343
-"Gordon and Betty Moore Foundation",2024-01-22,12706
-"Two Sigma",2024-01-22,184457
-"The David and Lucile Packard Foundation",2024-01-22,39067
-"Skoll Foundation",2024-01-22,55918
-"Analytic Partners",2024-01-22,13009
-"Conning",2024-01-22,15672
-"The James Irvine Foundation",2024-01-22,16891
-"William and Flora Hewlett Foundation",2024-01-22,40205
-"Elm Company",2024-01-22,588243
-"Doris Duke Foundation",2024-01-22,6082
-"Mellon Foundation",2024-01-22,42782
-"W.K. Kellogg Foundation",2024-01-22,70748
-"Rockefeller Philanthropy Advisors",2024-01-22,45292
-"G-Research",2024-01-22,40009
-"Brightwater",2024-01-22,163157
-"Jupiter Asset Management",2024-01-22,43142
-"Idiro Analytics",2024-01-22,5555
-"Datalytics",2024-01-22,29894
-"Pluralsight",2024-01-22,191399
-"The Kresge Foundation",2024-01-22,47796
-"New York Community Trust",2024-01-22,5049
-"Women In Technology (WIT)",2024-01-22,303068
-"Cpl",2024-01-22,318654
-"GlobalLogic",2024-01-22,838001
-"Susquehanna International Group LLP (SIG)",2024-01-22,144557
-"The Rockefeller Foundation",2024-01-22,245644
-"Tableau",2024-01-22,922363
-"Genpact",2024-01-22,3530717
-"i2 Inc.",2024-01-22,992
-"The Apache Software Foundation",2024-01-22,69132
-"WorldQuant",2024-01-22,85536
-"Collibra",2024-01-22,66942
-"Jump Trading Group",2024-01-22,64018
-"Qualtrics",2024-01-22,242852
-"United Nations Institute for Training and Research (UNITAR)",2024-01-22,389788
-"Remsoft",2024-01-22,3386
-"Altair RapidMiner",2024-01-22,20553
-"Canadian Institute of Actuaries l Institut canadien des actuaires",2024-01-22,10478
-"Geoscience Australia",2024-01-22,32181
-"Conrad N. Hilton Foundation",2024-01-22,20751
-"KNIME",2024-01-22,48926
-"Irish Centre for High-End Computing ICHEC",2024-01-22,1441
-"Udemy",2024-01-22,1307938
-"Pacific Whale Foundation",2024-01-22,2824
-"QuantumBlack AI by McKinsey",2024-01-22,199171
-"Alteryx",2024-01-22,289301
-"Datahug (acquired by CallidusCloud)",2024-01-22,2645
-"Stack Overflow",2024-01-22,1477564
-"The Analytics Institute of Ireland",2024-01-22,7973
-"NCX",2024-01-22,8891
-"Kaggle",2024-01-22,398533
-"Institute of Mathematics and its Applications",2024-01-22,24072
-"Remote Sensing and Photogrammetry Society (RSPSoc)",2024-01-22,28743
-"Open Knowledge Foundation",2024-01-22,8130
-"Coillte",2024-01-22,17708
-"The unbelievable Machine Company GmbH",2024-01-22,2550
-"Lucid Software",2024-01-22,113913
-"Alfred P. Sloan Foundation",2024-01-22,3450
-"WebsiteNI",2024-01-22,1114
-"UN Sustainable Development Group",2024-01-22,232842
-"Bloomberg Philanthropies",2024-01-22,95998
-"GitHub",2024-01-22,3782323
-"Quovantis Technologies",2024-01-22,14395
-"r-programming.org",2024-01-22,2368
-"Jane Street",2024-01-22,185278
-"CSO (Central Statistics Office Ireland)",2024-01-22,11086
-"Eraneos - powered by Ginkgo",2024-01-22,3786
-"Posit PBC",2024-01-22,97931
-"Asystec (Now Ergo)",2024-01-22,2483
-"Tiger Analytics",2024-01-22,348912
-"Irish Defence Forces",2024-01-22,15259
-"African Institute for Mathematical Sciences (AIMS)",2024-01-22,20363
-"Center for International Environmental Law (CIEL)",2024-01-22,16946
-"Inspire Walworth",2024-01-22,89
-"WellClever",2024-01-22,122
-"RegioData Research GmbH",2024-01-22,313
-"Geospatial World",2024-01-22,46660
-"General Assembly",2024-01-22,199815
-"Walton Family Foundation",2024-01-22,58715
-"Coursera",2024-01-22,1859613
-"Flowminder",2024-01-22,2077
-"Economic and Social Research Institute (ESRI)",2024-01-22,18578
-"DataKind",2024-01-22,20851
-"Film Analytics",2024-01-22,214
-"Knoldus Inc | p",2024-01-22,21443
-"STATSports",2024-01-22,35027
-"DataRobot",2024-01-22,129279
-"FishWise",2024-01-22,4892
-"Xava",2024-01-22,295
-"Dataiku",2024-01-22,166291
-"Senseforth.ai",2024-01-22,41376
-"H2O.ai",2024-01-22,127113
-"Falkonry",2024-01-22,4630
-"Gapminder Foundation",2024-01-22,18789
-"Open Data Institute",2024-01-22,17463
-"KatRisk LLC",2024-01-22,2195
-"Ixio Analytics",2024-01-22,762
-"Royal Statistical Society",2024-01-22,14403
-"Black Girls Code",2024-01-22,51139
-"FutureLearn",2024-01-22,123417
-"dotConferences",2024-01-22,221
-"Xanadu Consultancy",2024-01-22,2930
-"ORRECO",2024-01-22,3767
-"Qatar Computing Research Institute",2024-01-22,13347
-"DataKind UK",2024-01-22,3738
-"DataCamp",2024-01-22,420166
-"Women Who Code",2024-01-22,159244
-"Kitman Labs",2024-01-22,12947
-"Plotly",2024-01-22,36625
-"Data for Good",2024-01-22,12327
-"Databricks",2024-01-22,582348
-"IBM Cloud",2024-01-22,206730
-"Appsilon",2024-01-22,6824
-"Domino Data Lab",2024-01-22,41141
-"BCG Digital Ventures",2024-01-22,156689
-"Aon Centre for Innovation and Analytics (ACIA)",2024-01-22,15992
-"Analytics Vidhya",2024-01-22,178007
-"ProCogia",2024-01-22,8098
-"Snowflake",2024-01-22,746639
-"Data Science Dojo",2024-01-22,290833
-"Fivetran",2024-01-22,97871
-"DataIQ",2024-01-22,17577
-"Data Science Institute",2024-01-22,19743
-"IBM Data AI & Automation",2024-01-22,252101
-"Decision Inc.",2024-01-22,35132
-"GitLab",2024-01-22,915653
-"Sustainable Development Solutions Network",2024-01-22,65085
-"Python Software Foundation",2024-01-22,128790
-"Netcelero",2024-01-22,1415
-"IH",2024-01-22,2809
-"Major League Hacking",2024-01-22,38215
-"UK Statistic",2024-01-22,4241
-"Data Science Central",2024-01-22,272868
-"SkyTruth",2024-01-22,2382
-"VERDE",2024-01-22,194
-"Noodle.ai",2024-01-22,26036
-"Global Partnership for Sustainable Development Data",2024-01-22,9502
-"Development Seed",2024-01-22,3963
-"Group on Earth Observations (GEO)",2024-01-22,9724
-"Squarepoint Capital",2024-01-22,29215
-"ADAPT Centre",2024-01-22,4863
-"Data & Society Research Institute",2024-01-22,16688
-"Appinventiv",2024-01-22,366735
-"Gower Street Analytics",2024-01-22,2172
-"Open Data Science Conference (ODSC)",2024-01-22,135541
-"JuliaHub",2024-01-22,24152
-"Python Ireland",2024-01-22,2893
-"ThinkR (FR)",2024-01-22,777
-"Sololearn",2024-01-22,160510
-"Businessintelligence.BI",2024-01-22,17701
-"Lander Analytics",2024-01-22,578
-"Dataquest.io",2024-01-22,43317
-"NumFOCUS",2024-01-22,4610
-"Ursa Labs",2024-01-22,450
-"The Alan Turing Institute",2024-01-22,56820
-"Klue",2024-01-22,21770
-"insight2impact",2024-01-22,1342
-"PyData Berlin",2024-01-22,851
-"Project Jupyter",2024-01-22,14321
-"GapData Institute",2024-01-22,114
-"SatVu",2024-01-22,8907
-"Data Science Academy",2024-01-22,474838
-"Data For Good",2024-01-22,14834
-"Data Science Foundation International",2024-01-22,2995
-"Twenty Billion Neurons",2024-01-22,3197
-"Machine Learning Mastery",2024-01-22,281784
-"SuperDataScience",2024-01-22,93085
-"Big Data LDN",2024-01-22,10266
-"Xuntos - Let's Get Together",2024-01-22,844
-"Microsoft Power BI by Solution Systems",2024-01-22,85463
-"Ultimate",2024-01-22,11025
-"QuantStack",2024-01-22,1324
-"Derilinx",2024-01-22,1210
-"Radiant Earth",2024-01-22,8964
-"United Nations Satellite Centre (UNOSAT)",2024-01-22,5741
-"Global Fishing Watch",2024-01-22,9678
-"OpenAI",2024-01-22,4023042
-"RSS Data Science and AI Section",2024-01-22,2371
-"Invenia Labs",2024-01-22,2512
-"Comunidad R Hispano",2024-01-22,1025
-"The Global Academy",2024-01-22,403
-"Open Cadastre",2024-01-22,18
-"Sister Analyst",2024-01-22,538
-"SDG Academy",2024-01-22,25233
-"Innovate Limerick",2024-01-22,344
-"PyData Amsterdam",2024-01-22,2009
-"(WiMLDS) Women in Machine Learning & Data Science",2024-01-22,16309
-"Fathom Data",2024-01-22,507
-"ADF Haiti",2024-01-22,514
-"The Carpentries",2024-01-22,1793
-"Alldus",2024-01-22,71248
-"AI Awards Ireland",2024-01-22,4351
-"Data for Good Foundation",2024-01-22,2282
-"Data Science Zimbabwe",2024-01-22,8375
-"Why R?",2024-01-22,4539
-"PyData Delhi",2024-01-22,1744
-"Bhutan Data Scientists",2024-01-22,48
-"Accenture The Dock",2024-01-22,9232
-"CivicDataLab",2024-01-22,5308
-"SCALEWORK",2024-01-22,1448
-"Data Visualization Society",2024-01-22,142655
-"Omdena",2024-01-22,40364
-"EcoAngola",2024-01-22,28694
-"Rust Programming Language",2024-01-22,8238
-"Age Of Geeks",2024-01-22,151878
-"R User Group Nepal",2024-01-22,84
-"Women in Machine Learning and Data Science MAURITIUS",2024-01-22,102
-"East Africa Research &Data Analysis",2024-01-22,17
-"Irish Air Corps",2024-01-22,2003
-"datatraining.io",2024-01-22,34956
-"getINNOtized GmbH",2024-01-22,7626
-"TrialAssure",2024-01-22,1569
-"Data Science Council of America",2024-01-22,58252
-"Obama Foundation",2024-01-22,254677
-"Geosaber",2024-01-22,9775
-"Tekkare",2024-01-22,1231
-"R-Ladies Global",2024-01-22,6293
-"Machine Learning Prague conference",2024-01-22,444
-"Canvas Intelligence",2024-01-22,13982
-"NVIDIA AI",2024-01-22,663923
-"QuantEcon",2024-01-22,438
-"365 Data Science",2024-01-22,147192
-"Business Science",2024-01-22,14815
-"Treemetrics Ltd",2024-01-22,1520
-"CeADAR Ireland",2024-01-22,2948
-"Space4Good",2024-01-22,9279
-"Outreachy",2024-01-22,13898
-"DeepLearning.AI",2024-01-22,821689
-"UCL Data Science Society",2024-01-22,1631
-"Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)",2024-01-22,63447
-"Government Statistical Service",2024-01-22,8884
-"Bhutan Data Scientists Pvt Ltd",2024-01-22,98
-"Government of Ireland",2024-01-22,54188
-"Weights & Biases",2024-01-22,60339
-"Quansight",2024-01-22,3161
-"DSNai - Data Science Nigeria",2024-01-22,13086
-"African Institute for Mathematical Sciences Ghana",2024-01-22,1927
-"Zindi",2024-01-22,14229
-"Data Science for Social Good Foundation",2024-01-22,5679
-"AIR Centre - Atlantic International Research Centre",2024-01-22,4130
-"Cascadia R Conference",2024-01-22,331
-"Coding Black Females",2024-01-22,15226
-"OpenTeams",2024-01-22,2934
-"ArkeUp Academy | Océan Indien",2024-01-22,1668
-"Google Summer of Code",2024-01-22,65773
-"Bissau A",2024-01-22,67
-"AWS Databases & Analytics",2024-01-22,262226
-"Dragon Coders Private Limited",2024-01-22,274
-"PlantingSpace",2024-01-22,938
-"Jumping Rivers Ltd",2024-01-22,2616
-"Benin ThinkLab",2024-01-22,80
-"Towards Data Science",2024-01-22,602888
-"R Users Group - Ecuador",2024-01-22,290
-"R-Ladies Miami",2024-01-22,197
-"Anaconda Inc.",2024-01-22,80408
-"AI for Good",2024-01-22,13370
-"Quansight Initiate",2024-01-22,131
-"allspatial - Geospatial Software and Services",2024-01-22,17
-"PyData London",2024-01-22,879
-"Health Data Research UK (HDR UK)",2024-01-22,14162
-"PyData",2024-01-22,531
-"Data Scientists Ltd",2024-01-22,37
-"LSBU Busin",2024-01-22,2735
-"UN SDG:Learn",2024-01-22,31004
-"AI Inclusive",2024-01-22,3661
-"MachineX Intelligence",2024-01-22,1755
-"DataIQ School of Analysis",2024-01-22,141
-"NumericMind",2024-01-22,1197
-"Women in Data®",2024-01-22,61953
-"Data2X United Nations Foundation",2024-01-22,4728
-"WorkLiveKerry",2024-01-22,2839
-"Observatoire du Numérique en Haïti (ObNH)",2024-01-22,108
-"UNICEF Innocenti",2024-01-22,62246
-"Source Cooperative",2024-01-22,3947
-"ViennaR",2024-01-22,383
-"EwaData",2024-01-22,1012
-"JULIACON-Africa",2024-01-22,2
-"ClusterAI",2024-01-22,454
-"ArData",2024-01-22,321
-"JuliaCon 2024",2024-01-22,4366
-"Statistics Without Borders",2024-01-22,1838
-"Datalitics",2024-01-22,206
-"Towards AI",2024-01-22,253666
-"R Consortium",2024-01-22,6372
-"PyCaret",2024-01-22,19454
-"The Catalyst",2024-01-22,1181
-"Women in AI Netherlands",2024-01-22,5191
-"African Drone & Data Academy Powered By UNICEF",2024-01-22,2712
-"UCD Netsoc – UCD's Internet and Computer Science Society",2024-01-22,355
-"R User C",2024-01-22,16580
-"Business Data Laboratory Limited",2024-01-22,212
-"storytelling with data",2024-01-22,141521
-"Rose Data Studio LLC",2024-01-22,331
-"EuroPython",2024-01-22,2610
-"OpenStreetMap Ireland",2024-01-22,270
-"The Collective Impact Group For Guinea",2024-01-22,161
-"Women in AI Ireland",2024-01-22,4628
-"Sentient Projects",2024-01-22,642
-"Code for Cause",2024-01-22,21745
-"SDGs",2024-01-22,4699
-"InsideAIML",2024-01-22,20261
-"PumasAI",2024-01-22,4397
-"FreeLocalMappers",2024-01-22,1093
-"Global Shapers Community - Thimphu Hub",2024-01-22,496
-"Fisheries Transparency Initiative (FiTI)",2024-01-22,1571
-"Women+ in Geospatial",2024-01-22,23994
-"Ayiti Analytics",2024-01-22,1928
-"LatinR",2024-01-22,1271
-"Becht Foundation",2024-01-22,661
-"NIMBADATA",2024-01-22,4
-"Digital Earth Africa",2024-01-22,6433
-"Africa in Science",2024-01-22,4358
-"BeZero Carbon",2024-01-22,20399
-"DataSoc",2024-01-22,864
-"UNDP Guin",2024-01-22,3332
-"PLACE",2024-01-22,1388
-"Amazon Science",2024-01-22,329911
-"NannyML",2024-01-22,5200
-"The R Foundation for Statistical Computing",2024-01-22,9419
-"Sylvera",2024-01-22,30732
-"DataDotOrg",2024-01-22,9164
-"Innovative Hub for Research in Africa",2024-01-22,395
-"R-Ladies Tunis",2024-01-22,738
-"The Julia Language",2024-01-22,15165
-"Seasalt.ai",2024-01-22,608
-"The Organization for Women in Science for the Developing World (OWSD)",2024-01-22,3664
-"Rx Studio™",2024-01-22,905
-"Girls In ICT Niger",2024-01-22,333
-"GORODATA",2024-01-22,1602
-"useR! - The R User Conference",2024-01-22,3990
-"Tag Ng",2024-01-22,3363
-"BlackTIDES",2024-01-22,1205
-"Spark",2024-01-22,6739
-"DATA MANSA",2024-01-22,188
-"Make Every Woman Count",2024-01-22,417
-"Catalyst Seychelles",2024-01-22,228
-"Thimphu TechPark",2024-01-22,345
-"Julius Technologies",2024-01-22,255
-"JuliaActuary",2024-01-22,2552
-"PyData Ireland",2024-01-22,59
-"Ishango.ai",2024-01-22,2655
-"Black in Data",2024-01-22,3367
-"DATA CENTRIC AFRICA",2024-01-22,1414
-"PyLadies Dublin",2024-01-22,426
-"Oman Data Scien",2024-01-22,133
-"R-Ladies Saudi Arabia (Dammam)",2024-01-22,360
-"Software Insights Ireland",2024-01-22,1264
-"PyData Global",2024-01-22,5468
-"PackagingCon",2024-01-22,136
-"HackHills",2024-01-22,443
-"McKinsey Africa",2024-01-22,36433
-"Compylo",2024-01-22,1307
-"Statistics Globe",2024-01-22,6065
-"Statistical Models for Social Sciences Consultant",2024-01-22,3290
-"R-Ladies Gaborone",2024-01-22,500
-"X-Europe Data Science",2024-01-22,86
-"rOpenSci",2024-01-22,602
-"Microsoft Research",2024-01-22,222268
-"Tunis R User Group",2024-01-22,698
-"VISO Cyber Security",2024-01-22,1057
-"DeepVidhya",2024-01-22,405
-"scikit-learn",2024-01-22,105436
-"Maolte Technical Solutions Limited",2024-01-22,528
-"DuckDB",2024-01-22,6352
-"Legato Health Technologies Ireland",2024-01-22,9715
-"Applied Epi",2024-01-22,3490
-"Black In Marine Science Non-Profit Organization",2024-01-22,1377
-"MidlandsIreland.ie",2024-01-22,3899
-"Edmonton R User Group",2024-01-22,72
-"R-Ladies D.C.",2024-01-22,141
-"SciML",2024-01-22,2923
-"NumPy",2024-01-22,2531
-"Pandas",2024-01-22,1933
-"Commerce et Administration des Entreprises- INP-HB",2024-01-22,617
-"Expertise Data Vision (EDaVi)",2024-01-22,85
-"R-Ladies Paris",2024-01-22,1269
-"BCG X",2024-01-22,241205
-"R-Ladies Rome",2024-01-22,428
-"SaLLy • Statistical Learning Laboratory",2024-01-22,728
-"JuliaLang Eindhoven",2024-01-22,535
-"PyLadies Seattle",2024-01-22,80
-"RSS Real World Data Science",2024-01-22,624
-"R-Ladies St. Louis",2024-01-22,65
-"Makie",2024-01-22,39
-"Carelon Global Solutions Ireland",2024-01-22,22090
-"QTA Tech",2024-01-22,728
-"CellClar",2024-01-22,1147
-"Ghana R Users Community",2024-01-22,374
-"Women in Data Science (WiDS) Kenya",2024-01-22,1280
-"FemAnalytica",2024-01-22,594
-"EnableD",2024-01-22,337
-"Bike Library",2024-01-22,1144
-"Global Collaboration Partners Limited",2024-01-22,288
-"NASA International Space Apps Challenge Dublin",2024-01-22,499
-"Nature Globe",2024-01-22,278
-"Spatial Data Science Conference",2024-01-22,1471
-"Cloud-Native Geospatial Foundation",2024-01-22,1406
 "AMS Staffing Inc.",2023-02-25,26982
 "AMS Staffing Inc.",2023-03-13,27057
 "AMS Staffing Inc.",2023-03-29,27303
@@ -556,603 +173,861 @@
 "AST SpaceMobile",2023-08-29,11902
 "AST SpaceMobile",2023-10-18,12544
 "AST SpaceMobile",2023-12-18,12967
-"AT Program",2023-01-25,47
-"ATRIBS",2021-01-22,4698
-"ATRIBS",2021-01-25,4705
-"ATRIBS",2021-01-28,4712
-"ATRIBS",2021-01-31,4717
-"ATRIBS",2021-02-03,4726
-"ATRIBS",2021-02-07,4733
-"ATRIBS",2021-02-12,4741
-"ATRIBS",2021-02-16,4749
-"ATRIBS",2021-02-21,4760
-"ATRIBS",2021-02-25,4768
-"ATRIBS",2021-03-01,4774
-"ATRIBS",2021-03-06,4778
-"ATRIBS",2021-03-10,4791
-"ATRIBS",2021-03-13,4798
-"ATRIBS",2021-03-20,4844
-"ATRIBS",2021-03-28,4870
-"ATRIBS",2021-03-31,4879
-"ATRIBS",2021-04-06,4888
-"ATRIBS",2021-04-10,4890
-"ATRIBS",2021-04-15,4895
-"ATRIBS",2021-04-20,4901
-"ATRIBS",2021-04-24,4904
-"ATRIBS",2021-04-28,4913
-"ATRIBS",2021-05-07,4930
-"ATRIBS",2021-05-10,4933
-"ATRIBS",2021-05-14,4936
-"ATRIBS",2021-05-21,4942
-"ATRIBS",2021-05-26,4953
-"ATRIBS",2021-05-31,4962
-"ATRIBS",2021-06-06,4974
-"ATRIBS",2021-06-09,4983
-"ATRIBS",2021-06-16,4987
-"ATRIBS",2021-06-21,4993
-"ATRIBS",2021-06-29,5003
-"ATRIBS",2021-07-04,5008
-"ATRIBS",2021-07-09,5019
-"ATRIBS",2021-07-14,5022
-"ATRIBS",2021-07-22,5029
-"ATRIBS",2021-08-14,5068
-"ATRIBS",2021-08-26,5080
-"ATRIBS",2021-09-02,5094
-"ATRIBS",2021-09-09,5108
-"ATRIBS",2021-09-16,5121
-"ATRIBS",2023-06-14,6234
-"ATRIBS",2023-06-17,6240
-"ATRIBS",2023-06-27,6257
-"ATRIBS",2023-07-06,6277
-"ATRIBS",2023-07-23,6302
-"ATRIBS",2023-08-08,6339
-"ATRIBS",2023-08-10,6345
-"ATRIBS",2023-09-15,6422
-"ATRIBS",2023-10-18,6422
-"ATRIBS",2023-12-17,6538
-"ATRIBS",2023-12-18,6543
-"ATRIBS GLOBAL",2021-11-20,5215
-"ATRIBS GLOBAL",2021-12-03,5242
-"ATRIBS GLOBAL",2021-12-14,5264
-"ATRIBS GLOBAL",2021-12-20,5280
-"ATRIBS GLOBAL",2021-12-31,5300
-"ATRIBS GLOBAL",2022-01-12,5321
-"ATRIBS GLOBAL",2022-02-01,5353
-"ATRIBS GLOBAL",2022-02-12,5380
-"ATRIBS GLOBAL",2022-02-23,5408
-"ATRIBS GLOBAL",2022-03-03,5416
-"ATRIBS GLOBAL",2022-03-15,5436
-"ATRIBS GLOBAL",2022-03-20,5444
-"ATRIBS GLOBAL",2022-03-29,5459
-"ATRIBS GLOBAL",2022-04-13,5481
-"ATRIBS GLOBAL",2022-05-22,5567
-"ATRIBS GLOBAL",2022-05-27,5574
-"ATRIBS GLOBAL",2022-05-30,5577
-"ATRIBS GLOBAL",2022-06-07,5591
-"ATRIBS GLOBAL",2022-06-08,5591
-"ATRIBS GLOBAL",2022-06-11,5595
-"ATRIBS GLOBAL",2022-06-24,5621
-"ATRIBS GLOBAL",2022-06-30,5626
-"ATRIBS GLOBAL",2022-07-02,5629
-"ATRIBS GLOBAL",2022-07-05,5633
-"ATRIBS GLOBAL",2022-07-13,5644
-"ATRIBS GLOBAL",2022-07-18,5652
-"ATRIBS GLOBAL",2022-07-23,5660
-"ATRIBS GLOBAL",2022-07-25,5664
-"ATRIBS GLOBAL",2022-08-02,5676
-"ATRIBS GLOBAL",2022-08-16,5685
-"ATRIBS GLOBAL",2022-08-20,5691
-"ATRIBS GLOBAL",2022-08-25,5697
-"ATRIBS GLOBAL",2022-08-28,5700
-"ATRIBS GLOBAL",2022-09-07,5722
-"ATRIBS GLOBAL",2022-09-10,5731
-"ATRIBS GLOBAL",2022-09-16,5739
-"ATRIBS GLOBAL",2022-09-22,5758
-"ATRIBS GLOBAL",2022-09-29,5772
-"ATRIBS GLOBAL",2022-10-03,5786
-"ATRIBS GLOBAL",2022-10-09,5800
-"ATRIBS GLOBAL",2022-10-12,5806
-"ATRIBS GLOBAL",2022-10-16,5812
-"ATRIBS GLOBAL",2022-10-22,5820
-"ATRIBS GLOBAL",2022-10-28,5829
-"ATRIBS GLOBAL",2022-11-03,5847
-"ATRIBS GLOBAL",2022-11-06,5857
-"ATRIBS GLOBAL",2022-11-14,5875
-"ATRIBS GLOBAL",2022-11-20,5884
-"ATRIBS GLOBAL",2022-11-24,5889
-"ATRIBS GLOBAL",2022-12-01,5895
-"ATRIBS GLOBAL",2022-12-08,5902
-"ATRIBS GLOBAL",2022-12-14,5908
-"ATRIBS GLOBAL",2022-12-27,5927
-"ATRIBS GLOBAL",2023-01-01,5931
-"ATRIBS GLOBAL",2023-01-05,5937
-"ATRIBS GLOBAL",2023-01-09,5942
-"ATRIBS GLOBAL",2023-01-22,5959
-"ATRIBS GLOBAL",2023-01-29,5970
-"ATRIBS GLOBAL",2023-02-04,5981
-"ATRIBS GLOBAL",2023-02-25,6012
-"ATRIBS GLOBAL",2023-03-18,6053
-"ATRIBS GLOBAL",2023-03-21,6056
-"ATRIBS GLOBAL",2023-03-25,6061
-"ATRIBS GLOBAL",2023-04-10,6086
-"ATRIBS GLOBAL",2023-04-13,6091
-"ATRIBS GLOBAL",2023-04-21,6106
-"ATRIBS GLOBAL",2023-04-29,6115
-"ATRIBS GLOBAL",2023-05-19,6157
-"ATRIBS GLOBAL",2023-05-29,6188
-"ATRIBS GLOBAL",2023-06-05,6211
-"ATRIBS GROUP",2021-10-17,5164
-"ATRIBS GROUP",2021-10-29,5180
-"AUB Computer Science Student Society",2021-10-29,111
-"AUB Computer Science Student Society",2021-11-20,110
-"AUB Computer Science Student Society",2021-12-03,111
-"AUB Computer Science Student Society",2021-12-14,111
-"AUB Computer Science Student Society",2021-12-20,112
-"AUB Computer Science Student Society",2021-12-26,112
-"AUB Computer Science Student Society",2022-02-07,113
-"AUB Computer Science Student Society",2022-02-12,113
-"AUB Computer Science Student Society",2022-02-16,113
-"AUB Computer Science Student Society",2022-02-26,113
-"AUB Computer Science Student Society",2022-03-03,114
-"AUB Computer Science Student Society",2022-03-15,116
-"AUB Computer Science Student Society",2022-03-20,116
-"AUB Computer Science Student Society",2022-03-29,116
-"AUB Computer Science Student Society",2022-04-11,117
-"AUB Computer Science Student Society",2022-04-13,117
-"AUB Computer Science Student Society",2022-05-01,117
-"AUB Computer Science Student Society",2022-05-05,113
-"AUB Computer Science Student Society",2022-05-30,118
-"AUB Computer Science Student Society",2022-06-07,118
-"AUB Computer Science Student Society",2022-06-08,118
-"AUB Computer Science Student Society",2022-06-11,118
-"AUB Computer Science Student Society",2022-06-16,118
-"AUB Computer Science Student Society",2022-06-30,119
-"AUB Computer Science Student Society",2022-07-02,119
-"AUB Computer Science Student Society",2022-07-05,119
-"AUB Computer Science Student Society",2022-07-13,119
-"AUB Computer Science Student Society",2022-07-18,119
-"AUB Computer Science Student Society",2022-07-23,119
-"AUB Computer Science Student Society",2022-07-25,119
-"AUB Computer Science Student Society",2022-08-02,120
-"AUB Computer Science Student Society",2022-08-16,121
-"AUB Computer Science Student Society",2022-08-20,122
-"AUB Computer Science Student Society",2022-08-25,125
-"AUB Computer Science Student Society",2022-08-28,127
-"AUB Computer Science Student Society",2022-09-07,129
-"AUB Computer Science Student Society",2022-09-10,130
-"AUB Computer Science Student Society",2022-09-16,130
-"AUB Computer Science Student Society",2022-09-22,131
-"AUB Computer Science Student Society",2022-09-29,132
-"AUB Computer Science Student Society",2022-10-03,132
-"AUB Computer Science Student Society",2022-10-09,132
-"AUB Computer Science Student Society",2022-10-16,132
-"AUB Computer Science Student Society",2022-10-22,132
-"AUB Computer Science Student Society",2022-10-28,132
-"AUB Computer Science Student Society",2022-11-03,132
-"AUB Computer Science Student Society",2022-11-06,132
-"AUB Computer Science Student Society",2022-11-14,132
-"AUB Computer Science Student Society",2022-11-20,132
-"AUB Computer Science Student Society",2022-11-24,132
-"AUB Computer Science Student Society",2022-12-01,133
-"AUB Computer Science Student Society",2022-12-08,132
-"AUB Computer Science Student Society",2022-12-14,132
-"AUB Computer Science Student Society",2022-12-27,132
-"AUB Computer Science Student Society",2023-01-01,132
-"AUB Computer Science Student Society",2023-01-05,132
-"AUB Computer Science Student Society",2023-01-09,132
-"AUB Computer Science Student Society",2023-01-22,133
-"AUB Computer Science Student Society",2023-01-29,132
-"AUB Computer Science Student Society",2023-02-04,132
-"AUB Computer Science Student Society",2023-02-25,133
-"AUB Computer Science Student Society",2023-03-18,133
-"AUB Computer Science Student Society",2023-03-21,134
-"AUB Computer Science Student Society",2023-03-25,134
-"AUB Computer Science Student Society",2023-04-10,134
-"AUB Computer Science Student Society",2023-04-13,134
-"AUB Computer Science Student Society",2023-04-21,134
-"AUB Computer Science Student Society",2023-04-29,134
-"AUB Computer Science Student Society",2023-05-19,134
-"AUB Computer Science Student Society",2023-05-29,134
-"AUB Computer Science Student Society",2023-06-05,134
-"AUB Computer Science Student Society",2023-06-14,134
-"AUB Computer Science Student Society",2023-06-17,134
-"AUB Computer Science Student Society",2023-06-27,134
-"AUB Computer Science Student Society",2023-07-06,134
-"AUB Computer Science Student Society",2023-07-23,133
-"AUB Computer Science Student Society",2023-08-08,132
-"AUB Computer Science Student Society",2023-08-10,132
-"AUB Computer Science Student Society",2023-09-15,133
-"AUB Computer Science Student Society",2023-10-18,133
-"AUB Computer Science Student Society",2023-12-17,137
-"AUB Computer Science Student Society",2023-12-18,137
-"AUB Computer Science Students Society",2021-03-28,105
-"AUB Computer Science Students Society",2021-03-31,105
-"AUB Computer Science Students Society",2021-04-06,105
-"AUB Computer Science Students Society",2021-04-10,105
-"AUB Computer Science Students Society",2021-04-15,105
-"AUB Computer Science Students Society",2021-04-20,105
-"AUB Computer Science Students Society",2021-04-24,105
-"AUB Computer Science Students Society",2021-04-28,105
-"AUB Computer Science Students Society",2021-05-07,106
-"AUB Computer Science Students Society",2021-05-10,106
-"AUB Computer Science Students Society",2021-05-14,106
-"AUB Computer Science Students Society",2021-05-21,106
-"AUB Computer Science Students Society",2021-05-26,106
-"AUB Computer Science Students Society",2021-05-31,106
-"AUB Computer Science Students Society",2021-06-06,106
-"AUB Computer Science Students Society",2021-06-09,106
-"AUB Computer Science Students Society",2021-06-16,107
-"AUB Computer Science Students Society",2021-06-21,107
-"AUB Computer Science Students Society",2021-06-29,107
-"AUB Computer Science Students Society",2021-07-04,107
-"AUB Computer Science Students Society",2021-07-09,107
-"AUB Computer Science Students Society",2021-07-14,107
-"AUB Computer Science Students Society",2021-07-22,107
-"AUB Computer Science Students Society",2021-08-14,107
-"AUB Computer Science Students Society",2021-08-26,107
-"AUB Computer Science Students Society",2021-09-02,107
-"AUB Computer Science Students Society",2021-09-09,110
-"AUB Computer Science Students Society",2021-09-16,110
-"AUB Computer Science Students Society",2021-10-17,110
-"AVIO",2023-01-21,66569
-"AVIO",2023-02-25,68115
-"AVIO",2023-03-13,68813
-"AVIO",2023-03-29,69646
-"AVIO",2023-04-10,70204
-"AVIO",2023-04-23,70840
-"AVIO",2023-06-05,72544
-"AVIO",2023-06-11,72815
-"AVIO",2023-06-23,73410
-"AVIO",2023-07-06,74070
-"AVIO",2023-07-23,74703
-"AVIO",2023-08-05,75157
-"AVIO",2023-08-29,75768
-"AVIO",2023-10-18,78415
-"AVIO",2023-12-18,79578
-"AWS Careers",2023-01-21,327189
-"AWS Careers",2023-02-25,335135
-"AWS Careers",2023-03-13,338075
-"AWS Careers",2023-03-29,341181
-"AWS Careers",2023-04-10,343117
-"AWS Careers",2023-04-23,345189
-"AWS Careers",2023-06-05,351651
-"AWS Careers",2023-06-11,353079
-"AWS Careers",2023-06-23,355655
-"AWS Careers",2023-07-06,362072
-"AWS Careers",2023-07-23,365760
-"AWS Careers",2023-08-05,368432
-"AWS Careers",2023-08-29,372297
-"AWS Databases",2020-10-15,106905
-"AWS Databases",2020-10-25,108191
-"AWS Databases",2020-10-28,108525
-"AWS Databases",2020-10-30,108902
-"AWS Databases",2020-11-03,109391
-"AWS Databases",2020-11-06,109845
-"AWS Databases",2020-11-10,110289
-"AWS Databases",2020-11-14,110866
-"AWS Databases",2020-11-18,111392
-"AWS Databases",2020-11-23,112250
-"AWS Databases",2020-11-28,112656
-"AWS Databases",2020-12-03,113087
-"AWS Databases",2020-12-05,113258
-"AWS Databases",2020-12-12,113784
-"AWS Databases",2020-12-15,114048
-"AWS Databases",2020-12-20,114433
-"AWS Databases",2020-12-25,114704
-"AWS Databases",2020-12-29,114938
-"AWS Databases",2021-01-03,115171
-"AWS Databases",2021-01-06,115349
-"AWS Databases",2021-01-11,115560
-"AWS Databases",2021-01-15,115724
-"AWS Databases",2021-01-19,115850
-"AWS Databases",2021-01-25,116108
-"AWS Databases",2021-01-30,116292
-"AWS Databases",2021-01-31,116300
-"AWS Databases",2021-02-03,116433
-"AWS Databases",2021-02-07,116620
-"AWS Databases",2021-02-12,116892
-"AWS Databases",2021-02-17,117167
-"AWS Databases",2021-02-21,117475
-"AWS Databases",2021-02-25,117751
-"AWS Databases",2021-03-01,118001
-"AWS Databases",2021-03-06,118356
-"AWS Databases",2021-03-10,118702
-"AWS Databases",2021-03-16,119099
-"AWS Databases",2021-03-20,119402
-"AWS Databases",2021-03-24,119651
-"AWS Databases",2021-03-30,120101
-"AWS Databases",2021-04-06,120447
-"AWS Databases",2021-04-10,120878
-"AWS Databases",2021-04-15,121368
-"AWS Databases",2021-04-20,121866
-"AWS Databases",2021-04-24,122236
-"AWS Databases",2021-04-28,122599
-"AWS Databases",2021-05-03,123144
-"AWS Databases",2021-05-07,123513
-"AWS Databases",2021-05-10,123800
-"AWS Databases",2021-05-14,124203
-"AWS Databases",2021-05-21,124997
-"AWS Databases & Analytics",2021-05-26,125721
-"AWS Databases & Analytics",2021-06-02,126831
-"AWS Databases & Analytics",2021-06-09,127911
-"AWS Databases & Analytics",2021-06-16,128872
-"AWS Databases & Analytics",2021-06-21,129573
-"AWS Databases & Analytics",2021-06-29,130756
-"AWS Databases & Analytics",2021-07-02,131297
-"AWS Databases & Analytics",2021-07-04,131518
-"AWS Databases & Analytics",2021-07-09,132143
-"AWS Databases & Analytics",2021-07-14,132699
-"AWS Databases & Analytics",2021-07-18,133270
-"AWS Databases & Analytics",2021-07-22,133988
-"AWS Databases & Analytics",2021-08-14,137584
-"AWS Databases & Analytics",2021-08-26,139945
-"AWS Databases & Analytics",2021-09-02,141553
-"AWS Databases & Analytics",2021-09-16,145088
-"AWS Databases & Analytics",2021-10-17,155506
-"AWS Databases & Analytics",2021-10-29,158752
-"AWS Databases & Analytics",2021-11-06,161298
-"AWS Databases & Analytics",2021-11-20,165550
-"AWS Databases & Analytics",2021-12-07,169366
-"AWS Databases & Analytics",2021-12-14,170175
-"AWS Databases & Analytics",2021-12-20,170847
-"AWS Databases & Analytics",2021-12-26,171429
-"AWS Databases & Analytics",2021-12-30,171831
-"AWS Databases & Analytics",2021-12-31,171930
-"AWS Databases & Analytics",2022-01-03,172106
-"AWS Databases & Analytics",2022-01-04,172267
-"AWS Databases & Analytics",2022-01-06,172571
-"AWS Databases & Analytics",2022-01-07,172769
-"AWS Databases & Analytics",2022-01-10,173113
-"AWS Databases & Analytics",2022-01-14,174110
-"AWS Databases & Analytics",2022-01-18,174982
-"AWS Databases & Analytics",2022-01-27,177487
-"AWS Databases & Analytics",2022-02-01,179599
-"AWS Databases & Analytics",2022-02-07,181679
-"AWS Databases & Analytics",2022-02-10,182644
-"AWS Databases & Analytics",2022-02-23,185638
-"AWS Databases & Analytics",2022-02-26,186145
-"AWS Databases & Analytics",2022-03-03,187134
-"AWS Databases & Analytics",2022-03-07,187781
-"AWS Databases & Analytics",2022-03-15,189094
-"AWS Databases & Analytics",2022-03-29,191891
-"AWS Databases & Analytics",2022-04-09,193671
-"AWS Databases & Analytics",2022-04-19,195162
-"AWS Databases & Analytics",2022-04-29,196991
-"AWS Databases & Analytics",2022-05-05,197855
-"AWS Databases & Analytics",2022-05-12,199002
-"AWS Databases & Analytics",2022-05-22,201451
-"AWS Databases & Analytics",2022-05-23,201728
-"AWS Databases & Analytics",2022-05-25,202230
-"AWS Databases & Analytics",2022-05-30,203254
-"AWS Databases & Analytics",2022-06-01,203548
-"AWS Databases & Analytics",2022-06-07,204776
-"AWS Databases & Analytics",2022-06-08,204776
-"AWS Databases & Analytics",2022-06-15,206154
-"AWS Databases & Analytics",2022-06-20,206979
-"AWS Databases & Analytics",2022-06-22,207415
-"AWS Databases & Analytics",2022-06-24,207826
-"AWS Databases & Analytics",2022-06-28,208444
-"AWS Databases & Analytics",2022-06-30,208771
-"AWS Databases & Analytics",2022-07-01,209028
-"AWS Databases & Analytics",2022-07-02,209083
-"AWS Databases & Analytics",2022-07-04,209508
-"AWS Databases & Analytics",2022-07-05,209855
-"AWS Databases & Analytics",2022-07-09,210886
-"AWS Databases & Analytics",2022-07-12,211752
-"AWS Databases & Analytics",2022-07-18,213169
-"AWS Databases & Analytics",2022-07-21,214149
-"AWS Databases & Analytics",2022-07-23,214827
-"AWS Databases & Analytics",2022-07-25,215462
-"AWS Databases & Analytics",2022-08-01,217752
-"AWS Databases & Analytics",2022-08-08,219424
-"AWS Databases & Analytics",2022-08-16,221633
-"AWS Databases & Analytics",2022-08-20,222976
-"AWS Databases & Analytics",2022-08-25,224254
-"AWS Databases & Analytics",2022-08-28,224946
-"AWS Databases & Analytics",2022-09-01,226128
-"AWS Databases & Analytics",2022-09-07,227226
-"AWS Databases & Analytics",2022-09-10,227807
-"AWS Databases & Analytics",2022-09-16,229582
-"AWS Databases & Analytics",2022-09-22,231396
-"AWS Databases & Analytics",2022-09-29,233170
-"AWS Databases & Analytics",2022-10-03,234060
-"AWS Databases & Analytics",2022-10-09,235621
-"AWS Databases & Analytics",2022-10-12,236500
-"AWS Databases & Analytics",2022-10-16,237366
-"AWS Databases & Analytics",2022-10-22,239030
-"AWS Databases & Analytics",2022-10-28,240195
-"AWS Databases & Analytics",2022-11-03,240999
-"AWS Databases & Analytics",2022-11-06,241409
-"AWS Databases & Analytics",2022-11-14,242619
-"AWS Databases & Analytics",2022-11-20,243417
-"AWS Databases & Analytics",2022-11-24,243846
-"AWS Databases & Analytics",2022-12-01,244812
-"AWS Databases & Analytics",2022-12-08,245935
-"AWS Databases & Analytics",2022-12-14,246545
-"AWS Databases & Analytics",2022-12-27,247697
-"AWS Databases & Analytics",2023-01-01,248154
-"AWS Databases & Analytics",2023-01-05,248573
-"AWS Databases & Analytics",2023-01-09,248897
-"AWS Databases & Analytics",2023-01-21,250180
-"AWS Databases & Analytics",2023-01-22,250239
-"AWS Databases & Analytics",2023-01-28,250876
-"AWS Databases & Analytics",2023-02-04,251448
-"AWS Databases & Analytics",2023-02-10,251860
-"AWS Databases & Analytics",2023-02-13,252069
-"AWS Databases & Analytics",2023-02-24,252859
-"AWS Databases & Analytics",2023-02-25,252912
-"AWS Databases & Analytics",2023-03-10,253970
-"AWS Databases & Analytics",2023-03-13,254143
-"AWS Databases & Analytics",2023-03-14,254261
-"AWS Databases & Analytics",2023-03-18,254579
-"AWS Databases & Analytics",2023-03-21,254793
-"AWS Databases & Analytics",2023-03-25,255052
-"AWS Databases & Analytics",2023-03-29,255510
-"AWS Databases & Analytics",2023-04-01,255790
-"AWS Databases & Analytics",2023-04-10,256416
-"AWS Databases & Analytics",2023-04-10,256429
-"AWS Databases & Analytics",2023-04-13,256702
-"AWS Databases & Analytics",2023-04-21,257265
-"AWS Databases & Analytics",2023-04-23,257382
-"AWS Databases & Analytics",2023-04-29,257959
-"AWS Databases & Analytics",2023-05-12,258971
-"AWS Databases & Analytics",2023-05-19,259506
-"AWS Databases & Analytics",2023-05-29,260122
-"AWS Databases & Analytics",2023-06-05,260698
-"AWS Databases & Analytics",2023-06-05,260699
-"AWS Databases & Analytics",2023-06-11,261174
-"AWS Databases & Analytics",2023-06-11,261175
-"AWS Databases & Analytics",2023-06-14,261442
-"AWS Databases & Analytics",2023-06-17,261608
-"AWS Databases & Analytics",2023-06-23,261976
-"AWS Databases & Analytics",2023-06-27,262249
-"AWS Databases & Analytics",2023-07-06,262737
-"AWS Databases & Analytics",2023-07-06,262736
-"AWS Databases & Analytics",2023-07-23,263390
-"AWS Databases & Analytics",2023-07-23,263391
-"AWS Databases & Analytics",2023-08-02,263986
-"AWS Databases & Analytics",2023-08-05,264117
-"AWS Databases & Analytics",2023-08-08,264223
-"AWS Databases & Analytics",2023-08-10,264316
-"AWS Databases & Analytics",2023-08-29,264915
-"AWS Databases & Analytics",2023-09-15,265568
-"AWS Databases & Analytics",2023-10-18,258956
-"AWS Databases & Analytics",2023-10-18,258959
-"AWS Databases & Analytics",2023-12-14,261553
-"AWS Databases & Analytics",2023-12-16,261645
-"AWS Databases & Analytics",2023-12-18,261771
-"AWS Machine Learning",2022-02-01,82105
-"AWS Machine Learning",2022-02-07,84773
-"AWS Machine Learning",2022-02-12,86999
-"AWS Machine Learning",2022-02-20,89802
-"AWS Machine Learning",2022-02-26,91819
-"AWS Machine Learning",2022-03-03,93396
-"AWS Machine Learning",2022-03-15,95975
-"AWS Machine Learning",2022-03-29,99642
-"AWS Machine Learning",2022-04-13,103639
-"AWS Machine Learning",2022-05-01,108867
-"AWS Machine Learning",2022-05-05,91819
-"AWS Machine Learning",2022-05-22,117177
-"AWS Machine Learning",2022-05-27,119715
-"AWS Machine Learning",2022-06-11,126696
-"AWS Machine Learning",2022-06-16,129133
-"AWS Machine Learning",2022-06-23,131701
-"AWS Machine Learning",2022-06-30,134319
-"AWS Machine Learning",2022-07-02,134907
-"AWS Machine Learning",2022-07-05,136607
-"AWS Machine Learning",2022-07-13,140716
-"AWS Machine Learning",2022-07-18,143339
-"AWS Machine Learning",2022-07-23,146240
-"AWS Machine Learning",2022-07-25,147514
-"AWS Machine Learning",2022-08-02,152293
-"AWS Machine Learning",2022-08-16,161388
-"AWS Machine Learning",2022-08-20,164579
-"AWS Machine Learning",2022-08-25,167471
-"AWS Machine Learning",2022-08-28,169054
-"AWS Machine Learning",2022-09-07,174920
-"AWS Machine Learning",2022-09-10,176439
-"AWS Machine Learning",2022-09-16,180420
-"AWS Machine Learning",2022-09-22,184068
-"AWS Machine Learning",2022-09-29,188098
-"AWS Machine Learning",2022-10-03,190128
-"AWS Machine Learning",2022-10-09,193572
-"AWS Machine Learning",2022-10-16,197096
-"AWS Machine Learning",2022-10-22,200642
-"AWS Machine Learning",2022-10-28,203672
-"AWS Machine Learning",2022-11-03,205988
-"AWS Machine Learning",2022-11-06,207057
-"AWS Machine Learning",2022-11-14,210053
-"AWS Machine Learning",2022-11-20,212407
-"AWS Machine Learning",2022-11-24,213751
-"AWS Machine Learning",2022-12-01,216278
-"AWS Machine Learning",2022-12-08,218736
-"AWS Machine Learning",2022-12-14,220469
-"AWS Machine Learning",2022-12-27,223689
-"AWS Machine Learning",2023-01-01,224911
-"AWS Machine Learning",2023-01-05,225894
-"AWS Machine Learning",2023-01-09,226886
-"AWS Machine Learning",2023-01-22,230697
-"AWS Machine Learning",2023-01-22,230696
-"AWS Machine Learning",2023-01-29,232644
-"AWS Machine Learning",2023-02-04,234392
-"AWS Machine Learning",2023-02-25,239354
-"AWS Machine Learning",2023-02-25,239356
-"AWS Machine Learning",2023-03-13,243415
-"AWS Machine Learning",2023-03-18,244858
-"AWS Machine Learning",2023-03-21,245489
-"AWS Machine Learning",2023-03-25,246438
-"AWS Machine Learning",2023-03-29,247509
-"AWS Machine Learning",2023-04-10,250166
-"AWS Machine Learning",2023-04-10,250188
-"AWS Machine Learning",2023-04-13,250913
-"AWS Machine Learning",2023-04-21,253508
-"AWS Machine Learning",2023-04-23,253827
-"AWS Machine Learning",2023-04-29,255643
-"AWS Machine Learning",2023-05-19,261522
-"AWS Machine Learning",2023-05-29,264362
-"AWS Machine Learning",2023-06-05,266791
-"AWS Machine Learning",2023-06-05,266797
-"AWS Machine Learning",2023-06-11,269163
-"AWS Machine Learning",2023-06-14,270503
-"AWS Machine Learning",2023-06-17,271529
-"AWS Machine Learning",2023-06-23,273459
-"AWS Machine Learning",2023-06-27,274717
-"AWS Machine Learning",2023-07-06,278209
-"AWS Machine Learning",2023-07-06,278210
-"AWS Machine Learning",2023-07-23,284163
-"AWS Machine Learning",2023-07-23,284170
-"AWS Machine Learning",2023-08-05,289895
-"AWS Machine Learning",2023-08-08,290976
-"AWS Machine Learning",2023-08-10,291973
-"AWS Machine Learning",2023-08-29,298917
-"AWS Machine Learning",2023-09-15,306792
-"AWS Machine Learning",2023-10-18,306792
-"AWS Machine Learning",2023-12-17,344562
-"AWS Machine Learning",2023-12-18,345067
-"AWS Startups",2023-01-21,88550
-"AWS Startups",2023-02-25,92059
-"AWS Startups",2023-03-13,93224
-"AWS Startups",2023-03-29,94108
-"AWS Startups",2023-04-10,95728
-"AWS Startups",2023-04-23,96515
-"AWS Startups",2023-06-05,98990
-"AWS Startups",2023-06-11,99347
-"AWS Startups",2023-06-23,100100
-"AWS Startups",2023-07-06,100790
-"AWS Startups",2023-07-23,101375
-"AWS Startups",2023-08-05,102130
-"AWS Startups",2023-08-29,103771
-"AWS Startups",2023-10-18,102974
-"AWS Training & Certification",2023-01-21,668682
-"AWS Training & Certification",2023-01-29,672056
-"AWS Training & Certification",2023-02-25,687132
-"AWS Training & Certification",2023-03-13,698135
-"AWS Training & Certification",2023-03-29,711364
-"AWS Training & Certification",2023-04-10,720439
-"AWS Training & Certification",2023-04-23,728423
-"AWS Training & Certification",2023-06-05,755965
-"AWS Training & Certification",2023-06-11,761691
-"AWS Training & Certification",2023-06-23,772004
-"AWS Training & Certification",2023-07-06,782965
-"AWS Training & Certification",2023-07-23,796590
-"AWS Training & Certification",2023-08-05,809857
-"AWS Training & Certification",2023-08-29,830229
-"AXELOS Global Best Practice",2023-01-21,92185
-"AXELOS Global Best Practice",2023-02-25,93338
-"AXELOS Global Best Practice",2023-03-13,93838
-"AXELOS Global Best Practice",2023-03-29,94405
-"AXELOS Global Best Practice",2023-04-10,94891
-"AXELOS Global Best Practice",2023-04-23,95365
-"AXELOS Global Best Practice",2023-06-05,96848
-"AXELOS Global Best Practice",2023-06-11,97065
-"AXELOS Global Best Practice",2023-06-23,97489
-"AXELOS Global Best Practice",2023-07-06,97950
-"AXELOS Global Best Practice",2023-07-23,98541
-"AXELOS Global Best Practice",2023-08-05,99076
-"AXELOS Global Best Practice",2023-08-29,99894
-"AXELOS Global Best Practice",2023-10-18,101762
-"AXELOS Global Best Practice",2023-12-17,100725
-"AXELOS Global Best Practice",2023-12-18,100760
+"AllBusiness.com",2023-01-21,33417
+"AllBusiness.com",2023-02-10,33412
+"AllBusiness.com",2023-02-25,33410
+"AllBusiness.com",2023-03-13,33396
+"AllBusiness.com",2023-03-29,33394
+"AllBusiness.com",2023-04-10,33393
+"AllBusiness.com",2023-04-23,33388
+"AllBusiness.com",2023-06-05,33393
+"AllBusiness.com",2023-06-11,33398
+"AllBusiness.com",2023-06-23,33395
+"AllBusiness.com",2023-07-06,33404
+"AllBusiness.com",2023-07-23,33382
+"AllBusiness.com",2023-08-05,33381
+"AllBusiness.com",2023-08-29,33393
+"AllBusiness.com",2023-10-18,33395
+"AllBusiness.com",2023-12-14,31155
+"AllBusiness.com",2023-12-17,31153
+"AllBusiness.com",2023-12-18,31154
+"AllSeen Alliance",2023-01-21,1393
+"AllSeen Alliance",2023-02-25,1394
+"AllSeen Alliance",2023-03-13,1392
+"AllSeen Alliance",2023-03-29,1389
+"AllSeen Alliance",2023-04-10,1388
+"AllSeen Alliance",2023-04-23,1387
+"AllSeen Alliance",2023-06-05,1382
+"AllSeen Alliance",2023-06-11,1382
+"AllSeen Alliance",2023-06-23,1383
+"AllSeen Alliance",2023-07-06,1383
+"AllSeen Alliance",2023-07-23,1382
+"AllSeen Alliance",2023-08-05,1381
+"AllSeen Alliance",2023-08-29,1381
+"AllSeen Alliance",2023-10-18,1382
+"AllSeen Alliance",2023-12-17,1351
+"AllSeen Alliance",2023-12-18,1351
+"Alldus",2020-10-20,21527
+"Alldus",2020-10-20,21532
+"Alldus",2020-10-20,21533
+"Alldus",2020-10-21,21554
+"Alldus",2020-10-23,21622
+"Alldus",2020-10-25,21696
+"Alldus",2020-10-25,21714
+"Alldus",2020-10-28,21798
+"Alldus",2020-10-30,21857
+"Alldus",2020-11-03,21923
+"Alldus",2020-11-06,22011
+"Alldus",2020-11-10,22069
+"Alldus",2020-11-14,22135
+"Alldus",2020-11-18,22177
+"Alldus",2020-11-23,22284
+"Alldus",2020-11-28,22356
+"Alldus",2020-12-03,22429
+"Alldus",2020-12-05,22444
+"Alldus",2020-12-12,22587
+"Alldus",2020-12-15,22629
+"Alldus",2020-12-20,22698
+"Alldus",2020-12-25,22739
+"Alldus",2020-12-29,22762
+"Alldus",2021-01-03,22770
+"Alldus",2021-01-06,22852
+"Alldus",2021-01-11,22881
+"Alldus",2021-01-15,22975
+"Alldus",2021-01-19,23034
+"Alldus",2021-01-25,23377
+"Alldus",2021-01-30,23668
+"Alldus",2021-01-31,23707
+"Alldus",2021-02-03,23934
+"Alldus",2021-02-07,24135
+"Alldus",2021-02-12,24238
+"Alldus",2021-02-17,24349
+"Alldus",2021-02-21,24452
+"Alldus",2021-02-25,24593
+"Alldus",2021-03-01,24687
+"Alldus",2021-03-06,24941
+"Alldus",2021-03-10,25054
+"Alldus",2021-03-16,25107
+"Alldus",2021-03-20,25141
+"Alldus",2021-03-24,25169
+"Alldus",2021-03-30,25243
+"Alldus",2021-04-06,25308
+"Alldus",2021-04-10,25357
+"Alldus",2021-04-15,25423
+"Alldus",2021-04-20,25571
+"Alldus",2021-04-24,25650
+"Alldus",2021-04-28,25780
+"Alldus",2021-05-03,25877
+"Alldus",2021-05-07,25962
+"Alldus",2021-05-10,25986
+"Alldus",2021-05-14,26062
+"Alldus",2021-05-21,26272
+"Alldus",2021-05-26,26371
+"Alldus",2021-06-02,26456
+"Alldus",2021-06-09,26597
+"Alldus",2021-06-16,26729
+"Alldus",2021-06-21,26782
+"Alldus",2021-06-29,26982
+"Alldus",2021-07-02,27036
+"Alldus",2021-07-04,27050
+"Alldus",2021-07-09,27109
+"Alldus",2021-07-14,27144
+"Alldus",2021-07-18,27197
+"Alldus",2021-07-22,27240
+"Alldus",2021-08-14,27829
+"Alldus",2021-08-26,28082
+"Alldus",2021-09-02,28153
+"Alldus",2021-09-16,28338
+"Alldus",2021-10-17,28737
+"Alldus",2021-10-29,28905
+"Alldus",2021-11-06,29067
+"Alldus",2021-11-20,29387
+"Alldus",2021-12-07,29618
+"Alldus",2021-12-14,29789
+"Alldus",2021-12-20,29854
+"Alldus",2021-12-26,29889
+"Alldus",2021-12-30,29950
+"Alldus",2021-12-31,29960
+"Alldus",2022-01-03,29983
+"Alldus",2022-01-04,30014
+"Alldus",2022-01-06,30088
+"Alldus",2022-01-07,30120
+"Alldus",2022-01-10,30159
+"Alldus",2022-01-14,30362
+"Alldus",2022-01-18,30463
+"Alldus",2022-01-27,30797
+"Alldus",2022-02-01,30930
+"Alldus",2022-02-10,31150
+"Alldus",2022-02-12,31190
+"Alldus",2022-02-20,31354
+"Alldus",2022-02-23,31428
+"Alldus",2022-03-20,31898
+"Alldus",2022-03-29,32076
+"Alldus",2022-03-31,32107
+"Alldus",2022-04-13,32413
+"Alldus",2022-04-19,32541
+"Alldus",2022-04-25,32650
+"Alldus",2022-04-29,32723
+"Alldus",2022-05-05,32817
+"Alldus",2022-05-12,32943
+"Alldus",2022-05-22,33200
+"Alldus",2022-05-23,33257
+"Alldus",2022-05-27,33357
+"Alldus",2022-06-07,33723
+"Alldus",2022-06-08,33723
+"Alldus",2022-06-11,33801
+"Alldus",2022-06-13,33819
+"Alldus",2022-06-16,33904
+"Alldus",2022-06-22,34022
+"Alldus",2022-06-23,34051
+"Alldus",2022-06-24,34114
+"Alldus",2022-06-26,34144
+"Alldus",2022-06-28,34225
+"Alldus",2022-06-30,34266
+"Alldus",2022-07-01,34336
+"Alldus",2022-07-02,34347
+"Alldus",2022-07-04,34369
+"Alldus",2022-07-05,34414
+"Alldus",2022-07-09,34540
+"Alldus",2022-07-12,34610
+"Alldus",2022-07-18,34717
+"Alldus",2022-07-21,34851
+"Alldus",2022-07-23,34915
+"Alldus",2022-07-25,34940
+"Alldus",2022-08-01,35107
+"Alldus",2022-08-08,35322
+"Alldus",2022-08-16,35561
+"Alldus",2022-08-20,35800
+"Alldus",2022-08-25,35918
+"Alldus",2022-08-28,35989
+"Alldus",2022-09-01,36172
+"Alldus",2022-09-07,36276
+"Alldus",2022-09-10,36336
+"Alldus",2022-09-16,36571
+"Alldus",2022-09-22,36731
+"Alldus",2022-09-29,36935
+"Alldus",2022-10-03,37067
+"Alldus",2022-10-09,37262
+"Alldus",2022-10-12,37371
+"Alldus",2022-10-16,37503
+"Alldus",2022-10-22,37713
+"Alldus",2022-10-28,37925
+"Alldus",2022-11-03,38147
+"Alldus",2022-11-06,38245
+"Alldus",2022-11-14,38727
+"Alldus",2022-11-20,39352
+"Alldus",2022-11-24,39498
+"Alldus",2022-12-01,39828
+"Alldus",2022-12-08,40138
+"Alldus",2022-12-14,40435
+"Alldus",2022-12-27,40899
+"Alldus",2023-01-01,41004
+"Alldus",2023-01-05,41300
+"Alldus",2023-01-09,41496
+"Alldus",2023-01-22,42785
+"Alldus",2023-01-28,43317
+"Alldus",2023-02-04,43801
+"Alldus",2023-02-10,44154
+"Alldus",2023-02-13,44314
+"Alldus",2023-02-24,45720
+"Alldus",2023-03-10,47206
+"Alldus",2023-03-14,47555
+"Alldus",2023-03-18,47831
+"Alldus",2023-03-21,48098
+"Alldus",2023-03-25,48484
+"Alldus",2023-04-01,49110
+"Alldus",2023-04-10,49593
+"Alldus",2023-04-13,49949
+"Alldus",2023-04-21,50428
+"Alldus",2023-04-29,51059
+"Alldus",2023-05-12,52015
+"Alldus",2023-05-19,52485
+"Alldus",2023-05-29,53020
+"Alldus",2023-06-05,53518
+"Alldus",2023-06-11,54258
+"Alldus",2023-06-14,54638
+"Alldus",2023-06-17,54791
+"Alldus",2023-06-23,55231
+"Alldus",2023-06-27,55552
+"Alldus",2023-07-06,56150
+"Alldus",2023-07-23,57907
+"Alldus",2023-08-02,59360
+"Alldus",2023-08-08,59774
+"Alldus",2023-08-10,60014
+"Alldus",2023-08-29,61849
+"Alldus",2023-09-15,63428
+"Alldus",2023-10-18,66076
+"Alldus",2023-12-18,68488
+"Alldus",2024-01-22,71248
+"AlldusAlldus",2023-12-14,NA
+"Allen Institute",2023-01-25,23198
+"Allen Institute",2023-01-29,23291
+"Allen Institute for AI (AI2)",2023-01-25,18340
+"Allen Institute for AI (AI2)",2023-01-29,18471
+"Allen Institute for Brain Science",2023-01-25,24408
+"Allen Institute for Brain Science",2023-01-29,24546
+"Allen Institute for Cell Science",2023-01-25,6834
+"Allen Institute for Cell Science",2023-01-29,6871
+"Allen Institute for Immunology",2023-01-25,3401
+"Allen Institute for Immunology",2023-01-29,3412
+"Allianz Global Corporate & Specialty (AGCS)",2021-02-19,81733
+"Allianz Global Corporate & Specialty (AGCS)",2021-03-26,83219
+"Allogene Therapeutics",2023-01-25,46236
+"Allogene Therapeutics",2023-01-29,46465
+"Alloy Enterprises Inc",2023-01-21,1250
+"Alloy Enterprises Inc",2023-02-25,1273
+"Alloy Enterprises Inc",2023-03-13,1293
+"Alloy Enterprises Inc",2023-03-29,1308
+"Alloy Enterprises Inc",2023-04-10,1312
+"Alloy Enterprises Inc",2023-04-23,1319
+"Alloy Enterprises Inc",2023-06-05,1482
+"Alloy Enterprises Inc",2023-06-11,1492
+"Alloy Enterprises Inc",2023-06-23,1530
+"Alloy Enterprises Inc",2023-07-06,1548
+"Alloy Enterprises Inc",2023-07-23,1567
+"Alloy Enterprises Inc",2023-08-05,1589
+"Alloy Enterprises Inc",2023-08-29,1616
+"Alloy Enterprises Inc",2023-10-18,1680
+"Alluxio",2023-10-18,3186
+"Alluxio",2023-12-18,3228
+"Alluxio Inc.",2023-08-29,3109
+"Ally of",2023-06-11,529
+"Ally of",2023-06-23,532
+"Ally of",2023-07-06,532
+"Ally of",2023-07-23,534
+"Ally of",2023-08-05,533
+"Ally of",2023-08-29,536
+"Ally of",2023-10-18,537
+"Ally of the Year",2023-01-21,508
+"Ally of the Year",2023-02-25,513
+"Ally of the Year",2023-03-13,518
+"Ally of the Year",2023-03-29,523
+"Ally of the Year",2023-04-10,523
+"Ally of the Year",2023-04-23,526
+"Ally of the Year",2023-06-05,528
+"Altair RapidMiner",2023-03-18,19944
+"Altair RapidMiner",2023-03-21,19959
+"Altair RapidMiner",2023-03-25,19976
+"Altair RapidMiner",2023-04-01,20016
+"Altair RapidMiner",2023-04-10,20062
+"Altair RapidMiner",2023-04-13,20075
+"Altair RapidMiner",2023-04-21,20105
+"Altair RapidMiner",2023-04-29,20140
+"Altair RapidMiner",2023-05-12,20192
+"Altair RapidMiner",2023-05-19,20223
+"Altair RapidMiner",2023-05-29,20256
+"Altair RapidMiner",2023-06-05,20290
+"Altair RapidMiner",2023-06-11,20306
+"Altair RapidMiner",2023-06-14,20325
+"Altair RapidMiner",2023-06-17,20333
+"Altair RapidMiner",2023-06-23,20352
+"Altair RapidMiner",2023-06-27,20366
+"Altair RapidMiner",2023-07-06,20408
+"Altair RapidMiner",2023-07-23,20469
+"Altair RapidMiner",2023-08-02,20513
+"Altair RapidMiner",2023-08-08,20535
+"Altair RapidMiner",2023-08-10,20538
+"Altair RapidMiner",2023-08-29,20590
+"Altair RapidMiner",2023-09-15,20635
+"Altair RapidMiner",2023-10-18,20757
+"Altair RapidMiner",2023-12-14,20464
+"Altair RapidMiner",2023-12-16,20474
+"Altair RapidMiner",2023-12-18,20481
+"Altair RapidMiner",2024-01-22,20553
+"Alteryx",2020-10-20,128109
+"Alteryx",2020-10-21,128210
+"Alteryx",2020-10-23,128401
+"Alteryx",2020-10-25,128562
+"Alteryx",2020-10-25,128648
+"Alteryx",2020-10-28,128994
+"Alteryx",2020-10-30,129298
+"Alteryx",2020-11-03,129612
+"Alteryx",2020-11-06,129988
+"Alteryx",2020-11-10,130410
+"Alteryx",2020-11-14,130860
+"Alteryx",2020-11-18,131215
+"Alteryx",2020-11-23,131792
+"Alteryx",2020-11-28,132142
+"Alteryx",2020-12-03,132537
+"Alteryx",2020-12-05,132790
+"Alteryx",2020-12-12,133436
+"Alteryx",2020-12-15,133723
+"Alteryx",2020-12-20,134222
+"Alteryx",2020-12-25,134637
+"Alteryx",2020-12-29,135031
+"Alteryx",2021-01-03,135463
+"Alteryx",2021-01-06,135787
+"Alteryx",2021-01-11,136232
+"Alteryx",2021-01-15,136795
+"Alteryx",2021-01-19,137196
+"Alteryx",2021-01-25,137933
+"Alteryx",2021-01-30,138418
+"Alteryx",2021-01-31,138490
+"Alteryx",2021-02-03,138724
+"Alteryx",2021-02-07,139252
+"Alteryx",2021-02-12,140068
+"Alteryx",2021-02-17,140504
+"Alteryx",2021-02-21,140988
+"Alteryx",2021-02-25,141438
+"Alteryx",2021-03-01,141899
+"Alteryx",2021-03-06,142557
+"Alteryx",2021-03-10,143055
+"Alteryx",2021-03-16,143704
+"Alteryx",2021-03-20,144328
+"Alteryx",2021-03-24,144703
+"Alteryx",2021-03-30,145437
+"Alteryx",2021-04-06,146027
+"Alteryx",2021-04-10,146502
+"Alteryx",2021-04-15,146971
+"Alteryx",2021-04-20,147436
+"Alteryx",2021-04-24,147871
+"Alteryx",2021-04-28,148216
+"Alteryx",2021-05-03,148711
+"Alteryx",2021-05-07,149163
+"Alteryx",2021-05-10,149400
+"Alteryx",2021-05-14,149891
+"Alteryx",2021-05-21,150744
+"Alteryx",2021-05-26,151328
+"Alteryx",2021-06-02,152210
+"Alteryx",2021-06-09,153369
+"Alteryx",2021-06-16,154230
+"Alteryx",2021-06-21,154842
+"Alteryx",2021-06-29,155781
+"Alteryx",2021-07-02,156312
+"Alteryx",2021-07-04,156464
+"Alteryx",2021-07-09,156903
+"Alteryx",2021-07-14,157360
+"Alteryx",2021-07-18,157716
+"Alteryx",2021-07-22,158175
+"Alteryx",2021-08-14,161037
+"Alteryx",2021-08-26,162468
+"Alteryx",2021-09-02,163384
+"Alteryx",2021-09-16,165164
+"Alteryx",2021-10-17,169098
+"Alteryx",2021-10-29,170634
+"Alteryx",2021-11-06,171554
+"Alteryx",2021-11-20,173152
+"Alteryx",2021-12-07,174629
+"Alteryx",2021-12-14,175219
+"Alteryx",2021-12-20,175671
+"Alteryx",2021-12-26,176093
+"Alteryx",2021-12-30,176308
+"Alteryx",2021-12-31,176377
+"Alteryx",2022-01-03,176528
+"Alteryx",2022-01-04,176681
+"Alteryx",2022-01-06,176915
+"Alteryx",2022-01-07,177231
+"Alteryx",2022-01-10,177529
+"Alteryx",2022-01-14,178065
+"Alteryx",2022-01-18,178483
+"Alteryx",2022-01-27,179560
+"Alteryx",2022-02-01,180091
+"Alteryx",2022-02-07,181071
+"Alteryx",2022-02-10,181707
+"Alteryx",2022-02-12,182070
+"Alteryx",2022-02-20,183413
+"Alteryx",2022-02-23,183999
+"Alteryx",2022-02-26,184486
+"Alteryx",2022-03-03,185220
+"Alteryx",2022-03-07,185608
+"Alteryx",2022-03-15,186848
+"Alteryx",2022-03-29,189010
+"Alteryx",2022-03-31,189466
+"Alteryx",2022-04-09,191074
+"Alteryx",2022-04-11,191288
+"Alteryx",2022-04-13,191568
+"Alteryx",2022-04-19,192192
+"Alteryx",2022-04-25,193153
+"Alteryx",2022-04-29,194163
+"Alteryx",2022-05-05,194980
+"Alteryx",2022-05-12,196030
+"Alteryx",2022-05-22,197720
+"Alteryx",2022-05-23,197851
+"Alteryx",2022-06-01,198992
+"Alteryx",2022-06-03,199397
+"Alteryx",2022-06-07,200049
+"Alteryx",2022-06-08,200049
+"Alteryx",2022-06-13,200995
+"Alteryx",2022-06-15,201463
+"Alteryx",2022-06-16,201724
+"Alteryx",2022-06-20,202247
+"Alteryx",2022-06-23,202739
+"Alteryx",2022-06-24,203063
+"Alteryx",2022-06-26,203295
+"Alteryx",2022-06-28,203671
+"Alteryx",2022-06-30,203944
+"Alteryx",2022-07-01,204203
+"Alteryx",2022-07-02,204271
+"Alteryx",2022-07-04,204573
+"Alteryx",2022-07-05,204827
+"Alteryx",2022-07-09,205442
+"Alteryx",2022-07-12,205897
+"Alteryx",2022-07-18,206548
+"Alteryx",2022-07-21,207078
+"Alteryx",2022-07-23,207457
+"Alteryx",2022-07-25,207728
+"Alteryx",2022-08-01,208787
+"Alteryx",2022-08-08,209986
+"Alteryx",2022-08-16,211276
+"Alteryx",2022-08-20,212040
+"Alteryx",2022-08-25,212800
+"Alteryx",2022-08-28,213230
+"Alteryx",2022-09-01,213992
+"Alteryx",2022-09-07,214897
+"Alteryx",2022-09-10,215569
+"Alteryx",2022-09-16,217008
+"Alteryx",2022-09-22,218388
+"Alteryx",2022-09-29,219756
+"Alteryx",2022-10-03,220400
+"Alteryx",2022-10-09,221684
+"Alteryx",2022-10-12,222160
+"Alteryx",2022-10-16,222623
+"Alteryx",2022-10-22,223666
+"Alteryx",2022-10-28,224499
+"Alteryx",2022-11-03,225463
+"Alteryx",2022-11-06,226107
+"Alteryx",2022-11-14,227627
+"Alteryx",2022-11-20,228768
+"Alteryx",2022-11-24,229871
+"Alteryx",2022-12-01,231358
+"Alteryx",2022-12-08,232446
+"Alteryx",2022-12-14,233314
+"Alteryx",2022-12-27,234733
+"Alteryx",2023-01-01,235152
+"Alteryx",2023-01-05,235667
+"Alteryx",2023-01-09,236233
+"Alteryx",2023-01-22,238770
+"Alteryx",2023-01-28,239922
+"Alteryx",2023-02-04,241173
+"Alteryx",2023-02-10,242434
+"Alteryx",2023-02-13,243038
+"Alteryx",2023-02-24,244993
+"Alteryx",2023-03-10,247189
+"Alteryx",2023-03-14,247712
+"Alteryx",2023-03-18,248411
+"Alteryx",2023-03-21,248841
+"Alteryx",2023-03-25,249519
+"Alteryx",2023-04-01,250607
+"Alteryx",2023-04-10,251704
+"Alteryx",2023-04-13,252217
+"Alteryx",2023-04-21,253310
+"Alteryx",2023-04-29,254683
+"Alteryx",2023-05-12,256159
+"Alteryx",2023-05-19,257069
+"Alteryx",2023-05-29,258444
+"Alteryx",2023-06-05,259521
+"Alteryx",2023-06-11,260659
+"Alteryx",2023-06-14,261433
+"Alteryx",2023-06-17,262060
+"Alteryx",2023-06-23,263213
+"Alteryx",2023-06-27,263892
+"Alteryx",2023-07-06,265345
+"Alteryx",2023-07-23,267811
+"Alteryx",2023-08-02,269656
+"Alteryx",2023-08-08,270492
+"Alteryx",2023-08-10,270873
+"Alteryx",2023-08-29,273950
+"Alteryx",2023-09-15,277192
+"Alteryx",2023-10-18,283022
+"Alteryx",2023-12-14,284928
+"Alteryx",2023-12-16,285362
+"Alteryx",2023-12-18,285725
+"Alteryx",2024-01-22,289301
+"Altinity Inc.",2023-01-21,1881
+"Altinity Inc.",2023-02-25,1982
+"Altinity Inc.",2023-03-13,2101
+"Altinity Inc.",2023-03-29,2139
+"Altinity Inc.",2023-04-10,2185
+"Altinity Inc.",2023-04-23,2243
+"Altinity Inc.",2023-06-05,2321
+"Altinity Inc.",2023-06-11,2334
+"Altinity Inc.",2023-06-23,2357
+"Altinity Inc.",2023-07-06,2369
+"Altinity Inc.",2023-07-23,2747
+"Altinity Inc.",2023-08-05,2925
+"Altinity Inc.",2023-08-29,2970
+"Altinity Inc.",2023-10-18,2959
+"Altinity Inc.",2023-12-18,3060
+"Altmetric",2023-01-28,4396
+"Altos Labs",2023-01-25,19877
+"Altos Labs",2023-01-29,20073
+"AmCham Dubai Member Global Network of American Chambers of Commerce (American Business Council)",2023-10-18,5260
+"AmCham Dubai Member Global Network of American Chambers of Commerce (American Business Council)",2023-12-17,5502
+"AmCham Dubai Member Global Network of American Chambers of Commerce (American Business Council)",2023-12-18,5503
+"AmCham Vietnam",2023-01-28,34679
+"Amadeus Labs",2023-01-21,34076
+"Amadeus Labs",2023-02-25,35333
+"Amadeus Labs",2023-03-13,35898
+"Amadeus Labs",2023-03-29,37052
+"Amadeus Labs",2023-04-10,37313
+"Amadeus Labs",2023-04-23,37747
+"Amadeus Labs",2023-06-05,38645
+"Amadeus Labs",2023-06-11,38783
+"Amadeus Labs",2023-06-23,39097
+"Amadeus Labs",2023-07-06,39463
+"Amadeus Labs",2023-07-23,40418
+"Amadeus Labs",2023-08-05,40893
+"Amadeus Labs",2023-08-29,41638
+"Amadeus Labs",2023-10-18,42900
+"Amadeus Labs",2023-12-17,43518
+"Amadeus Labs",2023-12-18,43543
+"Amazon",2023-01-21,29213573
+"Amazon",2023-01-25,29251962
+"Amazon",2023-01-28,29281883
+"Amazon",2023-02-10,29394797
+"Amazon",2023-02-25,29534684
+"Amazon",2023-03-13,29684191
+"Amazon",2023-03-29,29829541
+"Amazon",2023-04-10,29964853
+"Amazon",2023-04-23,30099777
+"Amazon",2023-06-05,30573467
+"Amazon",2023-06-11,30671807
+"Amazon",2023-06-23,30878022
+"Amazon",2023-07-06,31093626
+"Amazon",2023-07-23,31334500
+"Amazon",2023-08-05,31570992
+"Amazon",2023-08-29,31987691
+"Amazon",2023-10-18,32716365
+"Amazon",2023-12-14,29922887
+"Amazon",2023-12-17,29966736
+"Amazon",2023-12-18,29979803
+"Amazon Science",2020-10-16,19900
+"Amazon Science",2020-10-25,21570
+"Amazon Science",2020-10-28,21976
+"Amazon Science",2020-10-30,22378
+"Amazon Science",2020-11-03,22829
+"Amazon Science",2020-11-06,23253
+"Amazon Science",2020-11-10,23843
+"Amazon Science",2020-11-14,24434
+"Amazon Science",2020-11-18,25158
+"Amazon Science",2020-11-23,26414
+"Amazon Science",2020-11-28,27087
+"Amazon Science",2020-12-03,28105
+"Amazon Science",2020-12-05,28730
+"Amazon Science",2020-12-12,30900
+"Amazon Science",2020-12-15,31956
+"Amazon Science",2020-12-20,34054
+"Amazon Science",2020-12-25,36424
+"Amazon Science",2020-12-29,38553
+"Amazon Science",2021-01-03,41055
+"Amazon Science",2021-01-06,42707
+"Amazon Science",2021-01-11,44871
+"Amazon Science",2021-01-15,47140
+"Amazon Science",2021-01-19,49130
+"Amazon Science",2021-01-25,52124
+"Amazon Science",2021-01-30,54661
+"Amazon Science",2021-01-31,55399
+"Amazon Science",2021-02-03,56890
+"Amazon Science",2021-02-07,59069
+"Amazon Science",2021-02-12,61934
+"Amazon Science",2021-02-17,64579
+"Amazon Science",2021-02-21,67407
+"Amazon Science",2021-02-25,69889
+"Amazon Science",2021-03-01,72060
+"Amazon Science",2021-03-06,75236
+"Amazon Science",2021-03-10,77638
+"Amazon Science",2021-03-16,80491
+"Amazon Science",2021-03-20,82545
+"Amazon Science",2021-03-24,83939
+"Amazon Science",2021-03-30,86868
+"Amazon Science",2021-04-06,90861
+"Amazon Science",2021-04-10,95105
+"Amazon Science",2021-04-15,98799
+"Amazon Science",2021-04-20,103016
+"Amazon Science",2021-04-24,106027
+"Amazon Science",2021-04-28,108869
+"Amazon Science",2021-05-03,112345
+"Amazon Science",2021-05-07,115200
+"Amazon Science",2021-05-10,116857
+"Amazon Science",2021-05-14,119322
+"Amazon Science",2021-05-21,123210
+"Amazon Science",2021-05-26,125928
+"Amazon Science",2021-06-02,129750
+"Amazon Science",2021-06-09,133307
+"Amazon Science",2021-06-16,137407
+"Amazon Science",2021-06-21,139864
+"Amazon Science",2021-06-29,143400
+"Amazon Science",2021-07-02,144912
+"Amazon Science",2021-07-04,145511
+"Amazon Science",2021-07-09,147248
+"Amazon Science",2021-07-14,149108
+"Amazon Science",2021-07-18,150498
+"Amazon Science",2021-07-22,152590
+"Amazon Science",2021-08-14,160218
+"Amazon Science",2021-08-26,166201
+"Amazon Science",2021-09-02,169038
+"Amazon Science",2021-09-16,173682
+"Amazon Science",2021-10-17,185500
+"Amazon Science",2021-10-29,188844
+"Amazon Science",2021-11-06,191028
+"Amazon Science",2021-11-20,194577
+"Amazon Science",2021-12-07,197539
+"Amazon Science",2021-12-14,199015
+"Amazon Science",2021-12-20,200265
+"Amazon Science",2021-12-26,201480
+"Amazon Science",2021-12-30,202351
+"Amazon Science",2021-12-31,202631
+"Amazon Science",2022-01-03,203089
+"Amazon Science",2022-01-04,203402
+"Amazon Science",2022-01-06,204015
+"Amazon Science",2022-01-07,204412
+"Amazon Science",2022-01-10,204952
+"Amazon Science",2022-01-14,206212
+"Amazon Science",2022-01-18,207197
+"Amazon Science",2022-01-27,209331
+"Amazon Science",2022-02-01,210356
+"Amazon Science",2022-02-07,212024
+"Amazon Science",2022-02-12,213172
+"Amazon Science",2022-02-16,214029
+"Amazon Science",2022-02-23,215652
+"Amazon Science",2022-02-26,216083
+"Amazon Science",2022-03-03,216726
+"Amazon Science",2022-03-07,217305
+"Amazon Science",2022-03-15,218705
+"Amazon Science",2022-03-20,220083
+"Amazon Science",2022-03-29,221705
+"Amazon Science",2022-03-31,222080
+"Amazon Science",2022-04-09,225212
+"Amazon Science",2022-04-13,226327
+"Amazon Science",2022-04-19,227530
+"Amazon Science",2022-04-25,229331
+"Amazon Science",2022-05-05,232282
+"Amazon Science",2022-05-22,237039
+"Amazon Science",2022-05-25,237525
+"Amazon Science",2022-05-27,237898
+"Amazon Science",2022-06-13,241112
+"Amazon Science",2022-06-20,242301
+"Amazon Science",2022-06-22,242641
+"Amazon Science",2022-06-22,242640
+"Amazon Science",2022-06-30,243849
+"Amazon Science",2022-07-01,244079
+"Amazon Science",2022-07-02,244152
+"Amazon Science",2022-07-04,244586
+"Amazon Science",2022-07-05,244797
+"Amazon Science",2022-07-09,245429
+"Amazon Science",2022-07-12,245919
+"Amazon Science",2022-07-18,246853
+"Amazon Science",2022-07-21,247671
+"Amazon Science",2022-07-23,248059
+"Amazon Science",2022-07-25,248818
+"Amazon Science",2022-08-01,250171
+"Amazon Science",2022-08-08,252614
+"Amazon Science",2022-08-16,254441
+"Amazon Science",2022-08-20,255700
+"Amazon Science",2022-08-25,257151
+"Amazon Science",2022-08-28,257745
+"Amazon Science",2022-09-01,258718
+"Amazon Science",2022-09-07,259981
+"Amazon Science",2022-09-10,260765
+"Amazon Science",2022-09-16,262516
+"Amazon Science",2022-09-22,264037
+"Amazon Science",2022-09-29,265923
+"Amazon Science",2022-10-03,267040
+"Amazon Science",2022-10-09,268336
+"Amazon Science",2022-10-12,268960
+"Amazon Science",2022-10-16,269816
+"Amazon Science",2022-10-22,271046
+"Amazon Science",2022-10-28,272367
+"Amazon Science",2022-11-03,273382
+"Amazon Science",2022-11-06,273845
+"Amazon Science",2022-11-14,275351
+"Amazon Science",2022-11-20,276456
+"Amazon Science",2022-11-24,276909
+"Amazon Science",2022-12-01,277832
+"Amazon Science",2022-12-08,278943
+"Amazon Science",2022-12-14,279972
+"Amazon Science",2022-12-27,281877
+"Amazon Science",2023-01-01,283139
+"Amazon Science",2023-01-05,283956
+"Amazon Science",2023-01-09,284692
+"Amazon Science",2023-01-21,287108
+"Amazon Science",2023-01-22,287205
+"Amazon Science",2023-01-28,288077
+"Amazon Science",2023-02-04,288916
+"Amazon Science",2023-02-10,289587
+"Amazon Science",2023-02-13,289938
+"Amazon Science",2023-02-24,291212
+"Amazon Science",2023-02-25,291283
+"Amazon Science",2023-03-10,292766
+"Amazon Science",2023-03-13,293118
+"Amazon Science",2023-03-14,293313
+"Amazon Science",2023-03-18,293800
+"Amazon Science",2023-03-21,294158
+"Amazon Science",2023-03-25,294646
+"Amazon Science",2023-03-29,295261
+"Amazon Science",2023-04-01,295646
+"Amazon Science",2023-04-10,296936
+"Amazon Science",2023-04-10,296956
+"Amazon Science",2023-04-13,297568
+"Amazon Science",2023-04-21,299061
+"Amazon Science",2023-04-23,299365
+"Amazon Science",2023-04-29,300428
+"Amazon Science",2023-05-12,302624
+"Amazon Science",2023-05-19,304441
+"Amazon Science",2023-05-29,305838
+"Amazon Science",2023-06-05,306751
+"Amazon Science",2023-06-05,306753
+"Amazon Science",2023-06-11,307700
+"Amazon Science",2023-06-14,308358
+"Amazon Science",2023-06-17,308857
+"Amazon Science",2023-06-23,309686
+"Amazon Science",2023-06-23,309687
+"Amazon Science",2023-06-27,310136
+"Amazon Science",2023-07-06,311412
+"Amazon Science",2023-07-06,311413
+"Amazon Science",2023-07-23,313710
+"Amazon Science",2023-07-23,313713
+"Amazon Science",2023-08-02,315433
+"Amazon Science",2023-08-05,315875
+"Amazon Science",2023-08-08,316246
+"Amazon Science",2023-08-10,316564
+"Amazon Science",2023-08-29,319498
+"Amazon Science",2023-09-15,303690
+"Amazon Science",2023-10-18,310261
+"Amazon Science",2023-10-18,310272
+"Amazon Science",2023-12-18,321392
+"Amazon Science",2024-01-22,329911
+"Amazon ScienceAmazon Science",2023-12-14,NA
+"Amazon Web Services",2023-06-11,7096
+"Amazon Web Services",2023-06-23,7205
+"Amazon Web Services",2023-07-06,7311
+"Amazon Web Services",2023-07-23,7417
+"Amazon Web Services",2023-08-05,7512
+"Amazon Web Services",2023-08-29,7696
+"Amazon Web Services",2023-10-18,7782
+"Amazon Web Services (AWS)",2023-01-21,7875788
+"Amazon Web Services (AWS)",2023-01-22,7878690
+"Amazon Web Services (AWS)",2023-01-29,7901896
+"Amazon Web Services (AWS)",2023-02-10,7942616
+"Amazon Web Services (AWS)",2023-02-25,7988069
+"Amazon Web Services (AWS)",2023-03-13,8031814
+"Amazon Web Services (AWS)",2023-03-29,8075198
+"Amazon Web Services (AWS)",2023-04-10,8112180
+"Amazon Web Services (AWS)",2023-04-23,8154053
+"Amazon Web Services (AWS)",2023-06-05,8331772
+"Amazon Web Services (AWS)",2023-06-11,8365365
+"Amazon Web Services (AWS)",2023-06-23,8433167
+"Amazon Web Services (AWS)",2023-07-06,8510899
+"Amazon Web Services (AWS)",2023-07-23,8612970
+"Amazon Web Services (AWS)",2023-08-05,8702865
+"Amazon Web Services (AWS)",2023-08-29,8844326
+"Amazon Web Services (AWS)",2023-10-18,9113727
+"Amazon Web Services (AWS)",2023-12-17,8808968
+"Amazon Web Services (AWS)",2023-12-18,8813612
+"Amazon Web Services (AWS) Optimization",2023-01-21,5550
+"Amazon Web Services (AWS) Optimization",2023-02-25,6037
+"Amazon Web Services (AWS) Optimization",2023-03-13,6276
+"Amazon Web Services (AWS) Optimization",2023-03-29,6457
+"Amazon Web Services (AWS) Optimization",2023-04-10,6580
+"Amazon Web Services (AWS) Optimization",2023-04-23,6675
+"Amazon Web Services (AWS) Optimization",2023-06-05,7048
+"Ambo University (Ethiopia)",2023-01-28,2451
+"Ambry Genetics",2023-01-25,44353
+"Ambry Genetics",2023-01-29,44474
+"Amdocs",2021-02-19,482522
+"Amdocs",2021-03-26,489288
+"American Banker",2023-01-21,133703
+"American Banker",2023-02-25,135896
+"American Banker",2023-03-13,136912
+"American Banker",2023-03-29,138058
+"American Banker",2023-04-10,138901
+"American Banker",2023-04-23,139898
+"American Banker",2023-06-05,143366
+"American Banker",2023-06-11,144169
+"American Banker",2023-06-23,145612
+"American Banker",2023-07-06,146756
+"American Banker",2023-07-23,147996
+"American Banker",2023-08-05,149314
+"American Banker",2023-08-29,152211
+"American Banker",2023-10-18,150613
+"American Banker",2023-12-18,159739
+"American Bankers Association",2023-03-13,133590
+"American Bankers Association",2023-03-29,134346
+"American Bankers Association",2023-04-10,135085
+"American Bankers Association",2023-04-23,135950
+"American Bankers Association",2023-06-05,138286
+"American Bankers Association",2023-06-11,139034
+"American Bankers Association",2023-06-23,140385
+"American Bankers Association",2023-07-06,141481
+"American Bankers Association",2023-07-23,142910
+"American Bankers Association",2023-08-05,144305
+"American Bankers Association",2023-08-29,146402
+"American Bankers Association",2023-10-18,142606
+"American Bankers Association",2023-12-14,145213
+"American Bankers Association",2023-12-17,145373
+"American Bankers Association",2023-12-18,145406
+"American Bar Association",2023-03-13,226044
+"American Bar Association",2023-03-29,227628
+"American Bar Association",2023-04-10,228775
+"American Bar Association",2023-04-23,230153
+"American Bar Association",2023-06-05,234485
+"American Bar Association",2023-06-11,235458
+"American Bar Association",2023-06-23,237392
+"American Bar Association",2023-07-06,239013
+"American Bar Association",2023-07-23,240810
+"American Bar Association",2023-08-05,242285
+"American Bar Association",2023-08-29,245851
+"American Bar Association",2023-10-18,253280
+"American Bar Association",2023-12-14,250902
+"American Bar Association",2023-12-17,251155
+"American Bar Association",2023-12-18,251215
+"American Cancer Society",2023-01-25,226222
+"American Cancer Society",2023-01-29,226781
+"American Century Investments Institutional",2023-01-21,2798
+"American Century Investments Institutional",2023-02-25,2865
+"American Century Investments Institutional",2023-03-13,2872
+"American Century Investments Institutional",2023-03-29,2887
+"American Century Investments Institutional",2023-04-10,2908
+"American Century Investments Institutional",2023-04-23,2922
+"American Century Investments Institutional",2023-06-05,3039
+"American Century Investments Institutional",2023-06-11,3044
+"American Century Investments Institutional",2023-06-23,3047
+"American Century Investments Institutional",2023-07-06,3050
+"American Century Investments Institutional",2023-07-23,3051
+"American Century Investments Institutional",2023-08-05,3057
+"American Century Investments Institutional",2023-08-29,3103
+"American Century Investments Institutional",2023-10-18,3175
+"American Chemical Society",2023-01-28,166456
 "American Express",2023-01-21,1811715
 "American Express",2023-02-10,1827235
 "American Express",2023-02-25,1839916
@@ -1447,6 +1322,7 @@
 "Amherst H. Wilder Foundation",2023-10-18,7714
 "Amherst H. Wilder Foundation",2023-12-17,8036
 "Amherst H. Wilder Foundation",2023-12-18,8036
+"Amherst H. Wilder Foundation",2024-01-22,8134
 "Amsterdam Intelligence",2023-02-25,336
 "Amsterdam Intelligence",2023-03-13,361
 "Amsterdam Intelligence",2023-03-29,391
@@ -1722,6 +1598,7 @@
 "Anaconda Inc.",2023-12-16,78811
 "Anaconda Inc.",2023-12-17,78839
 "Anaconda Inc.",2023-12-18,78892
+"Anaconda Inc.",2024-01-22,80408
 "Anagenex",2023-01-25,621
 "Anagenex",2023-01-29,624
 "Analog Devices",2023-01-21,287623
@@ -1937,6 +1814,7 @@
 "Analytic Partners",2023-12-14,12670
 "Analytic Partners",2023-12-16,12690
 "Analytic Partners",2023-12-18,12702
+"Analytic Partners",2024-01-22,13009
 "Analytic Recruiting Inc.",2023-01-28,92547
 "Analytics Vidhya",2022-07-18,142337
 "Analytics Vidhya",2022-07-21,142617
@@ -2017,6 +1895,7 @@
 "Analytics Vidhya",2023-10-18,177701
 "Analytics Vidhya",2023-12-17,175742
 "Analytics Vidhya",2023-12-18,175790
+"Analytics Vidhya",2024-01-22,178007
 "Analyticsfy",2023-01-28,309
 "Anand Rathi Wealth Management",2021-02-19,1612
 "Anand Rathi Wealth Management",2021-03-06,1648
@@ -2190,6 +2069,7 @@
 "Ankara University Computer Society",2023-10-18,419
 "Ankara University Computer Society",2023-12-17,527
 "Ankara University Computer Society",2023-12-18,528
+"Ankara University Computer Society",2024-01-22,538
 "AnoobisHacking",2023-02-25,836
 "AnoobisHacking",2023-03-13,852
 "AnoobisHacking",2023-03-29,866
@@ -2436,6 +2316,7 @@
 "Aon Centre for Innovation and Analytics (ACIA)",2023-09-15,15579
 "Aon Centre for Innovation and Analytics (ACIA)",2023-10-18,15699
 "Aon Centre for Innovation and Analytics (ACIA)",2023-12-18,15888
+"Aon Centre for Innovation and Analytics (ACIA)",2024-01-22,15992
 "Apache Software Foundation",2020-10-14,43937
 "Apache Software Foundation",2020-10-19,44020
 "Apex Systems",2023-01-21,1079711
@@ -2666,6 +2547,7 @@
 "Appinventiv",2023-09-15,337133
 "Appinventiv",2023-10-18,344293
 "Appinventiv",2023-12-18,352403
+"Appinventiv",2024-01-22,366735
 "AppinventivAppinventiv",2023-12-14,NA
 "Apple",2021-01-19,13178103
 "Apple",2021-02-19,13375107
@@ -2758,6 +2640,7 @@
 "Applied Epi",2023-10-18,2843
 "Applied Epi",2023-12-14,3371
 "Applied Epi",2023-12-18,3381
+"Applied Epi",2024-01-22,3490
 "Applied Materials",2023-01-21,350036
 "Applied Materials",2023-02-10,354268
 "Applied Materials",2023-02-25,357298
@@ -2919,6 +2802,7 @@
 "Appriss",2023-10-18,6842
 "Appriss",2023-12-17,6786
 "Appriss",2023-12-18,6787
+"Appriss",2024-01-22,6830
 "Appriss Health",2021-01-22,1087
 "Appriss Health",2021-01-25,1089
 "Appriss Health",2021-01-28,1095
@@ -3237,6 +3121,7 @@
 "Appsilon",2023-09-15,5922
 "Appsilon",2023-10-18,6195
 "Appsilon",2023-12-18,6576
+"Appsilon",2024-01-22,6824
 "Aptology (A Mediafly Company)",2023-01-21,817
 "Aptology (A Mediafly Company)",2023-02-25,821
 "Aptology (A Mediafly Company)",2023-03-13,820
@@ -3289,6 +3174,7 @@
 "Aquila I",2023-10-18,4241
 "Aqwise",2023-01-28,2685
 "ArData",2023-12-18,320
+"ArData",2024-01-22,321
 "Arc Institute",2023-01-25,1550
 "Arc Institute",2023-01-29,1573
 "Arcadis",2023-01-28,814956
@@ -3466,35 +3352,11 @@
 "ArkeUp Academy | Oc<e9>an Indien",2023-08-10,1547
 "ArkeUp Academy | Oc<e9>an Indien",2023-08-29,1562
 "ArkeUp Academy | Oc<e9>an Indien",2023-09-15,1570
-"ArkeUp Academy | Océan Indien",2023-12-18,1647
-"ArkeUp Academy | Oc<e9>an Indien",2023-03-10,1413
-"ArkeUp Academy | Oc<e9>an Indien",2023-03-14,1419
-"ArkeUp Academy | Oc<e9>an Indien",2023-03-18,1426
-"ArkeUp Academy | Oc<e9>an Indien",2023-03-21,1430
-"ArkeUp Academy | Oc<e9>an Indien",2023-03-25,1433
-"ArkeUp Academy | Oc<e9>an Indien",2023-04-01,1437
-"ArkeUp Academy | Oc<e9>an Indien",2023-04-10,1443
-"ArkeUp Academy | Oc<e9>an Indien",2023-04-13,1445
-"ArkeUp Academy | Oc<e9>an Indien",2023-04-21,1448
-"ArkeUp Academy | Oc<e9>an Indien",2023-04-29,1456
-"ArkeUp Academy | Oc<e9>an Indien",2023-05-12,1463
-"ArkeUp Academy | Oc<e9>an Indien",2023-05-19,1467
-"ArkeUp Academy | Oc<e9>an Indien",2023-05-29,1473
-"ArkeUp Academy | Oc<e9>an Indien",2023-06-05,1481
-"ArkeUp Academy | Oc<e9>an Indien",2023-06-11,1486
-"ArkeUp Academy | Oc<e9>an Indien",2023-06-14,1487
-"ArkeUp Academy | Oc<e9>an Indien",2023-06-17,1487
-"ArkeUp Academy | Oc<e9>an Indien",2023-06-23,1488
-"ArkeUp Academy | Oc<e9>an Indien",2023-06-27,1489
-"ArkeUp Academy | Oc<e9>an Indien",2023-07-06,1490
-"ArkeUp Academy | Oc<e9>an Indien",2023-07-23,1498
-"ArkeUp Academy | Oc<e9>an Indien",2023-08-02,1515
-"ArkeUp Academy | Oc<e9>an Indien",2023-08-08,1539
-"ArkeUp Academy | Oc<e9>an Indien",2023-08-10,1547
-"ArkeUp Academy | Oc<e9>an Indien",2023-08-29,1562
-"ArkeUp Academy | Oc<e9>an Indien",2023-09-15,1570
 "ArkeUp Academy | Oc<e9>an Indien",2023-10-18,1581
 "ArkeUp Academy | Oc<e9>an IndienArkeUp Academy | Oc<e9>an Indien",2023-12-14,NA
+"ArkeUp Academy | Oc�an Indien",2023-12-18,1647
+"ArkeUp Academy | Oc�an Indien",2024-01-22,1668
+"ArkeUp Academy | Oc<e9>an Indien",2023-12-18,1647
 "Arlington Heights Park District",2023-01-25,1297
 "Armajaro Asset Management LLP",2023-01-21,1201
 "Armajaro Asset Management LLP",2023-02-10,1204
@@ -3654,6 +3516,7 @@
 "Artificial Intelligence & Robotics Society University of Portsmouth",2023-10-18,308
 "Artificial Intelligence & Robotics Society University of Portsmouth",2023-12-17,324
 "Artificial Intelligence & Robotics Society University of Portsmouth",2023-12-18,325
+"Artificial Intelligence & Robotics Society University of Portsmouth",2024-01-22,333
 "Artificial Intelligence Hong Kong",2021-01-25,1964
 "Artificial Intelligence Hong Kong",2021-01-28,1970
 "Artificial Intelligence Hong Kong",2021-01-31,1968
@@ -3778,6 +3641,7 @@
 "Artificial Intelligence Hong Kong",2023-10-18,2034
 "Artificial Intelligence Hong Kong",2023-12-17,2044
 "Artificial Intelligence Hong Kong",2023-12-18,2045
+"Artificial Intelligence Hong Kong",2024-01-22,2045
 "Artificial Intelligence in Medical Systems Society (AIMSS)",2023-03-21,793
 "Artificial Intelligence in Medical Systems Society (AIMSS)",2023-03-25,795
 "Artificial Intelligence in Medical Systems Society (AIMSS)",2023-04-10,820
@@ -3798,6 +3662,7 @@
 "Artificial Intelligence in Medical Systems Society (AIMSS)",2023-10-18,989
 "Artificial Intelligence in Medical Systems Society (AIMSS)",2023-12-17,1050
 "Artificial Intelligence in Medical Systems Society (AIMSS)",2023-12-18,1052
+"Artificial Intelligence in Medical Systems Society (AIMSS)",2024-01-22,1072
 "Artificial Intelligence in Medicine Student Society (AIMSS)",2021-03-28,76
 "Artificial Intelligence in Medicine Student Society (AIMSS)",2021-03-31,76
 "Artificial Intelligence in Medicine Student Society (AIMSS)",2021-04-06,78
@@ -4080,6 +3945,7 @@
 "Ascential",2023-12-14,63474
 "Ascential",2023-12-16,63494
 "Ascential",2023-12-18,63511
+"Ascential",2024-01-22,63810
 "Ashoka",2023-01-25,181120
 "Ashoka Trust for Research in Ecology and the Environment",2023-01-28,19932
 "Asian Consulting Engineers",2023-01-28,3221
@@ -4146,1224 +4012,142 @@
 "Astra",2023-08-29,51074
 "Astra",2023-10-18,52514
 "Astra",2023-12-18,52588
-"AstraZeneca",2023-01-25,2311628
-"AstraZeneca",2023-01-29,2315192
-"Astranis Space Technologies",2023-01-21,13090
-"Astranis Space Technologies",2023-02-25,13709
-"Astranis Space Technologies",2023-03-13,14051
-"Astranis Space Technologies",2023-03-29,14300
-"Astranis Space Technologies",2023-04-10,14499
-"Astranis Space Technologies",2023-04-23,14718
-"Astranis Space Technologies",2023-06-05,15760
-"Astranis Space Technologies",2023-06-11,15846
-"Astranis Space Technologies",2023-06-23,16056
-"Astranis Space Technologies",2023-07-06,16244
-"Astranis Space Technologies",2023-07-23,16524
-"Astranis Space Technologies",2023-08-05,16665
-"Astranis Space Technologies",2023-08-29,16951
-"Astranis Space Technologies",2023-10-18,17643
-"Astranis Space Technologies",2023-12-18,18733
-"AstroAccess",2023-07-06,1351
-"AstroAccess",2023-07-23,1359
-"AstroAccess",2023-08-05,1379
-"AstroAccess",2023-08-29,1403
-"Astrobotic",2023-01-21,19531
-"Astrobotic",2023-02-10,20175
-"Astrobotic",2023-02-25,20473
-"Astrobotic",2023-03-13,20852
-"Astrobotic",2023-03-29,21176
-"Astrobotic",2023-04-10,21426
-"Astrobotic",2023-04-23,21643
-"Astrobotic",2023-06-05,22652
-"Astrobotic",2023-06-11,22796
-"Astrobotic",2023-06-23,23008
-"Astrobotic",2023-07-06,23179
-"Astrobotic",2023-07-23,23362
-"Astrobotic",2023-08-05,23766
-"Astrobotic",2023-08-29,24377
-"Astrobotic",2023-10-18,25032
-"Astrobotic",2023-12-14,26819
-"Astrobotic",2023-12-17,26997
-"Astrobotic",2023-12-18,27031
-"Astropreneurs",2023-01-21,936
-"Astropreneurs",2023-02-25,938
-"Astropreneurs",2023-03-13,939
-"Astropreneurs",2023-03-29,938
-"Astropreneurs",2023-04-10,938
-"Astropreneurs",2023-04-23,937
-"Astropreneurs",2023-06-05,941
-"Astropreneurs",2023-06-11,941
-"Astropreneurs",2023-06-23,941
-"Astropreneurs",2023-07-06,942
-"Astropreneurs",2023-07-23,942
-"Astropreneurs",2023-08-05,942
-"Astropreneurs",2023-08-29,943
-"Astropreneurs",2023-10-18,946
-"Astropreneurs",2023-12-18,933
-"Astroscale",2023-01-21,33162
-"Astroscale",2023-02-25,34299
-"Astroscale",2023-03-13,34916
-"Astroscale",2023-03-29,35553
-"Astroscale",2023-04-10,35932
-"Astroscale",2023-04-23,36345
-"Astroscale",2023-06-05,37770
-"Astroscale",2023-06-11,38001
-"Astroscale",2023-06-23,38609
-"Astroscale",2023-07-06,39233
-"Astroscale",2023-07-23,39817
-"Astroscale",2023-08-05,40263
-"Astroscale",2023-08-29,41629
-"Astroscale",2023-10-18,43865
-"Astroscale",2023-12-18,45748
-"Asystec (Now Ergo)",2022-06-28,2497
-"Asystec (Now Ergo)",2022-06-30,2497
-"Asystec (Now Ergo)",2022-07-01,2497
-"Asystec (Now Ergo)",2022-07-02,2497
-"Asystec (Now Ergo)",2022-07-04,2497
-"Asystec (Now Ergo)",2022-07-05,2496
-"Asystec (Now Ergo)",2022-07-09,2495
-"Asystec (Now Ergo)",2022-07-12,2496
-"Asystec (Now Ergo)",2022-07-18,2497
-"Asystec (Now Ergo)",2022-07-21,2497
-"Asystec (Now Ergo)",2022-07-23,2499
-"Asystec (Now Ergo)",2022-07-25,2499
-"Asystec (Now Ergo)",2022-08-01,2502
-"Asystec (Now Ergo)",2022-08-08,2503
-"Asystec (Now Ergo)",2022-08-16,2506
-"Asystec (Now Ergo)",2022-08-20,2504
-"Asystec (Now Ergo)",2022-08-25,2504
-"Asystec (Now Ergo)",2022-08-28,2505
-"Asystec (Now Ergo)",2022-09-01,2505
-"Asystec (Now Ergo)",2022-09-07,2506
-"Asystec (Now Ergo)",2022-09-10,2505
-"Asystec (Now Ergo)",2022-09-16,2508
-"Asystec (Now Ergo)",2022-09-22,2509
-"Asystec (Now Ergo)",2022-09-29,2508
-"Asystec (Now Ergo)",2022-10-03,2508
-"Asystec (Now Ergo)",2022-10-09,2509
-"Asystec (Now Ergo)",2022-10-12,2509
-"Asystec (Now Ergo)",2022-10-16,2510
-"Asystec (Now Ergo)",2022-10-22,2510
-"Asystec (Now Ergo)",2022-10-28,2511
-"Asystec (Now Ergo)",2022-11-03,2508
-"Asystec (Now Ergo)",2022-11-06,2507
-"Asystec (Now Ergo)",2022-11-14,2508
-"Asystec (Now Ergo)",2022-11-20,2509
-"Asystec (Now Ergo)",2022-11-24,2510
-"Asystec (Now Ergo)",2022-12-01,2510
-"Asystec (Now Ergo)",2022-12-08,2513
-"Asystec (Now Ergo)",2022-12-14,2513
-"Asystec (Now Ergo)",2022-12-27,2514
-"Asystec (Now Ergo)",2023-01-01,2514
-"Asystec (Now Ergo)",2023-01-05,2514
-"Asystec (Now Ergo)",2023-01-09,2514
-"Asystec (Now Ergo)",2023-01-22,2514
-"Asystec (Now Ergo)",2023-01-28,2514
-"Asystec (Now Ergo)",2023-02-04,2515
-"Asystec (Now Ergo)",2023-02-10,2515
-"Asystec (Now Ergo)",2023-02-13,2515
-"Asystec (Now Ergo)",2023-02-24,2513
-"Asystec (Now Ergo)",2023-03-10,2515
-"Asystec (Now Ergo)",2023-03-14,2514
-"Asystec (Now Ergo)",2023-03-18,2514
-"Asystec (Now Ergo)",2023-03-21,2514
-"Asystec (Now Ergo)",2023-03-25,2514
-"Asystec (Now Ergo)",2023-04-01,2515
-"Asystec (Now Ergo)",2023-04-10,2516
-"Asystec (Now Ergo)",2023-04-13,2516
-"Asystec (Now Ergo)",2023-04-21,2516
-"Asystec (Now Ergo)",2023-04-29,2517
-"Asystec (Now Ergo)",2023-05-12,2515
-"Asystec (Now Ergo)",2023-05-19,2513
-"Asystec (Now Ergo)",2023-05-29,2511
-"Asystec (Now Ergo)",2023-06-05,2511
-"Asystec (Now Ergo)",2023-06-11,2511
-"Asystec (Now Ergo)",2023-06-14,2511
-"Asystec (Now Ergo)",2023-06-17,2511
-"Asystec (Now Ergo)",2023-06-23,2513
-"Asystec (Now Ergo)",2023-06-27,2514
-"Asystec (Now Ergo)",2023-07-06,2514
-"Asystec (Now Ergo)",2023-07-23,2512
-"Asystec (Now Ergo)",2023-08-02,2511
-"Asystec (Now Ergo)",2023-08-08,2512
-"Asystec (Now Ergo)",2023-08-10,2511
-"Asystec (Now Ergo)",2023-08-29,2515
-"Asystec (Now Ergo)",2023-09-15,2514
-"Asystec (Now Ergo)",2023-10-18,2513
-"Asystec (Now Ergo)",2023-12-14,2486
-"Asystec (Now Ergo)",2023-12-16,2486
-"Asystec (Now Ergo)",2023-12-18,2486
-"Asystec Limited",2020-10-20,1954
-"Asystec Limited",2020-10-21,1954
-"Asystec Limited",2020-10-23,1955
-"Asystec Limited",2020-10-25,1956
-"Asystec Limited",2020-10-28,1956
-"Asystec Limited",2020-10-30,1956
-"Asystec Limited",2020-11-03,1956
-"Asystec Limited",2020-11-06,1956
-"Asystec Limited",2020-11-10,1961
-"Asystec Limited",2020-11-14,1963
-"Asystec Limited",2020-11-18,1963
-"Asystec Limited",2020-11-23,1970
-"Asystec Limited",2020-11-28,1971
-"Asystec Limited",2020-12-03,1973
-"Asystec Limited",2020-12-05,1985
-"Asystec Limited",2020-12-12,1995
-"Asystec Limited",2020-12-15,1998
-"Asystec Limited",2020-12-20,2022
-"Asystec Limited",2020-12-25,2032
-"Asystec Limited",2020-12-29,2038
-"Asystec Limited",2021-01-03,2043
-"Asystec Limited",2021-01-06,2048
-"Asystec Limited",2021-01-11,2054
-"Asystec Limited",2021-01-15,2060
-"Asystec Limited",2021-01-19,2075
-"Asystec Limited",2021-01-25,2099
-"Asystec Limited",2021-01-30,2105
-"Asystec Limited",2021-01-31,2105
-"Asystec Limited",2021-02-03,2110
-"Asystec Limited",2021-02-07,2116
-"Asystec Limited",2021-02-12,2119
-"Asystec Limited",2021-02-17,2121
-"Asystec Limited",2021-02-21,2121
-"Asystec Limited",2021-02-25,2119
-"Asystec Limited",2021-03-01,2136
-"Asystec Limited",2021-03-06,2136
-"Asystec Limited",2021-03-10,2136
-"Asystec Limited",2021-03-16,2139
-"Asystec Limited",2021-03-20,2150
-"Asystec Limited",2021-03-24,2166
-"Asystec Limited",2021-03-30,2184
-"Asystec Limited",2021-04-06,2196
-"Asystec Limited",2021-04-10,2228
-"Asystec Limited",2021-04-15,2243
-"Asystec Limited",2021-04-20,2252
-"Asystec Limited",2021-04-24,2254
-"Asystec Limited",2021-04-28,2257
-"Asystec Limited",2021-05-03,2268
-"Asystec Limited",2021-05-07,2278
-"Asystec Limited",2021-05-10,2279
-"Asystec Limited",2021-05-14,2289
-"Asystec Limited",2021-05-21,2301
-"Asystec Limited",2021-05-26,2305
-"Asystec Limited",2021-06-02,2305
-"Asystec Limited",2021-06-09,2309
-"Asystec Limited",2021-06-16,2307
-"Asystec Limited",2021-06-21,2308
-"Asystec Limited",2021-06-29,2310
-"Asystec Limited",2021-07-02,2309
-"Asystec Limited",2021-07-04,2309
-"Asystec Limited",2021-07-09,2308
-"Asystec Limited",2021-07-14,2313
-"Asystec Limited",2021-07-18,2315
-"Asystec Limited",2021-07-22,2315
-"Asystec Limited",2021-08-14,2316
-"Asystec Limited",2021-08-26,2323
-"Asystec Limited",2021-09-02,2325
-"Asystec Limited",2021-09-16,2328
-"Asystec Limited",2021-10-17,2337
-"Asystec Limited",2021-10-29,2339
-"Asystec Limited",2021-11-06,2337
-"Asystec Limited",2021-11-20,2338
-"Asystec Limited",2021-12-07,2342
-"Asystec Limited",2021-12-14,2342
-"Asystec Limited",2021-12-20,2346
-"Asystec Limited",2021-12-26,2347
-"Asystec Limited",2021-12-30,2348
-"Asystec Limited",2021-12-31,2348
-"Asystec Limited",2022-01-03,2348
-"Asystec Limited",2022-01-04,2348
-"Asystec Limited",2022-01-06,2348
-"Asystec Limited",2022-01-07,2410
-"Asystec Limited",2022-01-10,2428
-"Asystec Limited",2022-01-14,2439
-"Asystec Limited",2022-01-18,2443
-"Asystec Limited",2022-01-27,2457
-"Asystec Limited",2022-02-01,2460
-"Asystec Limited",2022-02-10,2462
-"Asystec Limited",2022-02-12,2462
-"Asystec Limited",2022-02-16,2462
-"Asystec Limited",2022-02-23,2463
-"Asystec Limited",2022-03-03,2464
-"Asystec Limited",2022-03-07,2464
-"Asystec Limited",2022-03-15,2464
-"Asystec Limited",2022-03-20,2463
-"Asystec Limited",2022-03-31,2468
-"Asystec Limited",2022-04-11,2472
-"Asystec Limited",2022-04-19,2475
-"Asystec Limited",2022-04-25,2473
-"Asystec Limited",2022-05-22,2478
-"Asystec Limited",2022-05-23,2479
-"Asystec Limited",2022-05-30,2484
-"Asystec Limited",2022-06-01,2486
-"Asystec Limited",2022-06-03,2486
-"Asystec Limited",2022-06-07,2487
-"Asystec Limited",2022-06-08,2487
-"Asystec Limited",2022-06-11,2488
-"Asystec Limited",2022-06-13,2488
-"Asystec Limited",2022-06-20,2493
-"Atlas Venture",2023-01-21,18589
-"Atlas Venture",2023-02-10,18848
-"Atlas Venture",2023-02-25,19046
-"Atlas Venture",2023-03-13,19287
-"Atlas Venture",2023-03-29,19450
-"Atlas Venture",2023-04-10,19593
-"Atlas Venture",2023-04-23,19712
-"Atlas Venture",2023-06-05,20264
-"Atlas Venture",2023-06-11,20357
-"Atlas Venture",2023-06-23,20554
-"Atlas Venture",2023-07-06,20711
-"Atlas Venture",2023-07-23,20892
-"Atlas Venture",2023-08-05,21093
-"Atlas Venture",2023-08-29,21448
-"Atlas Venture",2023-10-18,22015
-"Atlas Venture",2023-12-14,20130
-"Atlas Venture",2023-12-17,20171
-"Atlas Venture",2023-12-18,20181
-"Atlassian",2023-01-21,844895
-"Atlassian",2023-02-10,860790
-"Atlassian",2023-02-25,872606
-"Atlassian",2023-03-13,885904
-"Atlassian",2023-03-29,898452
-"Atlassian",2023-04-10,907696
-"Atlassian",2023-04-23,920250
-"Atlassian",2023-06-05,964916
-"Atlassian",2023-06-11,972392
-"Atlassian",2023-06-23,988019
-"Atlassian",2023-07-06,1005590
-"Atlassian",2023-07-23,1027802
-"Atlassian",2023-08-05,1050140
-"Atlassian",2023-08-29,1087575
-"Atlassian",2023-10-18,1190535
-"Atlassian",2023-12-14,1215584
-"Atlassian",2023-12-17,1220778
-"Atlassian",2023-12-18,1222373
-"Atmospheric",2023-01-28,237
-"Atomwise",2023-01-25,14779
-"Atomwise",2023-01-29,14824
-"Audible",2023-01-25,92896
-"Aurai",2023-01-25,2740
-"Aurecon",2023-01-28,304519
-"Aurelia Institute",2023-07-06,1193
-"Aurelia Institute",2023-07-23,1225
-"Aurelia Institute",2023-08-05,1272
-"Aurelia Institute",2023-08-29,1329
-"Australian Coastal Society",2023-01-28,726
-"Australian Information Security Association (AISA)",2023-01-21,22764
-"Australian Information Security Association (AISA)",2023-02-10,23033
-"Australian Information Security Association (AISA)",2023-02-25,23213
-"Australian Information Security Association (AISA)",2023-03-13,23472
-"Australian Information Security Association (AISA)",2023-03-29,24017
-"Australian Information Security Association (AISA)",2023-04-10,24214
-"Australian Information Security Association (AISA)",2023-04-23,24505
-"Australian Information Security Association (AISA)",2023-06-05,25294
-"Australian Information Security Association (AISA)",2023-06-11,25387
-"Australian Information Security Association (AISA)",2023-06-23,25629
-"Australian Information Security Association (AISA)",2023-07-06,25919
-"Australian Information Security Association (AISA)",2023-07-23,26244
-"Australian Information Security Association (AISA)",2023-08-05,26628
-"Australian Information Security Association (AISA)",2023-08-29,27251
-"Australian Information Security Association (AISA)",2023-10-18,28710
-"Australian Information Security Association (AISA)",2023-12-17,29603
-"Australian Information Security Association (AISA)",2023-12-18,29623
-"Australian Water Association",2023-01-28,25113
-"Australian Water Partnership",2023-01-28,3541
-"Autism Pensacola Inc.",2023-01-21,578
-"Autism Pensacola Inc.",2023-02-25,592
-"Autism Pensacola Inc.",2023-03-13,639
-"Autism Pensacola Inc.",2023-03-29,656
-"Autism Pensacola Inc.",2023-04-10,661
-"Autism Pensacola Inc.",2023-04-23,689
-"Autism Pensacola Inc.",2023-06-05,713
-"Autism Pensacola Inc.",2023-06-11,716
-"Autism Pensacola Inc.",2023-06-23,717
-"Autism Pensacola Inc.",2023-07-06,717
-"Autism Pensacola Inc.",2023-07-23,723
-"Autism Pensacola Inc.",2023-08-05,725
-"Autism Pensacola Inc.",2023-08-29,732
-"Autism Pensacola Inc.",2023-10-18,739
-"Autism Pensacola Inc.",2023-12-18,731
-"Autistica",2023-01-25,3892
-"Autistica",2023-01-29,3910
-"Automation Hero Inc",2023-01-25,9241
-"Automattic",2023-01-25,55558
-"Automotive News",2023-01-21,575642
-"Automotive News",2023-02-10,578187
-"Automotive News",2023-02-25,579885
-"Automotive News",2023-03-13,581831
-"Automotive News",2023-03-29,583598
-"Automotive News",2023-04-10,585152
-"Automotive News",2023-04-23,587005
-"Automotive News",2023-06-05,591592
-"Automotive News",2023-06-11,592282
-"Automotive News",2023-06-23,593671
-"Automotive News",2023-07-06,595274
-"Automotive News",2023-07-23,596964
-"Automotive News",2023-08-05,598667
-"Automotive News",2023-08-29,601647
-"Automotive News",2023-10-18,605515
-"Automotive News",2023-12-14,591208
-"Automotive News",2023-12-17,591687
-"Automotive News",2023-12-18,591806
-"Avanza Medical Research Center",2023-01-21,220
-"Avanza Medical Research Center",2023-02-25,222
-"Avanza Medical Research Center",2023-03-13,221
-"Avanza Medical Research Center",2023-03-29,221
-"Avanza Medical Research Center",2023-04-10,221
-"Avanza Medical Research Center",2023-04-23,221
-"Avanza Medical Research Center",2023-06-05,225
-"Avanza Medical Research Center",2023-06-11,225
-"Avanza Medical Research Center",2023-06-23,225
-"Avanza Medical Research Center",2023-07-06,225
-"Avanza Medical Research Center",2023-07-23,225
-"Avanza Medical Research Center",2023-08-05,226
-"Avanza Medical Research Center",2023-08-29,226
-"Avanza Medical Research Center",2023-10-18,228
-"Avanza Medical Research Center",2023-12-17,221
-"Avanza Medical Research Center",2023-12-18,221
-"Aviation Talk",2023-01-21,11603
-"Aviation Talk",2023-02-25,12000
-"Aviation Talk",2023-03-13,12157
-"Aviation Talk",2023-03-29,12376
-"Aviation Talk",2023-04-10,12648
-"Aviation Talk",2023-04-23,12813
-"Aviation Talk",2023-06-05,13631
-"Aviation Talk",2023-06-11,13723
-"Aviation Talk",2023-06-23,15135
-"Aviation Talk",2023-07-06,15750
-"Aviation Talk",2023-07-23,16415
-"Aviation Talk",2023-08-05,16964
-"Aviation Talk",2023-08-29,17483
-"Aviation Talk",2023-10-18,18584
-"Awz Ventures Inc.",2023-01-28,2174
-"Axia",2023-01-21,43187
-"Axia",2023-02-25,43666
-"Axia",2023-03-13,43891
-"Axia",2023-03-29,44112
-"Axia",2023-04-10,44284
-"Axia",2023-04-23,44520
-"Axia",2023-06-05,45142
-"Axia",2023-06-11,45357
-"Axia",2023-06-23,45578
-"Axia",2023-07-06,45768
-"Axia",2023-07-23,46004
-"Axia",2023-08-05,46149
-"Axia",2023-08-29,46308
-"Axia",2023-10-18,46898
-"Axia",2023-12-18,47437
-"Axia Recruitment",2023-01-21,649
-"Axia Recruitment",2023-02-25,667
-"Axia Recruitment",2023-03-13,672
-"Axia Recruitment",2023-03-29,697
-"Axia Recruitment",2023-04-10,703
-"Axia Recruitment",2023-04-23,718
-"Axia Recruitment",2023-06-05,804
-"Axia Recruitment",2023-06-11,816
-"Axia Recruitment",2023-06-23,835
-"Axia Recruitment",2023-07-06,843
-"Axia Recruitment",2023-07-23,855
-"Axia Recruitment",2023-08-05,862
-"Axia Recruitment",2023-08-29,872
-"Axia Space",2023-02-25,360
-"Axia Space",2023-03-13,362
-"Axia Space",2023-03-29,362
-"Axinom",2023-01-28,11889
-"Axiom Space",2023-01-21,59405
-"Axiom Space",2023-02-25,61683
-"Axiom Space",2023-03-13,62746
-"Axiom Space",2023-03-29,64714
-"Axiom Space",2023-04-10,65952
-"Axiom Space",2023-04-23,66994
-"Axiom Space",2023-06-05,70653
-"Axiom Space",2023-06-11,71109
-"Axiom Space",2023-06-23,71973
-"Axiom Space",2023-07-06,72802
-"Axiom Space",2023-07-23,73780
-"Axiom Space",2023-08-05,74713
-"Axiom Space",2023-08-29,76736
-"Axiom Space",2023-10-18,81749
-"Axiom Space",2023-12-18,85025
-"Ayalon Insurance Company Ltd",2023-01-22,1751
-"Ayiti Analytics",2021-06-02,727
-"Ayiti Analytics",2021-06-09,728
-"Ayiti Analytics",2021-06-16,729
-"Ayiti Analytics",2021-06-21,730
-"Ayiti Analytics",2021-06-29,732
-"Ayiti Analytics",2021-07-02,732
-"Ayiti Analytics",2021-07-04,732
-"Ayiti Analytics",2021-07-09,734
-"Ayiti Analytics",2021-07-14,735
-"Ayiti Analytics",2021-07-18,736
-"Ayiti Analytics",2021-07-22,737
-"Ayiti Analytics",2021-08-14,739
-"Ayiti Analytics",2021-08-26,753
-"Ayiti Analytics",2021-09-02,767
-"Ayiti Analytics",2021-09-16,776
-"Ayiti Analytics",2021-10-17,819
-"Ayiti Analytics",2021-10-29,822
-"Ayiti Analytics",2021-11-06,824
-"Ayiti Analytics",2021-11-20,828
-"Ayiti Analytics",2021-12-07,835
-"Ayiti Analytics",2021-12-14,841
-"Ayiti Analytics",2021-12-20,847
-"Ayiti Analytics",2021-12-26,849
-"Ayiti Analytics",2021-12-30,850
-"Ayiti Analytics",2021-12-31,850
-"Ayiti Analytics",2022-01-03,850
-"Ayiti Analytics",2022-01-04,850
-"Ayiti Analytics",2022-01-06,850
-"Ayiti Analytics",2022-01-07,850
-"Ayiti Analytics",2022-01-10,851
-"Ayiti Analytics",2022-01-14,852
-"Ayiti Analytics",2022-01-18,852
-"Ayiti Analytics",2022-01-27,855
-"Ayiti Analytics",2022-02-01,856
-"Ayiti Analytics",2022-02-07,856
-"Ayiti Analytics",2022-02-12,856
-"Ayiti Analytics",2022-02-26,859
-"Ayiti Analytics",2022-03-03,872
-"Ayiti Analytics",2022-03-07,875
-"Ayiti Analytics",2022-03-15,896
-"Ayiti Analytics",2022-03-20,921
-"Ayiti Analytics",2022-03-29,937
-"Ayiti Analytics",2022-03-31,947
-"Ayiti Analytics",2022-04-09,974
-"Ayiti Analytics",2022-04-11,974
-"Ayiti Analytics",2022-04-19,985
-"Ayiti Analytics",2022-04-25,997
-"Ayiti Analytics",2022-04-29,1005
-"Ayiti Analytics",2022-05-05,1010
-"Ayiti Analytics",2022-05-12,1019
-"Ayiti Analytics",2022-05-22,1123
-"Ayiti Analytics",2022-05-25,1157
-"Ayiti Analytics",2022-05-30,1185
-"Ayiti Analytics",2022-06-01,1189
-"Ayiti Analytics",2022-06-03,1196
-"Ayiti Analytics",2022-06-07,1208
-"Ayiti Analytics",2022-06-08,1208
-"Ayiti Analytics",2022-06-11,1218
-"Ayiti Analytics",2022-06-13,1220
-"Ayiti Analytics",2022-06-15,1226
-"Ayiti Analytics",2022-06-16,1230
-"Ayiti Analytics",2022-06-20,1230
-"Ayiti Analytics",2022-06-22,1233
-"Ayiti Analytics",2022-06-24,1235
-"Ayiti Analytics",2022-06-26,1239
-"Ayiti Analytics",2022-06-28,1242
-"Ayiti Analytics",2022-06-30,1249
-"Ayiti Analytics",2022-07-01,1251
-"Ayiti Analytics",2022-07-02,1251
-"Ayiti Analytics",2022-07-04,1256
-"Ayiti Analytics",2022-07-05,1256
-"Ayiti Analytics",2022-07-09,1264
-"Ayiti Analytics",2022-07-12,1279
-"Ayiti Analytics",2022-07-18,1290
-"Ayiti Analytics",2022-07-21,1295
-"Ayiti Analytics",2022-07-23,1298
-"Ayiti Analytics",2022-07-25,1302
-"Ayiti Analytics",2022-08-01,1325
-"Ayiti Analytics",2022-08-08,1331
-"Ayiti Analytics",2022-08-16,1343
-"Ayiti Analytics",2022-08-20,1347
-"Ayiti Analytics",2022-08-25,1350
-"Ayiti Analytics",2022-08-28,1353
-"Ayiti Analytics",2022-09-01,1354
-"Ayiti Analytics",2022-09-07,1354
-"Ayiti Analytics",2022-09-10,1356
-"Ayiti Analytics",2022-09-16,1363
-"Ayiti Analytics",2022-09-22,1368
-"Ayiti Analytics",2022-09-29,1371
-"Ayiti Analytics",2022-10-03,1373
-"Ayiti Analytics",2022-10-09,1376
-"Ayiti Analytics",2022-10-12,1377
-"Ayiti Analytics",2022-10-16,1383
-"Ayiti Analytics",2022-10-22,1387
-"Ayiti Analytics",2022-10-28,1391
-"Ayiti Analytics",2022-11-03,1395
-"Ayiti Analytics",2022-11-06,1397
-"Ayiti Analytics",2022-11-14,1401
-"Ayiti Analytics",2022-11-20,1405
-"Ayiti Analytics",2022-11-24,1407
-"Ayiti Analytics",2022-12-01,1408
-"Ayiti Analytics",2022-12-08,1407
-"Ayiti Analytics",2022-12-14,1409
-"Ayiti Analytics",2022-12-27,1416
-"Ayiti Analytics",2023-01-01,1448
-"Ayiti Analytics",2023-01-05,1459
-"Ayiti Analytics",2023-01-09,1466
-"Ayiti Analytics",2023-01-22,1480
-"Ayiti Analytics",2023-01-28,1485
-"Ayiti Analytics",2023-02-04,1489
-"Ayiti Analytics",2023-02-10,1492
-"Ayiti Analytics",2023-02-13,1494
-"Ayiti Analytics",2023-02-24,1501
-"Ayiti Analytics",2023-03-10,1512
-"Ayiti Analytics",2023-03-14,1511
-"Ayiti Analytics",2023-03-18,1513
-"Ayiti Analytics",2023-03-21,1513
-"Ayiti Analytics",2023-03-25,1516
-"Ayiti Analytics",2023-04-01,1521
-"Ayiti Analytics",2023-04-10,1522
-"Ayiti Analytics",2023-04-13,1522
-"Ayiti Analytics",2023-04-21,1526
-"Ayiti Analytics",2023-04-29,1526
-"Ayiti Analytics",2023-05-12,1532
-"Ayiti Analytics",2023-05-19,1584
-"Ayiti Analytics",2023-05-29,1607
-"Ayiti Analytics",2023-06-05,1615
-"Ayiti Analytics",2023-06-11,1666
-"Ayiti Analytics",2023-06-14,1710
-"Ayiti Analytics",2023-06-17,1728
-"Ayiti Analytics",2023-06-23,1744
-"Ayiti Analytics",2023-06-27,1758
-"Ayiti Analytics",2023-07-06,1790
-"Ayiti Analytics",2023-07-23,1827
-"Ayiti Analytics",2023-08-02,1833
-"Ayiti Analytics",2023-08-08,1839
-"Ayiti Analytics",2023-08-10,1841
-"Ayiti Analytics",2023-08-29,1854
-"Ayiti Analytics",2023-09-15,1886
-"Ayiti Analytics",2023-10-18,1927
-"Ayiti Analytics",2023-12-18,1925
-"Azim Premji Foundation",2023-01-28,141044
-"B&I Capital",2021-05-10,241
-"BAE Systems Digital Intelligence",2023-01-21,113248
-"BAE Systems Digital Intelligence",2023-02-10,113900
-"BAE Systems Digital Intelligence",2023-02-25,114398
-"BAE Systems Digital Intelligence",2023-03-13,114949
-"BAE Systems Digital Intelligence",2023-03-29,115558
-"BAE Systems Digital Intelligence",2023-04-10,116077
-"BAE Systems Digital Intelligence",2023-04-23,116553
-"BAE Systems Digital Intelligence",2023-06-05,117858
-"BAE Systems Digital Intelligence",2023-06-11,118079
-"BAE Systems Digital Intelligence",2023-06-23,118489
-"BAE Systems Digital Intelligence",2023-07-06,119145
-"BAE Systems Digital Intelligence",2023-07-23,119782
-"BAE Systems Digital Intelligence",2023-08-05,120282
-"BAE Systems Digital Intelligence",2023-08-29,121049
-"BAE Systems Digital Intelligence",2023-10-18,123191
-"BAE Systems Digital Intelligence",2023-12-14,122175
-"BAE Systems Digital Intelligence",2023-12-17,122342
-"BAE Systems Digital Intelligence",2023-12-18,122393
-"BAE Systems Inc.",2023-01-21,222933
-"BAE Systems Inc.",2023-02-10,224774
-"BAE Systems Inc.",2023-02-25,226244
-"BAE Systems Inc.",2023-03-13,227734
-"BAE Systems Inc.",2023-03-29,229431
-"BAE Systems Inc.",2023-04-10,230854
-"BAE Systems Inc.",2023-04-23,232368
-"BAE Systems Inc.",2023-06-05,236934
-"BAE Systems Inc.",2023-06-11,237841
-"BAE Systems Inc.",2023-06-23,239623
-"BAE Systems Inc.",2023-07-06,241408
-"BAE Systems Inc.",2023-07-23,243598
-"BAE Systems Inc.",2023-08-05,245711
-"BAE Systems Inc.",2023-08-29,249727
-"BAE Systems Inc.",2023-10-18,258911
-"BAE Systems Inc.",2023-12-14,262843
-"BAE Systems Inc.",2023-12-17,263496
-"BAE Systems Inc.",2023-12-18,263642
-"BASF",2021-02-19,1507763
-"BASF",2021-03-26,1534482
-"BAYES Holding",2023-01-25,1105
-"BB&T",2023-01-21,132684
-"BB&T",2023-02-10,132716
-"BB&T",2023-02-25,132735
-"BB&T",2023-03-13,132743
-"BB&T",2023-03-29,132750
-"BB&T",2023-04-10,132750
-"BB&T",2023-04-23,132794
-"BB&T",2023-06-05,132876
-"BB&T",2023-06-11,132894
-"BB&T",2023-06-23,132969
-"BB&T",2023-07-06,132999
-"BB&T",2023-07-23,132920
-"BB&T",2023-08-05,132924
-"BB&T",2023-08-29,132963
-"BB&T",2023-10-18,132978
-"BB&T",2023-12-14,127328
-"BB&T",2023-12-17,127333
-"BB&T",2023-12-18,127339
-"BBC News",2020-10-16,7126402
-"BBC News",2020-10-20,7139316
-"BBC News",2020-10-22,7150878
-"BBC News",2020-10-28,7175085
-"BBC News",2020-11-07,7212251
-"BBC News",2020-11-12,7228794
-"BBC News",2020-11-21,7263052
-"BBC News",2021-02-19,7528577
-"BBC News",2021-03-26,7616829
-"Babbel",2023-01-25,55620
-"Babbel",2023-10-18,67363
-"Babbel",2023-12-17,68646
-"Babbel",2023-12-18,68690
-"Babcock & Wilcox",2023-01-28,70513
-"Back",2023-01-25,2452
-"Bain & Company",2023-01-21,1593249
-"Bain & Company",2023-02-10,1609647
-"Bain & Company",2023-02-25,1623693
-"Bain & Company",2023-03-13,1636897
-"Bain & Company",2023-03-29,1649753
-"Bain & Company",2023-04-10,1658352
-"Bain & Company",2023-04-23,1668203
-"Bain & Company",2023-06-05,1700887
-"Bain & Company",2023-06-11,1707065
-"Bain & Company",2023-06-23,1719767
-"Bain & Company",2023-07-06,1734961
-"Bain & Company",2023-07-23,1754813
-"Bain & Company",2023-08-05,1772793
-"Bain & Company",2023-08-29,1805575
-"Bain & Company",2023-10-18,1869253
-"Bain & Company",2023-12-14,1873940
-"Bain & Company",2023-12-17,1877371
-"Bain & Company",2023-12-18,1878302
-"Ball Aerospace",2023-01-21,87118
-"Ball Aerospace",2023-02-10,87742
-"Ball Aerospace",2023-02-25,88214
-"Ball Aerospace",2023-03-13,88728
-"Ball Aerospace",2023-03-29,89293
-"Ball Aerospace",2023-04-10,89766
-"Ball Aerospace",2023-04-23,90343
-"Ball Aerospace",2023-06-05,91811
-"Ball Aerospace",2023-06-11,92079
-"Ball Aerospace",2023-06-23,92565
-"Ball Aerospace",2023-07-06,93046
-"Ball Aerospace",2023-07-23,93629
-"Ball Aerospace",2023-08-05,94165
-"Ball Aerospace",2023-08-29,95694
-"Ball Aerospace",2023-10-18,98601
-"Ball Aerospace",2023-12-14,98296
-"Ball Aerospace",2023-12-17,98420
-"Ball Aerospace",2023-12-18,98450
-"Bamboo Health",2021-09-02,1788
-"Bamboo Health",2021-09-09,1847
-"Bamboo Health",2021-09-16,1927
-"Bamboo Health",2021-10-17,2064
-"Bamboo Health",2021-10-29,2138
-"Bamboo Health",2021-11-20,2275
-"Bamboo Health",2021-12-14,2419
-"Bamboo Health",2021-12-26,2539
-"Bamboo Health",2021-12-31,2578
-"Bamboo Health",2022-01-12,2711
-"Bamboo Health",2022-02-01,2879
-"Bamboo Health",2022-02-07,2917
-"Bamboo Health",2022-02-12,2991
-"Bamboo Health",2022-02-16,3010
-"Bamboo Health",2022-02-23,3074
-"Bamboo Health",2022-02-26,3106
-"Bamboo Health",2022-03-03,3183
-"Bamboo Health",2022-03-15,3308
-"Bamboo Health",2022-03-20,3362
-"Bamboo Health",2022-04-11,3571
-"Bamboo Health",2022-05-05,3106
-"Bamboo Health",2022-05-27,3957
-"Bamboo Health",2022-05-30,3970
-"Bamboo Health",2022-06-07,4075
-"Bamboo Health",2022-06-08,4075
-"Bamboo Health",2022-06-11,4170
-"Bamboo Health",2022-06-16,4248
-"Bamboo Health",2022-06-23,4288
-"Bamboo Health",2022-06-30,4311
-"Bamboo Health",2022-07-02,4317
-"Bamboo Health",2022-07-05,4321
-"Bamboo Health",2022-07-13,4334
-"Bamboo Health",2022-07-18,4351
-"Bamboo Health",2022-07-23,4377
-"Bamboo Health",2022-07-25,4382
-"Bamboo Health",2022-08-02,4427
-"Bamboo Health",2022-08-16,4490
-"Bamboo Health",2022-08-20,4541
-"Bamboo Health",2022-08-25,4588
-"Bamboo Health",2022-08-28,4610
-"Bamboo Health",2022-09-07,4668
-"Bamboo Health",2022-09-10,4692
-"Bamboo Health",2022-09-16,4742
-"Bamboo Health",2022-09-22,4788
-"Bamboo Health",2022-09-29,4876
-"Bamboo Health",2022-10-03,4905
-"Bamboo Health",2022-10-09,4957
-"Bamboo Health",2022-10-16,4997
-"Bamboo Health",2022-10-22,5038
-"Bamboo Health",2022-10-28,5094
-"Bamboo Health",2022-11-03,5139
-"Bamboo Health",2022-11-06,5160
-"Bamboo Health",2022-11-14,5247
-"Bamboo Health",2022-11-20,5320
-"Bamboo Health",2022-11-24,5349
-"Bamboo Health",2022-12-01,5390
-"Bamboo Health",2022-12-08,5423
-"Bamboo Health",2022-12-14,5470
-"Bamboo Health",2022-12-27,5560
-"Bamboo Health",2023-01-01,5606
-"Bamboo Health",2023-01-05,5624
-"Bamboo Health",2023-01-09,5644
-"Bamboo Health",2023-01-22,5753
-"Bamboo Health",2023-01-29,5808
-"Bamboo Health",2023-02-04,5856
-"Bamboo Health",2023-02-25,5969
-"Bamboo Health",2023-03-18,6112
-"Bamboo Health",2023-03-21,6132
-"Bamboo Health",2023-03-25,6170
-"Bamboo Health",2023-04-10,6276
-"Bamboo Health",2023-04-13,6297
-"Bamboo Health",2023-04-21,6351
-"Bamboo Health",2023-04-29,6399
-"Bamboo Health",2023-05-19,6555
-"Bamboo Health",2023-05-29,6614
-"Bamboo Health",2023-06-05,6665
-"Bamboo Health",2023-06-14,6728
-"Bamboo Health",2023-06-17,6753
-"Bamboo Health",2023-06-27,6829
-"Bamboo Health",2023-07-06,6880
-"Bamboo Health",2023-07-23,7070
-"Bamboo Health",2023-08-08,7252
-"Bamboo Health",2023-08-10,7282
-"Bamboo Health",2023-09-15,7634
-"Bamboo Health",2023-10-18,7634
-"Bamboo Health",2023-12-17,8319
-"Bamboo Health",2023-12-18,8323
-"BambooHR",2023-01-21,93205
-"BambooHR",2023-02-10,94316
-"BambooHR",2023-02-25,95138
-"BambooHR",2023-03-13,95992
-"BambooHR",2023-03-29,96874
-"BambooHR",2023-04-10,97470
-"BambooHR",2023-04-23,98291
-"BambooHR",2023-06-05,100741
-"BambooHR",2023-06-11,101130
-"BambooHR",2023-06-23,101881
-"BambooHR",2023-07-06,102655
-"BambooHR",2023-07-23,103650
-"BambooHR",2023-08-05,104435
-"BambooHR",2023-08-29,105987
-"BambooHR",2023-10-18,109060
-"BambooHR",2023-12-17,109268
-"BambooHR",2023-12-18,109332
-"Banach Technology Ltd",2020-10-16,512
-"Banach Technology Ltd",2020-10-20,512
-"Banach Technology Ltd",2020-10-21,511
-"Banach Technology Ltd",2020-10-28,513
-"Banach Technology Ltd",2020-10-31,514
-"Banach Technology Ltd",2020-11-02,516
-"Banach Technology Ltd",2020-11-07,517
-"Banach Technology Ltd",2020-11-12,517
-"Banach Technology Ltd",2020-11-21,518
-"Banach Technology Ltd",2020-11-30,518
-"Banach Technology Ltd",2020-12-08,527
-"Banach Technology Ltd",2020-12-15,533
-"Banach Technology Ltd",2020-12-27,534
-"Banach Technology Ltd",2021-01-19,539
-"Bangko Sentral ng Pilipinas",2021-02-19,23819
-"Bangko Sentral ng Pilipinas",2021-03-06,24394
-"Bangko Sentral ng Pilipinas",2021-03-26,25279
-"Bank of America",2023-01-21,2389751
-"Bank of America",2023-02-10,2406118
-"Bank of America",2023-02-25,2419304
-"Bank of America",2023-03-13,2433392
-"Bank of America",2023-03-29,2447680
-"Bank of America",2023-04-10,2457853
-"Bank of America",2023-04-23,2470887
-"Bank of America",2023-06-05,2522682
-"Bank of America",2023-06-11,2530433
-"Bank of America",2023-06-23,2546469
-"Bank of America",2023-07-06,2563184
-"Bank of America",2023-07-23,2583944
-"Bank of America",2023-08-05,2604989
-"Bank of America",2023-08-29,2638227
-"Bank of America",2023-10-18,2717997
-"Bank of America",2023-12-14,2337056
-"Bank of America",2023-12-17,2340485
-"Bank of America",2023-12-18,2341364
-"Bank of America Business",2023-01-21,313410
-"Bank of America Business",2023-02-25,315325
-"Bank of America Business",2023-03-13,316119
-"Bank of America Business",2023-03-29,317054
-"Bank of America Business",2023-04-10,317701
-"Bank of America Business",2023-04-23,318482
-"Bank of America Business",2023-06-05,321189
-"Bank of America Business",2023-06-11,321711
-"Bank of America Business",2023-06-23,322903
-"Bank of America Business",2023-07-06,323650
-"Bank of America Business",2023-07-23,324421
-"Bank of America Business",2023-08-05,325723
-"Bank of America Business",2023-08-29,327998
-"Bank of America Business",2023-10-18,319205
-"Bank of America Merrill Lynch",2020-10-16,313400
-"Bank of America Merrill Lynch",2020-10-28,314040
-"Bank of America Merrill Lynch",2020-11-21,315194
-"Bank of America Private Bank",2023-01-21,40595
-"Bank of America Private Bank",2023-02-25,41253
-"Bank of America Private Bank",2023-03-13,41542
-"Bank of America Private Bank",2023-03-29,41848
-"Bank of America Private Bank",2023-04-10,42023
-"Bank of America Private Bank",2023-04-23,42230
-"Bank of America Private Bank",2023-06-05,42819
-"Bank of America Private Bank",2023-06-11,42937
-"Bank of America Private Bank",2023-06-23,43181
-"Bank of America Private Bank",2023-07-06,43381
-"Bank of America Private Bank",2023-07-23,43608
-"Bank of America Private Bank",2023-08-05,43840
-"Bank of America Private Bank",2023-08-29,44218
-"Bank of America Private Bank",2023-10-18,41886
-"Bank of America Private Bank",2023-12-18,42626
-"Bank of Pensacola",2023-01-21,157
-"Bank of Pensacola",2023-02-10,160
-"Bank of Pensacola",2023-02-25,159
-"Bank of Pensacola",2023-03-13,159
-"Bank of Pensacola",2023-03-29,159
-"Bank of Pensacola",2023-04-10,161
-"Bank of Pensacola",2023-04-23,161
-"Bank of Pensacola",2023-06-05,165
-"Bank of Pensacola",2023-06-11,165
-"Bank of Pensacola",2023-06-23,165
-"Bank of Pensacola",2023-07-06,166
-"Bank of Pensacola",2023-07-23,167
-"Bank of Pensacola",2023-08-05,168
-"Bank of Pensacola",2023-08-29,170
-"Bank of Pensacola",2023-10-18,167
-"Bank of Pensacola",2023-12-17,167
-"Bank of Pensacola",2023-12-18,167
-"Banking Exchange",2023-01-21,881
-"Banking Exchange",2023-02-25,885
-"Banking Exchange",2023-03-13,887
-"Banking Exchange",2023-03-29,892
-"Banking Exchange",2023-04-10,893
-"Banking Exchange",2023-04-23,893
-"Banking Exchange",2023-06-05,894
-"Banking Exchange",2023-06-11,895
-"Banking Exchange",2023-06-23,895
-"Banking Exchange",2023-07-06,897
-"Banking Exchange",2023-07-23,897
-"Banking Exchange",2023-08-05,899
-"Banking Exchange",2023-08-29,905
-"Banking Exchange",2023-10-18,910
-"Banking Exchange",2023-12-18,811
-"Bantu Group",2021-05-10,2268
-"Bantucola.com",2023-01-21,225
-"Bantucola.com",2023-02-25,235
-"Bantucola.com",2023-03-13,234
-"Bantucola.com",2023-03-29,237
-"Bantucola.com",2023-04-10,237
-"Bantucola.com",2023-04-23,239
-"Bantucola.com",2023-06-05,248
-"Bantucola.com",2023-06-11,248
-"Bantucola.com",2023-06-23,250
-"Bantucola.com",2023-07-06,252
-"Bantucola.com",2023-07-23,254
-"Bantucola.com",2023-08-05,255
-"Bantucola.com",2023-08-29,259
-"Bantucola.com",2023-10-18,265
-"Baptist Health Care",2023-01-21,15721
-"Baptist Health Care",2023-02-10,15810
-"Baptist Health Care",2023-02-25,15863
-"Baptist Health Care",2023-03-13,15910
-"Baptist Health Care",2023-03-29,15966
-"Baptist Health Care",2023-04-10,16006
-"Baptist Health Care",2023-04-23,16064
-"Baptist Health Care",2023-06-05,16243
-"Baptist Health Care",2023-06-11,16270
-"Baptist Health Care",2023-06-23,16346
-"Baptist Health Care",2023-07-06,16507
-"Baptist Health Care",2023-07-23,16589
-"Baptist Health Care",2023-08-05,16645
-"Baptist Health Care",2023-08-29,16755
-"Baptist Health Care",2023-10-18,17075
-"Baptist Health Care",2023-12-14,16927
-"Baptist Health Care",2023-12-17,16943
-"Baptist Health Care",2023-12-18,16947
-"Bar-Ilan University",2023-01-28,77403
-"Barbicane.Space",2023-01-21,154
-"Barbicane.Space",2023-02-25,163
-"Barbicane.Space",2023-03-13,167
-"Barbicane.Space",2023-03-29,171
-"Barbicane.Space",2023-04-10,170
-"Barbicane.Space",2023-04-23,169
-"Barbicane.Space",2023-06-05,175
-"Barbicane.Space",2023-06-11,175
-"Barbicane.Space",2023-06-23,177
-"Barbicane.Space",2023-07-06,178
-"Barbicane.Space",2023-07-23,179
-"Barbicane.Space",2023-08-05,182
-"Barbicane.Space",2023-08-29,185
-"Barcelona Supercomputing Center",2023-01-25,22796
-"Barcelona Supercomputing Center",2023-01-29,22871
-"Baruch Data Science & Analytics Society",2021-01-31,251
-"Baruch Data Science & Analytics Society",2021-02-03,250
-"Baruch Data Science & Analytics Society",2021-02-07,250
-"Baruch Data Science & Analytics Society",2021-02-12,252
-"Baruch Data Science & Analytics Society",2021-02-16,252
-"Baruch Data Science & Analytics Society",2021-02-21,254
-"Baruch Data Science & Analytics Society",2021-02-25,257
-"Baruch Data Science & Analytics Society",2021-03-01,258
-"Baruch Data Science & Analytics Society",2021-03-06,258
-"Baruch Data Science & Analytics Society",2021-03-10,258
-"Baruch Data Science & Analytics Society",2021-03-13,258
-"Baruch Data Science & Analytics Society",2021-03-20,258
-"Baruch Data Science & Analytics Society",2021-03-28,258
-"Baruch Data Science & Analytics Society",2021-03-31,258
-"Baruch Data Science & Analytics Society",2021-04-06,258
-"Baruch Data Science & Analytics Society",2021-04-10,257
-"Baruch Data Science & Analytics Society",2021-04-15,259
-"Baruch Data Science & Analytics Society",2021-04-20,259
-"Baruch Data Science & Analytics Society",2021-04-24,261
-"Baruch Data Science & Analytics Society",2021-04-28,261
-"Baruch Data Science & Analytics Society",2021-05-07,263
-"Baruch Data Science & Analytics Society",2021-05-10,264
-"Baruch Data Science & Analytics Society",2021-05-14,264
-"Baruch Data Science & Analytics Society",2021-05-21,263
-"Baruch Data Science & Analytics Society",2021-05-26,263
-"Baruch Data Science & Analytics Society",2021-05-31,264
-"Baruch Data Science & Analytics Society",2021-06-06,266
-"Baruch Data Science & Analytics Society",2021-06-09,266
-"Baruch Data Science & Analytics Society",2021-06-16,266
-"Baruch Data Science & Analytics Society",2021-06-21,267
-"Baruch Data Science & Analytics Society",2021-06-29,267
-"Baruch Data Science & Analytics Society",2021-07-04,268
-"Baruch Data Science & Analytics Society",2021-07-09,268
-"Baruch Data Science & Analytics Society",2021-07-14,268
-"Baruch Data Science & Analytics Society",2021-07-22,268
-"Baruch Data Science & Analytics Society",2021-08-14,269
-"Baruch Data Science & Analytics Society",2021-08-26,278
-"Baruch Data Science & Analytics Society",2021-09-02,285
-"Baruch Data Science & Analytics Society",2021-09-09,287
-"Baruch Data Science & Analytics Society",2021-09-16,287
-"Baruch Data Science & Analytics Society",2021-10-17,293
-"Baruch Data Science & Analytics Society",2021-10-29,296
-"Baruch Data Science & Analytics Society",2021-11-20,301
-"Baruch Data Science & Analytics Society",2021-12-03,301
-"Baruch Data Science & Analytics Society",2021-12-14,303
-"Baruch Data Science & Analytics Society",2021-12-20,304
-"Baruch Data Science & Analytics Society",2021-12-26,307
-"Baruch Data Science & Analytics Society",2021-12-31,307
-"Baruch Data Science & Analytics Society",2022-02-07,322
-"Baruch Data Science & Analytics Society",2022-02-12,325
-"Baruch Data Science & Analytics Society",2022-02-16,328
-"Baruch Data Science & Analytics Society",2022-02-20,328
-"Baruch Data Science & Analytics Society",2022-02-23,328
-"Baruch Data Science & Analytics Society",2022-02-26,328
-"Baruch Data Science & Analytics Society",2022-03-03,329
-"Baruch Data Science & Analytics Society",2022-03-15,332
-"Baruch Data Science & Analytics Society",2022-03-20,334
-"Baruch Data Science & Analytics Society",2022-03-29,334
-"Baruch Data Science & Analytics Society",2022-05-01,335
-"Baruch Data Science & Analytics Society",2022-05-05,328
-"Baruch Data Science & Analytics Society",2022-05-27,337
-"Baruch Data Science & Analytics Society",2022-05-30,337
-"Baruch Data Science & Analytics Society",2022-06-07,337
-"Baruch Data Science & Analytics Society",2022-06-08,337
-"Baruch Data Science & Analytics Society",2022-06-11,339
-"Baruch Data Science & Analytics Society",2022-06-16,341
-"Baruch Data Science & Analytics Society",2022-06-23,340
-"Baruch Data Science & Analytics Society",2022-06-24,340
-"Baruch Data Science & Analytics Society",2022-06-30,340
-"Baruch Data Science & Analytics Society",2022-07-02,340
-"Baruch Data Science & Analytics Society",2022-07-05,340
-"Baruch Data Science & Analytics Society",2022-07-13,340
-"Baruch Data Science & Analytics Society",2022-07-18,340
-"Baruch Data Science & Analytics Society",2022-07-23,340
-"Baruch Data Science & Analytics Society",2022-07-25,340
-"Baruch Data Science & Analytics Society",2022-08-02,340
-"Baruch Data Science & Analytics Society",2022-08-16,342
-"Baruch Data Science & Analytics Society",2022-08-20,344
-"Baruch Data Science & Analytics Society",2022-08-25,354
-"Baruch Data Science & Analytics Society",2022-08-28,359
-"Baruch Data Science & Analytics Society",2022-09-07,365
-"Baruch Data Science & Analytics Society",2022-09-10,366
-"Baruch Data Science & Analytics Society",2022-09-16,371
-"Baruch Data Science & Analytics Society",2022-09-22,372
-"Baruch Data Science & Analytics Society",2022-09-29,372
-"Baruch Data Science & Analytics Society",2022-10-03,372
-"Baruch Data Science & Analytics Society",2022-10-09,372
-"Baruch Data Science & Analytics Society",2022-10-16,372
-"Baruch Data Science & Analytics Society",2022-10-22,375
-"Baruch Data Science & Analytics Society",2022-10-28,375
-"Baruch Data Science & Analytics Society",2022-11-03,376
-"Baruch Data Science & Analytics Society",2022-11-06,377
-"Baruch Data Science & Analytics Society",2022-11-14,382
-"Baruch Data Science & Analytics Society",2022-11-20,384
-"Baruch Data Science & Analytics Society",2022-11-24,383
-"Baruch Data Science & Analytics Society",2022-12-01,383
-"Baruch Data Science & Analytics Society",2022-12-08,386
-"Baruch Data Science & Analytics Society",2022-12-14,388
-"Baruch Data Science & Analytics Society",2022-12-27,388
-"Baruch Data Science & Analytics Society",2023-01-01,389
-"Baruch Data Science & Analytics Society",2023-01-05,390
-"Baruch Data Science & Analytics Society",2023-01-09,390
-"Baruch Data Science & Analytics Society",2023-01-22,392
-"Baruch Data Science & Analytics Society",2023-01-29,398
-"Baruch Data Science & Analytics Society",2023-02-04,399
-"Baruch Data Science & Analytics Society",2023-02-25,404
-"Baruch Data Science & Analytics Society",2023-03-18,405
-"Baruch Data Science & Analytics Society",2023-03-21,405
-"Baruch Data Science & Analytics Society",2023-03-25,405
-"Baruch Data Science & Analytics Society",2023-04-10,406
-"Baruch Data Science & Analytics Society",2023-04-13,406
-"Baruch Data Science & Analytics Society",2023-04-21,408
-"Baruch Data Science & Analytics Society",2023-04-29,413
-"Baruch Data Science & Analytics Society",2023-05-19,419
-"Baruch Data Science & Analytics Society",2023-05-29,419
-"Baruch Data Science & Analytics Society",2023-06-05,419
-"Baruch Data Science & Analytics Society",2023-06-14,419
-"Baruch Data Science & Analytics Society",2023-06-17,419
-"Baruch Data Science & Analytics Society",2023-06-27,419
-"Baruch Data Science & Analytics Society",2023-07-06,419
-"Baruch Data Science & Analytics Society",2023-07-23,423
-"Baruch Data Science & Analytics Society",2023-08-08,425
-"Baruch Data Science & Analytics Society",2023-08-10,425
-"Baruch Data Science & Analytics Society",2023-09-15,437
-"Baruch Data Science & Analytics Society",2023-10-18,437
-"Baruch Data Science & Analytics Society",2023-12-17,440
-"Baruch Data Science & Analytics Society",2023-12-18,440
-"Base Genomics",2023-01-25,822
-"Base Genomics",2023-01-29,822
-"BaseHealth Inc.",2023-01-25,761
-"BaseHealth Inc.",2023-01-29,762
-"Basebuilder",2021-05-10,554
-"Bayanat",2023-06-14,41586
-"Bayanat",2023-06-17,41643
-"Bayanat",2023-06-27,41857
-"Bayanat",2023-07-06,41954
-"Bayanat",2023-07-23,42933
-"Bayanat",2023-08-08,43617
-"Bayanat",2023-08-10,43795
-"Bayanat",2023-09-15,47510
-"Bayanat",2023-10-18,47510
-"Bayanat",2023-12-17,51129
-"Bayanat",2023-12-18,51149
-"Bayanat for Mapping & Surveying Services LLC",2021-01-22,7382
-"Bayanat for Mapping & Surveying Services LLC",2021-01-25,7384
-"Bayanat for Mapping & Surveying Services LLC",2021-01-28,7385
-"Bayanat for Mapping & Surveying Services LLC",2021-01-31,7386
-"Bayanat for Mapping & Surveying Services LLC",2021-02-03,7390
-"Bayanat for Mapping & Surveying Services LLC",2021-02-07,7393
-"Bayanat for Mapping & Surveying Services LLC",2021-02-12,7401
-"Bayanat for Mapping & Surveying Services LLC",2021-02-16,7404
-"Bayanat for Mapping & Surveying Services LLC",2021-02-21,7407
-"Bayanat for Mapping & Surveying Services LLC",2021-02-25,7416
-"Bayanat for Mapping & Surveying Services LLC",2021-03-01,7423
-"Bayanat for Mapping & Surveying Services LLC",2021-03-06,7426
-"Bayanat for Mapping & Surveying Services LLC",2021-03-10,7433
-"Bayanat for Mapping & Surveying Services LLC",2021-03-13,7436
-"Bayanat for Mapping & Surveying Services LLC",2021-03-20,7448
-"Bayanat for Mapping & Surveying Services LLC",2021-03-28,7469
-"Bayanat for Mapping & Surveying Services LLC",2021-03-31,7473
-"Bayanat for Mapping & Surveying Services LLC",2021-04-06,7474
-"Bayanat for Mapping & Surveying Services LLC",2021-04-10,7482
-"Bayanat for Mapping & Surveying Services LLC",2021-04-15,7503
-"Bayanat for Mapping & Surveying Services LLC",2021-04-20,7515
-"Bayanat for Mapping & Surveying Services LLC",2021-04-24,7523
-"Bayanat for Mapping & Surveying Services LLC",2021-04-28,7970
-"Bayanat for Mapping & Surveying Services LLC",2021-05-07,9142
-"Bayanat for Mapping & Surveying Services LLC",2021-05-10,9270
-"Bayanat for Mapping & Surveying Services LLC",2021-05-14,9355
-"Bayanat for Mapping & Surveying Services LLC",2021-05-21,9502
-"Bayanat for Mapping & Surveying Services LLC",2021-05-26,9593
-"Bayanat for Mapping & Surveying Services LLC",2021-05-31,9914
-"Bayanat for Mapping & Surveying Services LLC",2021-06-06,9970
-"Bayanat for Mapping & Surveying Services LLC",2021-06-09,10012
-"Bayanat for Mapping & Surveying Services LLC",2021-06-16,10056
-"Bayanat for Mapping & Surveying Services LLC",2021-06-21,10093
-"Bayanat for Mapping & Surveying Services LLC",2021-06-29,10356
-"Bayanat for Mapping & Surveying Services LLC",2021-07-04,10905
-"Bayanat for Mapping & Surveying Services LLC",2021-07-09,11145
-"Bayanat for Mapping & Surveying Services LLC",2021-07-14,11275
-"Bayanat for Mapping & Surveying Services LLC",2021-07-22,11407
-"Bayanat for Mapping & Surveying Services LLC",2021-08-14,12038
-"Bayanat for Mapping & Surveying Services LLC",2021-08-26,12343
-"Bayanat for Mapping & Surveying Services LLC",2021-09-02,12467
-"Bayanat for Mapping & Surveying Services LLC",2021-09-09,12575
-"Bayanat for Mapping & Surveying Services LLC",2021-09-16,12664
-"Bayanat for Mapping & Surveying Services LLC",2021-10-17,12922
-"Bayanat for Mapping & Surveying Services LLC",2021-10-29,13034
-"Bayanat for Mapping & Surveying Services LLC",2021-11-20,13820
-"Bayanat for Mapping & Surveying Services LLC",2021-12-03,14051
-"Bayanat for Mapping & Surveying Services LLC",2021-12-26,14830
-"Bayanat for Mapping & Surveying Services LLC",2022-01-12,15034
-"Bayanat for Mapping & Surveying Services LLC",2022-02-01,15813
-"Bayanat for Mapping & Surveying Services LLC",2022-02-07,15824
-"Bayanat for Mapping & Surveying Services LLC",2022-02-12,16208
-"Bayanat for Mapping & Surveying Services LLC",2022-02-20,16772
-"Bayanat for Mapping & Surveying Services LLC",2022-02-26,16963
-"Bayanat for Mapping & Surveying Services LLC",2022-03-03,17052
-"Bayanat for Mapping & Surveying Services LLC",2022-03-15,17737
-"Bayanat for Mapping & Surveying Services LLC",2022-03-20,17766
-"Bayanat for Mapping & Surveying Services LLC",2022-03-29,17844
-"Bayanat for Mapping & Surveying Services LLC",2022-04-11,17895
-"Bayanat for Mapping & Surveying Services LLC",2022-04-13,18284
-"Bayanat for Mapping & Surveying Services LLC",2022-05-01,19904
-"Bayanat for Mapping & Surveying Services LLC",2022-05-05,16963
-"Bayanat.AI",2022-08-02,23216
-"Bayanat.AI",2022-08-16,23703
-"Bayanat.AI",2022-08-20,23783
-"Bayanat.AI",2022-08-25,23896
-"Bayanat.AI",2022-08-28,24222
-"Bayanat.AI",2022-09-07,25376
-"Bayanat.AI",2022-09-10,25482
-"Bayanat.AI",2022-09-16,25723
-"Bayanat.AI",2022-09-22,25918
-"Bayanat.AI",2022-09-29,26069
-"Bayanat.AI",2022-10-03,26391
-"Bayanat.AI",2022-10-09,26616
-"Bayanat.AI",2022-10-12,26730
-"Bayanat.AI",2022-10-16,26836
-"Bayanat.AI",2022-10-22,27118
-"Bayanat.AI",2022-10-28,27272
-"Bayanat.AI",2022-11-03,27563
-"Bayanat.AI",2022-11-06,29078
-"Bayanat.AI",2022-11-14,30325
-"Bayanat.AI",2022-11-20,31714
-"Bayanat.AI",2022-11-24,32156
-"Bayanat.AI",2022-12-01,32724
-"Bayanat.AI",2022-12-08,33065
-"Bayanat.AI",2022-12-14,33263
-"Bayanat.AI",2022-12-27,33327
-"Bayanat.AI",2023-01-01,33344
-"Bayanat.AI",2023-01-05,33477
-"Bayanat.AI",2023-01-09,33556
-"Bayanat.AI",2023-01-22,33637
-"Bayanat.AI",2023-01-29,35224
-"Bayanat.AI",2023-02-04,35852
-"Bayanat.AI",2023-02-25,37972
-"Bayanat.AI",2023-03-18,38609
-"Bayanat.AI",2023-03-21,38639
-"Bayanat.AI",2023-03-25,38677
-"Bayanat.AI",2023-04-10,38850
-"Bayanat.AI",2023-04-13,38883
-"Bayanat.AI",2023-04-21,38936
-"Bayanat.AI",2023-04-29,39252
-"Bayanat.AI",2023-05-19,40475
-"Bayanat.AI",2023-05-29,40929
-"Bayanat.AI",2023-06-05,41326
-"Bayanat.ai",2022-05-22,20425
-"Bayanat.ai",2022-06-16,20541
-"Bayanat.ai",2022-06-23,21025
-"Bayanat.ai",2022-06-30,21550
-"Bayanat.ai",2022-07-02,21612
-"Bayanat.ai",2022-07-05,21854
-"Bayanat.ai",2022-07-13,22221
-"Bayanat.ai",2022-07-18,22410
-"Bayanat.ai",2022-07-23,22551
-"Bayanat.ai",2022-07-25,22595
-"Bayer",2023-01-25,4696430
-"Bayer",2023-01-29,4702215
-"Bayer | Pharmaceuticals",2023-01-25,1675616
-"Bayer | Pharmaceuticals",2023-01-29,1676067
-"Bayes Esports",2023-01-25,3064
-"athenahealth",2023-01-21,148559
-"athenahealth",2023-02-10,150474
-"athenahealth",2023-02-25,152086
-"athenahealth",2023-03-13,154313
-"athenahealth",2023-03-29,156674
-"athenahealth",2023-04-10,158395
-"athenahealth",2023-04-23,160352
-"athenahealth",2023-06-05,166192
-"athenahealth",2023-06-11,167362
-"athenahealth",2023-06-23,169960
-"athenahealth",2023-07-06,172044
-"athenahealth",2023-07-23,174564
-"athenahealth",2023-08-05,176986
-"athenahealth",2023-08-29,181101
-"athenahealth",2023-10-18,190797
-"athenahealth",2023-12-14,194707
-"athenahealth",2023-12-17,195233
-"athenahealth",2023-12-18,195351
+"allspatial - Geospatial Software and Services",2021-06-02,9
+"allspatial - Geospatial Software and Services",2021-06-09,9
+"allspatial - Geospatial Software and Services",2021-06-16,9
+"allspatial - Geospatial Software and Services",2021-06-21,9
+"allspatial - Geospatial Software and Services",2021-06-29,10
+"allspatial - Geospatial Software and Services",2021-07-02,10
+"allspatial - Geospatial Software and Services",2021-07-04,10
+"allspatial - Geospatial Software and Services",2021-07-09,10
+"allspatial - Geospatial Software and Services",2021-07-14,10
+"allspatial - Geospatial Software and Services",2021-07-18,10
+"allspatial - Geospatial Software and Services",2021-07-22,10
+"allspatial - Geospatial Software and Services",2021-08-14,10
+"allspatial - Geospatial Software and Services",2021-08-26,10
+"allspatial - Geospatial Software and Services",2021-09-02,10
+"allspatial - Geospatial Software and Services",2021-09-16,10
+"allspatial - Geospatial Software and Services",2021-10-17,10
+"allspatial - Geospatial Software and Services",2021-10-29,11
+"allspatial - Geospatial Software and Services",2021-11-06,11
+"allspatial - Geospatial Software and Services",2021-11-20,12
+"allspatial - Geospatial Software and Services",2021-12-07,12
+"allspatial - Geospatial Software and Services",2021-12-14,12
+"allspatial - Geospatial Software and Services",2021-12-20,12
+"allspatial - Geospatial Software and Services",2021-12-26,12
+"allspatial - Geospatial Software and Services",2021-12-30,12
+"allspatial - Geospatial Software and Services",2021-12-31,12
+"allspatial - Geospatial Software and Services",2022-01-03,12
+"allspatial - Geospatial Software and Services",2022-01-04,12
+"allspatial - Geospatial Software and Services",2022-01-06,12
+"allspatial - Geospatial Software and Services",2022-01-07,12
+"allspatial - Geospatial Software and Services",2022-01-10,12
+"allspatial - Geospatial Software and Services",2022-01-14,12
+"allspatial - Geospatial Software and Services",2022-01-18,12
+"allspatial - Geospatial Software and Services",2022-01-27,12
+"allspatial - Geospatial Software and Services",2022-02-01,12
+"allspatial - Geospatial Software and Services",2022-02-10,12
+"allspatial - Geospatial Software and Services",2022-02-16,12
+"allspatial - Geospatial Software and Services",2022-02-23,12
+"allspatial - Geospatial Software and Services",2022-03-03,12
+"allspatial - Geospatial Software and Services",2022-03-07,12
+"allspatial - Geospatial Software and Services",2022-03-15,12
+"allspatial - Geospatial Software and Services",2022-03-20,12
+"allspatial - Geospatial Software and Services",2022-03-29,12
+"allspatial - Geospatial Software and Services",2022-03-31,12
+"allspatial - Geospatial Software and Services",2022-04-09,12
+"allspatial - Geospatial Software and Services",2022-04-13,13
+"allspatial - Geospatial Software and Services",2022-04-19,13
+"allspatial - Geospatial Software and Services",2022-04-29,13
+"allspatial - Geospatial Software and Services",2022-05-22,15
+"allspatial - Geospatial Software and Services",2022-05-27,15
+"allspatial - Geospatial Software and Services",2022-05-30,15
+"allspatial - Geospatial Software and Services",2022-06-01,15
+"allspatial - Geospatial Software and Services",2022-06-07,15
+"allspatial - Geospatial Software and Services",2022-06-08,15
+"allspatial - Geospatial Software and Services",2022-06-11,15
+"allspatial - Geospatial Software and Services",2022-06-13,15
+"allspatial - Geospatial Software and Services",2022-06-16,15
+"allspatial - Geospatial Software and Services",2022-06-22,15
+"allspatial - Geospatial Software and Services",2022-06-24,15
+"allspatial - Geospatial Software and Services",2022-06-26,15
+"allspatial - Geospatial Software and Services",2022-06-30,15
+"allspatial - Geospatial Software and Services",2022-07-01,15
+"allspatial - Geospatial Software and Services",2022-07-02,15
+"allspatial - Geospatial Software and Services",2022-07-04,15
+"allspatial - Geospatial Software and Services",2022-07-05,15
+"allspatial - Geospatial Software and Services",2022-07-09,15
+"allspatial - Geospatial Software and Services",2022-07-12,15
+"allspatial - Geospatial Software and Services",2022-07-18,15
+"allspatial - Geospatial Software and Services",2022-07-21,15
+"allspatial - Geospatial Software and Services",2022-07-23,15
+"allspatial - Geospatial Software and Services",2022-07-25,15
+"allspatial - Geospatial Software and Services",2022-08-01,15
+"allspatial - Geospatial Software and Services",2022-08-08,15
+"allspatial - Geospatial Software and Services",2022-08-16,15
+"allspatial - Geospatial Software and Services",2022-08-20,15
+"allspatial - Geospatial Software and Services",2022-08-25,15
+"allspatial - Geospatial Software and Services",2022-08-28,15
+"allspatial - Geospatial Software and Services",2022-09-01,15
+"allspatial - Geospatial Software and Services",2022-09-07,15
+"allspatial - Geospatial Software and Services",2022-09-10,15
+"allspatial - Geospatial Software and Services",2022-09-16,15
+"allspatial - Geospatial Software and Services",2022-09-22,15
+"allspatial - Geospatial Software and Services",2022-09-29,15
+"allspatial - Geospatial Software and Services",2022-10-03,15
+"allspatial - Geospatial Software and Services",2022-10-09,15
+"allspatial - Geospatial Software and Services",2022-10-12,15
+"allspatial - Geospatial Software and Services",2022-10-16,15
+"allspatial - Geospatial Software and Services",2022-10-22,15
+"allspatial - Geospatial Software and Services",2022-10-28,15
+"allspatial - Geospatial Software and Services",2022-11-03,15
+"allspatial - Geospatial Software and Services",2022-11-06,15
+"allspatial - Geospatial Software and Services",2022-11-14,15
+"allspatial - Geospatial Software and Services",2022-11-20,15
+"allspatial - Geospatial Software and Services",2022-11-24,15
+"allspatial - Geospatial Software and Services",2022-12-01,15
+"allspatial - Geospatial Software and Services",2022-12-08,15
+"allspatial - Geospatial Software and Services",2022-12-14,15
+"allspatial - Geospatial Software and Services",2022-12-27,15
+"allspatial - Geospatial Software and Services",2023-01-01,15
+"allspatial - Geospatial Software and Services",2023-01-05,15
+"allspatial - Geospatial Software and Services",2023-01-09,15
+"allspatial - Geospatial Software and Services",2023-01-22,15
+"allspatial - Geospatial Software and Services",2023-01-28,15
+"allspatial - Geospatial Software and Services",2023-02-04,15
+"allspatial - Geospatial Software and Services",2023-02-10,15
+"allspatial - Geospatial Software and Services",2023-02-13,15
+"allspatial - Geospatial Software and Services",2023-02-24,15
+"allspatial - Geospatial Software and Services",2023-03-10,15
+"allspatial - Geospatial Software and Services",2023-03-14,16
+"allspatial - Geospatial Software and Services",2023-03-18,16
+"allspatial - Geospatial Software and Services",2023-03-21,16
+"allspatial - Geospatial Software and Services",2023-03-25,16
+"allspatial - Geospatial Software and Services",2023-04-01,16
+"allspatial - Geospatial Software and Services",2023-04-10,16
+"allspatial - Geospatial Software and Services",2023-04-13,17
+"allspatial - Geospatial Software and Services",2023-04-21,17
+"allspatial - Geospatial Software and Services",2023-04-29,17
+"allspatial - Geospatial Software and Services",2023-05-12,17
+"allspatial - Geospatial Software and Services",2023-05-19,17
+"allspatial - Geospatial Software and Services",2023-05-29,17
+"allspatial - Geospatial Software and Services",2023-06-05,17
+"allspatial - Geospatial Software and Services",2023-06-11,17
+"allspatial - Geospatial Software and Services",2023-06-14,17
+"allspatial - Geospatial Software and Services",2023-06-17,17
+"allspatial - Geospatial Software and Services",2023-06-23,17
+"allspatial - Geospatial Software and Services",2023-06-27,17
+"allspatial - Geospatial Software and Services",2023-07-06,17
+"allspatial - Geospatial Software and Services",2023-07-23,17
+"allspatial - Geospatial Software and Services",2023-08-02,17
+"allspatial - Geospatial Software and Services",2023-08-08,17
+"allspatial - Geospatial Software and Services",2023-08-10,17
+"allspatial - Geospatial Software and Services",2023-08-29,16
+"allspatial - Geospatial Software and Services",2023-09-15,16
+"allspatial - Geospatial Software and Services",2023-10-18,16
+"allspatial - Geospatial Software and Services",2023-12-14,17
+"allspatial - Geospatial Software and Services",2023-12-16,17
+"allspatial - Geospatial Software and Services",2023-12-18,17
+"allspatial - Geospatial Software and Services",2024-01-22,17
+"altizem",2021-02-19,6282
+"altizem",2021-03-26,6479
