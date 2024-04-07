@@ -8,6 +8,396 @@
 "CFA Institute",2023-03-29,621869
 "CFA Institute",2023-04-10,624503
 "CFA Institute",2023-04-23,627383
+"IBM",2024-04-08,16259529
+"Oracle",2024-04-08,9461937
+"Accenture",2024-04-08,11860920
+"Microsoft",2024-04-08,22160212
+"Deloitte",2024-04-08,15101507
+"Siemens",2024-04-08,6788980
+"PwC",2024-04-08,6062043
+"Intel Corporation",2024-04-08,3535399
+"Intel Capital",2024-04-08,47359
+"Cisco",2024-04-08,6327381
+"J.P. Morgan",2024-04-08,4275779
+"JPMorgan Chase & Co.",2024-04-08,4926473
+"EY",2024-04-08,8720046
+"KPMG US",2024-04-08,1416281
+"NXP Semiconductors",2024-04-08,679926
+"Bank of America",2024-04-08,2431209
+"Pfizer",2024-04-08,5779948
+"Wells Fargo",2024-04-08,2199758
+"HSBC",2024-04-08,3674991
+"Deutsche Bank",2024-04-08,2363659
+"American Express",2024-04-08,2106519
+"Infosys",2024-04-08,8604359
+"The Walt Disney Company",2024-04-08,5669372
+"Fidelity Investments",2024-04-08,922790
+"Lockheed Martin",2024-04-08,2326021
+"U.S. Navy Reserve",2024-04-08,55653
+"US Navy",2024-04-08,722899
+"LinkedIn",2024-04-08,26147651
+"Air Force Research Laboratory",2024-04-08,156253
+"Tata Consultancy Services",2024-04-08,14749284
+"DHL",2024-04-08,2205142
+"National Security Agency",2024-04-08,436634
+"Goldman Sachs",2024-04-08,4254345
+"Boeing",2024-04-08,3197135
+"T-Mobile",2024-04-08,539387
+"Texas Instruments",2024-04-08,820656
+"Booz Allen Hamilton",2024-04-08,657723
+"Northrop Grumman",2024-04-08,1204104
+"CGI",2024-04-08,1412071
+"Capital One",2024-04-08,694950
+"Barclays",2024-04-08,1711128
+"Google",2024-04-08,32561011
+"ADP",2024-04-08,1332597
+"Adobe",2024-04-08,4540488
+"PayPal",2024-04-08,1361437
+"SAS",2024-04-08,874306
+"AMD",2024-04-08,1391740
+"MIT Media Lab",2024-04-08,161196
+"MIT Sloan School of Management",2024-04-08,498072
+"Massachusetts Institute of Technology",2024-04-08,1453426
+"Raytheon",2024-04-08,932989
+"BNP Paribas",2024-04-08,1419225
+"Amazon",2024-04-08,30737457
+"British Army",2024-04-08,156231
+"STMicroelectronics",2024-04-08,729745
+"Boston Scientific",2024-04-08,976548
+"Harvard Business Review",2024-04-08,14339678
+"Boston Children's Hospital",2024-04-08,148378
+"L'Oréal",2024-04-08,4920752
+"Cognizant",2024-04-08,7215550
+"ExxonMobil",2024-04-08,2979820
+"Boston Consulting Group (BCG)",2024-04-08,4321769
+"Stanford University Graduate School of Business",2024-04-08,470243
+"European Commission",2024-04-08,1917039
+"Council of the European Union",2024-04-08,343274
+"European Parliament",2024-04-08,799403
+"Prudential Financial",2024-04-08,338152
+"Charles Schwab",2024-04-08,319042
+"United Nations",2024-04-08,5449800
+"BAE Systems Inc.",2024-04-08,289000
+"General Dynamics",2024-04-08,312733
+"PTC",2024-04-08,331075
+"Thales",2024-04-08,1399904
+"NASA Glenn Research Center",2024-04-08,144847
+"NASA Goddard Space Flight Center",2024-04-08,182855
+"NASA Langley Research Center",2024-04-08,41645
+"NASA Ames Research Center",2024-04-08,106589
+"NASA - National Aeronautics and Space Administration",2024-04-08,6453777
+"NASA Jet Propulsion Laboratory",2024-04-08,1025085
+"Qualcomm",2024-04-08,1439404
+"Applied Materials",2024-04-08,442017
+"CNN",2024-04-08,3060839
+"Gartner",2024-04-08,1745124
+"Bain & Company",2024-04-08,1995481
+"Pearson",2024-04-08,811018
+"Infineon Technologies",2024-04-08,585661
+"TEKsystems",2024-04-08,905896
+"Visa",2024-04-08,1606517
+"Keller Williams Realty Inc.",2024-04-08,441954
+"Standard Chartered",2024-04-08,2040893
+"Juniper Networks",2024-04-08,780142
+"Delta Air Lines",2024-04-08,1294149
+"The Wall Street Journal",2024-04-08,9748981
+"Dun & Bradstreet",2024-04-08,218041
+"London Health Sciences Centre (LHSC)",2024-04-08,34300
+"Pratt & Whitney",2024-04-08,706685
+"Hilton",2024-04-08,2045487
+"Zurich Insurance",2024-04-08,839001
+"Bloomberg",2024-04-08,1875825
+"U.S. Bank",2024-04-08,461682
+"Experian",2024-04-08,759394
+"Walmart",2024-04-08,4074727
+"SunTrust",2024-04-08,117462
+"Liberty Mutual Insurance",2024-04-08,429075
+"KLA",2024-04-08,319515
+"Airbus",2024-04-08,2239151
+"TD",2024-04-08,810342
+"Federal Reserve Bank of Atlanta",2024-04-08,30123
+"Federal Reserve Board",2024-04-08,156071
+"Federal Reserve Bank of Chicago",2024-04-08,39438
+"Federal Reserve Bank of New York",2024-04-08,128905
+"Federal Reserve System",2024-04-08,75599
+"Federal Reserve Bank of Boston",2024-04-08,33372
+"Massachusetts General Hospital",2024-04-08,181557
+"S&P Global",2024-04-08,518531
+"ICICI Bank",2024-04-08,3412623
+"VMware",2024-04-08,1974643
+"Transportation Security Administration (TSA)",2024-04-08,144233
+"FEMA",2024-04-08,446170
+"U.S. Secret Service",2024-04-08,273547
+"U.S. Customs and Border Protection",2024-04-08,252360
+"U.S. Department of Homeland Security",2024-04-08,822902
+"Fifth Third Bank",2024-04-08,155160
+"Mastercard",2024-04-08,1481324
+"Carrefour",2024-04-08,1162228
+"S&P Global Ratings",2024-04-08,138526
+"Kforce Inc",2024-04-08,315843
+"U.S. Department of State",2024-04-08,1091189
+"Carnegie Mellon University",2024-04-08,289932
+"New York University",2024-04-08,864304
+"Salesforce",2024-04-08,5049827
+"DHL Supply Chain",2024-04-08,1645053
+"New York Life Insurance Company",2024-04-08,281846
+"Peace Corps",2024-04-08,154440
+"Analog Devices",2024-04-08,369606
+"Hays",2024-04-08,7204649
+"Red Hat",2024-04-08,1311772
+"IHG Hotels & Resorts",2024-04-08,1200038
+"Boston University School of Public Health",2024-04-08,19222
+"Boston University School of Law",2024-04-08,29945
+"Questrom School of Business Boston University",2024-04-08,63429
+"Boston University School of Medicine",2024-04-08,27861
+"Boston University",2024-04-08,486368
+"United States Attorneys'​ Offices",2024-04-08,123627
+"NVIDIA",2024-04-08,2411711
+"MassMutual",2024-04-08,116054
+"Micron Technology",2024-04-08,595095
+"Equifax",2024-04-08,208127
+"MITRE",2024-04-08,187067
+"Rolls-Royce",2024-04-08,1423169
+"The Carter Center",2024-04-08,38146
+"ASML",2024-04-08,613031
+"Akamai Technologies",2024-04-08,333876
+"Biogen",2024-04-08,967839
+"The Economic Times",2024-04-08,2910597
+"Sun Life",2024-04-08,354151
+"PNC",2024-04-08,302489
+"Regions Bank",2024-04-08,130718
+"The New York Times",2024-04-08,6818506
+"EMD Serono Inc.",2024-04-08,51497
+"SanDisk®",2024-04-08,135321
+"TransUnion",2024-04-08,403508
+"Hertz",2024-04-08,196967
+"DNB",2024-04-08,138396
+"USAA",2024-04-08,382974
+"University of Massachusetts",2024-04-08,59828
+"Texas A&M University",2024-04-08,766923
+"Western Digital",2024-04-08,460520
+"Massachusetts Department of Public Health",2024-04-08,34518
+"Commonwealth of Massachusetts",2024-04-08,109294
+"FDA",2024-04-08,718866
+"BB&T",2024-04-08,127022
+"Financial Times",2024-04-08,7221446
+"The Church of Jesus Christ of Latter-day Saints",2024-04-08,218377
+"BlackRock",2024-04-08,1809336
+"Apex Systems",2024-04-08,1506078
+"Maxim Integrated",2024-04-08,115772
+"U.S. Department of Commerce",2024-04-08,82956
+"Eindhoven University of Technology",2024-04-08,142683
+"F5",2024-04-08,333874
+"BBVA",2024-04-08,1081679
+"Harvard Business School",2024-04-08,2172160
+"UNICEF",2024-04-08,4699578
+"European Space Agency - ESA",2024-04-08,659581
+"Internal Revenue Service",2024-04-08,283112
+"USAID",2024-04-08,2222806
+"U.S. Department of the Treasury",2024-04-08,122539
+"Intelsat",2024-04-08,73797
+"Lam Research",2024-04-08,289913
+"BAE Systems Digital Intelligence",2024-04-08,125366
+"YMCA of the USA (National Resource Office)",2024-04-08,120543
+"Esri",2024-04-08,374957
+"MFS Investment Management",2024-04-08,77747
+"Blizzard Entertainment",2024-04-08,1009332
+"World Health Organization",2024-04-08,5509513
+"Sandia National Laboratories",2024-04-08,125816
+"Chase for Business",2024-04-08,42171
+"Boston College",2024-04-08,192358
+"U.S. Department of Energy (DOE)",2024-04-08,270658
+"Nintendo",2024-04-08,718251
+"Forbes",2024-04-08,17962181
+"NATO",2024-04-08,495263
+"U.S. Department of Labor",2024-04-08,296936
+"Ball Aerospace",2024-04-08,103209
+"The University of Edinburgh",2024-04-08,361831
+"Huron",2024-04-08,165179
+"Viasat",2024-04-08,136731
+"U.S. Department of Transportation",2024-04-08,167756
+"Boston Public Schools",2024-04-08,27991
+"American University",2024-04-08,185280
+"Ad Age",2024-04-08,1116693
+"National Institute of Standards and Technology (NIST)",2024-04-08,322281
+"Federal Bureau of Investigation (FBI)",2024-04-08,845690
+"Fortinet",2024-04-08,939263
+"Microchip Technology Inc.",2024-04-08,378147
+"Boston Globe Media",2024-04-08,56827
+"HSBC Global Private Banking",2024-04-08,143027
+"Vertex Pharmaceuticals",2024-04-08,342727
+"Bloomberg News",2024-04-08,3974768
+"Federal Deposit Insurance Corporation (FDIC)",2024-04-08,111878
+"American Bar Association",2024-04-08,260709
+"Publix Super Markets",2024-04-08,231079
+"Boston Medical Center (BMC)",2024-04-08,93425
+"United States Department of Defense",2024-04-08,1328522
+"DigitalGlobe",2024-04-08,39258
+"March of Dimes",2024-04-08,41992
+"Nokia Bell Labs",2024-04-08,87445
+"Tufts Health Plan",2024-04-08,26879
+"Gilat Satellite Networks",2024-04-08,67636
+"Virgin",2024-04-08,284909
+"World Economic Forum",2024-04-08,4997713
+"Harvard Pilgrim Health Care",2024-04-08,17166
+"Aerojet Rocketdyne",2024-04-08,131905
+"London Stock Exchange",2024-04-08,102125
+"Miami Herald",2024-04-08,13514
+"Qualys",2024-04-08,183855
+"Eaton Vance",2024-04-08,29760
+"athenahealth",2024-04-08,212667
+"Bill & Melinda Gates Foundation",2024-04-08,1208849
+"TSMC",2024-04-08,539420
+"ExactTarget",2024-04-08,31234
+"Institution of Engineering and Technology (IET)",2024-04-08,96950
+"Experian Consumer Services",2024-04-08,7542
+"United States Naval Academy",2024-04-08,74872
+"Council for Advancement and Support of Education",2024-04-08,31051
+"Iridium",2024-04-08,39750
+"International Game Developers Association (IGDA®)",2024-04-08,23345
+"Wolfram",2024-04-08,25852
+"Defense Intelligence Agency",2024-04-08,294325
+"New York Institute of Technology",2024-04-08,99611
+"UN Environment Programme",2024-04-08,1231094
+"Boston Market",2024-04-08,15588
+"Webster Bank",2024-04-08,28685
+"New York City Police Department",2024-04-08,76313
+"Meta",2024-04-08,10310068
+"ACLU",2024-04-08,140293
+"American Psychological Association",2024-04-08,986033
+"Sierra Club",2024-04-08,87849
+"Insight Global",2024-04-08,2377694
+"New York Post",2024-04-08,363905
+"NYU Tandon School of Engineering",2024-04-08,35716
+"Children's National Hospital",2024-04-08,55931
+"National Wildlife Federation",2024-04-08,122156
+"Citi",2024-04-08,4233907
+"Museum of Fine Arts Boston",2024-04-08,48872
+"National Geospatial-Intelligence Agency",2024-04-08,80493
+"Navy Federal Credit Union",2024-04-08,126446
+"Idaho National Laboratory",2024-04-08,68725
+"Circle K",2024-04-08,168616
+"PAR Technology",2024-04-08,74553
+"Sierra Nevada Corporation",2024-04-08,97073
+"Central Intelligence Agency",2024-04-08,287338
+"SANS Institute",2024-04-08,313671
+"University of West Florida",2024-04-08,73041
+"Champlain College",2024-04-08,34353
+"Boston Technology Corporation",2024-04-08,11945
+"Tesla",2024-04-08,11948036
+"Telesat",2024-04-08,45804
+"YouTube",2024-04-08,2098788
+"Massachusetts Port Authority",2024-04-08,13136
+"CompTIA",2024-04-08,506831
+"Defense Advanced Research Projects Agency (DARPA)",2024-04-08,215128
+"Xebia",2024-04-08,235902
+"The University of Alabama in Huntsville",2024-04-08,53364
+"SECU",2024-04-08,19726
+"Public Consulting Group",2024-04-08,46767
+"Human Rights Watch",2024-04-08,603397
+"Naval Sea Systems Command (NAVSEA)",2024-04-08,79315
+"Atlas Venture",2024-04-08,21902
+"Workday",2024-04-08,947537
+"Bullhorn",2024-04-08,76300
+"NTT DATA",2024-04-08,551813
+"AllBusiness.com",2024-04-08,31108
+"American Bankers Association",2024-04-08,151262
+"Synovus",2024-04-08,37766
+"Voya Investment Management",2024-04-08,21017
+"SourceAmerica",2024-04-08,8178
+"Eurasia Group",2024-04-08,204304
+"Boston Capital",2024-04-08,7221
+"Wayfair",2024-04-08,323494
+"Boston Magazine",2024-04-08,10762
+"Splunk",2024-04-08,633815
+"American Institute of Physics",2024-04-08,22090
+"Scientific American",2024-04-08,88881
+"Internet Archive",2024-04-08,36665
+"PenFed Credit Union",2024-04-08,36385
+"Boston Public Health Commission",2024-04-08,11756
+"Society of Women Engineers",2024-04-08,103833
+"Electronic Frontier Foundation (EFF)",2024-04-08,25084
+"ISACA",2024-04-08,244614
+"Fair Trade USA",2024-04-08,25524
+"Geosyntec Consultants",2024-04-08,38658
+"New York Film Academy",2024-04-08,73431
+"CATALYST",2024-04-08,5410
+"CyberCoders",2024-04-08,1539078
+"International Justice Mission",2024-04-08,93191
+"Esri Australia",2024-04-08,19556
+"Atlassian",2024-04-08,1416459
+"The Washington Center",2024-04-08,10923
+"Transparency International",2024-04-08,126375
+"Computer History Museum",2024-04-08,9104
+"Boston Architectural College",2024-04-08,15611
+"Public Allies",2024-04-08,8025
+"Global Exchange",2024-04-08,1912
+"Rockland Trust",2024-04-08,12688
+"Boston Private",2024-04-08,11530
+"Tenable",2024-04-08,148741
+"Shaker Recruitment Marketing",2024-04-08,10525
+"Boston Conservatory at Berklee",2024-04-08,10317
+"American Psychiatric Association",2024-04-08,367691
+"CyberArk",2024-04-08,178968
+"ISC2",2024-04-08,353029
+"MassHousing",2024-04-08,10608
+"Security Service Federal Credit Union",2024-04-08,23231
+"OpenLink Software",2024-04-08,1237
+"TruVoice from Corporate Visions",2024-04-08,2667
+"Mandiant (now part of Google Cloud)",2024-04-08,181183
+"IT World Canada (ITWC)",2024-04-08,10484
+"Boston Ballet",2024-04-08,11018
+"The Hill",2024-04-08,39334
+"Enterprise Bank & Trust",2024-04-08,11110
+"Boston Public Library",2024-04-08,6121
+"iSpace Inc.",2024-04-08,47476
+"Palo Alto Networks",2024-04-08,1096634
+"Lightspeed",2024-04-08,131036
+"Society for Neuroscience",2024-04-08,112902
+"SpaceX",2024-04-08,3162942
+"AIAA",2024-04-08,44850
+"Boston Analytics",2024-04-08,22062
+"Design Science",2024-04-08,1550
+"Black Enterprise Magazine",2024-04-08,280290
+"Novaspace (Merger of Euroconsult & SpaceTec Partners)",2024-04-08,12915
+"Redwood Credit Union",2024-04-08,5677
+"UN Climate Change",2024-04-08,495204
+"Luminator Technology Group",2024-04-08,20298
+"Aerospace Industries Association",2024-04-08,21537
+"Baptist Health Care",2024-04-08,17324
+"Digital Divide Data (DDD)",2024-04-08,29629
+"Informative Research",2024-04-08,3208
+"Rapid7",2024-04-08,167099
+"Studer Group",2024-04-08,26254
+"BLUE ORIGIN",2024-04-08,422735
+"Economic Policy Institute",2024-04-08,21419
+"Bullhorn Jobscience",2024-04-08,6661
+"Space.com",2024-04-08,4720
+"MassDevelopment",2024-04-08,8223
+"Greater Boston Chamber of Commerce",2024-04-08,9722
+"Nation's Restaurant News",2024-04-08,463595
+"American Immigration Lawyers Association",2024-04-08,34912
+"AccuStaff",2024-04-08,1295
+"FireEye Inc.",2024-04-08,407625
+"Super Technologies",2024-04-08,1274
+"Advertising Research Foundation (ARF)",2024-04-08,12572
+"Boston Dynamics",2024-04-08,492023
+"Berkshire Bank",2024-04-08,10988
+"Southern Poverty Law Center",2024-04-08,43061
+"VISIT FLORIDA",2024-04-08,19125
+"Venner Shipley",2024-04-08,2673
+"DAV (Disabled American Veterans)",2024-04-08,158616
+"Office of the Director of National Intelligence",2024-04-08,158495
+"Holiday Inn Club Vacations",2024-04-08,31919
+"Boston Bar Association",2024-04-08,8885
+"Psychology Today",2024-04-08,1055306
+"Sacred Heart Health System",2024-04-08,8860
+"Space Center Houston",2024-04-08,8342
+"Spaceflight Inc.",2024-04-08,12852
+"Coalfire",2024-04-08,28432
+"Zero-G",2024-04-08,4353
+"IHMC",2024-04-08,3682
+"Florida Supreme Court",2024-04-08,9069
 "CFA Institute",2023-06-05,638469
 "CFA Institute",2023-06-11,639970
 "CFA Institute",2023-06-23,643270
