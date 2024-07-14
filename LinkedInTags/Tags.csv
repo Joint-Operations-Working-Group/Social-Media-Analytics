@@ -12,6 +12,10 @@ Tag,Date,Followers
 #pharma,2024-07-13,115675
 #python,2024-07-13,579999
 #appsilon,2024-07-13,8
+#perl,2024-07-14,834
+#rust,2024-07-14,2932
+#rustlang,2024-07-14,1483
+#coding,2024-07-14,210647
 #datasecurity,2024-07-13,30677
 #dataviz,2024-07-13,17183
 #tableau,2024-07-13,47497
@@ -55,7 +59,7 @@ Tag,Date,Followers
 "#techcommunity",2024-07-12,3546
 "#sql",2024-07-12,421762
 "#BigData",2024-07-12,7065645
-"#womenintech"2024-07-12,105191
+"#womenintech",2024-07-12,105191
 #julialang,2024-07-13,982
 #r,2024-07-13,19025
 #scientificdata,2024-07-13,25
@@ -70,3 +74,9 @@ Tag,Date,Followers
 #powerbi,2024-07-13,86597
 #syntheticdata,2024-07-13,797
 #azureml,2024-07-13,261
+#forestry,2024-07-14,8188
+#tidyverse,2024-07-14,952
+#posit,2024-07-14,91
+#quarto,2024-07-14,92
+#dataengineering,2024-07-14,52697
+#dataops,2024-07-14,2240
