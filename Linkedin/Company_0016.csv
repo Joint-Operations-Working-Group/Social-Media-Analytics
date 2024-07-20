@@ -1,323 +1,86 @@
 "Company","Date","Followers"
-"NVIDIA",2020-10-14,650498
-"NVIDIA",2020-10-18,653338
-"NVIDIA",2020-12-27,696289
-"NVIDIA",2021-02-19,727133
-"NVIDIA",2021-03-26,747937
-"NVIDIA",2023-01-21,1268868
-"NVIDIA",2023-01-25,1273917
-"NVIDIA",2023-01-29,1277474
-"NVIDIA",2023-02-10,1288197
-"NVIDIA",2023-02-25,1301194
-"NVIDIA",2023-03-13,1315436
-"NVIDIA",2023-03-29,1332353
-"NVIDIA",2023-04-10,1343059
-"NVIDIA",2023-04-23,1354291
-"NVIDIA",2023-06-05,1413279
-"NVIDIA",2023-06-11,1426967
-"NVIDIA",2023-06-23,1449812
-"NVIDIA",2023-07-06,1474998
-"NVIDIA",2023-07-23,1504653
-"NVIDIA",2023-08-05,1532877
-"NVIDIA",2023-08-29,1588285
-"NVIDIA",2023-10-18,1818137
-"NVIDIA",2023-12-14,1911092
-"NVIDIA",2023-12-17,1929054
-"NVIDIA",2023-12-18,1933656
-"NVIDIA AI",2021-06-02,242264
-"NVIDIA AI",2021-06-09,243412
-"NVIDIA AI",2021-06-16,244400
-"NVIDIA AI",2021-06-21,245089
-"NVIDIA AI",2021-06-29,246319
-"NVIDIA AI",2021-07-02,247213
-"NVIDIA AI",2021-07-04,247598
-"NVIDIA AI",2021-07-09,248791
-"NVIDIA AI",2021-07-14,250077
-"NVIDIA AI",2021-07-18,250887
-"NVIDIA AI",2021-07-22,252079
-"NVIDIA AI",2021-08-14,258652
-"NVIDIA AI",2021-08-26,262088
-"NVIDIA AI",2021-09-02,264142
-"NVIDIA AI",2021-09-16,267490
-"NVIDIA AI",2021-10-17,275041
-"NVIDIA AI",2021-10-29,279328
-"NVIDIA AI",2021-11-06,282375
-"NVIDIA AI",2021-11-20,290215
-"NVIDIA AI",2021-12-07,298914
-"NVIDIA AI",2021-12-14,302558
-"NVIDIA AI",2021-12-20,305250
-"NVIDIA AI",2021-12-26,307637
-"NVIDIA AI",2021-12-30,308936
-"NVIDIA AI",2021-12-31,309275
-"NVIDIA AI",2022-01-03,309868
-"NVIDIA AI",2022-01-04,310351
-"NVIDIA AI",2022-01-06,311044
-"NVIDIA AI",2022-01-07,311499
-"NVIDIA AI",2022-01-10,312232
-"NVIDIA AI",2022-01-14,313586
-"NVIDIA AI",2022-01-18,314745
-"NVIDIA AI",2022-01-27,317979
-"NVIDIA AI",2022-02-01,320054
-"NVIDIA AI",2022-02-01,319951
-"NVIDIA AI",2022-02-07,321929
-"NVIDIA AI",2022-02-10,323192
-"NVIDIA AI",2022-02-12,323835
-"NVIDIA AI",2022-02-16,325070
-"NVIDIA AI",2022-02-20,326315
-"NVIDIA AI",2022-02-23,327192
-"NVIDIA AI",2022-03-03,329105
-"NVIDIA AI",2022-03-15,331517
-"NVIDIA AI",2022-03-20,332694
-"NVIDIA AI",2022-03-29,334850
-"NVIDIA AI",2022-04-09,338078
-"NVIDIA AI",2022-04-11,338561
-"NVIDIA AI",2022-04-13,339144
-"NVIDIA AI",2022-04-19,340529
-"NVIDIA AI",2022-04-25,341997
-"NVIDIA AI",2022-04-29,342993
-"NVIDIA AI",2022-05-01,343355
-"NVIDIA AI",2022-05-05,344334
-"NVIDIA AI",2022-05-22,349859
-"NVIDIA AI",2022-05-23,350170
-"NVIDIA AI",2022-05-27,351590
-"NVIDIA AI",2022-05-30,352311
-"NVIDIA AI",2022-06-01,352774
-"NVIDIA AI",2022-06-03,353336
-"NVIDIA AI",2022-06-11,355591
-"NVIDIA AI",2022-06-13,356040
-"NVIDIA AI",2022-06-15,356778
-"NVIDIA AI",2022-06-20,357888
-"NVIDIA AI",2022-06-22,358434
-"NVIDIA AI",2022-06-23,358607
-"NVIDIA AI",2022-06-23,358614
-"NVIDIA AI",2022-06-24,359022
-"NVIDIA AI",2022-06-26,359359
-"NVIDIA AI",2022-06-30,360411
-"NVIDIA AI",2022-07-01,360736
-"NVIDIA AI",2022-07-02,360833
-"NVIDIA AI",2022-07-04,361228
-"NVIDIA AI",2022-07-05,361569
-"NVIDIA AI",2022-07-09,362457
-"NVIDIA AI",2022-07-12,363266
-"NVIDIA AI",2022-07-13,363443
-"NVIDIA AI",2022-07-18,364854
-"NVIDIA AI",2022-07-18,364766
-"NVIDIA AI",2022-07-21,365844
-"NVIDIA AI",2022-07-23,366607
-"NVIDIA AI",2022-07-23,366608
-"NVIDIA AI",2022-07-25,367320
-"NVIDIA AI",2022-08-01,369669
-"NVIDIA AI",2022-08-02,369843
-"NVIDIA AI",2022-08-08,371759
-"NVIDIA AI",2022-08-16,374089
-"NVIDIA AI",2022-08-20,375424
-"NVIDIA AI",2022-08-25,376750
-"NVIDIA AI",2022-08-28,377391
-"NVIDIA AI",2022-08-28,377392
-"NVIDIA AI",2022-09-01,378763
-"NVIDIA AI",2022-09-07,380174
-"NVIDIA AI",2022-09-10,380973
-"NVIDIA AI",2022-09-16,382842
-"NVIDIA AI",2022-09-22,384565
-"NVIDIA AI",2022-09-22,384567
-"NVIDIA AI",2022-09-29,386617
-"NVIDIA AI",2022-09-29,386619
-"NVIDIA AI",2022-10-03,388022
-"NVIDIA AI",2022-10-09,390188
-"NVIDIA AI",2022-10-12,391291
-"NVIDIA AI",2022-10-16,392229
-"NVIDIA AI",2022-10-22,394036
-"NVIDIA AI",2022-10-28,395385
-"NVIDIA AI",2022-11-03,396334
-"NVIDIA AI",2022-11-06,396672
-"NVIDIA AI",2022-11-14,397679
-"NVIDIA AI",2022-11-14,397680
-"NVIDIA AI",2022-11-20,398512
-"NVIDIA AI",2022-11-24,399123
-"NVIDIA AI",2022-12-01,400161
-"NVIDIA AI",2022-12-01,400162
-"NVIDIA AI",2022-12-08,401284
-"NVIDIA AI",2022-12-14,402187
-"NVIDIA AI",2022-12-27,403841
-"NVIDIA AI",2023-01-01,404578
-"NVIDIA AI",2023-01-05,405304
-"NVIDIA AI",2023-01-05,405305
-"NVIDIA AI",2023-01-09,406033
-"NVIDIA AI",2023-01-21,408664
-"NVIDIA AI",2023-01-22,408782
-"NVIDIA AI",2023-01-25,409573
-"NVIDIA AI",2023-01-28,410186
-"NVIDIA AI",2023-01-29,410289
-"NVIDIA AI",2023-02-04,411724
-"NVIDIA AI",2023-02-04,411725
-"NVIDIA AI",2023-02-10,412853
-"NVIDIA AI",2023-02-13,413434
-"NVIDIA AI",2023-02-24,415008
-"NVIDIA AI",2023-02-25,415121
-"NVIDIA AI",2023-02-25,415123
-"NVIDIA AI",2023-03-10,417725
-"NVIDIA AI",2023-03-13,418202
-"NVIDIA AI",2023-03-14,418481
-"NVIDIA AI",2023-03-18,419193
-"NVIDIA AI",2023-03-21,419718
-"NVIDIA AI",2023-03-21,419717
-"NVIDIA AI",2023-03-25,420799
-"NVIDIA AI",2023-03-25,420800
-"NVIDIA AI",2023-03-29,421914
-"NVIDIA AI",2023-04-01,422868
-"NVIDIA AI",2023-04-10,425153
-"NVIDIA AI",2023-04-10,425188
-"NVIDIA AI",2023-04-13,426000
-"NVIDIA AI",2023-04-13,426001
-"NVIDIA AI",2023-04-21,428406
-"NVIDIA AI",2023-04-21,428407
-"NVIDIA AI",2023-04-23,428875
-"NVIDIA AI",2023-04-29,430885
-"NVIDIA AI",2023-05-12,438639
-"NVIDIA AI",2023-05-19,441067
-"NVIDIA AI",2023-05-19,441068
-"NVIDIA AI",2023-05-29,445361
-"NVIDIA AI",2023-05-29,445374
-"NVIDIA AI",2023-06-05,450949
-"NVIDIA AI",2023-06-05,450953
-"NVIDIA AI",2023-06-05,450960
-"NVIDIA AI",2023-06-11,454824
-"NVIDIA AI",2023-06-14,456844
-"NVIDIA AI",2023-06-14,456846
-"NVIDIA AI",2023-06-17,458319
-"NVIDIA AI",2023-06-23,461613
-"NVIDIA AI",2023-06-23,461615
-"NVIDIA AI",2023-06-27,464128
-"NVIDIA AI",2023-06-27,464129
-"NVIDIA AI",2023-07-06,469027
-"NVIDIA AI",2023-07-06,469024
-"NVIDIA AI",2023-07-06,469025
-"NVIDIA AI",2023-07-23,475592
-"NVIDIA AI",2023-07-23,475604
-"NVIDIA AI",2023-08-02,481030
-"NVIDIA AI",2023-08-05,483080
-"NVIDIA AI",2023-08-08,484545
-"NVIDIA AI",2023-08-10,486097
-"NVIDIA AI",2023-08-29,497851
-"NVIDIA AI",2023-09-15,499608
-"NVIDIA AI",2023-09-15,499611
-"NVIDIA AI",2023-10-18,544703
-"NVIDIA AI",2023-10-18,544719
-"NVIDIA AI",2023-10-18,499611
-"NVIDIA AI",2023-12-17,619282
-"NVIDIA AI",2023-12-18,620892
-"NVIDIA AI",2023-12-18,620876
-"NVIDIA AI",2023-12-18,620839
-"NVIDIA AI",2024-01-22,663923
-"NVIDIA AI",2024-01-22,663957
-"NVIDIA AINVIDIA AI",2023-12-14,NA
-"NVIDIA Data Center",2023-01-21,44396
-"NVIDIA Data Center",2023-02-25,45476
-"NVIDIA Data Center",2023-03-13,45849
-"NVIDIA Data Center",2023-03-29,46616
-"NVIDIA Data Center",2023-04-10,47076
-"NVIDIA Data Center",2023-04-23,47534
-"NVIDIA Data Center",2023-06-05,50967
-"NVIDIA Data Center",2023-06-11,51493
-"NVIDIA Data Center",2023-06-23,52200
-"NVIDIA Data Center",2023-07-06,53221
-"NVIDIA Data Center",2023-07-23,54494
-"NVIDIA Data Center",2023-08-05,56378
-"NVIDIA Data Center",2023-08-29,59983
-"NVIDIA Data Center",2023-10-18,64297
-"NVIDIA Data Center",2023-12-18,72110
-"NVIDIA Design and Visualization",2023-01-21,56112
-"NVIDIA Design and Visualization",2023-02-25,56893
-"NVIDIA Design and Visualization",2023-03-13,57756
-"NVIDIA Design and Visualization",2023-03-29,58617
-"NVIDIA Design and Visualization",2023-04-10,58992
-"NVIDIA Design and Visualization",2023-04-23,59401
-"NVIDIA Design and Visualization",2023-06-05,60515
-"NVIDIA Design and Visualization",2023-06-11,60769
-"NVIDIA Design and Visualization",2023-06-23,61290
-"NVIDIA Design and Visualization",2023-07-06,61610
-"NVIDIA Design and Visualization",2023-07-23,62145
-"NVIDIA Design and Visualization",2023-08-05,62565
-"NVIDIA Design and Visualization",2023-08-29,63516
-"NVIDIA Design and Visualization",2023-10-18,65087
-"NVIDIA Design and Visualization",2023-12-17,64742
-"NVIDIA Design and Visualization",2023-12-18,64754
-"NVIDIA Embedded",2023-03-13,75971
-"NVIDIA Embedded",2023-03-29,76778
-"NVIDIA Embedded",2023-04-10,77406
-"NVIDIA Embedded",2023-04-23,78241
-"NVIDIA Embedded",2023-06-05,80669
-"NVIDIA Embedded",2023-06-11,81069
-"NVIDIA Embedded",2023-06-23,82165
-"NVIDIA Embedded",2023-07-06,83070
-"NVIDIA Embedded",2023-07-23,83996
-"NVIDIA Embedded",2023-08-05,84993
-"NVIDIA Embedded",2023-08-29,86799
-"NVIDIA Embedded",2023-10-18,94843
-"NVIDIA Omniverse",2023-01-21,33695
-"NVIDIA Omniverse",2023-02-25,35374
-"NVIDIA Omniverse",2023-03-13,36089
-"NVIDIA Omniverse",2023-03-29,37049
-"NVIDIA Omniverse",2023-04-10,37655
-"NVIDIA Omniverse",2023-04-23,38146
-"NVIDIA Omniverse",2023-06-05,40039
-"NVIDIA Omniverse",2023-06-11,40374
-"NVIDIA Omniverse",2023-06-23,40804
-"NVIDIA Omniverse",2023-07-06,41401
-"NVIDIA Omniverse",2023-07-23,41881
-"NVIDIA Omniverse",2023-08-05,42533
-"NVIDIA Omniverse",2023-08-29,43836
-"NXP Semiconductors",2023-01-21,544739
-"NXP Semiconductors",2023-02-10,549408
-"NXP Semiconductors",2023-02-25,553723
-"NXP Semiconductors",2023-03-13,558425
-"NXP Semiconductors",2023-03-29,563516
-"NXP Semiconductors",2023-04-10,567512
-"NXP Semiconductors",2023-04-23,571558
-"NXP Semiconductors",2023-06-05,584251
-"NXP Semiconductors",2023-06-11,586392
-"NXP Semiconductors",2023-06-23,590932
-"NXP Semiconductors",2023-07-06,595938
-"NXP Semiconductors",2023-07-23,602389
-"NXP Semiconductors",2023-08-05,608078
-"NXP Semiconductors",2023-08-29,618457
-"NXP Semiconductors",2023-10-18,640675
-"NXP Semiconductors",2023-12-14,641845
-"NXP Semiconductors",2023-12-17,642890
-"NXP Semiconductors",2023-12-18,643175
-"NYU Tandon Online Graduate Program",2023-01-21,3584
-"NYU Tandon Online Graduate Program",2023-02-25,3587
-"NYU Tandon Online Graduate Program",2023-03-13,3588
-"NYU Tandon Online Graduate Program",2023-03-29,3593
-"NYU Tandon Online Graduate Program",2023-04-10,3600
-"NYU Tandon Online Graduate Program",2023-04-23,3601
-"NYU Tandon Online Graduate Program",2023-06-05,3603
-"NYU Tandon Online Graduate Program",2023-06-11,3602
-"NYU Tandon Online Graduate Program",2023-06-23,3606
-"NYU Tandon Online Graduate Program",2023-07-06,3610
-"NYU Tandon Online Graduate Program",2023-07-23,3610
-"NYU Tandon Online Graduate Program",2023-08-05,3613
-"NYU Tandon Online Graduate Program",2023-08-29,3622
-"NYU Tandon Online Graduate Program",2023-10-18,3642
-"NYU Tandon Online Graduate Program",2023-12-18,3516
-"NYU Tandon School of Engineering",2023-01-21,28933
-"NYU Tandon School of Engineering",2023-02-10,29225
-"NYU Tandon School of Engineering",2023-02-25,29497
-"NYU Tandon School of Engineering",2023-03-13,29786
-"NYU Tandon School of Engineering",2023-03-29,30028
-"NYU Tandon School of Engineering",2023-04-10,30203
-"NYU Tandon School of Engineering",2023-04-23,30405
-"NYU Tandon School of Engineering",2023-06-05,31245
-"NYU Tandon School of Engineering",2023-06-11,31423
-"NYU Tandon School of Engineering",2023-06-23,31765
-"NYU Tandon School of Engineering",2023-07-06,32075
-"NYU Tandon School of Engineering",2023-07-23,32428
-"NYU Tandon School of Engineering",2023-08-05,32688
-"NYU Tandon School of Engineering",2023-08-29,33218
-"NYU Tandon School of Engineering",2023-10-18,32558
-"NYU Tandon School of Engineering",2023-12-14,33507
-"NYU Tandon School of Engineering",2023-12-17,33557
-"NYU Tandon School of Engineering",2023-12-18,33578
+"Nearform",2024-06-24,13293
+"Nearmap",2024-05-04,35203
+"Neptune Energy",2024-06-25,90724
+"Netcelero",2024-06-28,1473
+"Netcelero",2024-07-20,1478
+"Netflix",2024-05-28,10407176
+"Network Ireland",2024-06-24,8749
+"Network Ireland Cork",2024-06-24,5081
+"Network Ireland Dublin",2024-06-24,3335
+"Network Ireland Limerick",2024-06-24,2027
+"Neuralog",2024-06-25,1618
+"New York City Bar Association",2024-05-28,21973
+"New York City Economic Development Corporation",2024-05-28,40170
+"New York City Economic Development Corporation",2024-06-24,41001
+"New York City Economic Development Corporation",2024-07-20,41551
+"New York City Police Department",2024-05-04,76816
+"New York City Police Department",2024-05-28,77548
+"New York City Police Department",2024-06-24,77949
+"New York City Police Department",2024-07-20,78166
+"New York City Tourism + Conventions",2024-05-28,54778
+"New York City Tourism + Conventions",2024-06-24,54846
+"New York City Tourism + Conventions",2024-07-20,54899
+"New York Community Trust",2024-05-28,5998
+"New York Film Academy",2024-05-04,73749
+"New York Film Academy",2024-05-28,74055
+"New York Film Academy",2024-06-24,74370
+"New York Film Academy",2024-07-20,74657
+"New York Institute of Technology",2024-05-04,100063
+"New York Institute of Technology",2024-05-28,100512
+"New York Institute of Technology",2024-06-24,100918
+"New York Institute of Technology",2024-07-20,101278
+"New York Life Insurance Company",2024-05-04,284168
+"New York Life Insurance Company",2024-05-28,286179
+"New York Life Insurance Company",2024-06-24,289419
+"New York Life Insurance Company",2024-07-20,291436
+"New York Post",2024-05-04,364176
+"New York Post",2024-05-28,364457
+"New York Post",2024-06-24,364828
+"New York Post",2024-07-20,365021
+"New York Power Authority",2024-05-28,42669
+"New York Power Authority",2024-06-24,43194
+"New York Power Authority",2024-07-20,43611
+"New York State Bar Association",2024-05-28,37341
+"New York State Bar Association",2024-07-20,37795
+"New York State Department of Labor",2024-05-04,22436
+"New York State Office of Mental Health",2024-05-28,21424
+"New York Technology Partners",2024-05-28,126726
+"New York University",2024-05-04,868474
+"New York University",2024-05-28,872521
+"New York University",2024-06-24,877121
+"New York University",2024-07-20,881394
+"Newgen Software",2024-05-28,211654
+"Newgen Software",2024-06-28,217399
+"Newgen Software",2024-07-20,222457
+"Nexus Innovation Centre",2024-06-24,732
+"Nintendo",2024-05-04,722443
+"Nintendo",2024-05-28,726411
+"Nintendo",2024-06-24,732112
+"Nintendo",2024-07-20,737246
+"Nivishe Foundation",2024-06-28,5233
+"Nivishe Foundation",2024-07-20,5427
+"Ni√®me Conseil",2024-06-25,569
+"NoCo IQ",2024-06-24,1685
+"Nokia Bell Labs",2024-05-04,88040
+"Nokia Bell Labs",2024-05-28,88999
+"Nokia Bell Labs",2024-06-24,90018
+"Nokia Bell Labs",2024-07-20,90805
+"Noodle.ai",2024-06-28,27046
+"Noodle.ai",2024-07-20,27418
+"Nordic.AI",2024-06-25,654
+"Northern Ireland Screen",2024-06-24,12897
+"Northrop Grumman",2024-05-04,1219917
+"Northrop Grumman",2024-05-28,1232077
+"Northrop Grumman",2024-06-24,1245841
+"Northrop Grumman",2024-07-20,1257604
+"Notion",2024-06-24,587041
+"Nottingham Economics & Finance Society",2024-06-25,4425
+"Novartis",2024-07-20,3877788
+"Novaspace (Merger of Euroconsult & SpaceTec Partners)",2024-05-04,13295
+"Novaspace (Merger of Euroconsult & SpaceTec Partners)",2024-05-28,13632
+"Novaspace (Merger of Euroconsult & SpaceTec Partners)",2024-06-24,13827
+"Novaspace (Merger of Euroconsult & SpaceTec Partners)",2024-07-20,14008
 "NumFOCUS",2020-10-05,1585
 "NumFOCUS",2020-10-09,1588
 "NumFOCUS",2020-10-13,1589
@@ -536,6 +299,9 @@
 "NumFOCUS",2023-12-17,4527
 "NumFOCUS",2023-12-18,4526
 "NumFOCUS",2024-01-22,4610
+"NumFOCUS",2024-06-25,6748
+"NumFOCUS",2024-06-28,6767
+"NumFOCUS",2024-07-20,7089
 "NumFOCUSNumFOCUS",2023-12-14,NA
 "NumPy",2023-01-25,1227
 "NumPy",2023-03-25,1563
@@ -568,6 +334,8 @@
 "NumPy",2023-12-14,2418
 "NumPy",2023-12-18,2433
 "NumPy",2024-01-22,2531
+"NumPy",2024-06-28,3109
+"NumPy",2024-07-20,3175
 "NumericMind",2023-07-23,954
 "NumericMind",2023-08-02,985
 "NumericMind",2023-08-08,999
@@ -577,12 +345,19 @@
 "NumericMind",2023-10-18,1100
 "NumericMind",2023-12-18,1164
 "NumericMind",2024-01-22,1197
+"NumericMind",2024-06-28,1480
+"NumericMind",2024-07-20,1500
 "Nuritas",2023-01-25,9200
 "Nuritas",2023-01-29,9209
 "Nutanix",2023-01-28,408792
 "Nuvoco Vistas Corp. Ltd.",2021-02-19,23575
 "Nuvoco Vistas Corp. Ltd.",2021-03-06,24047
 "Nuvoco Vistas Corp. Ltd.",2021-03-26,24668
+"N√ºwa Studios",2024-06-24,141
+"O'Reilly",2024-05-04,87139
+"O'Reilly",2024-05-28,88289
+"O'Reilly",2024-06-24,89752
+"O'Reilly",2024-07-20,90968
 "O'Reilly Media",2023-01-22,57698
 "OCOM",2023-01-25,998
 "OCOM",2023-01-29,1000
@@ -796,6 +571,8 @@
 "ORRECO",2023-10-18,3488
 "ORRECO",2023-12-18,3702
 "ORRECO",2024-01-22,3767
+"ORRECO",2024-06-28,4189
+"ORRECO",2024-07-20,4306
 "OSK Berlin",2023-01-25,707
 "OSS Capital",2023-01-25,1417
 "OUR CHOICE Fashion",2021-05-10,1192
@@ -833,6 +610,7 @@
 "OWASP<ae> Foundation",2023-12-17,234372
 "OWASP<ae> Foundation",2023-12-18,234494
 "OWASPÆ Foundation",2023-12-18,234494
+"OWASP¬Æ Foundation",2024-05-04,255044
 "Oak Foundation",2021-04-20,7348
 "Oak Foundation",2021-04-24,7405
 "Oak Foundation",2021-04-28,7462
@@ -945,6 +723,7 @@
 "Oak Foundation",2023-12-17,22298
 "Oak Foundation",2023-12-18,22314
 "Oak Foundation",2024-01-22,22928
+"Oak Foundation",2024-06-25,25745
 "Obama Foundation",2021-02-07,87282
 "Obama Foundation",2021-02-12,87649
 "Obama Foundation",2021-02-17,87932
@@ -1102,6 +881,8 @@
 "Obama Foundation",2023-10-18,233873
 "Obama Foundation",2023-12-18,245136
 "Obama Foundation",2024-01-22,254677
+"Obama Foundation",2024-06-28,290852
+"Obama Foundation",2024-07-20,295282
 "Obama FoundationObama Foundation",2023-12-14,NA
 "Obex Recruitment Ltd.",2023-01-25,8273
 "Observable",2023-01-22,8471
@@ -1242,15 +1023,11 @@
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-08-29,106
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-09-15,106
 "Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-10-18,106
+"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-12-18,107
+"Observatoire du Num√©rique en Ha√Øti (ObNH)",2024-06-28,107
+"Observatoire du Num√©rique en Ha√Øti (ObNH)",2024-07-20,107
 "Observatoire du NumÈrique en HaÔti (ObNH)",2023-12-18,107
 "Observatoire du NumÈrique en HaÔti (ObNH)",2024-01-22,108
-"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2022-12-27,103
-"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-01-01,103
-"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-01-05,103
-"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-01-09,103
-"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-02-13,102
-"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-02-24,101
-"Observatoire du Num<e9>rique en Ha<ef>ti (ObNH)",2023-12-18,107
 "Observer Research Foundation",2023-01-28,54939
 "Oc<e9> - A Canon Company",2023-02-10,29938
 "Ocean Conservancy",2023-01-28,145085
@@ -1281,6 +1058,9 @@
 "Oceana",2023-12-16,58052
 "Oceana",2023-12-18,58121
 "Oceana",2024-01-22,59262
+"Oceana",2024-05-28,63111
+"Oceana",2024-06-28,63941
+"Oceana",2024-07-20,64423
 "Oceaneering",2021-01-22,269679
 "Oceaneering",2021-01-25,269912
 "Oceaneering",2021-01-28,270214
@@ -1408,6 +1188,7 @@
 "Oceaneering",2023-12-17,437980
 "Oceaneering",2023-12-18,438152
 "Oceaneering",2024-01-22,445647
+"Oceaneering",2024-06-25,475507
 "Odd Shoes",2023-01-21,11960
 "Odd Shoes",2023-02-25,12644
 "Odd Shoes",2023-03-13,13027
@@ -1644,6 +1425,11 @@
 "Office for National Statistics",2023-12-16,69375
 "Office for National Statistics",2023-12-18,69410
 "Office for National Statistics",2024-01-22,70079
+"Office for National Statistics",2024-04-09,72038
+"Office for National Statistics",2024-04-19,72212
+"Office for National Statistics",2024-05-28,72759
+"Office for National Statistics",2024-06-28,73144
+"Office for National Statistics",2024-07-20,73419
 "Office of Management and Budget",2023-01-21,7009
 "Office of Management and Budget",2023-02-10,7086
 "Office of Management and Budget",2023-02-25,7129
@@ -1662,6 +1448,9 @@
 "Office of Management and Budget",2023-12-14,7808
 "Office of Management and Budget",2023-12-17,7820
 "Office of Management and Budget",2023-12-18,7823
+"Office of Management and Budget",2024-05-04,8494
+"Office of Management and Budget",2024-05-28,8611
+"Office of Management and Budget",2024-06-28,8727
 "Office of the Director of National Intelligence",2023-01-21,126850
 "Office of the Director of National Intelligence",2023-02-10,128808
 "Office of the Director of National Intelligence",2023-02-25,130248
@@ -1680,6 +1469,11 @@
 "Office of the Director of National Intelligence",2023-12-14,150860
 "Office of the Director of National Intelligence",2023-12-17,151127
 "Office of the Director of National Intelligence",2023-12-18,151197
+"Office of the Director of National Intelligence",2024-04-08,158495
+"Office of the Director of National Intelligence",2024-05-04,159201
+"Office of the Director of National Intelligence",2024-05-28,159922
+"Office of the Director of National Intelligence",2024-06-28,160721
+"Office of the Director of National Intelligence",2024-07-20,161310
 "Offshore Inland Marine & Oilfield Services Inc.",2023-01-21,7778
 "Offshore Inland Marine & Oilfield Services Inc.",2023-02-10,7804
 "Offshore Inland Marine & Oilfield Services Inc.",2023-02-25,7821
@@ -1697,6 +1491,7 @@
 "Offshore Inland Marine & Oilfield Services Inc.",2023-10-18,7388
 "Offshore Inland Marine & Oilfield Services Inc.",2023-12-17,7424
 "Offshore Inland Marine & Oilfield Services Inc.",2023-12-18,7425
+"Offshore Inland Marine & Oilfield Services Inc.",2024-06-28,7540
 "Oklahoma State University",2023-01-28,219430
 "Okta",2023-01-21,280078
 "Okta",2023-02-10,283273
@@ -1973,6 +1768,9 @@
 "Oman Data Science Organization",2023-06-05,136
 "Oman Data Science Organization",2023-12-14,136
 "Oman Data Science Organization",2023-12-16,136
+"Oman Data Science Organization",2024-04-09,135
+"Oman Data Science Organization",2024-06-28,139
+"Oman Data Science Organization",2024-07-20,141
 "Omdena",2022-02-07,21203
 "Omdena",2022-02-16,21370
 "Omdena",2022-02-23,21535
@@ -2074,6 +1872,10 @@
 "Omdena",2023-10-18,38343
 "Omdena",2023-12-18,38801
 "Omdena",2024-01-22,40364
+"Omdena",2024-04-09,43287
+"Omdena",2024-04-19,43496
+"Omdena",2024-06-28,45022
+"Omdena",2024-07-20,45408
 "OmdenaOmdena",2023-12-14,NA
 "OmicsChart",2023-01-25,239
 "OmicsChart",2023-01-29,244
@@ -2218,6 +2020,10 @@
 "Open Cadastre",2023-10-18,16
 "Open Cadastre",2023-12-18,17
 "Open Cadastre",2024-01-22,18
+"Open Cadastre",2024-04-09,19
+"Open Cadastre",2024-04-19,19
+"Open Cadastre",2024-06-28,19
+"Open Cadastre",2024-07-20,20
 "Open CadastreOpen Cadastre",2023-12-14,NA
 "Open Cosmos",2023-01-21,12929
 "Open Cosmos",2023-02-25,13297
@@ -2430,6 +2236,10 @@
 "Open Data Institute",2023-10-18,17001
 "Open Data Institute",2023-12-18,17352
 "Open Data Institute",2024-01-22,17463
+"Open Data Institute",2024-04-09,18004
+"Open Data Institute",2024-04-19,18086
+"Open Data Institute",2024-06-28,18614
+"Open Data Institute",2024-07-20,18837
 "Open Data Science Conference (ODSC)",2020-10-06,84385
 "Open Data Science Conference (ODSC)",2020-10-07,84500
 "Open Data Science Conference (ODSC)",2020-10-12,84991
@@ -2666,6 +2476,11 @@
 "Open Data Science Conference (ODSC)",2023-12-17,135219
 "Open Data Science Conference (ODSC)",2023-12-18,135235
 "Open Data Science Conference (ODSC)",2024-01-22,135541
+"Open Data Science Conference (ODSC)",2024-04-09,136551
+"Open Data Science Conference (ODSC)",2024-04-19,136728
+"Open Data Science Conference (ODSC)",2024-06-25,137795
+"Open Data Science Conference (ODSC)",2024-06-28,137834
+"Open Data Science Conference (ODSC)",2024-07-20,138144
 "Open Data Science Conference (ODSC)Open Data Science Conference (ODSC)",2023-12-14,NA
 "Open Knowledge Foundation",2022-07-05,5822
 "Open Knowledge Foundation",2022-07-09,5832
@@ -2742,6 +2557,11 @@
 "Open Knowledge Foundation",2023-12-16,7686
 "Open Knowledge Foundation",2023-12-18,7699
 "Open Knowledge Foundation",2024-01-22,8130
+"Open Knowledge Foundation",2024-04-09,8805
+"Open Knowledge Foundation",2024-04-19,8863
+"Open Knowledge Foundation",2024-05-28,9165
+"Open Knowledge Foundation",2024-06-28,9322
+"Open Knowledge Foundation",2024-07-20,9400
 "Open Robotics",2022-01-12,25993
 "Open Robotics",2022-02-07,28314
 "Open Robotics",2022-02-16,29302
@@ -2833,6 +2653,7 @@
 "Open Robotics",2023-12-18,109926
 "Open Robotics",2023-12-18,109923
 "Open Robotics",2024-01-22,115129
+"Open Robotics",2024-06-25,138562
 "Open Society Foundations",2020-10-25,130382
 "Open Society Foundations",2020-10-28,130632
 "Open Society Foundations",2020-10-30,130848
@@ -3019,6 +2840,11 @@
 "Open Society Foundations",2023-12-16,212946
 "Open Society Foundations",2023-12-18,213072
 "Open Society Foundations",2024-01-22,215307
+"Open Society Foundations",2024-04-09,221830
+"Open Society Foundations",2024-04-19,222606
+"Open Society Foundations",2024-05-28,225472
+"Open Society Foundations",2024-06-28,227553
+"Open Society Foundations",2024-07-20,229063
 "Open Source",2021-01-19,5194
 "Open Source Hong Kong",2023-06-05,182
 "Open Source Hong Kong",2023-06-11,185
@@ -3028,6 +2854,7 @@
 "Open Source Hong Kong <U+958B><U+6E90><U+9999><U+6E2F>",2023-08-05,266
 "Open Source Hong Kong <U+958B><U+6E90><U+9999><U+6E2F>",2023-08-29,296
 "Open Source Hong Kong <U+958B><U+6E90><U+9999><U+6E2F>",2023-10-18,300
+"Open Source Hong Kong ÈñãÊ∫êÈ¶ôÊ∏Ø",2024-06-24,363
 "Open Source Initiative (OSI)",2023-01-21,16940
 "Open Source Initiative (OSI)",2023-01-25,17014
 "Open Source Initiative (OSI)",2023-02-10,17341
@@ -3147,6 +2974,11 @@
 "OpenAI",2023-12-18,3550730
 "OpenAI",2024-01-22,4023042
 "OpenAI",2024-01-22,4023246
+"OpenAI",2024-04-09,4958674
+"OpenAI",2024-04-19,5020516
+"OpenAI",2024-06-25,5359987
+"OpenAI",2024-06-28,5372419
+"OpenAI",2024-07-20,5438340
 "OpenAIOpenAI",2023-12-14,NA
 "OpenBCI",2023-02-10,14003
 "OpenCV",2022-01-12,47041
@@ -3243,6 +3075,7 @@
 "OpenCV",2023-12-18,216347
 "OpenCV",2023-12-18,216334
 "OpenCV",2024-01-22,229469
+"OpenCV",2024-06-25,283949
 "OpenCredo",2023-01-21,1924
 "OpenCredo",2023-02-10,1994
 "OpenCredo",2023-02-25,2046
@@ -3260,6 +3093,7 @@
 "OpenCredo",2023-10-18,3302
 "OpenCredo",2023-12-17,3474
 "OpenCredo",2023-12-18,3476
+"OpenCredo",2024-06-28,4086
 "OpenCures",2023-01-25,118
 "OpenCures",2023-01-29,118
 "OpenDataScience [ods.ai]",2021-01-22,5713
@@ -3392,15 +3226,18 @@
 "OpenDataScience [ods.ai]",2023-12-17,6968
 "OpenDataScience [ods.ai]",2023-12-18,6968
 "OpenDataScience [ods.ai]",2024-01-22,6977
+"OpenDataScience [ods.ai]",2024-06-25,7010
 "OpenFOAM Workshop",2021-05-10,527
 "OpenFOAM.ir",2021-05-10,276
 "OpenForum Europe",2023-08-29,1390
 "OpenForum Europe",2023-10-18,1439
 "OpenForum Europe",2023-12-17,1654
 "OpenForum Europe",2023-12-18,1663
+"OpenForum Europe",2024-06-28,2397
 "OpenGeoHub Foundation",2023-08-29,2005
 "OpenGeoHub Foundation",2023-10-18,2203
 "OpenGeoHub Foundation",2023-12-18,2352
+"OpenHatch",2024-06-24,103
 "OpenHelix",2023-01-25,388
 "OpenHelix",2023-01-29,388
 "OpenLink Software",2023-01-21,1092
@@ -3421,6 +3258,12 @@
 "OpenLink Software",2023-12-14,1183
 "OpenLink Software",2023-12-17,1185
 "OpenLink Software",2023-12-18,1186
+"OpenLink Software",2024-04-08,1237
+"OpenLink Software",2024-05-04,1250
+"OpenLink Software",2024-05-28,1273
+"OpenLink Software",2024-06-24,1280
+"OpenLink Software",2024-06-28,1280
+"OpenLink Software",2024-07-20,1286
 "OpenSSF",2023-01-25,2049
 "OpenStreetMap Ireland",2021-03-30,219
 "OpenStreetMap Ireland",2021-04-06,219
@@ -3578,6 +3421,10 @@
 "OpenStreetMap Ireland",2023-10-18,270
 "OpenStreetMap Ireland",2023-12-18,270
 "OpenStreetMap Ireland",2024-01-22,270
+"OpenStreetMap Ireland",2024-04-09,273
+"OpenStreetMap Ireland",2024-04-19,274
+"OpenStreetMap Ireland",2024-06-28,280
+"OpenStreetMap Ireland",2024-07-20,280
 "OpenTeams",2020-10-16,772
 "OpenTeams",2020-10-20,775
 "OpenTeams",2020-10-21,778
@@ -3782,6 +3629,10 @@
 "OpenTeams",2023-10-18,2888
 "OpenTeams",2023-12-18,2888
 "OpenTeams",2024-01-22,2934
+"OpenTeams",2024-04-09,3071
+"OpenTeams",2024-04-19,3092
+"OpenTeams",2024-06-28,3171
+"OpenTeams",2024-07-20,3191
 "OpenTeamsOpenTeams",2023-12-14,NA
 "Openers",2023-01-25,1344
 "Openlayer",2023-01-21,1034
@@ -3824,6 +3675,12 @@
 "Oracle",2023-12-14,9178297
 "Oracle",2023-12-17,9187605
 "Oracle",2023-12-18,9190305
+"Oracle",2024-04-08,9461937
+"Oracle",2024-05-04,9534264
+"Oracle",2024-05-28,9594164
+"Oracle",2024-06-24,9664311
+"Oracle",2024-06-28,9676640
+"Oracle",2024-07-20,9728740
 "Oracle Cloud",2020-10-06,81110
 "Oracle Cloud",2020-10-13,81602
 "Oracle Cloud",2020-10-19,82011
@@ -3881,6 +3738,7 @@
 "Orbital Sidekick",2023-10-18,4862
 "Orbital Sidekick",2023-12-18,4850
 "Orca Security",2023-01-22,21519
+"Orcawise",2024-06-24,2639
 "Orchest",2023-01-21,1345
 "Orchest",2023-02-25,1363
 "Orchest",2023-03-13,1370
@@ -3936,6 +3794,7 @@
 "Orlando Inno",2023-07-23,745
 "Orlando Inno",2023-08-05,795
 "Orlando Inno",2023-08-29,841
+"Ormeau Labs",2024-06-24,2690
 "Ospedale San Raffaele",2023-01-25,59269
 "Ospedale San Raffaele",2023-01-29,59453
 "Otago Computer Science Society",2021-03-28,16
@@ -4057,7 +3916,10 @@
 "Otago Computing Students Society",2023-12-17,39
 "Otago Computing Students Society",2023-12-18,39
 "Otago Computing Students Society",2024-01-22,40
+"Otago Computing Students Society",2024-06-25,45
 "Otrum AS",2020-12-15,1932
+"Our Balbriggan",2024-06-24,549
+"Out in Tech",2024-06-24,26235
 "Outlier",2021-06-02,29
 "Outlier",2021-06-09,34
 "Outlier",2021-06-16,38
@@ -4343,6 +4205,11 @@
 "Outreachy",2023-10-18,12267
 "Outreachy",2023-12-18,12771
 "Outreachy",2024-01-22,13898
+"Outreachy",2024-04-09,15206
+"Outreachy",2024-04-19,15306
+"Outreachy",2024-06-24,16179
+"Outreachy",2024-06-28,16200
+"Outreachy",2024-07-20,16353
 "OutreachyOutreachy",2023-12-14,NA
 "Overseas Buildings Operations",2023-01-21,29532
 "Overseas Buildings Operations",2023-02-25,34251
@@ -4394,6 +4261,12 @@
 "PAR Technology",2023-12-14,69350
 "PAR Technology",2023-12-17,69428
 "PAR Technology",2023-12-18,69461
+"PAR Technology",2024-04-08,74553
+"PAR Technology",2024-05-04,75334
+"PAR Technology",2024-05-28,75803
+"PAR Technology",2024-06-24,76140
+"PAR Technology",2024-06-28,76250
+"PAR Technology",2024-07-20,76707
 "PBworks",2023-01-25,206
 "PBworks",2023-01-29,206
 "PCG<92>s Human Services team",2023-03-13,606
@@ -4409,10 +4282,27 @@
 "PCG<92>s Human Services team",2023-08-29,655
 "PCG<92>s Human Services team",2023-10-18,665
 "PCG<92>s Human Services team",2023-12-17,674
+"PCG<92>s Human Services team",2023-12-18,674
 "PCG<U+0092>s Human Services team",2023-01-21,603
 "PCG<U+0092>s Human Services team",2023-02-25,605
-"PCG<92>s Human Services team",2023-12-18,674
 "PCGís Human Services team",2023-12-18,674
+"PHILANTHROPY ADVISORS",2024-06-25,5547
+"PLACE",2024-04-09,1436
+"PLACE",2024-04-19,1435
+"PLACE",2024-06-28,1539
+"PLACE",2024-07-20,1555
+"PNC",2024-04-08,302489
+"PNC",2024-05-04,305736
+"PNC",2024-05-28,308168
+"PNC",2024-06-24,310239
+"PNC",2024-06-28,310739
+"PNC",2024-07-20,313089
+"PTC",2024-04-08,331075
+"PTC",2024-05-04,333602
+"PTC",2024-05-28,335274
+"PTC",2024-06-24,337293
+"PTC",2024-06-28,337651
+"PTC",2024-07-20,339622
 "PacBio",2023-01-25,47094
 "PacBio",2023-01-29,47243
 "Pace",2023-01-25,20579
@@ -4613,6 +4503,11 @@
 "Pacific Whale Foundation",2023-12-16,2784
 "Pacific Whale Foundation",2023-12-18,2784
 "Pacific Whale Foundation",2024-01-22,2824
+"Pacific Whale Foundation",2024-04-09,2891
+"Pacific Whale Foundation",2024-04-19,2897
+"Pacific Whale Foundation",2024-05-28,2926
+"Pacific Whale Foundation",2024-06-28,2960
+"Pacific Whale Foundation",2024-07-20,2978
 "Packaging and Recycling Association for Indonesia Sustainable Environment (PRAISE)",2020-11-21,305
 "Packaging and Recycling Association for Indonesia Sustainable Environment (PRAISE)",2020-12-27,340
 "PackagingCon",2023-01-25,41
@@ -4627,6 +4522,9 @@
 "PackagingCon",2023-12-16,134
 "PackagingCon",2023-12-18,134
 "PackagingCon",2024-01-22,136
+"PackagingCon",2024-04-09,144
+"PackagingCon",2024-06-28,145
+"PackagingCon",2024-07-20,147
 "Packt",2021-07-18,24416
 "Packt",2021-07-22,24786
 "Packt",2021-08-14,26795
@@ -4757,6 +4655,11 @@
 "Packt",2023-12-16,113309
 "Packt",2023-12-18,113537
 "Packt",2024-01-22,116119
+"Packt",2024-04-09,119037
+"Packt",2024-04-19,119385
+"Packt",2024-05-28,120551
+"Packt",2024-06-28,121506
+"Packt",2024-07-20,121999
 "Padverb",2023-04-10,8049
 "Padverb",2023-04-23,8080
 "Padverb Corp",2023-06-05,8487
@@ -4801,6 +4704,12 @@
 "Palo Alto Networks",2023-12-14,1015051
 "Palo Alto Networks",2023-12-17,1019412
 "Palo Alto Networks",2023-12-18,1020680
+"Palo Alto Networks",2024-04-08,1096634
+"Palo Alto Networks",2024-05-04,1119576
+"Palo Alto Networks",2024-05-28,1143088
+"Palo Alto Networks",2024-06-24,1171778
+"Palo Alto Networks",2024-06-28,1176209
+"Palo Alto Networks",2024-07-20,1198738
 "Pandas",2023-01-25,272
 "Pandas",2023-03-25,559
 "Pandas",2023-03-29,651
@@ -4833,6 +4742,9 @@
 "Pandas",2023-12-14,1796
 "Pandas",2023-12-18,1811
 "Pandas",2024-01-22,1933
+"Pandas",2024-04-09,2257
+"Pandas",2024-06-28,2559
+"Pandas",2024-07-20,2647
 "Panel",2023-06-05,1284
 "Panel",2023-06-11,1314
 "Panel",2023-06-23,1355
@@ -4872,6 +4784,9 @@
 "Paragon Space Development Corporation",2023-12-14,7896
 "Paragon Space Development Corporation",2023-12-17,7901
 "Paragon Space Development Corporation",2023-12-18,7902
+"Paragon Space Development Corporation",2024-05-04,8048
+"Paragon Space Development Corporation",2024-05-28,8088
+"Paragon Space Development Corporation",2024-06-28,8224
 "Parallel Domain",2023-01-21,3131
 "Parallel Domain",2023-02-25,3270
 "Parallel Domain",2023-03-13,3308
@@ -4999,6 +4914,7 @@
 "Paris Machine Learning Meetup",2023-12-17,451
 "Paris Machine Learning Meetup",2023-12-18,451
 "Paris Machine Learning Meetup",2024-01-22,452
+"Paris Machine Learning Meetup",2024-06-25,462
 "Paris Women in Machine Learning and Data Science",2023-07-23,2670
 "Paris Women in Machine Learning and Data Science",2023-08-05,2679
 "Paris Women in Machine Learning and Data Science",2023-08-29,2693
@@ -5070,6 +4986,12 @@
 "PayPal",2023-12-14,1325221
 "PayPal",2023-12-17,1326407
 "PayPal",2023-12-18,1326729
+"PayPal",2024-04-08,1361437
+"PayPal",2024-05-04,1368830
+"PayPal",2024-05-28,1376192
+"PayPal",2024-06-24,1384019
+"PayPal",2024-06-28,1385353
+"PayPal",2024-07-20,1392758
 "Payload",2023-01-21,9633
 "Payload",2023-02-25,10378
 "Payload",2023-03-13,10730
@@ -5084,6 +5006,300 @@
 "Payload",2023-08-05,14077
 "Payload",2023-08-29,14608
 "Payload",2023-10-18,15818
-"parcelLab",2020-12-27,4156
-"parcelLab",2021-02-19,4398
-"parcelLab",2021-03-26,4559
+"Peace Corps",2024-04-08,154440
+"Peace Corps",2024-05-04,156538
+"Peace Corps",2024-05-28,158006
+"Peace Corps",2024-06-24,159342
+"Peace Corps",2024-06-28,159591
+"Peace Corps",2024-07-20,161146
+"Pearson",2024-04-08,811018
+"Pearson",2024-05-04,822964
+"Pearson",2024-05-28,832564
+"Pearson",2024-06-24,840301
+"Pearson",2024-06-28,841262
+"Pearson",2024-07-20,846127
+"Pegasystems",2024-05-04,329298
+"Pegasystems",2024-05-28,331943
+"Pegasystems",2024-06-28,336323
+"PenFed Credit Union",2024-04-08,36385
+"PenFed Credit Union",2024-05-04,36750
+"PenFed Credit Union",2024-05-28,37012
+"PenFed Credit Union",2024-06-24,37320
+"PenFed Credit Union",2024-06-28,37387
+"PenFed Credit Union",2024-07-20,37647
+"Pensacola Symphony Orchestra",2024-06-28,277
+"Pentair",2024-05-04,254962
+"Pentair",2024-05-28,257344
+"Pentair",2024-06-28,263096
+"PeopleCert",2024-06-28,148620
+"Pewter Games Studios",2024-06-24,721
+"Pfizer",2024-04-08,5779948
+"Pfizer",2024-05-04,5813560
+"Pfizer",2024-05-28,5848081
+"Pfizer",2024-06-24,5878989
+"Pfizer",2024-06-28,5884091
+"Pfizer",2024-07-20,5909664
+"Pharos Platforms Inc.",2024-06-25,672
+"Pink Programming",2024-06-24,9645
+"Pitchify",2024-06-24,71
+"Planet Forward",2024-05-04,193922
+"Planet Forward",2024-06-28,195949
+"PlantingSpace",2024-04-09,1035
+"PlantingSpace",2024-04-19,1044
+"PlantingSpace",2024-06-28,1227
+"PlantingSpace",2024-07-20,1276
+"Plotly",2024-04-09,38643
+"Plotly",2024-04-19,38948
+"Plotly",2024-06-28,40040
+"Plotly",2024-07-20,40290
+"Pluralsight",2024-04-09,196656
+"Pluralsight",2024-04-19,197359
+"Pluralsight",2024-05-28,199314
+"Pluralsight",2024-06-28,200626
+"Pluralsight",2024-07-20,201615
+"Polars",2024-06-28,12228
+"Polars",2024-07-20,13689
+"PorterShed",2024-06-24,5991
+"Posit PBC",2024-04-09,100219
+"Posit PBC",2024-04-19,100467
+"Posit PBC",2024-05-28,101642
+"Posit PBC",2024-06-25,102277
+"Posit PBC",2024-06-28,102438
+"Posit PBC",2024-07-20,103045
+"Pratt & Whitney",2024-04-08,706685
+"Pratt & Whitney",2024-05-04,713356
+"Pratt & Whitney",2024-05-28,719700
+"Pratt & Whitney",2024-06-24,726328
+"Pratt & Whitney",2024-06-28,727098
+"Pratt & Whitney",2024-07-20,730878
+"Primary Intelligence | Now Part of Corporate Visions",2024-07-20,2678
+"ProCogia",2024-04-09,8323
+"ProCogia",2024-04-19,8368
+"ProCogia",2024-06-28,8653
+"ProCogia",2024-07-20,8782
+"Project Jupyter",2024-04-09,14801
+"Project Jupyter",2024-04-19,14837
+"Project Jupyter",2024-06-28,15919
+"Project Jupyter",2024-07-20,16074
+"Proprinters",2024-06-24,6
+"Propylon",2024-06-24,3061
+"Prospect 33",2024-06-25,21061
+"Prudential Financial",2024-04-08,338152
+"Prudential Financial",2024-05-04,340901
+"Prudential Financial",2024-05-28,343280
+"Prudential Financial",2024-06-24,346292
+"Prudential Financial",2024-06-28,346825
+"Prudential Financial",2024-07-20,349055
+"Psych #rstats Club",2024-07-20,674
+"Psychology Today",2024-04-08,1055306
+"Psychology Today",2024-05-04,1061217
+"Psychology Today",2024-05-28,1064583
+"Psychology Today",2024-06-28,1070573
+"Psychology Today",2024-07-20,1073630
+"Public Allies",2024-04-08,8025
+"Public Allies",2024-05-04,8097
+"Public Allies",2024-05-28,8133
+"Public Allies",2024-06-24,8294
+"Public Allies",2024-06-28,8304
+"Public Allies",2024-07-20,8417
+"Public Consulting Group",2024-04-08,46767
+"Public Consulting Group",2024-05-04,47737
+"Public Consulting Group",2024-05-28,48522
+"Public Consulting Group",2024-06-24,49281
+"Public Consulting Group",2024-06-28,49388
+"Public Consulting Group",2024-07-20,49833
+"Publix Super Markets",2024-04-08,231079
+"Publix Super Markets",2024-05-04,233037
+"Publix Super Markets",2024-05-28,234907
+"Publix Super Markets",2024-06-24,235978
+"Publix Super Markets",2024-06-28,236337
+"Publix Super Markets",2024-07-20,237875
+"PumasAI",2024-04-09,4547
+"PumasAI",2024-04-19,4579
+"PumasAI",2024-06-25,4782
+"PumasAI",2024-06-28,4786
+"PumasAI",2024-07-20,4863
+"Purpose Town",2024-06-24,176
+"PwC",2024-04-08,6062043
+"PwC",2024-05-04,6120007
+"PwC",2024-05-28,6182134
+"PwC",2024-06-24,6240209
+"PwC",2024-06-28,6249888
+"PwC",2024-07-20,6306688
+"PyCaret",2024-04-09,19515
+"PyCaret",2024-04-19,19528
+"PyCaret",2024-06-28,19559
+"PyCaret",2024-07-20,19577
+"PyData",2024-04-09,710
+"PyData",2024-04-19,740
+"PyData",2024-06-25,887
+"PyData",2024-06-28,892
+"PyData",2024-07-20,908
+"PyData Amsterdam",2024-04-09,2185
+"PyData Amsterdam",2024-04-19,2218
+"PyData Amsterdam",2024-06-28,2559
+"PyData Amsterdam",2024-07-20,2691
+"PyData Berlin",2024-04-09,888
+"PyData Berlin",2024-04-19,898
+"PyData Berlin",2024-06-28,964
+"PyData Berlin",2024-07-20,969
+"PyData Delhi",2024-04-09,1746
+"PyData Delhi",2024-04-19,1746
+"PyData Delhi",2024-06-28,1761
+"PyData Delhi",2024-07-20,1762
+"PyData Global",2024-04-09,5687
+"PyData Global",2024-06-25,5886
+"PyData Global",2024-06-28,5893
+"PyData Global",2024-07-20,5944
+"PyData Ireland",2024-04-09,128
+"PyData Ireland",2024-06-28,199
+"PyData Ireland",2024-07-20,205
+"PyData London",2024-04-09,904
+"PyData London",2024-04-19,908
+"PyData London",2024-06-28,1105
+"PyData London",2024-07-20,1117
+"PyData Warsaw",2024-06-25,238
+"PyLadies Amsterdam",2024-06-24,1383
+"PyLadies Delhi",2024-06-24,759
+"PyLadies Dublin",2024-04-09,486
+"PyLadies Dublin",2024-06-28,536
+"PyLadies Dublin",2024-07-20,547
+"PyLadies New York City (NYC)",2024-06-24,442
+"PyLadies Seattle",2024-04-09,131
+"PyLadies Seattle",2024-06-25,167
+"PyLadies Seattle",2024-06-28,171
+"PyLadies Seattle",2024-07-20,176
+"PyLadies Vancouver",2024-06-24,74
+"PyTorch",2024-06-25,256363
+"Python Ireland",2024-04-09,2943
+"Python Ireland",2024-04-19,2948
+"Python Ireland",2024-06-24,3046
+"Python Ireland",2024-06-25,3053
+"Python Ireland",2024-06-28,3067
+"Python Ireland",2024-07-20,3093
+"Python Software Foundation",2024-04-09,130970
+"Python Software Foundation",2024-04-19,131205
+"Python Software Foundation",2024-06-24,132978
+"Python Software Foundation",2024-06-25,132996
+"Python Software Foundation",2024-06-28,133059
+"Python Software Foundation",2024-07-20,133680
+"QTA Tech",2024-04-09,791
+"QTA Tech",2024-06-28,864
+"QTA Tech",2024-07-20,883
+"Qatar Computing Research Institute",2024-04-09,14011
+"Qatar Computing Research Institute",2024-04-19,14063
+"Qatar Computing Research Institute",2024-06-28,14568
+"Qatar Computing Research Institute",2024-07-20,14698
+"Qatar Foundation",2024-04-09,572177
+"Qatar Foundation",2024-04-19,573693
+"Qatar Foundation",2024-05-28,584003
+"Qatar Foundation",2024-06-28,588075
+"Qatar Foundation",2024-07-20,590233
+"Qgiv",2024-05-04,4225
+"Qgiv",2024-06-28,4288
+"Qualcomm",2024-04-08,1439404
+"Qualcomm",2024-05-04,1460229
+"Qualcomm",2024-05-28,1483572
+"Qualcomm",2024-06-24,1509636
+"Qualcomm",2024-06-28,1513991
+"Qualcomm",2024-07-20,1536170
+"Qualtrics",2024-04-09,252780
+"Qualtrics",2024-04-19,254091
+"Qualtrics",2024-05-28,259747
+"Qualtrics",2024-06-28,263842
+"Qualtrics",2024-07-20,265928
+"Qualys",2024-04-08,183855
+"Qualys",2024-05-04,187301
+"Qualys",2024-05-28,191635
+"Qualys",2024-06-24,196901
+"Qualys",2024-06-28,197627
+"Qualys",2024-07-20,200535
+"Quansight",2024-04-09,3423
+"Quansight",2024-04-19,3472
+"Quansight",2024-06-28,3706
+"Quansight",2024-07-20,3775
+"Quansight Initiate",2024-04-09,138
+"Quansight Initiate",2024-04-19,138
+"Quansight Initiate",2024-06-28,139
+"Quansight Initiate",2024-07-20,143
+"QuantEcon",2024-04-09,462
+"QuantEcon",2024-04-19,459
+"QuantEcon",2024-06-28,481
+"QuantEcon",2024-07-20,493
+"QuantStack",2024-04-09,1411
+"QuantStack",2024-04-19,1427
+"QuantStack",2024-06-28,1551
+"QuantStack",2024-07-20,1630
+"QuantumBlack AI by McKinsey",2024-04-09,202360
+"QuantumBlack AI by McKinsey",2024-04-19,202680
+"QuantumBlack AI by McKinsey",2024-05-28,203940
+"QuantumBlack AI by McKinsey",2024-06-28,204988
+"QuantumBlack AI by McKinsey",2024-07-20,205539
+"Queen Mary Electronic Engineering & Computer Science Society",2024-06-25,48
+"Questrom School of Business Boston University",2024-04-08,63429
+"Questrom School of Business Boston University",2024-05-04,63759
+"Questrom School of Business Boston University",2024-05-28,64040
+"Questrom School of Business Boston University",2024-06-24,64315
+"Questrom School of Business Boston University",2024-06-28,64360
+"Questrom School of Business Boston University",2024-07-20,64571
+"Qumu - An Enghouse Company",2024-05-04,7616
+"Qumu - An Enghouse Company",2024-05-28,7624
+"Qumu - An Enghouse Company",2024-06-28,7638
+"Quovantis Technologies",2024-04-09,14473
+"Quovantis Technologies",2024-04-19,14479
+"Quovantis Technologies",2024-05-28,14517
+"Quovantis Technologies",2024-06-28,14538
+"Quovantis Technologies",2024-07-20,14541
+"R Consortium",2024-04-09,6753
+"R Consortium",2024-04-19,6836
+"R Consortium",2024-06-28,7188
+"R Consortium",2024-07-20,7293
+"R For All",2024-07-20,628
+"R User Community",2024-03-08,16871
+"R User Community",2024-04-09,17201
+"R User Community",2024-04-19,17305
+"R User Community",2024-06-24,17745
+"R User Community",2024-06-25,17745
+"R User Community",2024-06-28,17760
+"R User Community",2024-07-20,18030
+"R User Community Africa",2024-04-09,3
+"R User Community Africa",2024-04-19,3
+"R User Community Africa",2024-06-28,49
+"R User Community Africa",2024-07-20,64
+"R User Community EMEA",2024-04-09,197
+"R User Community EMEA",2024-04-19,236
+"R User Community EMEA",2024-06-28,354
+"R User Community EMEA",2024-07-20,386
+"R User Group Nepal",2024-04-09,85
+"R User Group Nepal",2024-04-19,86
+"R User Group Nepal",2024-06-28,85
+"R User Group Nepal",2024-07-20,91
+"R Users Group - Ecuador",2024-04-09,292
+"R Users Group - Ecuador",2024-04-19,293
+"R Users Group - Ecuador",2024-06-28,293
+"R Users Group - Ecuador",2024-07-20,295
+"R community Cameroon",2024-04-09,272
+"R community Cameroon",2024-06-28,304
+"R community Cameroon",2024-07-20,305
+"R for the Rest of Us",2024-06-28,3174
+"R for the Rest of Us",2024-07-20,3482
+"R-Forwards",2024-06-28,10
+"R-Forwards",2024-07-20,10
+"R-Ladies Amsterdam",2024-04-09,405
+"R-Ladies Amsterdam",2024-04-19,416
+"R-Ladies Amsterdam",2024-06-28,423
+"R-Ladies Amsterdam",2024-07-20,424
+"R-Ladies Cologne",2024-06-28,329
+"R-Ladies Cologne",2024-07-20,332
+"R-Ladies D.C.",2024-04-09,161
+"R-Ladies D.C.",2024-06-28,163
+"R-Ladies D.C.",2024-07-20,164
+"R-Ladies Gaborone",2024-04-09,550
+"R-Ladies Gaborone",2024-06-28,630
+"R-Ladies Gaborone",2024-07-20,669
+"R-Ladies Global",2024-03-08,6445
+"R-Ladies Global",2024-04-09,6638
+"R-Ladies Global",2024-04-19,6658
+"R-Ladies Global",2024-06-28,6782
+"R-Ladies Global",2024-07-20,6835
+"R-Ladies Lima",2024-07-20,1609
