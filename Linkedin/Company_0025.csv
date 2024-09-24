@@ -1,4 +1,6 @@
 "Company","Date","Followers"
+"Workist",2023-01-25,1766
+"World Bank Group",2023-01-28,286799
 "World Economic Forum",2023-01-21,4360337
 "World Economic Forum",2023-01-28,4378194
 "World Economic Forum",2023-02-10,4403188
@@ -24,6 +26,9 @@
 "World Economic Forum",2024-06-24,5096937
 "World Economic Forum",2024-06-28,5101714
 "World Economic Forum",2024-07-20,5127735
+"World Economic Forum",2024-08-06,5146344
+"World Economic Forum",2024-09-02,5172399
+"World Economic Forum",2024-09-16,5182790
 "World Federation Of Neurology",2021-02-19,285
 "World Federation Of Neurology",2021-03-06,286
 "World Federation Of Neurology",2021-03-26,294
@@ -68,6 +73,9 @@
 "World Health Organization",2024-06-24,5583384
 "World Health Organization",2024-06-28,5587428
 "World Health Organization",2024-07-20,5606127
+"World Health Organization",2024-08-06,5618948
+"World Health Organization",2024-09-02,5644961
+"World Health Organization",2024-09-16,5660028
 "World Meteorological Organization",2023-01-28,61247
 "World Resources Institute",2023-01-28,141500
 "World of Beer Franchising Inc.",2023-01-21,6709
@@ -88,6 +96,8 @@
 "World of Beer Franchising Inc.",2023-12-17,6807
 "World of Beer Franchising Inc.",2023-12-18,6807
 "World of Beer Franchising Inc.",2024-06-28,6927
+"World of Beer Franchising Inc.",2024-08-06,6940
+"World of Beer Franchising Inc.",2024-09-02,6954
 "WorldQuant",2021-01-06,38151
 "WorldQuant",2021-01-11,38210
 "WorldQuant",2021-01-15,38263
@@ -266,6 +276,16 @@
 "WorldQuant",2024-06-28,99752
 "WorldQuant",2024-07-17,101238
 "WorldQuant",2024-07-20,101531
+"WorldQuant",2024-07-23,101789
+"WorldQuant",2024-08-02,102497
+"WorldQuant",2024-08-06,102701
+"WorldQuant",2024-08-09,103006
+"WorldQuant",2024-08-20,103703
+"WorldQuant",2024-09-02,104666
+"WorldQuant",2024-09-07,105099
+"WorldQuant",2024-09-10,105374
+"WorldQuant",2024-09-16,105937
+"WorldQuant",2024-09-24,106706
 "Worldpanel by Kantar",2023-01-28,128322
 "Writer's Relief",2023-01-21,138945
 "Writer's Relief",2023-02-10,139644
@@ -285,6 +305,7 @@
 "Writer's Relief",2023-12-17,144494
 "Writer's Relief",2023-12-18,144525
 "Writer's Relief",2024-06-28,146145
+"Writer's Relief",2024-09-02,145665
 "Wyss Institute at Harvard University",2023-01-25,37281
 "Wyss Institute at Harvard University",2023-01-29,37352
 "X the moonshot factory",2023-01-21,130275
@@ -485,6 +506,17 @@
 "X-Europe Data Science",2024-06-28,88
 "X-Europe Data Science",2024-07-17,87
 "X-Europe Data Science",2024-07-20,87
+"X-Europe Data Science",2024-07-23,87
+"X-Europe Data Science",2024-08-02,87
+"X-Europe Data Science",2024-08-06,87
+"X-Europe Data Science",2024-08-09,87
+"X-Europe Data Science",2024-08-20,88
+"X-Europe Data Science",2024-09-02,88
+"X-Europe Data Science",2024-09-07,88
+"X-Europe Data Science",2024-09-10,88
+"X-Europe Data Science",2024-09-16,88
+"X-Europe Data Science",2024-09-17,88
+"X-Europe Data Science",2024-09-24,89
 "XFactor Ventures",2023-01-21,2552
 "XFactor Ventures",2023-02-25,2594
 "XFactor Ventures",2023-03-13,2641
@@ -683,6 +715,16 @@
 "Xanadu Consultancy",2024-06-28,2993
 "Xanadu Consultancy",2024-07-17,3005
 "Xanadu Consultancy",2024-07-20,3006
+"Xanadu Consultancy",2024-07-23,3006
+"Xanadu Consultancy",2024-08-02,3009
+"Xanadu Consultancy",2024-08-06,3012
+"Xanadu Consultancy",2024-08-09,3014
+"Xanadu Consultancy",2024-08-20,3016
+"Xanadu Consultancy",2024-09-02,3020
+"Xanadu Consultancy",2024-09-07,3024
+"Xanadu Consultancy",2024-09-10,3025
+"Xanadu Consultancy",2024-09-16,3028
+"Xanadu Consultancy",2024-09-24,3028
 "Xava",2021-03-30,47
 "Xava",2021-04-06,48
 "Xava",2021-04-10,48
@@ -843,6 +885,16 @@
 "Xava",2024-06-28,303
 "Xava",2024-07-17,303
 "Xava",2024-07-20,303
+"Xava",2024-07-23,303
+"Xava",2024-08-02,302
+"Xava",2024-08-06,302
+"Xava",2024-08-09,301
+"Xava",2024-08-20,301
+"Xava",2024-09-02,302
+"Xava",2024-09-07,303
+"Xava",2024-09-10,302
+"Xava",2024-09-16,304
+"Xava",2024-09-24,304
 "Xcede",2023-01-25,254030
 "Xebia",2023-08-05,233895
 "Xebia",2023-08-29,238458
@@ -856,6 +908,9 @@
 "Xebia",2024-06-24,253231
 "Xebia",2024-06-28,254044
 "Xebia",2024-07-20,262518
+"Xebia",2024-08-06,270246
+"Xebia",2024-09-02,278161
+"Xebia",2024-09-16,281259
 "Xebia | Data",2023-06-05,10465
 "Xebia | Data",2023-06-11,10503
 "Xebia | Data",2023-06-23,10557
@@ -1059,6 +1114,16 @@
 "Xuntos - Let's Get Together",2024-06-28,843
 "Xuntos - Let's Get Together",2024-07-17,845
 "Xuntos - Let's Get Together",2024-07-20,847
+"Xuntos - Let's Get Together",2024-07-23,847
+"Xuntos - Let's Get Together",2024-08-02,848
+"Xuntos - Let's Get Together",2024-08-06,848
+"Xuntos - Let's Get Together",2024-08-09,848
+"Xuntos - Let's Get Together",2024-08-20,848
+"Xuntos - Let's Get Together",2024-09-02,851
+"Xuntos - Let's Get Together",2024-09-07,852
+"Xuntos - Let's Get Together",2024-09-10,852
+"Xuntos - Let's Get Together",2024-09-16,851
+"Xuntos - Let's Get Together",2024-09-24,851
 "Xuntos - Let's Get TogetherXuntos - Let's Get Together",2023-12-14,NA
 "Xylem",2023-01-28,184713
 "Xyston Inc.",2023-01-21,267
@@ -1096,6 +1161,8 @@
 "Y Combinator",2024-05-04,833671
 "Y Combinator",2024-05-28,853901
 "Y Combinator",2024-06-28,884259
+"Y Combinator",2024-08-06,937206
+"Y Combinator",2024-09-02,985642
 "YAGER",2023-01-25,7656
 "YData",2023-06-05,5623
 "YData",2023-06-11,5633
@@ -1106,6 +1173,8 @@
 "YData",2023-08-29,5858
 "YData",2023-10-18,6003
 "YData",2023-12-18,6111
+"YMCA of the USA",2024-09-02,122051
+"YMCA of the USA",2024-09-16,122373
 "YMCA of the USA (National Resource Office)",2023-01-21,117464
 "YMCA of the USA (National Resource Office)",2023-02-10,117720
 "YMCA of the USA (National Resource Office)",2023-02-25,117836
@@ -1130,6 +1199,7 @@
 "YMCA of the USA (National Resource Office)",2024-06-24,121416
 "YMCA of the USA (National Resource Office)",2024-06-28,121476
 "YMCA of the USA (National Resource Office)",2024-07-20,121641
+"YMCA of the USA (National Resource Office)",2024-08-06,121773
 "YND",2023-01-25,1253
 "Yahoo",2023-01-25,716277
 "Yahoo",2023-01-29,716713
@@ -1165,6 +1235,9 @@
 "YouTube",2024-06-24,2128695
 "YouTube",2024-06-28,2130174
 "YouTube",2024-07-20,2137671
+"YouTube",2024-08-06,2144376
+"YouTube",2024-09-02,2153834
+"YouTube",2024-09-16,2161047
 "Young Democrats of America Rural Caucus",2023-01-21,43
 "Young Democrats of America Rural Caucus",2023-02-10,44
 "Young Democrats of America Rural Caucus",2023-02-25,44
@@ -1211,12 +1284,24 @@
 "ZDNET",2023-12-17,309645
 "ZDNET",2023-12-18,309646
 "ZEREN",2023-01-25,15380
+"ZIMSA - Zimbabwean Statistical Association",2024-09-16,1739
+"ZIMSA - Zimbabwean Statistical Association",2024-09-24,1778
 "Zeitgold (acquired by Deel)",2023-01-25,2932
 "ZenMate",2023-01-25,1400
 "Zendesk AI agents (Ultimate)",2024-06-24,13559
 "Zendesk AI agents (Ultimate)",2024-06-28,13582
 "Zendesk AI agents (Ultimate)",2024-07-17,13648
 "Zendesk AI agents (Ultimate)",2024-07-20,13658
+"Zendesk AI agents (Ultimate)",2024-07-23,13669
+"Zendesk AI agents (Ultimate)",2024-08-02,13689
+"Zendesk AI agents (Ultimate)",2024-08-06,13691
+"Zendesk AI agents (Ultimate)",2024-08-09,13697
+"Zendesk AI agents (Ultimate)",2024-08-20,13725
+"Zendesk AI agents (Ultimate)",2024-09-02,13756
+"Zendesk AI agents (Ultimate)",2024-09-07,13777
+"Zendesk AI agents (Ultimate)",2024-09-10,13782
+"Zendesk AI agents (Ultimate)",2024-09-16,13796
+"Zendesk AI agents (Ultimate)",2024-09-24,13803
 "Zenhomes",2023-01-25,1157
 "Zenith Epigenetics Ltd.",2023-01-25,875
 "Zenith Epigenetics Ltd.",2023-01-29,876
@@ -1232,6 +1317,9 @@
 "Zero-G",2024-05-04,4427
 "Zero-G",2024-05-28,4492
 "Zero-G",2024-06-28,4531
+"Zero-G",2024-08-06,4570
+"Zero-G",2024-09-02,4611
+"Zero-G",2024-09-16,4654
 "Zero-Point Security Ltd",2023-01-21,7323
 "Zero-Point Security Ltd",2023-02-25,7692
 "Zero-Point Security Ltd",2023-03-13,7797
@@ -1444,6 +1532,16 @@
 "Zindi",2024-06-28,15267
 "Zindi",2024-07-17,15411
 "Zindi",2024-07-20,15430
+"Zindi",2024-07-23,15459
+"Zindi",2024-08-02,15516
+"Zindi",2024-08-06,15534
+"Zindi",2024-08-09,15556
+"Zindi",2024-08-20,15614
+"Zindi",2024-09-02,15792
+"Zindi",2024-09-07,15848
+"Zindi",2024-09-10,15866
+"Zindi",2024-09-16,15899
+"Zindi",2024-09-24,15966
 "ZindiZindi",2023-12-14,NA
 "Zoom",2023-01-21,493925
 "Zoom",2023-02-10,496980
@@ -1501,11 +1599,17 @@
 "Zurich Insurance",2024-06-24,864956
 "Zurich Insurance",2024-06-28,867148
 "Zurich Insurance",2024-07-20,875009
+"Zurich Insurance",2024-08-06,880148
+"Zurich Insurance",2024-09-02,888523
+"Zurich Insurance",2024-09-16,893718
 "Zymergen",2023-01-25,28825
 "Zymergen",2023-01-29,28850
 "Zymeworks Inc.",2023-01-25,18139
 "Zymeworks Inc.",2023-01-29,18196
 "a.i. solutions",2024-06-28,6411
+"a.i. solutions",2024-08-06,6492
+"a.i. solutions",2024-09-02,6555
+"a.i. solutions",2024-09-16,6583
 "allspatial - Geospatial Software and Services",2021-06-02,9
 "allspatial - Geospatial Software and Services",2021-06-09,9
 "allspatial - Geospatial Software and Services",2021-06-16,9
@@ -1654,6 +1758,16 @@
 "allspatial - Geospatial Software and Services",2024-06-28,19
 "allspatial - Geospatial Software and Services",2024-07-17,19
 "allspatial - Geospatial Software and Services",2024-07-20,19
+"allspatial - Geospatial Software and Services",2024-07-23,19
+"allspatial - Geospatial Software and Services",2024-08-02,20
+"allspatial - Geospatial Software and Services",2024-08-06,20
+"allspatial - Geospatial Software and Services",2024-08-09,20
+"allspatial - Geospatial Software and Services",2024-08-20,20
+"allspatial - Geospatial Software and Services",2024-09-02,20
+"allspatial - Geospatial Software and Services",2024-09-07,20
+"allspatial - Geospatial Software and Services",2024-09-10,20
+"allspatial - Geospatial Software and Services",2024-09-16,20
+"allspatial - Geospatial Software and Services",2024-09-24,20
 "altizem",2021-02-19,6282
 "altizem",2021-03-26,6479
 "athenahealth",2023-01-21,148559
@@ -1680,6 +1794,9 @@
 "athenahealth",2024-06-24,228436
 "athenahealth",2024-06-28,229142
 "athenahealth",2024-07-20,232730
+"athenahealth",2024-08-06,235147
+"athenahealth",2024-09-02,240691
+"athenahealth",2024-09-16,242739
 "bina",2023-01-25,2200
 "blinkbox",2023-01-25,3454
 "blinkbox",2023-01-29,3454
@@ -1701,6 +1818,7 @@
 "blueStone Staffing",2023-12-17,17264
 "blueStone Staffing",2023-12-18,17273
 "blueStone Staffing",2024-06-28,24336
+"blueStone Staffing",2024-09-02,25765
 "boston",2023-01-21,2044
 "boston",2023-02-25,2155
 "boston",2023-03-13,2215
@@ -1741,10 +1859,30 @@
 "crispycoaching",2023-01-25,210
 "cynkra GmbH",2024-07-17,468
 "cynkra GmbH",2024-07-20,477
+"cynkra GmbH",2024-07-23,485
+"cynkra GmbH",2024-08-02,497
+"cynkra GmbH",2024-08-06,498
+"cynkra GmbH",2024-08-09,513
+"cynkra GmbH",2024-08-20,533
+"cynkra GmbH",2024-09-02,542
+"cynkra GmbH",2024-09-07,549
+"cynkra GmbH",2024-09-10,550
+"cynkra GmbH",2024-09-16,565
+"cynkra GmbH",2024-09-24,567
 "data.table Community",2024-07-08,29
 "data.table Community",2024-07-09,38
 "data.table Community",2024-07-17,93
 "data.table Community",2024-07-20,100
+"data.table Community",2024-07-23,133
+"data.table Community",2024-08-02,139
+"data.table Community",2024-08-06,139
+"data.table Community",2024-08-09,140
+"data.table Community",2024-08-20,161
+"data.table Community",2024-09-02,161
+"data.table Community",2024-09-07,164
+"data.table Community",2024-09-10,167
+"data.table Community",2024-09-16,168
+"data.table Community",2024-09-24,170
 "datatraining.io",2023-05-12,25784
 "datatraining.io",2023-05-19,25968
 "datatraining.io",2023-05-29,26276
@@ -1776,6 +1914,16 @@
 "datatraining.io",2024-06-28,39298
 "datatraining.io",2024-07-17,39807
 "datatraining.io",2024-07-20,39874
+"datatraining.io",2024-07-23,39948
+"datatraining.io",2024-08-02,40241
+"datatraining.io",2024-08-06,40291
+"datatraining.io",2024-08-09,40360
+"datatraining.io",2024-08-20,40617
+"datatraining.io",2024-09-02,40899
+"datatraining.io",2024-09-07,41116
+"datatraining.io",2024-09-10,41202
+"datatraining.io",2024-09-16,41371
+"datatraining.io",2024-09-24,41524
 "datatraining.iodatatraining.io",2023-12-14,NA
 "deepkapha.ai",2020-12-27,38286
 "deepkapha.ai",2021-02-19,39033
@@ -1992,6 +2140,16 @@
 "dotConferences",2024-06-28,630
 "dotConferences",2024-07-17,665
 "dotConferences",2024-07-20,668
+"dotConferences",2024-07-23,668
+"dotConferences",2024-08-02,716
+"dotConferences",2024-08-06,725
+"dotConferences",2024-08-09,776
+"dotConferences",2024-08-20,822
+"dotConferences",2024-09-02,860
+"dotConferences",2024-09-07,903
+"dotConferences",2024-09-10,912
+"dotConferences",2024-09-16,941
+"dotConferences",2024-09-24,970
 "eLearnSecurity",2023-01-21,143567
 "eLearnSecurity",2023-02-10,145460
 "eLearnSecurity",2023-02-25,146827
@@ -2069,6 +2227,16 @@
 "environmental design solutions",2023-01-28,17393
 "eoda GmbH",2024-07-17,878
 "eoda GmbH",2024-07-20,878
+"eoda GmbH",2024-07-23,878
+"eoda GmbH",2024-08-02,882
+"eoda GmbH",2024-08-06,882
+"eoda GmbH",2024-08-09,887
+"eoda GmbH",2024-08-20,906
+"eoda GmbH",2024-09-02,927
+"eoda GmbH",2024-09-07,938
+"eoda GmbH",2024-09-10,942
+"eoda GmbH",2024-09-16,949
+"eoda GmbH",2024-09-24,965
 "esanum",2023-01-25,1949
 "exakt health",2023-01-25,1022
 "finmarie",2023-01-25,2653
@@ -2237,6 +2405,10 @@
 "geoLOGIC systems ltd.",2024-04-10,3616
 "geoLOGIC systems ltd.",2024-05-28,3686
 "geoLOGIC systems ltd.",2024-06-25,3762
+"geoLOGIC systems ltd.",2024-08-02,3916
+"geoLOGIC systems ltd.",2024-08-09,3931
+"geoLOGIC systems ltd.",2024-09-02,3956
+"geoLOGIC systems ltd.",2024-09-17,3975
 "getINNOtized GmbH",2022-03-15,3957
 "getINNOtized GmbH",2022-03-31,4092
 "getINNOtized GmbH",2022-04-09,4136
@@ -2350,6 +2522,16 @@
 "getINNOtized GmbH",2024-06-28,8007
 "getINNOtized GmbH",2024-07-17,8040
 "getINNOtized GmbH",2024-07-20,8041
+"getINNOtized GmbH",2024-07-23,8042
+"getINNOtized GmbH",2024-08-02,8046
+"getINNOtized GmbH",2024-08-06,8047
+"getINNOtized GmbH",2024-08-09,8043
+"getINNOtized GmbH",2024-08-20,8053
+"getINNOtized GmbH",2024-09-02,8046
+"getINNOtized GmbH",2024-09-07,8045
+"getINNOtized GmbH",2024-09-10,8048
+"getINNOtized GmbH",2024-09-16,8046
+"getINNOtized GmbH",2024-09-24,8056
 "getINNOtized GmbHgetINNOtized GmbH",2023-12-14,NA
 "gistec",2021-01-22,6726
 "gistec",2021-01-25,6738
@@ -2479,6 +2661,10 @@
 "gistec",2024-04-10,13951
 "gistec",2024-05-28,14227
 "gistec",2024-06-25,14312
+"gistec",2024-08-02,14457
+"gistec",2024-08-09,14486
+"gistec",2024-09-02,14574
+"gistec",2024-09-17,14695
 "goDutch",2020-10-16,1071
 "goDutch",2020-10-20,1091
 "goDutch",2020-10-21,1099
@@ -2734,6 +2920,16 @@
 "i2 Inc.",2024-06-28,991
 "i2 Inc.",2024-07-17,993
 "i2 Inc.",2024-07-20,993
+"i2 Inc.",2024-07-23,993
+"i2 Inc.",2024-08-02,992
+"i2 Inc.",2024-08-06,992
+"i2 Inc.",2024-08-09,993
+"i2 Inc.",2024-08-20,989
+"i2 Inc.",2024-09-02,990
+"i2 Inc.",2024-09-07,990
+"i2 Inc.",2024-09-10,991
+"i2 Inc.",2024-09-16,992
+"i2 Inc.",2024-09-24,995
 "iMerit Technology",2023-01-28,26929
 "iRelaunch",2023-01-21,10848
 "iRelaunch",2023-02-25,11339
@@ -2774,6 +2970,9 @@
 "iSpace Inc.",2024-06-24,52899
 "iSpace Inc.",2024-06-28,53131
 "iSpace Inc.",2024-07-20,54175
+"iSpace Inc.",2024-08-06,55122
+"iSpace Inc.",2024-09-02,56266
+"iSpace Inc.",2024-09-16,56833
 "iit guwahati",2023-01-28,11324
 "imagi",2024-06-24,5355
 "imaginAIre - AI art - Midjourney Art",2023-03-29,131
@@ -3001,6 +3200,16 @@
 "insight2impact",2024-06-28,1359
 "insight2impact",2024-07-17,1359
 "insight2impact",2024-07-20,1359
+"insight2impact",2024-07-23,1360
+"insight2impact",2024-08-02,1360
+"insight2impact",2024-08-06,1360
+"insight2impact",2024-08-09,1359
+"insight2impact",2024-08-20,1362
+"insight2impact",2024-09-02,1360
+"insight2impact",2024-09-07,1358
+"insight2impact",2024-09-10,1358
+"insight2impact",2024-09-16,1360
+"insight2impact",2024-09-24,1363
 "insight2impactinsight2impact",2023-12-14,NA
 "insitro",2023-01-25,12273
 "insitro",2023-01-29,12303
@@ -3034,6 +3243,7 @@
 "ispace inc.",2023-10-18,24527
 "ispace inc.",2023-12-18,26268
 "itag & itag Skillnet",2024-06-24,2401
+"jamesrores.com",2024-09-02,934
 "jobRxiv",2021-02-19,970
 "jobRxiv",2021-03-06,1066
 "jobRxiv",2021-03-26,1126
@@ -3185,6 +3395,10 @@
 "meetup.ai",2024-04-10,490
 "meetup.ai",2024-05-28,494
 "meetup.ai",2024-06-25,495
+"meetup.ai",2024-08-02,504
+"meetup.ai",2024-08-09,506
+"meetup.ai",2024-09-02,508
+"meetup.ai",2024-09-17,511
 "mobileX AG",2020-12-27,560
 "mobileX AG",2021-02-19,563
 "mobileX AG",2021-03-26,569
@@ -3228,14 +3442,21 @@
 "null - The Open Security Community",2023-12-17,15710
 "null - The Open Security Community",2023-12-18,15733
 "null - The Open Security Community",2024-06-28,17071
+"null - The Open Security Community",2024-09-02,17847
 "openSUSE Project",2024-05-04,17692
 "openSUSE Project",2024-06-28,18128
+"openSUSE Project",2024-08-06,18426
+"openSUSE Project",2024-09-02,18540
 "parcelLab",2020-12-27,4156
 "parcelLab",2021-02-19,4398
 "parcelLab",2021-03-26,4559
 "pnkfrg studios",2023-01-25,467
 "publicjobs",2024-06-24,165057
 "publicjobs",2024-06-25,165137
+"publicjobs",2024-08-02,167582
+"publicjobs",2024-08-09,167895
+"publicjobs",2024-09-02,168637
+"publicjobs",2024-09-17,169418
 "publicjobs.ie",2023-08-08,145064
 "publicjobs.ie",2023-08-10,145323
 "publicjobs.ie",2023-09-15,149223
@@ -3467,6 +3688,16 @@
 "r-programming.org",2024-06-28,2363
 "r-programming.org",2024-07-17,2368
 "r-programming.org",2024-07-20,2367
+"r-programming.org",2024-07-23,2365
+"r-programming.org",2024-08-02,2363
+"r-programming.org",2024-08-06,2364
+"r-programming.org",2024-08-09,2365
+"r-programming.org",2024-08-20,2363
+"r-programming.org",2024-09-02,2362
+"r-programming.org",2024-09-07,2358
+"r-programming.org",2024-09-10,2358
+"r-programming.org",2024-09-16,2358
+"r-programming.org",2024-09-24,2357
 "rOpenSci",2024-01-22,602
 "rOpenSci",2024-04-09,756
 "rOpenSci",2024-04-17,796
@@ -3478,6 +3709,16 @@
 "rOpenSci",2024-06-28,933
 "rOpenSci",2024-07-17,1003
 "rOpenSci",2024-07-20,1020
+"rOpenSci",2024-07-23,1027
+"rOpenSci",2024-08-02,1047
+"rOpenSci",2024-08-06,1058
+"rOpenSci",2024-08-09,1065
+"rOpenSci",2024-08-20,1094
+"rOpenSci",2024-09-02,1135
+"rOpenSci",2024-09-07,1146
+"rOpenSci",2024-09-10,1155
+"rOpenSci",2024-09-16,1175
+"rOpenSci",2024-09-24,1195
 "resilio",2023-01-25,109
 "s-lab - Software Quality Lab",2023-01-28,49
 "scRNA-Analytics",2023-01-22,54
@@ -3641,6 +3882,18 @@
 "scikit-learn",2024-06-28,116056
 "scikit-learn",2024-07-17,116439
 "scikit-learn",2024-07-20,116453
+"scikit-learn",2024-07-23,116528
+"scikit-learn",2024-08-02,116704
+"scikit-learn",2024-08-06,116780
+"scikit-learn",2024-08-09,116873
+"scikit-learn",2024-08-09,116874
+"scikit-learn",2024-08-20,117106
+"scikit-learn",2024-09-02,117269
+"scikit-learn",2024-09-07,117375
+"scikit-learn",2024-09-10,117498
+"scikit-learn",2024-09-16,117614
+"scikit-learn",2024-09-17,117675
+"scikit-learn",2024-09-24,117826
 "securityNOW Inc",2023-06-23,101
 "securityNOW Inc",2023-07-06,102
 "securityNOW Inc",2023-07-23,102
@@ -3759,6 +4012,10 @@
 "simpl.study",2024-04-10,68
 "simpl.study",2024-05-28,69
 "simpl.study",2024-06-25,69
+"simpl.study",2024-08-02,69
+"simpl.study",2024-08-09,69
+"simpl.study",2024-09-02,69
+"simpl.study",2024-09-17,69
 "softpunki",2024-06-24,85
 "storytelling with data",2020-10-15,39653
 "storytelling with data",2020-10-16,39773
@@ -4000,6 +4257,17 @@
 "storytelling with data",2024-06-28,150297
 "storytelling with data",2024-07-17,150745
 "storytelling with data",2024-07-20,150782
+"storytelling with data",2024-07-23,150860
+"storytelling with data",2024-08-02,151253
+"storytelling with data",2024-08-06,151409
+"storytelling with data",2024-08-09,151532
+"storytelling with data",2024-08-20,151850
+"storytelling with data",2024-09-02,152200
+"storytelling with data",2024-09-07,152329
+"storytelling with data",2024-09-10,152383
+"storytelling with data",2024-09-16,152459
+"storytelling with data",2024-09-17,152482
+"storytelling with data",2024-09-24,152688
 "streetfootballworld",2023-01-25,3641
 "taara.quest",2023-02-25,132
 "taipy.io",2023-04-23,900
@@ -4013,6 +4281,16 @@
 "tcube - Low-Cost No-Frills Workspaces - Dublin City Centre & Edenderry",2024-06-24,271
 "thaink²",2024-07-17,823
 "thaink²",2024-07-20,828
+"thaink²",2024-07-23,829
+"thaink²",2024-08-02,891
+"thaink²",2024-08-06,895
+"thaink²",2024-08-09,896
+"thaink²",2024-08-20,899
+"thaink²",2024-09-02,907
+"thaink²",2024-09-07,911
+"thaink²",2024-09-10,911
+"thaink²",2024-09-16,916
+"thaink²",2024-09-24,924
 "the LEGO Group",2023-01-25,1082355
 "the LEGO Group",2024-06-24,1353209
 "thegolangguy",2023-01-25,334
@@ -4247,6 +4525,17 @@
 "useR! - The R User Conference",2024-06-28,4844
 "useR! - The R User Conference",2024-07-17,5207
 "useR! - The R User Conference",2024-07-20,5263
+"useR! - The R User Conference",2024-07-23,5301
+"useR! - The R User Conference",2024-08-02,5377
+"useR! - The R User Conference",2024-08-06,5393
+"useR! - The R User Conference",2024-08-09,5400
+"useR! - The R User Conference",2024-08-20,5425
+"useR! - The R User Conference",2024-09-02,5453
+"useR! - The R User Conference",2024-09-07,5468
+"useR! - The R User Conference",2024-09-10,5469
+"useR! - The R User Conference",2024-09-16,5480
+"useR! - The R User Conference",2024-09-17,5483
+"useR! - The R User Conference",2024-09-24,5500
 "vAIsual",2023-01-21,460
 "vAIsual",2023-02-25,489
 "vAIsual",2023-03-13,503
@@ -4392,6 +4681,10 @@
 "vGIS Inc.",2024-04-10,21938
 "vGIS Inc.",2024-05-28,22888
 "vGIS Inc.",2024-06-25,23061
+"vGIS Inc.",2024-08-02,23411
+"vGIS Inc.",2024-08-09,23456
+"vGIS Inc.",2024-09-02,23805
+"vGIS Inc.",2024-09-17,23974
 "wefox",2023-01-25,32504
 "women++ (womenplusplus)",2023-01-25,2232
 "zo-ii",2024-06-24,21
