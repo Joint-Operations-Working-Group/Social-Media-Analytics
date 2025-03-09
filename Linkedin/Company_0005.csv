@@ -1,1163 +1,4 @@
 "Company","Date","Followers"
-"Capgemini",2023-01-21,5376791
-"Capgemini",2023-02-10,5451371
-"Capgemini",2023-02-25,5507098
-"Capgemini",2023-03-13,5574710
-"Capgemini",2023-03-29,5635613
-"Capgemini",2023-04-10,5674571
-"Capgemini",2023-04-23,5718685
-"Capgemini",2023-06-05,5848776
-"IBM",2025-01-27,"17804068"
-"Accenture",2025-01-27,"12865404"
-"Tata Consultancy Services",2025-01-27,"16741650"
-"McKinsey & Company",2025-01-27,"6193892"
-"Novartis",2025-01-27,"4042506"
-"SAS",2025-01-27,"920578"
-"Roche",2025-01-27,"3539928"
-"Cognizant",2025-01-27,"7863757"
-"Boston Consulting Group (BCG)",2025-01-27,"4732916"
-"Informatica",2025-01-27,"329639"
-"UNICEF",2025-01-27,"4976689"
-"Ascential – Part of the Informa Group",2025-01-27,"67735"
-"Esri",2025-01-27,"422719"
-"Globant",2025-01-27,"1148587"
-"Gates Foundation",2025-01-27,"1300166"
-"Nagarro",2025-01-27,"1390457"
-"Newgen Software",2025-01-27,"249190"
-"Open Society Foundations",2025-01-27,"240149"
-"IUCN",2025-01-27,"209471"
-"Ford Foundation",2025-01-27,"232671"
-"Office for National Statistics",2025-01-27,"77410"
-"KIPP Foundation",2025-01-27,"63401"
-"RWJF",2025-01-27,"111773"
-"United Nations Foundation",2025-01-27,"205751"
-"Oceana",2025-01-27,"68432"
-"Packt",2025-01-27,"124988"
-"United Nations Volunteers",2025-01-27,"3020764"
-"Qatar Foundation",2025-01-27,"613138"
-"MacArthur Foundation",2025-01-27,"151389"
-"Gordon and Betty Moore Foundation",2025-01-27,"16107"
-"Two Sigma",2025-01-27,"216879"
-"The David and Lucile Packard Foundation",2025-01-27,"48927"
-"Skoll Foundation",2025-01-27,"78105"
-"Analytic Partners",2025-01-27,"35416"
-"Conning",2025-01-27,"17287"
-"The James Irvine Foundation",2025-01-27,"21354"
-"William and Flora Hewlett Foundation",2025-01-27,"50225"
-"Elm Company",2025-01-27,"693880"
-"Doris Duke Foundation",2025-01-27,"9192"
-"Mellon Foundation",2025-01-27,"58877"
-"W.K. Kellogg Foundation",2025-01-27,"84612"
-"Rockefeller Philanthropy Advisors",2025-01-27,"55531"
-"Cité des sciences et de l'industrie",2025-01-27,"19790"
-"G-Research",2025-01-27,"53064"
-"Brightwater",2025-01-27,"197417"
-"Jupiter Asset Management",2025-01-27,"49278"
-"Idiro Analytics",2025-01-27,"5741"
-"Datalytics",2025-01-27,"36192"
-"Pluralsight",2025-01-27,"211947"
-"The Kresge Foundation",2025-01-27,"56406"
-"The New York Community Trust",2025-01-27,"7874"
-"Women in Technology (WIT)",2025-01-27,"331251"
-"MMS",2025-01-27,"55705"
-"Cpl",2025-01-27,"369918"
-"GlobalLogic",2025-01-27,"1002591"
-"Susquehanna International Group",2025-01-27,"182159"
-"The Rockefeller Foundation",2025-01-27,"306970"
-"Tableau",2025-01-27,"1034719"
-"The Linux Foundation",2025-01-27,"345710"
-"Genpact",2025-01-27,"4712417"
-"i2, Inc.",2025-01-27,"994"
-"The Apache Software Foundation",2025-01-27,"75021"
-"WorldQuant",2025-01-27,"116454"
-"Collibra",2025-01-27,"79275"
-"Jump Trading Group",2025-01-27,"83964"
-"Qualtrics",2025-01-27,"281001"
-"United Nations Institute for Training and Research (UNITAR)",2025-01-27,"437992"
-"Remsoft",2025-01-27,"4072"
-"Altair RapidMiner",2025-01-27,"20800"
-"Canadian Institute of Actuaries l Institut canadien des actuaires",2025-01-27,"11700"
-"Geoscience Australia",2025-01-27,"41432"
-"Conrad N. Hilton Foundation",2025-01-27,"27709"
-"KNIME",2025-01-27,"59221"
-"Irish Centre for High-End Computing ICHEC",2025-01-27,"1795"
-"Udemy",2025-01-27,"1485895"
-"Pacific Whale Foundation",2025-01-27,"3219"
-"QuantumBlack, AI by McKinsey",2025-01-27,"210772"
-"Alteryx",2025-01-27,"331017"
-"Datahug (acquired by CallidusCloud)",2025-01-27,"2644"
-"Stack Overflow",2025-01-27,"1569357"
-"The Analytics Institute",2025-01-27,"9429"
-"NCX",2025-01-27,"9480"
-"Kaggle",2025-01-27,"442671"
-"Institute of Mathematics and its Applications",2025-01-27,"28011"
-"Remote Sensing and Photogrammetry Society (RSPSoc)",2025-01-27,"32956"
-"Open Knowledge Foundation",2025-01-27,"10660"
-"Coillte",2025-01-27,"19094"
-"The unbelievable Machine Company GmbH",2025-01-27,"2754"
-"Lucid Software",2025-01-27,"132666"
-"Alfred P. Sloan Foundation",2025-01-27,"5000"
-"WebsiteNI",2025-01-27,"1690"
-"UN Sustainable Development Group",2025-01-27,"250304"
-"Bloomberg Philanthropies",2025-01-27,"161924"
-"GitHub",2025-01-27,"4623444"
-"Quovantis Technologies",2025-01-27,"14671"
-"r-programming.org",2025-01-27,"2353"
-"La Villette",2025-01-27,"22147"
-"Jane Street",2025-01-27,"267034"
-"CSO (Central Statistics Office Ireland)",2025-01-27,"12841"
-"Eraneos Germany",2025-01-27,"4795"
-"Posit PBC",2025-01-27,"106814"
-"Asystec (Now Ergo)",2025-01-27,"2490"
-"Tiger Analytics",2025-01-27,"483970"
-"Irish Defence Forces",2025-01-27,"17833"
-"African Institute for Mathematical Sciences (AIMS)",2025-01-27,"23907"
-"Center for International Environmental Law (CIEL)",2025-01-27,"24549"
-"Inspire Walworth",2025-01-27,"90"
-"WellClever",2025-01-27,"120"
-"RegioData Research GmbH",2025-01-27,"415"
-"Geospatial World",2025-01-27,"55082"
-"General Assembly",2025-01-27,"208361"
-"Walton Family Foundation",2025-01-27,"67885"
-"Coursera",2025-01-27,"2252886"
-"Flowminder",2025-01-27,"2510"
-"Economic and Social Research Institute (ESRI)",2025-01-27,"25870"
-"DataKind",2025-01-27,"25768"
-"Film Analytics",2025-01-27,"214"
-"Knoldus Inc | part of NashTech ",2025-01-27,"21900"
-"STATSports",2025-01-27,"45049"
-"DataRobot",2025-01-27,"140511"
-"FishWise",2025-01-27,"5635"
-"Xava",2025-01-27,"304"
-"Dataiku",2025-01-27,"196558"
-"Senseforth.ai",2025-01-27,"42158"
-"H2O.ai",2025-01-27,"138932"
-"Falkonry",2025-01-27,"5437"
-"Gapminder Foundation",2025-01-27,"19976"
-"Open Data Institute",2025-01-27,"20009"
-"KatRisk",2025-01-27,"3471"
-"Ixio Analytics",2025-01-27,"764"
-"Xomnia",2025-01-27,"8907"
-"Royal Statistical Society",2025-01-27,"18178"
-"Black Girls Code",2025-01-27,"58221"
-"FutureLearn",2025-01-27,"129429"
-"dotConferences",2025-01-27,"1166"
-"Xanadu Consultancy",2025-01-27,"3066"
-"ORRECO",2025-01-27,"4812"
-"Qatar Computing Research Institute",2025-01-27,"16497"
-"DataKind UK",2025-01-27,"4590"
-"DataCamp",2025-01-27,"493847"
-"Women Who Code",2025-01-27,"173117"
-"Kitman Labs",2025-01-27,"15109"
-"Plotly",2025-01-27,"41840"
-"Data for Good",2025-01-27,"13987"
-"Databricks",2025-01-27,"831237"
-"IBM Hybrid Cloud and Infrastructure",2025-01-27,"275124"
-"Appsilon",2025-01-27,"9785"
-"Domino Data Lab",2025-01-27,"48619"
-"BCG Digital Ventures",2025-01-27,"158860"
-"Aon Centre for Innovation and Analytics (ACIA)",2025-01-27,"17187"
-"Analytics Vidhya",2025-01-27,"196756"
-"ProCogia",2025-01-27,"10010"
-"Snowflake",2025-01-27,"989288"
-"Data Science Dojo",2025-01-27,"303209"
-"Fivetran",2025-01-27,"120549"
-"DataIQ",2025-01-27,"21535"
-"Data Science Institute",2025-01-27,"20024"
-"IBM Data, AI & Automation",2025-01-27,"276287"
-"CARTO",2025-01-27,"47270"
-"Decision Inc.",2025-01-27,"36957"
-"GitLab",2025-01-27,"1014702"
-"Sustainable Development Solutions Network",2025-01-27,"76290"
-"Segal Family Foundation",2025-01-27,"20081"
-"Python Software Foundation",2025-01-27,"137667"
-"Netcelero",2025-01-27,"1526"
-"IHM ",2025-01-27,"4247"
-"Major League Hacking",2025-01-27,"43132"
-"UK Statistics Authority ",2025-01-27,"4635"
-"Data Science Central",2025-01-27,"274204"
-"SkyTruth",2025-01-27,"3260"
-"VERDE",2025-01-27,"253"
-"Daybreak",2025-01-27,"28334"
-"Global Partnership for Sustainable Development Data",2025-01-27,"13024"
-"Development Seed",2025-01-27,"6703"
-"Group on Earth Observations (GEO)",2025-01-27,"14810"
-"Squarepoint",2025-01-27,"50733"
-"ADAPT Centre",2025-01-27,"6865"
-"Data & Society Research Institute",2025-01-27,"20562"
-"Appinventiv",2025-01-27,"544251"
-"Gower Street Analytics",2025-01-27,"2323"
-"Open Data Science Conference (ODSC)",2025-01-27,"140784"
-"JuliaHub",2025-01-27,"30348"
-"Python Ireland",2025-01-27,"3799"
-"ThinkR (FR)",2025-01-27,"941"
-"Sololearn",2025-01-27,"167763"
-"Businessintelligence.BI",2025-01-27,"17559"
-"Lander Analytics",2025-01-27,"744"
-"Dataquest.io",2025-01-27,"45037"
-"NumFOCUS",2025-01-27,"10169"
-"Ursa Labs",2025-01-27,"450"
-"The Alan Turing Institute",2025-01-27,"83999"
-"Klue",2025-01-27,"28605"
-"insight2impact",2025-01-27,"1364"
-"PyData Berlin",2025-01-27,"1119"
-"Project Jupyter",2025-01-27,"17354"
-"GapData Institute",2025-01-27,"117"
-"SatVu",2025-01-27,"10775"
-"Data Science Academy",2025-01-27,"530666"
-"Data For Good",2025-01-27,"20971"
-"Twenty Billion Neurons",2025-01-27,"3229"
-"Machine Learning Mastery",2025-01-27,"285835"
-"SuperDataScience",2025-01-27,"93929"
-"Big Data LDN",2025-01-27,"13662"
-"Xuntos - Let's Get Together",2025-01-27,"850"
-"Microsoft Power BI by Solution Systems",2025-01-27,"86147"
-"Zendesk AI agents (Ultimate)",2025-01-27,"13970"
-"QuantStack",2025-01-27,"2061"
-"Derilinx",2025-01-27,"1250"
-"Radiant Earth",2025-01-27,"10104"
-"United Nations Satellite Centre (UNOSAT)",2025-01-27,"7911"
-"Global Fishing Watch",2025-01-27,"17463"
-"OpenAI",2025-01-27,"6419211"
-"RSS Data Science and AI Section",2025-01-27,"2700"
-"Invenia Labs",2025-01-27,"2583"
-"Hugging Face",2025-01-27,"853936"
-"Comunidad R Hispano",2025-01-27,"1177"
-"The Global Academy",2025-01-27,"499"
-"Open Cadastre",2025-01-27,"25"
-"Sister Analyst",2025-01-27,"539"
-"SDG Academy",2025-01-27,"28811"
-"Innovate Limerick",2025-01-27,"803"
-"Réalta Technologies",2025-01-27,"7126"
-"R-Ladies Belo Horizonte",2025-01-27,"2186"
-"PyData Amsterdam",2025-01-27,"4101"
-"(WiMLDS) Women in Machine Learning & Data Science",2025-01-27,"17813"
-"Fathom Data",2025-01-27,"740"
-"ADF Haiti",2025-01-27,"612"
-"eoda GmbH",2025-01-27,"1108"
-"The Carpentries",2025-01-27,"2650"
-"Alldus",2025-01-27,"110502"
-"AI Awards Ireland",2025-01-27,"5835"
-"Data for Good Foundation",2025-01-27,"2372"
-"Data Science Zimbabwe",2025-01-27,"10213"
-"RVA Data Science Community",2025-01-27,"338"
-"Why R?",2025-01-27,"5161"
-"InciSioN - International Student Surgical Network",2025-01-27,"3637"
-"PyData Delhi",2025-01-27,"1773"
-"Bhutan Data Scientists",2025-01-27,"56"
-"CivicDataLab",2025-01-27,"7041"
-"R-Ladies Montpellier",2025-01-27,"33"
-"SCALEWORK",2025-01-27,"1630"
-"Data Visualization Society",2025-01-27,"148671"
-"R-Ladies Italy",2025-01-27,"634"
-"Omdena",2025-01-27,"48505"
-"EcoAngola",2025-01-27,"32412"
-"Rust Programming Language",2025-01-27,"8638"
-"Age Of Geeks",2025-01-27,"150144"
-"R User Group Nepal",2025-01-27,"97"
-"Women in Machine Learning and Data Science MAURITIUS",2025-01-27,"104"
-"R-Ladies Melbourne Inc",2025-01-27,"238"
-"East Africa Research &Data Analysis",2025-01-27,"19"
-"Irish Air Corps",2025-01-27,"2338"
-"datatraining.io",2025-01-27,"43482"
-"getINNOtized GmbH",2025-01-27,"8154"
-"Evolution AI",2025-01-27,"4079"
-"TrialAssure",2025-01-27,"4026"
-"Data Science Council of America",2025-01-27,"59676"
-"Obama Foundation",2025-01-27,"354709"
-"Geosaber",2025-01-27,"11711"
-"Tekkare",2025-01-27,"1642"
-"R-Ladies Global",2025-01-27,"7299"
-"Machine Learning Prague conference",2025-01-27,"728"
-"Canvas Intelligence",2025-01-27,"15110"
-"NVIDIA AI",2025-01-27,"1184087"
-"QuantEcon",2025-01-27,"558"
-"365 Data Science",2025-01-27,"172266"
-"Hopsworks",2025-01-27,"5934"
-"Business Science",2025-01-27,"15175"
-"Treemetrics Ltd",2025-01-27,"1715"
-"CeADAR Ireland",2025-01-27,"4446"
-"Space4Good",2025-01-27,"12601"
-"Outreachy",2025-01-27,"18686"
-"DeepLearning.AI",2025-01-27,"1138247"
-"UCL Data Science Society",2025-01-27,"1729"
-"Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)",2025-01-27,"86860"
-"Government Statistical Service",2025-01-27,"9855"
-"Bhutan Data Scientists Pvt Ltd",2025-01-27,"135"
-"Government of Ireland",2025-01-27,"76909"
-"Weights & Biases",2025-01-27,"76835"
-"Quansight",2025-01-27,"4549"
-"DSN - Data Science Nigeria",2025-01-27,"19212"
-"African Institute for Mathematical Sciences, Ghana",2025-01-27,"2377"
-"Zindi",2025-01-27,"17022"
-"Data Science for Social Good Foundation",2025-01-27,"6905"
-"R for the Rest of Us",2025-01-27,"4794"
-"AIR Centre - Atlantic International Research Centre",2025-01-27,"5186"
-"R User Community EMEA",2025-01-27,"595"
-"SustainOSS",2025-01-27,"608"
-"Cascadia R Conference",2025-01-27,"732"
-"Coding Black Females",2025-01-27,"16944"
-"OpenTeams",2025-01-27,"3435"
-"R-Ladies Amsterdam",2025-01-27,"567"
-"ArkeUp Academy | Océan Indien",2025-01-27,"2025"
-"Google Summer of Code",2025-01-27,"89039"
-"Bissau Analytics ",2025-01-27,"67"
-"AWS Databases & Analytics",2025-01-27,"266019"
-"Dragon Coders Private Limited",2025-01-27,"576"
-"PlantingSpace",2025-01-27,"1613"
-"The Currency",2025-01-27,"19730"
-"Jumping Rivers Ltd",2025-01-27,"3358"
-"PyData Toronto",2025-01-27,"98"
-"Benin ThinkLab",2025-01-27,"86"
-"Towards Data Science",2025-01-27,"640093"
-"R Users Group - Ecuador",2025-01-27,"297"
-"R-Ladies Miami",2025-01-27,"194"
-"Anaconda, Inc.",2025-01-27,"91718"
-"AI for Good",2025-01-27,"23725"
-"Quansight Initiate",2025-01-27,"149"
-"PyData London",2025-01-27,"1214"
-"Health Data Research UK (HDR UK)",2025-01-27,"22329"
-"PyData NYC",2025-01-27,"1671"
-"PyData",2025-01-27,"1198"
-"PyCon DE & PyData",2025-01-27,"2715"
-"R-Ladies Goiânia",2025-01-27,"202"
-"Data Scientists Ltd",2025-01-27,"38"
-"LSBU Business School ",2025-01-27,"2923"
-"UN SDG:Learn",2025-01-27,"44787"
-"AI Inclusive",2025-01-27,"3887"
-"MachineX Intelligence",2025-01-27,"1769"
-"Spatial Thoughts",2025-01-27,"40552"
-"DataIQ School of Analysis",2025-01-27,"145"
-"Warsaw RUG Meetup - Spotkania Entuzjastów R",2025-01-27,"49"
-"NumericMind",2025-01-27,"1642"
-"Women in Data®",2025-01-27,"84475"
-"Data2X, United Nations Foundation",2025-01-27,"5611"
-"R-Ladies Lima",2025-01-27,"1616"
-"WorkLiveVisitKerry (discoverkerry.com)",2025-01-27,"3518"
-"Observatoire du Numérique en Haïti (ObNH)",2025-01-27,"108"
-"UNICEF Innocenti",2025-01-27,"67785"
-"Source Cooperative",2025-01-27,"4360"
-"ViennaR",2025-01-27,"386"
-"EwaData",2025-01-27,"1014"
-"R User Community Africa",2025-01-27,"83"
-"ClusterAI",2025-01-27,"457"
-"ArData",2025-01-27,"349"
-"R-Ladies Montevideo",2025-01-27,"125"
-"JuliaCon 2025",2025-01-27,"5170"
-"R-Ladies Oslo",2025-01-27,"32"
-"Statistics Without Borders",2025-01-27,"2298"
-"Datalitics",2025-01-27,"211"
-"Towards AI",2025-01-27,"269575"
-"R Consortium",2025-01-27,"8558"
-"PyCaret",2025-01-27,"19595"
-"The Catalyst",2025-01-27,"1439"
-"Women in AI Benelux",2025-01-27,"8762"
-"African Drone & Data Academy Powered By UNICEF",2025-01-27,"3064"
-"UCD Netsoc – UCD's Internet and Computer Science Society",2025-01-27,"505"
-"R User Community ",2025-01-27,"19191"
-"Business Data Laboratory Limited",2025-01-27,"250"
-"storytelling with data",2025-01-27,"155487"
-"R-Ladies Charlottesville",2025-01-27,"18"
-"Rose Data Studio, LLC",2025-01-27,"347"
-"EuroPython",2025-01-27,"4221"
-"OpenStreetMap Ireland",2025-01-27,"288"
-"The Collective Impact Group For Guinea",2025-01-27,"159"
-"Women in AI Ireland",2025-01-27,"5903"
-"Sentient Projects",2025-01-27,"642"
-"Code for Cause",2025-01-27,"21482"
-"Colombia Diversa",2025-01-27,"5188"
-"SDGs",2025-01-27,"6205"
-"InsideAIML",2025-01-27,"19962"
-"PumasAI",2025-01-27,"5358"
-"FreeLocalMappers",2025-01-27,"1146"
-"Global Shapers Community - Thimphu Hub",2025-01-27,"589"
-"Fisheries Transparency Initiative (FiTI)",2025-01-27,"3147"
-"Women+ in Geospatial",2025-01-27,"31602"
-"Ayiti Analytics",2025-01-27,"1993"
-"LatinR",2025-01-27,"2383"
-"Becht Foundation",2025-01-27,"788"
-"NIMBADATA",2025-01-27,"4"
-"Digital Earth Africa",2025-01-27,"8643"
-"Africa in Science",2025-01-27,"4773"
-"BeZero Carbon",2025-01-27,"31605"
-"DataSoc",2025-01-27,"899"
-"UNDP Guinea-Bissau ",2025-01-27,"3744"
-"PLACE",2025-01-27,"1708"
-"Amazon Science",2025-01-27,"372348"
-"NannyML",2025-01-27,"7900"
-"The R Foundation for Statistical Computing",2025-01-27,"11100"
-"Sylvera",2025-01-27,"37877"
-"DataDotOrg",2025-01-27,"12189"
-"R LADIES LA PAZ",2025-01-27,"247"
-"Innovative Hub for Research in Africa",2025-01-27,"464"
-"R-Ladies Tunis",2025-01-27,"757"
-"The Julia Language",2025-01-27,"15899"
-"Seasalt.ai",2025-01-27,"862"
-"The Organization for Women in Science for the Developing World (OWSD)",2025-01-27,"6325"
-"Dark Peak Analytics",2025-01-27,"628"
-"R Ladies Curitiba",2025-01-27,"92"
-"PyData Southampton",2025-01-27,"163"
-"Rx Studio™",2025-01-27,"1034"
-"Girls In ICT Niger",2025-01-27,"403"
-"GORODATA",2025-01-27,"1587"
-"R Ladies Niterói",2025-01-27,"45"
-"PySport",2025-01-27,"2398"
-"useR! - The R User Conference",2025-01-27,"5899"
-"Tag Ng",2025-01-27,"3307"
-"BlackTIDES Data (BTD)",2025-01-27,"1356"
-"Spark",2025-01-27,"7442"
-"DATA MANSA",2025-01-27,"191"
-"Make Every Woman Count",2025-01-27,"1294"
-"Catalyst Seychelles",2025-01-27,"233"
-"Thimphu TechPark",2025-01-27,"528"
-"Julius Technologies",2025-01-27,"263"
-"JuliaActuary",2025-01-27,"3028"
-"PyData Ireland",2025-01-27,"268"
-"Ishango.ai",2025-01-27,"3619"
-"Black in Data",2025-01-27,"4808"
-"DATA CENTRIC AFRICA",2025-01-27,"1387"
-"Nivishe Foundation",2025-01-27,"7812"
-"Datacove",2025-01-27,"1077"
-"PyLadies Dublin",2025-01-27,"649"
-"Oman Data Science Organization ",2025-01-27,"142"
-"R-Ladies Saudi Arabia (Dammam)",2025-01-27,"411"
-"Software Insights Ireland",2025-01-27,"1264"
-"R-Ladies Tbilisi",2025-01-27,"195"
-"ViviFiy Academy",2025-01-27,"698"
-"cynkra",2025-01-27,"601"
-"PyData Global",2025-01-27,"6837"
-"PackagingCon",2025-01-27,"156"
-"HackHills",2025-01-27,"441"
-"McKinsey Africa",2025-01-27,"46371"
-"Compylo",2025-01-27,"1266"
-"Statistics Globe",2025-01-27,"10135"
-"Statistical Models for Social Sciences Consultant",2025-01-27,"4076"
-"PyData Eindhoven",2025-01-27,"1811"
-"R-Ladies Gaborone",2025-01-27,"771"
-"X-Europe Data Science",2025-01-27,"87"
-"rOpenSci",2025-01-27,"1465"
-"R-Ladies Urmia (IRAN)",2025-01-27,"286"
-"Inlecom Commercial Pathways",2025-01-27,"1227"
-"Microsoft Research",2025-01-27,"304794"
-"Tunis R User Group",2025-01-27,"726"
-"VISO Cyber Security",2025-01-27,"1205"
-"DeepVidhya",2025-01-27,"399"
-"scikit-learn",2025-01-27,"119522"
-"DuckDB",2025-01-27,"35259"
-"R-HTA in LMICs",2025-01-27,"1154"
-"Legato Health Technologies Ireland",2025-01-27,"9734"
-"R-Ladies Cologne",2025-01-27,"354"
-"Rladies Madrid",2025-01-27,"97"
-"Applied Epi",2025-01-27,"5808"
-"Black In Marine Science, Non-Profit Organization",2025-01-27,"2603"
-"Midlands Ireland",2025-01-27,"5240"
-"Edmonton R User Group",2025-01-27,"75"
-"R-Ladies D.C.",2025-01-27,"169"
-"SciML",2025-01-27,"3863"
-"NumPy",2025-01-27,"3616"
-"Pandas",2025-01-27,"3175"
-"InciSioN-UGANDA",2025-01-27,"278"
-"Gestion et Administration des Entreprises- INP-HB",2025-01-27,"654"
-"PyData Prague",2025-01-27,"283"
-"NawiriTech",2025-01-27,"1805"
-"Expertise Data Vision (EDaVi)",2025-01-27,"85"
-"R-Ladies Paris",2025-01-27,"1444"
-"R-Ladies Zürich",2025-01-27,"310"
-"BCG X",2025-01-27,"282217"
-"R-Ladies Rome",2025-01-27,"712"
-"Bioconductor",2025-01-27,"1744"
-"SaLLy • Statistical Learning Laboratory",2025-01-27,"1449"
-"JuliaLang Eindhoven",2025-01-27,"583"
-"PyLadies Seattle",2025-01-27,"259"
-"RSS Real World Data Science",2025-01-27,"822"
-"R-Ladies NYC",2025-01-27,"152"
-"R-Ladies St. Louis",2025-01-27,"151"
-"Makie",2025-01-27,"54"
-"thaink²",2025-01-27,"1082"
-"Learning Bayesian Statistics",2025-01-27,"2905"
-"Carelon Global Solutions Ireland",2025-01-27,"28445"
-"QTA Tech",2025-01-27,"1100"
-"CellClar",2025-01-27,"2475"
-"Ghana R Users Community",2025-01-27,"485"
-"Women in Data Science (WiDS) Kenya",2025-01-27,"1763"
-"Midlands ICT Cluster",2025-01-27,"780"
-"Midlands ICT Cluster",2025-01-27,"780"
-"PyData London",2025-01-27,"856"
-"Health and medical sciences programme | The Alan Turing Institute",2025-01-27,"1635"
-"Open Source in Pharma",2025-01-27,"1201"
-"FemAnalytica",2025-01-27,"1293"
-"EnableD",2025-01-27,"338"
-"Women in Data Science (WiDS) Dublin",2025-01-27,"565"
-"R-Ladies São Paulo",2025-01-27,"1195"
-"Bike Library",2025-01-27,"1456"
-"R-Ladies Cairo",2025-01-27,"221"
-"Global Collaboration Partners Limited",2025-01-27,"293"
-"RLadies Vancouver",2025-01-27,"39"
-"Psych #rstats Club",2025-01-27,"709"
-"Safi App",2025-01-27,"226"
-"NASA International Space Apps Challenge Dublin",2025-01-27,"671"
-"Nature Globe",2025-01-27,"290"
-"Polars",2025-01-27,"19346"
-"R-Ladies Manchester",2025-01-27,"113"
-"FastAPI",2025-01-27,"40129"
-"R-Ladies Lancaster",2025-01-27,"196"
-"R-Ladies Santiago",2025-01-27,"127"
-"Spatial Data Science Conference",2025-01-27,"4060"
-"The Navigation Fund",2025-01-27,"495"
-"Cloud-Native Geospatial Forum (CNG)",2025-01-27,"5593"
-"ZIMSA - Zimbabwean Statistical Association",2025-01-27,"1977"
-"R-Ladies Salzburg",2025-01-27,"110"
-"Johannesburg R User Group",2025-01-27,"172"
-"Kolkata R UseR group",2025-01-27,"1078"
-"Estación R",2025-01-27,"4023"
-"Spare Cores",2025-01-27,"248"
-"data.table Community",2025-01-27,"233"
-"R-Ladies Vienna",2025-01-27,"70"
-"Ahmedabad R Users Group",2025-01-27,"381"
-"We R Madagascar",2025-01-27,"218"
-"GRB ",2025-01-27,"7285"
-"Rbanism",2025-01-27,"45"
-"R community Cameroon",2025-01-27,"375"
-"TU Dublin School of Mathematics & Statistics",2025-01-27,"198"
-"Thraets",2025-01-27,"274"
-"R-Forwards",2025-01-27,"10"
-"PyData Paris",2025-01-27,"1148"
-"Oxford Dynamic Robot Systems",2025-01-27,"723"
-"Done With R",2025-01-27,"22"
-"Developer Relations Foundation",2025-01-27,"385"
-"BSides Galway",2025-01-27,"183"
-"Botswana R Users",2025-01-27,"29"
-"R Users Malawi",2025-01-27,"62"
-"R x TH",2025-01-27,"7"
-"PyData Boston",2025-01-27,"46"
-"Guinan",2025-01-27,"103"
-"IndabaX Chad",2025-01-27,"830"
-"RCollab",2025-01-27,"567"
-"Julia Gender Inclusive",2025-01-27,"22"
-"Projet Mobilier National",2025-01-27,"244"
-"Healix",2025-01-27,"47"
-"R en Buenos Aires",2025-01-27,"271"
-"Field of Play",2025-01-27,"227"
-"Capgemini",2023-06-11,5867975
-"Capgemini",2023-06-23,5909689
-"Fujitsu",2025-01-18,"1065411"
-"Dimension Data",2025-01-18,"433821"
-"Fugro",2025-01-18,"335522"
-"University College Dublin",2025-01-18,"320287"
-"Oceaneering",2025-01-18,"513635"
-"2K",2025-01-18,"318116"
-"Appriss",2025-01-18,"7039"
-"Foundation for Economic Education",2025-01-18,"24346"
-"Lumina Foundation",2025-01-18,"31151"
-"The Surfrider Foundation",2025-01-18,"38081"
-"Amherst H. Wilder Foundation",2025-01-18,"9202"
-"Aga Khan Foundation USA",2025-01-18,"25906"
-"The Michael J. Fox Foundation for Parkinson's Research",2025-01-18,"46196"
-"Katalyst Data Management",2025-01-18,"5267"
-"Kadme AS - Knowledge and Data Management Expertise",2025-01-18,"1713"
-"Neuralog",2025-01-18,"1811"
-"Subsea7",2025-01-18,"839109"
-"University of Limerick",2025-01-18,"127523"
-"Prospect 33",2025-01-18,"22355"
-"Van Leer Foundation",2025-01-18,"22949"
-"ATRIBS GLOBAL TECHNOLOGY",2025-01-18,"7319"
-"DOF",2025-01-18,"309212"
-"Thalesians Ltd",2025-01-18,"5131"
-"geoLOGIC systems ltd.",2025-01-18,"4180"
-"Rocky Mountain Elk Foundation",2025-01-18,"30271"
-"Dubai Technologies",2025-01-18,"16800"
-"publicjobs",2025-01-18,"180546"
-"TazWorks",2025-01-18,"1171"
-"Stack Overflow",2025-01-18,"1568954"
-"Kaggle",2025-01-18,"442184"
-"MIT Technology Review",2025-01-18,"1465236"
-"gistec",2025-01-18,"15204"
-"TotalVerify",2025-01-18,"3641"
-"GitHub",2025-01-18,"4609152"
-"Adessium Foundation",2025-01-18,"4325"
-"PHILANTHROPY ADVISORS",2025-01-18,"5945"
-"Integra Data Systems Corp.",2025-01-18,"170"
-"Posit PBC",2025-01-18,"106639"
-"Bayanat Smart Solutions",2025-01-18,"59947"
-"GBS Technology Co.",2025-01-18,"1878"
-"DecisionBrain",2025-01-18,"3755"
-"Dubai Technology Entrepreneur Campus - Dtec",2025-01-18,"14202"
-"Nottingham Economics & Finance Society",2025-01-18,"5008"
-"DataCamp",2025-01-18,"491989"
-"Google Cloud",2025-01-18,"2670510"
-"Data Science Dojo",2025-01-18,"303219"
-"Hackster.io",2025-01-18,"52393"
-"The Data Lab - Innovation Centre",2025-01-18,"15513"
-"Data Science Institute",2025-01-18,"20032"
-"Los Angeles Machine Learning Meetup",2025-01-18,"10"
-"Open Robotics",2025-01-18,"160011"
-"Python Software Foundation",2025-01-18,"137523"
-"Data Science Society",2025-01-18,"1849"
-"Softest Consulting Services Ltd",2025-01-18,"5265"
-"Oak Foundation",2025-01-18,"30987"
-"Data Science Student Society at UCSD",2025-01-18,"1017"
-"CONNECT Centre",2025-01-18,"4766"
-"Irish Student Consulting Group (ISCG)",2025-01-18,"5071"
-"Open Data Science Conference (ODSC)",2025-01-18,"140709"
-"JuliaHub",2025-01-18,"30073"
-"McMaster Computer Science Society",2025-01-18,"83"
-"Python Ireland",2025-01-18,"3789"
-"UCD Investors and Entrepreneurs Society",2025-01-18,"3547"
-"Sololearn",2025-01-18,"167653"
-"Cambridge University Data Science Society",2025-01-18,"274"
-"MicroMap IT & GIS Consultancy, Abu Dhabi",2025-01-18,"2325"
-"NumFOCUS",2025-01-18,"10152"
-"HEDS Data Science",2025-01-18,"543"
-"AI Copenhagen",2025-01-18,"324"
-"PyData Berlin",2025-01-18,"1115"
-"Erde Technologies Inc.",2025-01-18,"20"
-"The LEGO Foundation",2025-01-18,"115905"
-"DAIN Studios",2025-01-18,"4618"
-"Irish Human Rights and Equality Commission",2025-01-18,"14108"
-"Data Science Indonesia",2025-01-18,"10918"
-"Data Science Academy",2025-01-18,"529733"
-"Machine Learning Mastery",2025-01-18,"285886"
-"Imperial College Data Science Society",2025-01-18,"1047"
-"GULF TRAINING AND CONSULTATION CENTER",2025-01-18,"222"
-"SuperDataScience",2025-01-18,"93905"
-"Swiss Philanthropy Foundation",2025-01-18,"7749"
-"Nordic.AI",2025-01-18,"660"
-"Ryerson University Data Science Society",2025-01-18,"226"
-"Nième Conseil",2025-01-18,"592"
-"Data Science Ghent",2025-01-18,"300"
-"University of Bristol Computer Science Society",2025-01-18,"274"
-"OpenAI",2025-01-18,"6363662"
-"Queen Mary Electronic Engineering & Computer Science Society",2025-01-18,"52"
-"Hugging Face",2025-01-18,"843971"
-"OpenDataScience [ods.ai]",2025-01-18,"7037"
-"Big Data and Artificial Intelligence Club",2025-01-18,"578"
-"vGIS Inc.",2025-01-18,"25256"
-"Data Science Portugal",2025-01-18,"9919"
-"Western Computer Science Undergraduate Society",2025-01-18,"238"
-"SwissAI",2025-01-18,"435"
-"Ankara University Computer Society",2025-01-18,"935"
-"UBC Computer Science Student Society",2025-01-18,"716"
-"AaltoAI",2025-01-18,"837"
-"PyData Amsterdam",2025-01-18,"4060"
-"SAIS Sheffield Artificial Intelligence Society",2025-01-18,"36"
-"UCD I&E Student Managed Fund",2025-01-18,"2188"
-"Data Science Research Perú",2025-01-18,"30344"
-"Finance Society at the University of Connecticut",2025-01-18,"656"
-"Dalhousie Computer Science Society",2025-01-18,"161"
-"Machine Learning at Berkeley",2025-01-18,"4905"
-"UoM AI and Machine Learning Society",2025-01-18,"91"
-"Data Science & Artificial Intelligence/AI South East London",2025-01-18,"163"
-"AI Awards Ireland",2025-01-18,"5817"
-"PyData Cluj-Napoca",2025-01-18,"256"
-"PyData Manaus",2025-01-18,"1173"
-"Why R?",2025-01-18,"5150"
-"Artificial Intelligence Hong Kong",2025-01-18,"2065"
-"Hong Kong Data Science Society",2025-01-18,"268"
-"PyData Delhi",2025-01-18,"1773"
-"Beacon IT Solutions Abu Dhabi",2025-01-18,"226"
-"PyData Raipur",2025-01-18,"47"
-"LSESU Machine Learning Society",2025-01-18,"133"
-"Kharagpur Data Analytics Group",2025-01-18,"3204"
-"Data Visualization Society",2025-01-18,"148463"
-"Cologne AI and Machine Learning Meetup",2025-01-18,"616"
-"Computer Science Society (CSS) - University of Birmingham",2025-01-18,"378"
-"PyData Amaravati",2025-01-18,"24"
-"Age Of Geeks",2025-01-18,"150239"
-"Lancaster University Computer Science Society",2025-01-18,"110"
-"Hong Kong Machine Learning",2025-01-18,"3208"
-"MLT",2025-01-18,"8903"
-"OpenCV",2025-01-18,"316344"
-"PyData São Paulo",2025-01-18,"1572"
-"Machine Learning Society at MIM UW",2025-01-18,"336"
-"Dublin University Computer Science Society",2025-01-18,"168"
-"Evolution AI",2025-01-18,"4077"
-"SeismicZone",2025-01-18,"670"
-"Bamboo Health",2025-01-18,"12910"
-"McMaster Computer Science Society",2025-01-18,"217"
-"MAVA Foundation",2025-01-18,"7814"
-"PyData Tel Aviv",2025-01-18,"760"
-"Machine Learning Society",2025-01-18,"21073"
-"Data Istanbul",2025-01-18,"3733"
-"Fashion for Good",2025-01-18,"116850"
-"NVIDIA AI",2025-01-18,"1171377"
-"Data Science Student Society at UJ",2025-01-18,"124"
-"UNSW Computer Science and Engineering Society (CSESoc)",2025-01-18,"2425"
-"UNSW Data Science Society (DataSoc)",2025-01-18,"1203"
-"Leeds Data Science Society",2025-01-18,"361"
-"DeepLearning.AI",2025-01-18,"1132600"
-"Data Science Society at Berkeley",2025-01-18,"1329"
-"UCL Data Science Society",2025-01-18,"1723"
-"McMaster Artificial Intelligence Society",2025-01-18,"1156"
-"CSUDH Finance Student Society",2025-01-18,"82"
-"Data Science Research Arab Team",2025-01-18,"249"
-"Columbia Data Science Society",2025-01-18,"1013"
-"Neptune Energy",2025-01-18,"93205"
-"Sydney Machine Learning Group",2025-01-18,"189"
-"meetup.ai",2025-01-18,"525"
-"ICL Machine Learning Society",2025-01-18,"97"
-"ITU Data Science Society ",2025-01-18,"1916"
-"Centre for Sustainable Fashion",2025-01-18,"84301"
-"PyData Athens",2025-01-18,"235"
-"DSNai - Data Science Nigeria",2025-01-18,"19079"
-"Pydata Nairobi",2025-01-18,"42"
-"PyData Bristol Meetup",2025-01-18,"106"
-"JerusML",2025-01-18,"711"
-"PyData Warsaw",2025-01-18,"271"
-"Otago Computing Students Society",2025-01-18,"55"
-"Integra Data and Analytic Solutions",2025-01-18,"1654"
-"Data Lille",2025-01-18,"1351"
-"LSESU Data Science Society",2025-01-18,"12"
-"Sheffield Women in Computer Science Society",2025-01-18,"86"
-"R User Community EMEA",2025-01-18,"594"
-"Carleton Artificial Intelligence Society",2025-01-18,"332"
-"AUB Computer Science Student Society",2025-01-18,"157"
-"Data Science and Ai Association of Australia | DSAi",2025-01-18,"6537"
-"Data Science Club of UWA",2025-01-18,"770"
-"NTT DATA, Inc.",2025-01-18,"1066169"
-"Google Summer of Code",2025-01-18,"88775"
-"Pharos Platforms Inc.",2025-01-18,"673"
-"Data Science Club at UTDallas",2025-01-18,"2260"
-"Towards Data Science",2025-01-18,"639984"
-"Toronto Machine Learning Society (TMLS)",2025-01-18,"13962"
-"Silo AI",2025-01-18,"22535"
-"Anaconda, Inc.",2025-01-18,"91402"
-"VINE",2025-01-18,"1459"
-"Warwick Data Science Society ",2025-01-18,"1650"
-"PyData Piraeus",2025-01-18,"214"
-"Data Science Milan",2025-01-18,"1647"
-"The Data Pub",2025-01-18,"3083"
-"Machine Learning & Data Science Meetup Roma",2025-01-18,"297"
-"PyData London",2025-01-18,"1206"
-"PyData Edinburgh",2025-01-18,"208"
-"Data Science Society",2025-01-18,"285"
-"USC Center for AI in Society's Student Branch (CAIS++)",2025-01-18,"345"
-"PyData Charlotte",2025-01-18,"104"
-"PyData NYC",2025-01-18,"1666"
-"PyData",2025-01-18,"1189"
-"Artificial Intelligence & Robotics Society, University of Portsmouth",2025-01-18,"363"
-"Machine Learning",2025-01-18,"221208"
-"PyCon DE & PyData",2025-01-18,"2678"
-"The Machine Learning Institute Certificate in Finance (MLI)",2025-01-18,"1484"
-"Artificial Intelligence in Medical Systems Society (AIMSS)",2025-01-18,"1309"
-"Meetup Machine Learning Québec",2025-01-18,"109"
-"The Data Science & Statistics Society",2025-01-18,"484"
-"Machine Learning in Healthcare",2025-01-18,"949"
-"PyData Lancaster",2025-01-18,"816"
-"Bristol Data Science Society",2025-01-18,"350"
-"University Of Sheffield Computer Science Society",2025-01-18,"98"
-"PyData Singapore",2025-01-18,"21"
-"DUBAI TECH",2025-01-18,"111"
-"PyData Brasília",2025-01-18,"258"
-"PyData Los Angeles",2025-01-18,"157"
-"Monash Data Science Society (MDSS)",2025-01-18,"1098"
-"Data Residents",2025-01-18,"53"
-"PyData Cyprus",2025-01-18,"332"
-"Toronto Machine Learning Meetup",2025-01-18,"269"
-"PyData La Paz",2025-01-18,"13"
-"PyData Miami",2025-01-18,"551"
-"JuliaCon 2025",2025-01-18,"5154"
-"PyData Ann Arbor",2025-01-18,"19"
-"Data Axle",2025-01-18,"138959"
-"PyData Bydgoszcz",2025-01-18,"989"
-"Laudes Foundation",2025-01-18,"30418"
-"Research Ireland Centre for Research Training in Artificial Intelligence",2025-01-18,"1702"
-"AI Hack 2021",2025-01-18,"114"
-"Buffalo State Data Science & Analytics (DSA)",2025-01-18,"658"
-"Data Science and AI Society - UTS",2025-01-18,"386"
-"UCD Netsoc – UCD's Internet and Computer Science Society",2025-01-18,"503"
-"R User Community ",2025-01-18,"19148"
-"KCL Data Science Society",2025-01-18,"65"
-"storytelling with data",2025-01-18,"155409"
-"Erlangen Artificial Intelligence & Machine Learning Meetup",2025-01-18,"556"
-"PyData Cordoba",2025-01-18,"310"
-"UCSD Computer Science & Engineering Society",2025-01-18,"359"
-"PyData Montréal",2025-01-18,"291"
-"Machine Learning Porto Alegre",2025-01-18,"495"
-"Baruch Data Science & Analytics Society",2025-01-18,"535"
-"Capital Quant Agency",2025-01-18,"2323"
-"MLOps Community",2025-01-18,"37645"
-"Hertie School Data Science Society",2025-01-18,"297"
-"Paris Machine Learning Meetup",2025-01-18,"472"
-"PumasAI",2025-01-18,"5338"
-"PyData Hamburg",2025-01-18,"659"
-"Data Science Meetup",2025-01-18,"148"
-"Machine Learning and Data Analytics Lab at NTU EEE",2025-01-18,"2776"
-"Latvia Artificial Intelligence Club",2025-01-18,"1945"
-"MLOps",2025-01-18,"2931"
-"DataSoc",2025-01-18,"898"
-"PyData POA",2025-01-18,"75"
-"PyData Trojmiasto",2025-01-18,"403"
-"PyData Kraków",2025-01-18,"111"
-"Keebo",2025-01-18,"4142"
-"LUMS Data Science Society",2025-01-18,"963"
-"The Julia Language",2025-01-18,"15883"
-"PyData Riyadh",2025-01-18,"1150"
-"PyData Southampton",2025-01-18,"163"
-"Manchester University Data Science & AI Society",2025-01-18,"899"
-"PyData DC",2025-01-18,"34"
-"useR! - The R User Conference",2025-01-18,"5847"
-"Exeter Artificial Intelligence and Data Science Society (X-AI)",2025-01-18,"89"
-"LSESU Data Science Society",2025-01-18,"594"
-"DSCS, George Mason University",2025-01-18,"118"
-"UST Computer Science Society",2025-01-18,"100"
-"PyData Khobar",2025-01-18,"112"
-"PyData Ireland",2025-01-18,"269"
-"simpl.study",2025-01-18,"68"
-"DataTalksClub",2025-01-18,"25044"
-"PyData Bioinformatics Bangalore chapter",2025-01-18,"46"
-"PyData Tunisia",2025-01-18,"535"
-"IrishITJobs.ie",2025-01-18,"1077"
-"PyData Global",2025-01-18,"6813"
-"PyData Eindhoven",2025-01-18,"1811"
-"X-Europe Data Science",2025-01-18,"87"
-"PyData Melbourne",2025-01-18,"17"
-"AWS AI",2025-01-18,"435869"
-"PyTorch",2025-01-18,"275189"
-"scikit-learn",2025-01-18,"119327"
-"PyData SWFL",2025-01-18,"37"
-"PyData Copenhagen",2025-01-18,"822"
-"INCRYPT MINING LTD",2025-01-18,"195"
-"SciML",2025-01-18,"3861"
-"PyData Seattle",2025-01-18,"509"
-"PyData Prague",2025-01-18,"280"
-"PyData Padova",2025-01-18,"140"
-"PyData Yerevan",2025-01-18,"1088"
-"PyData Pittsburgh",2025-01-18,"438"
-"PyData Madrid",2025-01-18,"1289"
-"PyLadies Seattle",2025-01-18,"250"
-"PyData London",2025-01-18,"856"
-"PyData Slovakia",2025-01-18,"8"
-"PyData GRX",2025-01-18,"255"
-"PyData Kaunas",2025-01-18,"34"
-"PyData Johannesburg",2025-01-18,"170"
-"PyData Stockholm",2025-01-18,"227"
-"NTT DATA Middle East and Africa",2025-01-18,"427175"
-"Space42",2025-01-18,"131436"
-"Kemmy Business School ",2025-01-18,"4892"
-"PyData Paris",2025-01-18,"1109"
-"PyData Panamá",2025-01-18,"34"
-"PyData Sri Lanka",2025-01-18,"46"
-"R Users Malawi",2025-01-18,"59"
-"PyData Boston",2025-01-18,"45"
-"Capgemini",2023-07-06,5958907
-"Capgemini",2023-07-23,6014786
-"Capgemini",2023-08-05,6073711
-"Capgemini",2023-08-29,6167714
-"Capgemini",2023-10-18,6357976
-"Capgemini",2023-12-14,6238588
-"Capgemini",2023-12-17,6249709
-"Capgemini",2023-12-18,6253088
-"Capgemini",2024-05-04,6643555
-"Capgemini",2024-05-28,6711261
-"Capgemini",2024-06-28,6792759
-"Capgemini",2024-08-06,6892333
-"Capgemini",2024-09-02,6962700
-"Capgemini",2024-09-16,7002934
-"Capital One",2023-01-21,610895
-"Capital One",2023-02-10,614380
-"Capital One",2023-02-25,617029
-"Capital One",2023-03-13,619609
-"Capital One",2023-03-29,622274
-"Capital One",2023-04-10,624162
-"Capital One",2023-04-23,626786
-"Capital One",2023-06-05,635680
-"Capital One",2023-06-11,637314
-"Capital One",2023-06-23,640532
-"Capital One",2023-07-06,644251
-"Capital One",2023-07-23,649710
-"Capital One",2023-08-05,654682
-"Capital One",2023-08-29,662675
-"Capital One",2023-10-18,687074
-"Capital One",2023-12-14,654358
-"Capital One",2023-12-17,655823
-"Capital One",2023-12-18,656138
-"Capital One",2024-04-08,694950
-"Capital One",2024-05-04,706585
-"Capital One",2024-05-28,715630
-"Capital One",2024-06-24,726848
-"Capital One",2024-06-28,728574
-"Capital One",2024-07-20,737375
-"Capital One",2024-08-06,745166
-"Capital One",2024-09-02,759448
-"Capital One",2024-09-16,766469
-"Capital Quant Agency",2021-01-22,356
-"Capital Quant Agency",2021-01-25,363
-"Capital Quant Agency",2021-01-28,365
-"Capital Quant Agency",2021-01-31,366
-"Capital Quant Agency",2021-02-03,368
-"Capital Quant Agency",2021-02-07,395
-"Capital Quant Agency",2021-02-12,427
-"Capital Quant Agency",2021-02-16,439
-"Capital Quant Agency",2021-02-21,453
-"Capital Quant Agency",2021-02-25,458
-"Capital Quant Agency",2021-03-01,466
-"Capital Quant Agency",2021-03-06,507
-"Capital Quant Agency",2021-03-10,517
-"Capital Quant Agency",2021-03-13,523
-"Capital Quant Agency",2021-03-20,536
-"Capital Quant Agency",2021-03-28,544
-"Capital Quant Agency",2021-03-31,546
-"Capital Quant Agency",2021-04-06,589
-"Capital Quant Agency",2021-04-10,602
-"Capital Quant Agency",2021-04-15,608
-"Capital Quant Agency",2021-04-20,613
-"Capital Quant Agency",2021-04-24,620
-"Capital Quant Agency",2021-04-28,627
-"Capital Quant Agency",2021-05-07,675
-"Capital Quant Agency",2021-05-10,684
-"Capital Quant Agency",2021-05-14,690
-"Capital Quant Agency",2021-05-21,698
-"Capital Quant Agency",2021-05-26,704
-"Capital Quant Agency",2021-05-31,707
-"Capital Quant Agency",2021-06-06,726
-"Capital Quant Agency",2021-06-09,729
-"Capital Quant Agency",2021-06-16,752
-"Capital Quant Agency",2021-06-21,757
-"Capital Quant Agency",2021-06-29,767
-"Capital Quant Agency",2021-07-04,775
-"Capital Quant Agency",2021-07-09,786
-"Capital Quant Agency",2021-07-14,791
-"Capital Quant Agency",2021-07-22,797
-"Capital Quant Agency",2021-08-14,847
-"Capital Quant Agency",2021-08-26,868
-"Capital Quant Agency",2021-09-02,875
-"Capital Quant Agency",2021-09-09,897
-"Capital Quant Agency",2021-09-16,915
-"Capital Quant Agency",2021-10-17,963
-"Capital Quant Agency",2021-10-29,974
-"Capital Quant Agency",2021-11-20,1030
-"Capital Quant Agency",2021-12-03,1076
-"Capital Quant Agency",2021-12-20,1105
-"Capital Quant Agency",2021-12-26,1122
-"Capital Quant Agency",2021-12-31,1139
-"Capital Quant Agency",2022-02-20,1249
-"Capital Quant Agency",2022-02-23,1252
-"Capital Quant Agency",2022-02-26,1258
-"Capital Quant Agency",2022-03-15,1294
-"Capital Quant Agency",2022-03-20,1299
-"Capital Quant Agency",2022-03-29,1306
-"Capital Quant Agency",2022-04-11,1335
-"Capital Quant Agency",2022-05-01,1360
-"Capital Quant Agency",2022-05-05,1258
-"Capital Quant Agency",2022-05-22,1391
-"Capital Quant Agency",2022-05-27,1398
-"Capital Quant Agency",2022-06-07,1431
-"Capital Quant Agency",2022-06-08,1431
-"Capital Quant Agency",2022-06-11,1440
-"Capital Quant Agency",2022-06-16,1445
-"Capital Quant Agency",2022-06-23,1453
-"Capital Quant Agency",2022-06-24,1473
-"Capital Quant Agency",2022-06-30,1514
-"Capital Quant Agency",2022-07-02,1517
-"Capital Quant Agency",2022-07-05,1534
-"Capital Quant Agency",2022-07-13,1543
-"Capital Quant Agency",2022-07-18,1546
-"Capital Quant Agency",2022-07-23,1551
-"Capital Quant Agency",2022-07-25,1553
-"Capital Quant Agency",2022-08-02,1560
-"Capital Quant Agency",2022-08-16,1570
-"Capital Quant Agency",2022-08-20,1573
-"Capital Quant Agency",2022-08-25,1574
-"Capital Quant Agency",2022-08-28,1575
-"Capital Quant Agency",2022-09-07,1614
-"Capital Quant Agency",2022-09-10,1618
-"Capital Quant Agency",2022-09-16,1621
-"Capital Quant Agency",2022-09-22,1629
-"Capital Quant Agency",2022-09-29,1630
-"Capital Quant Agency",2022-10-03,1629
-"Capital Quant Agency",2022-10-09,1649
-"Capital Quant Agency",2022-10-16,1654
-"Capital Quant Agency",2022-10-22,1662
-"Capital Quant Agency",2022-10-28,1666
-"Capital Quant Agency",2022-11-03,1678
-"Capital Quant Agency",2022-11-06,1678
-"Capital Quant Agency",2022-11-14,1683
-"Capital Quant Agency",2022-11-20,1691
-"Capital Quant Agency",2022-11-24,1694
-"Capital Quant Agency",2022-12-01,1695
-"Capital Quant Agency",2022-12-08,1698
-"Capital Quant Agency",2022-12-14,1701
-"Capital Quant Agency",2022-12-27,1733
-"Capital Quant Agency",2023-01-01,1737
-"Capital Quant Agency",2023-01-05,1742
-"Capital Quant Agency",2023-01-09,1746
-"Capital Quant Agency",2023-01-22,1752
-"Capital Quant Agency",2023-01-29,1755
-"Capital Quant Agency",2023-02-04,1761
-"Capital Quant Agency",2023-02-25,1773
-"Capital Quant Agency",2023-03-18,1824
-"Capital Quant Agency",2023-03-21,1828
-"Capital Quant Agency",2023-03-25,1834
-"Capital Quant Agency",2023-04-10,1885
-"Capital Quant Agency",2023-04-13,1889
-"Capital Quant Agency",2023-04-21,1900
-"Capital Quant Agency",2023-04-29,1900
-"Capital Quant Agency",2023-05-19,1963
-"Capital Quant Agency",2023-05-29,1968
-"Capital Quant Agency",2023-06-05,1980
-"Capital Quant Agency",2023-06-14,2003
-"Capital Quant Agency",2023-06-17,2011
-"Capital Quant Agency",2023-06-27,2033
-"Capital Quant Agency",2023-07-06,2033
-"Capital Quant Agency",2023-07-23,2071
-"Capital Quant Agency",2023-08-08,2102
-"Capital Quant Agency",2023-08-10,2103
-"Capital Quant Agency",2023-09-15,2122
-"Capital Quant Agency",2023-10-18,2122
-"Capital Quant Agency",2023-12-17,2164
-"Capital Quant Agency",2023-12-18,2165
-"Capital Quant Agency",2024-01-22,2197
-"Capital Quant Agency",2024-04-10,2239
-"Capital Quant Agency",2024-05-28,2281
-"Capital Quant Agency",2024-08-02,2317
-"Capital Quant Agency",2024-08-09,2317
-"Capital Quant Agency",2024-09-02,2314
-"Capital Quant Agency",2024-09-17,2320
-"Capital Quant Agency <U+0001F1F2><U+0001F1E6>",2022-02-07,1237
-"Capital Quant Agency <U+0001F1F2><U+0001F1E6>",2022-02-12,1241
-"Capital Quant Agency <U+0001F1F2><U+0001F1E6>",2022-02-16,1244
-"Cara Care",2023-01-25,7706
-"Carboncopies Foundation",2023-01-25,508
-"Cardno International Development",2023-01-28,50642
-"CareerBuilder Vietnam",2023-01-28,176968
-"Careerflow",2023-01-21,103604
-"Careerflow.ai",2023-02-25,106696
-"Careerflow.ai",2023-03-13,107898
-"Careerflow.ai",2023-03-29,109467
-"Careerflow.ai (Techstars '23)",2023-04-10,110442
-"Careerflow.ai (Techstars '23)",2023-04-23,111724
-"Careerflow.ai (Techstars '23)",2023-06-05,115335
-"Careerflow.ai (Techstars '23)",2023-06-11,115948
-"Careerflow.ai (Techstars '23)",2023-06-23,117268
-"Careerflow.ai (Techstars '23)",2023-07-06,124440
-"Careerflow.ai (Techstars '23)",2023-07-23,127808
-"Careerflow.ai (Techstars '23)",2023-08-05,131313
-"Careerflow.ai (Techstars '23)",2023-08-29,132414
-"Careerflow.ai (Techstars '23)",2023-10-18,141513
-"Careers In Space",2023-01-21,58605
-"Careers In Space",2023-02-25,59728
-"Careers In Space",2023-03-13,60253
-"Careers In Space",2023-03-29,60733
-"Careers In Space",2023-04-10,61131
-"Careers In Space",2023-04-23,61481
-"Careers In Space",2023-06-05,62745
-"Careers In Space",2023-06-11,62938
-"Careers In Space",2023-06-23,63256
-"Careers In Space",2023-07-06,63635
-"Careers In Space",2023-07-23,63992
-"Careers In Space",2023-08-05,64323
-"Careers In Space",2023-08-29,64902
-"Careers In Space",2023-10-18,66149
-"Careers Service University of Oxford",2021-02-19,511
-"Careers Service University of Oxford",2021-03-06,554
-"Carelon Global Solutions Ireland",2023-02-04,9365
-"Carelon Global Solutions Ireland",2023-02-10,10783
-"Carelon Global Solutions Ireland",2023-02-13,11159
-"Carelon Global Solutions Ireland",2023-02-24,12239
-"Carelon Global Solutions Ireland",2023-03-10,13149
-"Carelon Global Solutions Ireland",2023-03-14,13207
-"Carelon Global Solutions Ireland",2023-03-18,13314
-"Carelon Global Solutions Ireland",2023-03-21,13373
-"Carelon Global Solutions Ireland",2023-03-25,13564
-"Carelon Global Solutions Ireland",2023-04-01,13785
-"Carelon Global Solutions Ireland",2023-04-10,13959
-"Carelon Global Solutions Ireland",2023-04-13,14049
-"Carelon Global Solutions Ireland",2023-04-21,14272
-"Carelon Global Solutions Ireland",2023-04-29,14433
-"Carelon Global Solutions Ireland",2023-05-12,14808
-"Carelon Global Solutions Ireland",2023-05-19,15000
-"Carelon Global Solutions Ireland",2023-05-29,15423
-"Carelon Global Solutions Ireland",2023-06-05,15614
-"Carelon Global Solutions Ireland",2023-06-11,15780
-"Carelon Global Solutions Ireland",2023-06-14,15920
-"Carelon Global Solutions Ireland",2023-06-17,16065
-"Carelon Global Solutions Ireland",2023-06-23,16246
-"Carelon Global Solutions Ireland",2023-06-27,16331
-"Carelon Global Solutions Ireland",2023-07-06,16577
-"Carelon Global Solutions Ireland",2023-07-23,17153
-"Carelon Global Solutions Ireland",2023-08-02,17360
-"Carelon Global Solutions Ireland",2023-08-08,17464
-"Carelon Global Solutions Ireland",2023-08-10,17531
-"Carelon Global Solutions Ireland",2023-08-29,18035
-"Carelon Global Solutions Ireland",2023-09-15,18058
-"Carelon Global Solutions Ireland",2023-10-18,18904
-"Carelon Global Solutions Ireland",2023-12-14,21160
-"Carelon Global Solutions Ireland",2023-12-18,21265
-"Carelon Global Solutions Ireland",2024-01-22,22090
-"Carelon Global Solutions Ireland",2024-04-09,25751
-"Carelon Global Solutions Ireland",2024-04-17,25846
-"Carelon Global Solutions Ireland",2024-04-28,25992
-"Carelon Global Solutions Ireland",2024-05-03,26078
-"Carelon Global Solutions Ireland",2024-05-19,26286
-"Carelon Global Solutions Ireland",2024-06-08,26627
-"Carelon Global Solutions Ireland",2024-06-24,26861
-"Carelon Global Solutions Ireland",2024-06-28,26904
-"Carelon Global Solutions Ireland",2024-07-17,27058
-"Carelon Global Solutions Ireland",2024-07-20,27072
-"Carelon Global Solutions Ireland",2024-07-23,27105
-"Carelon Global Solutions Ireland",2024-08-02,27209
-"Carelon Global Solutions Ireland",2024-08-06,27237
-"Carelon Global Solutions Ireland",2024-08-09,27277
-"Carelon Global Solutions Ireland",2024-08-20,27405
-"Carelon Global Solutions Ireland",2024-09-02,27520
-"Carelon Global Solutions Ireland",2024-09-07,27565
-"Carelon Global Solutions Ireland",2024-09-10,27604
-"Carelon Global Solutions Ireland",2024-09-16,27647
-"Carelon Global Solutions Ireland",2024-09-24,27732
-"Caribou Biosciences",2023-01-25,17697
-"Caribou Biosciences",2023-01-29,17784
-"Carleton Artificial Intelligence Society",2021-03-28,214
-"Carleton Artificial Intelligence Society",2021-03-31,216
-"Carleton Artificial Intelligence Society",2021-04-06,217
-"Carleton Artificial Intelligence Society",2021-04-10,218
-"Carleton Artificial Intelligence Society",2021-04-15,218
-"Carleton Artificial Intelligence Society",2021-04-20,219
-"Carleton Artificial Intelligence Society",2021-04-24,219
-"Carleton Artificial Intelligence Society",2021-04-28,220
-"Carleton Artificial Intelligence Society",2021-05-07,219
-"Carleton Artificial Intelligence Society",2021-05-10,219
-"Carleton Artificial Intelligence Society",2021-05-14,219
-"Carleton Artificial Intelligence Society",2021-05-21,219
-"Carleton Artificial Intelligence Society",2021-05-26,219
-"Carleton Artificial Intelligence Society",2021-05-31,219
-"Carleton Artificial Intelligence Society",2021-06-06,220
-"Carleton Artificial Intelligence Society",2021-06-09,219
-"Carleton Artificial Intelligence Society",2021-06-16,222
-"Carleton Artificial Intelligence Society",2021-06-21,222
-"Carleton Artificial Intelligence Society",2021-06-29,225
-"Carleton Artificial Intelligence Society",2021-07-04,225
-"Carleton Artificial Intelligence Society",2021-07-09,225
-"Carleton Artificial Intelligence Society",2021-07-14,225
-"Carleton Artificial Intelligence Society",2021-07-22,227
-"Carleton Artificial Intelligence Society",2021-08-14,227
-"Carleton Artificial Intelligence Society",2021-08-26,228
-"Carleton Artificial Intelligence Society",2021-09-02,233
-"Carleton Artificial Intelligence Society",2021-09-09,235
-"Carleton Artificial Intelligence Society",2021-09-16,236
-"Carleton Artificial Intelligence Society",2021-10-17,237
-"Carleton Artificial Intelligence Society",2021-10-29,238
-"Carleton Artificial Intelligence Society",2021-11-20,238
-"Carleton Artificial Intelligence Society",2021-12-03,239
-"Carleton Artificial Intelligence Society",2021-12-20,241
-"Carleton Artificial Intelligence Society",2021-12-26,241
-"Carleton Artificial Intelligence Society",2021-12-31,241
-"Carleton Artificial Intelligence Society",2022-02-01,244
-"Carleton Artificial Intelligence Society",2022-02-07,244
-"Carleton Artificial Intelligence Society",2022-02-16,245
-"Carleton Artificial Intelligence Society",2022-02-20,245
-"Carleton Artificial Intelligence Society",2022-02-23,245
-"Carleton Artificial Intelligence Society",2022-03-03,246
-"Carleton Artificial Intelligence Society",2022-03-15,246
-"Carleton Artificial Intelligence Society",2022-03-20,246
-"Carleton Artificial Intelligence Society",2022-03-29,247
-"Carleton Artificial Intelligence Society",2022-04-11,248
-"Carleton Artificial Intelligence Society",2022-04-13,248
-"Carleton Artificial Intelligence Society",2022-05-22,250
-"Carleton Artificial Intelligence Society",2022-05-27,251
-"Carleton Artificial Intelligence Society",2022-06-11,252
-"Carleton Artificial Intelligence Society",2022-06-16,252
-"Carleton Artificial Intelligence Society",2022-06-23,253
-"Carleton Artificial Intelligence Society",2022-06-24,253
 "Carleton Artificial Intelligence Society",2022-06-30,253
 "Carleton Artificial Intelligence Society",2022-07-02,253
 "Carleton Artificial Intelligence Society",2022-07-05,254
@@ -1224,6 +65,9 @@
 "Carleton Artificial Intelligence Society",2024-08-09,318
 "Carleton Artificial Intelligence Society",2024-09-02,318
 "Carleton Artificial Intelligence Society",2024-09-17,319
+"Carleton Artificial Intelligence Society",2025-01-09,331
+"Carleton Artificial Intelligence Society",2025-01-18,332
+"Carleton Artificial Intelligence Society",2025-02-21,334
 "Carnegie Mellon University",2023-01-28,265927
 "Carnegie Mellon University",2023-03-13,269030
 "Carnegie Mellon University",2023-03-29,270232
@@ -1249,6 +93,7 @@
 "Carnegie Mellon University",2024-08-06,301315
 "Carnegie Mellon University",2024-09-02,304680
 "Carnegie Mellon University",2024-09-16,306438
+"Carnegie Mellon University",2025-01-09,318506
 "Carnegie Mellon University Africa",2023-10-18,17134
 "Carnegie Mellon University Africa",2023-12-18,18703
 "Carnegie Mellon University Silicon Valley",2023-01-25,2883
@@ -1279,6 +124,7 @@
 "Carrefour",2024-08-06,1199841
 "Carrefour",2024-09-02,1208167
 "Carrefour",2024-09-16,1215802
+"Carrefour",2025-01-09,1249579
 "Cartography Biosciences",2023-01-25,1269
 "Cartography Biosciences",2023-01-29,1271
 "Cascadia R Conference",2023-08-08,254
@@ -1310,6 +156,7 @@
 "Cascadia R Conference",2024-09-10,721
 "Cascadia R Conference",2024-09-16,720
 "Cascadia R Conference",2024-09-24,723
+"Cascadia R Conference",2025-01-27,732
 "Cascadia R ConferenceCascadia R Conference",2023-12-14,NA
 "Castle",2023-01-25,2575
 "Casual Space Podcast",2023-01-21,415
@@ -1360,6 +207,7 @@
 "Catalyst Inc.",2023-12-18,42321
 "Catalyst Inc.",2024-06-28,45470
 "Catalyst Inc.",2024-09-02,46019
+"Catalyst Inc.",2025-01-09,47224
 "Catalyst Seychelles",2021-06-02,180
 "Catalyst Seychelles",2021-06-09,182
 "Catalyst Seychelles",2021-06-16,183
@@ -1521,6 +369,7 @@
 "Catalyst Seychelles",2024-09-10,228
 "Catalyst Seychelles",2024-09-16,229
 "Catalyst Seychelles",2024-09-24,229
+"Catalyst Seychelles",2025-01-27,233
 "Catalyst SeychellesCatalyst Seychelles",2023-12-14,NA
 "CeADAR Ireland",2022-06-15,1352
 "CeADAR Ireland",2022-06-16,1366
@@ -1625,6 +474,7 @@
 "CeADAR Ireland",2024-09-10,3891
 "CeADAR Ireland",2024-09-16,3914
 "CeADAR Ireland",2024-09-24,3965
+"CeADAR Ireland",2025-01-27,4446
 "CeADAR IrelandCeADAR Ireland",2023-12-14,NA
 "Cedo",2023-01-28,3816
 "Cegedim e-business",2020-10-16,1961
@@ -1660,6 +510,7 @@
 "CellClar",2024-09-10,2181
 "CellClar",2024-09-16,2202
 "CellClar",2024-09-24,2228
+"CellClar",2025-01-27,2475
 "Cellino",2023-01-25,5727
 "Cellino",2023-01-29,5765
 "Cenla Environmental Science",2023-01-28,113
@@ -1730,6 +581,7 @@
 "Center for International Environmental Law (CIEL)",2024-09-10,20948
 "Center for International Environmental Law (CIEL)",2024-09-16,21079
 "Center for International Environmental Law (CIEL)",2024-09-24,21216
+"Center for International Environmental Law (CIEL)",2025-01-27,24549
 "Center for Internet Security",2023-01-21,95204
 "Center for Internet Security",2023-02-10,96887
 "Center for Internet Security",2023-02-25,98200
@@ -1754,6 +606,7 @@
 "Center for Internet Security",2024-08-06,131839
 "Center for Internet Security",2024-09-02,132634
 "Center for Internet Security",2024-09-16,133079
+"Center for Internet Security",2025-01-09,136280
 "Center for Scientific Collaboration and Community Engagement",2023-01-25,814
 "Center for Scientific Collaboration and Community Engagement",2023-10-18,1074
 "Center for Systems Security and Information Assurance (CSSIA)",2023-01-21,67
@@ -1797,6 +650,7 @@
 "Centers for Disease Control and Prevention",2024-08-06,2129677
 "Centers for Disease Control and Prevention",2024-09-02,2140731
 "Centers for Disease Control and Prevention",2024-09-16,2147141
+"Centers for Disease Control and Prevention",2025-01-09,2173144
 "Central Bank of Ireland",2020-10-20,50660
 "Central Intelligence Agency",2023-01-21,225667
 "Central Intelligence Agency",2023-02-10,232560
@@ -1825,6 +679,8 @@
 "Central Intelligence Agency",2024-08-06,305360
 "Central Intelligence Agency",2024-09-02,308601
 "Central Intelligence Agency",2024-09-16,311260
+"Central Intelligence Agency",2025-01-09,330732
+"Central Park Conservancy",2025-01-09,14048
 "Centre for Environment Education",2023-01-28,17456
 "Centre for Science and Environment New Delhi",2023-01-28,45653
 "Centre for Sustainable Fashion",2021-04-20,45157
@@ -1942,6 +798,9 @@
 "Centre for Sustainable Fashion",2024-08-09,83205
 "Centre for Sustainable Fashion",2024-09-02,83351
 "Centre for Sustainable Fashion",2024-09-17,83458
+"Centre for Sustainable Fashion",2025-01-09,84248
+"Centre for Sustainable Fashion",2025-01-18,84301
+"Centre for Sustainable Fashion",2025-02-21,84580
 "Chalmers University of Technology",2023-01-28,125425
 "Champlain College",2023-01-21,32548
 "Champlain College",2023-02-10,32688
@@ -1970,6 +829,7 @@
 "Champlain College",2024-08-06,34775
 "Champlain College",2024-09-02,34928
 "Champlain College",2024-09-16,34989
+"Champlain College",2025-01-09,35559
 "Chan Zuckerberg Biohub",2023-01-25,18811
 "Chan Zuckerberg Biohub",2023-01-29,18838
 "Chan Zuckerberg Initiative",2023-01-25,70535
@@ -2006,6 +866,7 @@
 "Charles Schwab",2024-08-06,344425
 "Charles Schwab",2024-09-02,350965
 "Charles Schwab",2024-09-16,354681
+"Charles Schwab",2025-01-09,376458
 "Charlotte Street Capital",2023-01-25,724
 "Charlotte Street Capital",2023-01-29,727
 "Chartered Institute of Ecology and Environmental Management (CIEEM)",2023-01-28,32288
@@ -2033,6 +894,7 @@
 "Chase",2024-08-06,461417
 "Chase",2024-09-02,465139
 "Chase",2024-09-16,467858
+"Chase",2025-01-09,490004
 "Chase for Business",2023-01-21,39535
 "Chase for Business",2023-02-10,39725
 "Chase for Business",2023-02-25,39849
@@ -2060,6 +922,7 @@
 "Chase for Business",2024-08-06,44123
 "Chase for Business",2024-09-02,44358
 "Chase for Business",2024-09-16,44524
+"Chase for Business",2025-01-09,45665
 "Chasing Returns",2020-12-27,455
 "Chasing Returns",2021-02-19,467
 "Chasing Returns",2021-03-26,470
@@ -2093,6 +956,7 @@
 "Children's National Hospital",2024-08-06,59196
 "Children's National Hospital",2024-09-02,59817
 "Children's National Hospital",2024-09-16,60288
+"Children's National Hospital",2025-01-09,63240
 "Chitkara University",2023-01-28,67440
 "Chroma Medicine",2023-01-25,3027
 "Chroma Medicine",2023-01-29,3035
@@ -2125,6 +989,7 @@
 "Circle K",2024-08-06,194626
 "Circle K",2024-09-02,203062
 "Circle K",2024-09-16,207291
+"Circle K",2025-01-09,229519
 "Circularis Biotechnologies",2023-01-25,1688
 "Circularis Biotechnologies",2023-01-29,1689
 "Circularity",2023-01-25,1960
@@ -2170,6 +1035,7 @@
 "Cisco",2024-08-06,6516398
 "Cisco",2024-09-02,6545476
 "Cisco",2024-09-16,6563279
+"Cisco",2025-01-09,6696356
 "Cisco Secure",2023-01-21,296267
 "Cisco Secure",2023-02-25,297503
 "Cisco Secure",2023-03-13,298010
@@ -2215,6 +1081,7 @@
 "Citi",2024-08-06,4355825
 "Citi",2024-09-02,4379819
 "Citi",2024-09-16,4395443
+"Citi",2025-01-09,4500161
 "Citizens",2023-01-21,116971
 "Citizens",2023-02-10,118084
 "Citizens",2023-02-25,118778
@@ -2239,6 +1106,7 @@
 "Citizens",2024-08-06,142503
 "Citizens",2024-09-02,144445
 "Citizens",2024-09-16,145900
+"Citizens",2025-01-09,154747
 "City Data Science Society",2021-03-28,98
 "City Data Science Society",2021-03-31,98
 "City Data Science Society",2021-04-06,98
@@ -2337,6 +1205,7 @@
 "City Data Science Society",2023-04-13,94
 "City Data Science Society",2023-04-21,93
 "City Data Science Society",2023-04-29,93
+"City Parks Foundation",2025-01-09,6589
 "City of Boston",2023-01-21,30386
 "City of Boston",2023-02-10,30875
 "City of Boston",2023-02-25,31225
@@ -2361,6 +1230,7 @@
 "City of Boston",2024-08-06,42581
 "City of Boston",2024-09-02,43127
 "City of Boston",2024-09-16,43354
+"City of Boston",2025-01-09,45854
 "City of Cambridge",2023-10-18,7689
 "City of Cambridge",2023-12-14,7829
 "City of Cambridge",2023-12-17,7855
@@ -2371,12 +1241,14 @@
 "City of Cambridge",2024-08-06,9392
 "City of Cambridge",2024-09-02,9564
 "City of Cambridge",2024-09-16,9633
+"City of Cambridge",2025-01-09,10242
 "City of Detroit",2024-05-04,55830
 "City of Detroit",2024-05-28,57129
 "City of Detroit",2024-06-28,59111
 "City of Detroit",2024-08-06,60327
 "City of Detroit",2024-09-02,61025
 "City of Detroit",2024-09-16,61435
+"City of Detroit",2025-01-09,66454
 "City of Malden",2023-10-18,1309
 "City of Malden",2023-12-14,1334
 "City of Malden",2023-12-17,1335
@@ -2385,9 +1257,11 @@
 "City of Malden",2024-06-28,1592
 "City of Malden",2024-08-06,1616
 "City of Malden",2024-09-02,1626
+"City of Malden",2025-01-09,1746
 "City of New York",2024-08-06,31945
 "City of New York",2024-09-02,32343
 "City of New York",2024-09-16,32558
+"City of New York",2025-01-09,34112
 "City of Pensacola Government",2023-01-21,1545
 "City of Pensacola Government",2023-02-25,1579
 "City of Pensacola Government",2023-03-13,1609
@@ -2408,6 +1282,7 @@
 "City of Somerville",2023-12-18,3962
 "City of Somerville",2024-06-28,4544
 "City of Somerville",2024-09-02,4647
+"City of Somerville",2025-01-09,4955
 "City of Winchester Virginia Local Government",2023-01-21,1290
 "City of Winchester Virginia Local Government",2023-02-10,1309
 "City of Winchester Virginia Local Government",2023-02-25,1320
@@ -2426,6 +1301,8 @@
 "City of Winchester Virginia Local Government",2023-12-17,1474
 "City of Winchester Virginia Local Government",2023-12-18,1474
 "City of Winchester Virginia Local Government",2024-09-02,1643
+"City of Winchester, Virginia Local Government",2025-01-09,1716
+"Cité des sciences et de l'industrie",2025-01-27,19790
 "CivicCon",2023-02-25,232
 "CivicCon",2023-03-13,234
 "CivicCon",2023-03-29,254
@@ -2652,6 +1529,7 @@
 "CivicDataLab",2024-09-10,6144
 "CivicDataLab",2024-09-16,6153
 "CivicDataLab",2024-09-24,6169
+"CivicDataLab",2025-01-27,7041
 "CivicDataLabCivicDataLab",2023-12-14,NA
 "Claranet Cyber Security",2023-01-21,4951
 "Claranet Cyber Security",2023-02-10,5008
@@ -2677,6 +1555,7 @@
 "Claranet Cyber Security",2024-08-06,5673
 "Claranet Cyber Security",2024-09-02,5711
 "Claranet Cyber Security",2024-09-16,5734
+"Claranet Cyber Security",2025-01-09,6145
 "Clean Ocean Action",2023-01-28,2022
 "Clean Water Action",2023-01-28,8815
 "Clean Water Technology",2023-01-28,2401
@@ -2754,7 +1633,9 @@
 "Cloud Security Alliance",2024-06-28,92890
 "Cloud Security Alliance",2024-08-06,94572
 "Cloud Security Alliance",2024-09-02,95604
+"Cloud Security Alliance",2025-01-09,98875
 "Cloud-Native Geospatial Forum (CNG)",2024-09-24,4134
+"Cloud-Native Geospatial Forum (CNG)",2025-01-27,5593
 "Cloud-Native Geospatial Foundation",2023-12-14,1034
 "Cloud-Native Geospatial Foundation",2023-12-18,1085
 "Cloud-Native Geospatial Foundation",2024-01-22,1406
@@ -2816,6 +1697,7 @@
 "Cloudflare",2024-06-28,893461
 "Cloudflare",2024-08-06,918726
 "Cloudflare",2024-09-02,937721
+"Cloudflare",2025-01-09,1014709
 "Clubhouse",2023-01-22,26207
 "ClusterAI",2020-10-20,295
 "ClusterAI",2020-10-21,295
@@ -3036,6 +1918,7 @@
 "ClusterAI",2024-09-10,453
 "ClusterAI",2024-09-16,453
 "ClusterAI",2024-09-24,452
+"ClusterAI",2025-01-27,457
 "CoFounder",2021-02-19,625
 "CoFounder",2021-03-06,648
 "CoFounder",2021-03-26,664
@@ -3067,6 +1950,7 @@
 "Coalfire",2024-08-06,31920
 "Coalfire",2024-09-02,32330
 "Coalfire",2024-09-16,32451
+"Coalfire",2025-01-09,33414
 "Code Coven",2024-06-24,2979
 "Code First Girls",2024-06-24,70220
 "Code Institute",2024-06-24,18479
@@ -3230,6 +2114,7 @@
 "Code for Cause",2024-09-10,21585
 "Code for Cause",2024-09-16,21582
 "Code for Cause",2024-09-24,21579
+"Code for Cause",2025-01-27,21482
 "Code for Science and Society",2024-06-24,943
 "Code in Place",2023-01-25,2931
 "CodeControl",2023-01-25,2564
@@ -3460,6 +2345,7 @@
 "Coding Black Females",2024-09-10,16586
 "Coding Black Females",2024-09-16,16611
 "Coding Black Females",2024-09-24,16639
+"Coding Black Females",2025-01-27,16944
 "Coding Black FemalesCoding Black Females",2023-12-14,NA
 "Coding Blocks",2023-01-25,140838
 "Coding Girls",2024-06-24,3578
@@ -3481,6 +2367,7 @@
 "Coffee Analysts",2023-10-18,5461
 "Coffee Analysts",2023-12-17,5299
 "Coffee Analysts",2023-12-18,5300
+"Coffee Analysts",2025-01-09,5451
 "Cognitect",2020-10-16,2593
 "Cognitect",2020-10-20,2598
 "Cognitect",2020-10-21,2598
@@ -3634,8 +2521,8 @@
 "Cognizant",2022-06-13,5060361
 "Cognizant",2022-06-15,5069145
 "Cognizant",2022-06-16,5074116
-"Cognizant",2022-06-20,5084523
 "Cognizant",2022-06-20,5084524
+"Cognizant",2022-06-20,5084523
 "Cognizant",2022-06-22,5093998
 "Cognizant",2022-06-23,5096647
 "Cognizant",2022-06-24,5102382
@@ -3698,8 +2585,8 @@
 "Cognizant",2023-03-25,6132091
 "Cognizant",2023-03-29,6146082
 "Cognizant",2023-04-01,6156291
-"Cognizant",2023-04-10,6187463
 "Cognizant",2023-04-10,6188351
+"Cognizant",2023-04-10,6187463
 "Cognizant",2023-04-13,6202800
 "Cognizant",2023-04-21,6230431
 "Cognizant",2023-04-23,6236735
@@ -3707,28 +2594,28 @@
 "Cognizant",2023-05-12,6379203
 "Cognizant",2023-05-19,6422431
 "Cognizant",2023-05-29,6451933
-"Cognizant",2023-06-05,6474202
 "Cognizant",2023-06-05,6474235
-"Cognizant",2023-06-11,6502834
+"Cognizant",2023-06-05,6474202
 "Cognizant",2023-06-11,6502841
+"Cognizant",2023-06-11,6502834
 "Cognizant",2023-06-14,6574589
 "Cognizant",2023-06-17,6588043
-"Cognizant",2023-06-23,6612895
 "Cognizant",2023-06-23,6612903
+"Cognizant",2023-06-23,6612895
 "Cognizant",2023-06-27,6632892
 "Cognizant",2023-07-06,6678244
 "Cognizant",2023-07-06,6678204
-"Cognizant",2023-07-23,6743361
 "Cognizant",2023-07-23,6743506
+"Cognizant",2023-07-23,6743361
 "Cognizant",2023-08-02,6787675
 "Cognizant",2023-08-05,6798580
 "Cognizant",2023-08-08,6808264
 "Cognizant",2023-08-10,6818501
-"Cognizant",2023-08-29,6893277
 "Cognizant",2023-08-29,6893280
+"Cognizant",2023-08-29,6893277
 "Cognizant",2023-09-15,6975902
-"Cognizant",2023-10-18,7105399
 "Cognizant",2023-10-18,7105457
+"Cognizant",2023-10-18,7105399
 "Cognizant",2023-12-14,6875563
 "Cognizant",2023-12-14,6875547
 "Cognizant",2023-12-16,6882914
@@ -3736,8 +2623,8 @@
 "Cognizant",2023-12-18,6887810
 "Cognizant",2023-12-18,6887799
 "Cognizant",2024-01-22,6968315
-"Cognizant",2024-04-08,7215534
 "Cognizant",2024-04-08,7215550
+"Cognizant",2024-04-08,7215534
 "Cognizant",2024-04-09,7220405
 "Cognizant",2024-04-17,7241418
 "Cognizant",2024-04-19,7245705
@@ -3745,27 +2632,29 @@
 "Cognizant",2024-05-03,7282204
 "Cognizant",2024-05-04,7284031
 "Cognizant",2024-05-19,7326093
-"Cognizant",2024-05-28,7351591
 "Cognizant",2024-05-28,7351603
+"Cognizant",2024-05-28,7351591
 "Cognizant",2024-06-08,7375537
 "Cognizant",2024-06-24,7411119
-"Cognizant",2024-06-28,7421889
 "Cognizant",2024-06-28,7421912
+"Cognizant",2024-06-28,7421889
 "Cognizant",2024-07-17,7471484
-"Cognizant",2024-07-20,7477434
 "Cognizant",2024-07-20,7477437
+"Cognizant",2024-07-20,7477434
 "Cognizant",2024-07-23,7487078
 "Cognizant",2024-08-02,7514904
 "Cognizant",2024-08-06,7524022
 "Cognizant",2024-08-06,7524002
 "Cognizant",2024-08-09,7535198
 "Cognizant",2024-08-20,7560544
-"Cognizant",2024-09-02,7592705
 "Cognizant",2024-09-02,7592729
+"Cognizant",2024-09-02,7592705
 "Cognizant",2024-09-10,7617825
 "Cognizant",2024-09-16,7635862
 "Cognizant",2024-09-16,7635829
 "Cognizant",2024-09-24,7663435
+"Cognizant",2025-01-09,7826586
+"Cognizant",2025-01-27,7863757
 "Coiled",2023-01-21,1914
 "Coiled",2023-02-25,1933
 "Coiled",2023-03-13,1939
@@ -3780,12 +2669,12 @@
 "Coiled",2023-08-05,2032
 "Coiled",2023-08-29,2052
 "Coiled",2023-10-18,2099
-"Coillte",2020-10-20,9787
 "Coillte",2020-10-20,9788
+"Coillte",2020-10-20,9787
 "Coillte",2020-10-21,9793
 "Coillte",2020-10-23,9805
-"Coillte",2020-10-25,9824
 "Coillte",2020-10-25,9833
+"Coillte",2020-10-25,9824
 "Coillte",2020-10-28,9860
 "Coillte",2020-10-30,9875
 "Coillte",2020-11-03,9894
@@ -3997,6 +2886,7 @@
 "Coillte",2024-09-10,18625
 "Coillte",2024-09-16,18647
 "Coillte",2024-09-24,18690
+"Coillte",2025-01-27,19094
 "Coimbatore Institute of Technology",2023-01-28,27159
 "Coinbase",2023-01-21,642320
 "Coinbase",2023-02-10,646570
@@ -4033,6 +2923,7 @@
 "College Democrats of America",2023-12-17,2002
 "College Democrats of America",2023-12-18,2002
 "College Democrats of America",2024-09-02,2137
+"College Democrats of America",2025-01-09,2209
 "College Democrats of Massachusetts",2023-01-21,210
 "College Democrats of Massachusetts",2023-02-10,210
 "College Democrats of Massachusetts",2023-02-25,209
@@ -4067,11 +2958,12 @@
 "College Democrats of New York",2023-10-18,101
 "College Democrats of New York",2023-12-17,101
 "College Democrats of New York",2023-12-18,101
+"College Democrats of New York",2025-01-09,98
 "Collibra",2020-10-20,23338
 "Collibra",2020-10-21,23382
 "Collibra",2020-10-23,23469
-"Collibra",2020-10-25,23507
 "Collibra",2020-10-25,23535
+"Collibra",2020-10-25,23507
 "Collibra",2020-10-28,23607
 "Collibra",2020-10-30,23679
 "Collibra",2020-11-03,23754
@@ -4285,6 +3177,7 @@
 "Collibra",2024-09-10,74986
 "Collibra",2024-09-16,75167
 "Collibra",2024-09-24,75454
+"Collibra",2025-01-27,79275
 "Collins Aerospace",2023-01-21,551632
 "Collins Aerospace",2023-02-25,653812
 "Collins Aerospace",2023-03-13,660224
@@ -4420,6 +3313,9 @@
 "Cologne AI and Machine Learning Meetup",2024-08-09,509
 "Cologne AI and Machine Learning Meetup",2024-09-02,515
 "Cologne AI and Machine Learning Meetup",2024-09-17,539
+"Cologne AI and Machine Learning Meetup",2025-01-09,608
+"Cologne AI and Machine Learning Meetup",2025-01-18,616
+"Cologne AI and Machine Learning Meetup",2025-02-21,672
 "Colombia Diversa",2024-07-17,3029
 "Colombia Diversa",2024-07-20,3055
 "Colombia Diversa",2024-07-23,3065
@@ -4432,6 +3328,7 @@
 "Colombia Diversa",2024-09-10,3422
 "Colombia Diversa",2024-09-16,3579
 "Colombia Diversa",2024-09-24,3843
+"Colombia Diversa",2025-01-27,5188
 "Color",2023-01-25,28020
 "Color",2023-01-29,28071
 "Colorado State University",2023-01-28,289047
@@ -4570,6 +3467,12 @@
 "Columbia Data Science Society",2024-08-09,993
 "Columbia Data Science Society",2024-09-02,1001
 "Columbia Data Science Society",2024-09-17,1003
+"Columbia Data Science Society",2025-01-09,1012
+"Columbia Data Science Society",2025-01-18,1013
+"Columbia Data Science Society",2025-02-21,1017
+"Columbia University",2025-01-09,680009
+"Columbia University - Graduate School of Journalism",2025-01-09,32893
+"Columbia University Irving Medical Center",2025-01-09,75633
 "Columbia University School of Professional Studies",2023-01-28,16298
 "Columbia University's M.S. in Nonprofit Management",2023-01-28,1014
 "Commerce et Administration des Entreprises- INP-HB",2022-04-25,137
@@ -4691,6 +3594,7 @@
 "Commonwealth Care Alliance",2024-08-06,23941
 "Commonwealth Care Alliance",2024-09-02,24427
 "Commonwealth Care Alliance",2024-09-16,24723
+"Commonwealth Care Alliance",2025-01-09,25951
 "Commonwealth of Learning",2023-01-28,6227
 "Commonwealth of Massachusetts",2023-01-21,80505
 "Commonwealth of Massachusetts",2023-02-10,81568
@@ -4719,6 +3623,7 @@
 "Commonwealth of Massachusetts",2024-08-06,116726
 "Commonwealth of Massachusetts",2024-09-02,118010
 "Commonwealth of Massachusetts",2024-09-16,118644
+"Commonwealth of Massachusetts",2025-01-09,124375
 "Community Foundation Ireland",2024-06-24,6450
 "Commvault",2023-01-21,115139
 "Commvault",2023-02-10,116341
@@ -4744,6 +3649,7 @@
 "Commvault",2024-08-06,150627
 "Commvault",2024-09-02,153326
 "Commvault",2024-09-16,154581
+"Commvault",2025-01-09,161340
 "CompTIA",2023-01-21,395876
 "CompTIA",2023-02-10,398803
 "CompTIA",2023-02-25,401343
@@ -4771,6 +3677,7 @@
 "CompTIA",2024-08-06,527111
 "CompTIA",2024-09-02,535355
 "CompTIA",2024-09-16,540360
+"CompTIA",2025-01-09,562821
 "CompTIA Security+",2023-01-21,14891
 "CompTIA Security+",2023-02-25,15330
 "CompTIA Security+",2023-03-13,15560
@@ -4786,3 +3693,995 @@
 "CompTIA Security+",2023-08-29,18206
 "CompTIA Security+",2023-10-18,18844
 "CompTIA Security+",2023-12-18,18844
+"Computer History Museum",2025-01-09,10255
+"Computer Science Society (CSS) - University of Birmingham",2025-01-09,374
+"Computer Science Society (CSS) - University of Birmingham",2025-01-18,378
+"Computer Science Society (CSS) - University of Birmingham",2025-02-21,385
+"Compylo",2025-01-27,1266
+"Comunidad R Hispano",2025-01-27,1177
+"Conning",2025-01-27,17287
+"Conrad N. Hilton Foundation",2025-01-27,27709
+"Couche-Tard",2025-01-09,38963
+"Council for Advancement and Support of Education",2025-01-09,33747
+"Council of the European Union",2025-01-09,376616
+"Country Club Bank",2025-01-09,3963
+"Coursera",2025-01-09,2241262
+"Coursera",2025-01-27,2252886
+"Cpl",2025-01-27,369918
+"Cyber Security Forum Initiative",2025-01-09,88026
+"CyberArk",2025-01-09,228833
+"CyberCoders",2025-01-09,1740035
+"D-Orbit",2025-01-09,63509
+"DAIN Studios",2025-01-09,4610
+"DAIN Studios",2025-01-18,4618
+"DAIN Studios",2025-02-21,4672
+"DATA CENTRIC AFRICA",2025-01-27,1387
+"DATA MANSA",2025-01-27,191
+"DAV (Disabled American Veterans)",2025-01-09,165259
+"DHL",2025-01-09,2386109
+"DHL Supply Chain",2025-01-09,1816106
+"DNB",2025-01-09,147472
+"DOF",2025-01-09,307990
+"DOF",2025-01-18,309212
+"DOF",2025-02-21,314690
+"DSCS, George Mason University",2025-01-09,116
+"DSCS, George Mason University",2025-01-18,118
+"DSCS, George Mason University",2025-02-21,118
+"DSN - Data Science Nigeria",2025-01-27,19212
+"DSN - Data Science Nigeria",2025-02-21,19630
+"DSNai - Data Science Nigeria",2025-01-09,19020
+"DSNai - Data Science Nigeria",2025-01-18,19079
+"DUBAI TECH",2025-01-09,111
+"DUBAI TECH",2025-01-18,111
+"DUBAI TECH",2025-02-21,113
+"Dalhousie Computer Science Society",2025-01-09,159
+"Dalhousie Computer Science Society",2025-01-18,161
+"Dalhousie Computer Science Society",2025-02-21,164
+"Dalrymple Sallis Architecture",2025-01-09,252
+"Dark Peak Analytics",2025-01-27,628
+"Darwin Recruitment",2025-01-09,157469
+"Data & Society Research Institute",2025-01-27,20562
+"Data Axle",2025-01-09,138315
+"Data Axle",2025-01-18,138959
+"Data Axle",2025-02-21,141127
+"Data For Good",2025-01-27,20971
+"Data Istanbul",2025-01-09,3733
+"Data Istanbul",2025-01-18,3733
+"Data Istanbul",2025-02-21,3738
+"Data Lille",2025-01-09,1343
+"Data Lille",2025-01-18,1351
+"Data Lille",2025-02-21,1414
+"Data Residents",2025-01-09,53
+"Data Residents",2025-01-18,53
+"Data Residents",2025-02-21,52
+"Data Science & Artificial Intelligence/AI South East London",2025-01-09,163
+"Data Science & Artificial Intelligence/AI South East London",2025-01-18,163
+"Data Science & Artificial Intelligence/AI South East London",2025-02-21,166
+"Data Science Academy",2025-01-09,528831
+"Data Science Academy",2025-01-18,529733
+"Data Science Academy",2025-01-27,530666
+"Data Science Academy",2025-02-21,533336
+"Data Science Central",2025-01-27,274204
+"Data Science Club at UTDallas",2025-01-09,2253
+"Data Science Club at UTDallas",2025-01-18,2260
+"Data Science Club at UTDallas",2025-02-21,2274
+"Data Science Club of UWA",2025-01-09,770
+"Data Science Club of UWA",2025-01-18,770
+"Data Science Club of UWA",2025-02-21,779
+"Data Science Council of America",2025-01-27,59676
+"Data Science Dojo",2025-01-09,303092
+"Data Science Dojo",2025-01-18,303219
+"Data Science Dojo",2025-01-27,303209
+"Data Science Dojo",2025-02-21,303888
+"Data Science Ghent",2025-01-09,300
+"Data Science Ghent",2025-01-18,300
+"Data Science Ghent",2025-02-21,297
+"Data Science Indonesia",2025-01-09,10899
+"Data Science Indonesia",2025-01-18,10918
+"Data Science Indonesia",2025-02-21,10994
+"Data Science Institute",2025-01-09,20023
+"Data Science Institute",2025-01-18,20032
+"Data Science Institute",2025-01-27,20024
+"Data Science Institute",2025-02-21,20043
+"Data Science Meetup",2025-01-09,148
+"Data Science Meetup",2025-01-18,148
+"Data Science Meetup",2025-02-21,148
+"Data Science Milan",2025-01-09,1645
+"Data Science Milan",2025-01-18,1647
+"Data Science Milan",2025-02-21,1659
+"Data Science Portugal",2025-01-09,9896
+"Data Science Portugal",2025-01-18,9919
+"Data Science Portugal",2025-02-21,9976
+"Data Science Research Arab Team",2025-01-09,248
+"Data Science Research Arab Team",2025-01-18,249
+"Data Science Research Arab Team",2025-02-21,255
+"Data Science Research Perú",2025-01-09,30259
+"Data Science Research Perú",2025-01-18,30344
+"Data Science Research Perú",2025-02-21,30661
+"Data Science Society",2025-01-09,1839
+"Data Science Society",2025-01-09,284
+"Data Science Society",2025-01-18,1849
+"Data Science Society",2025-01-18,285
+"Data Science Society",2025-02-21,1873
+"Data Science Society",2025-02-21,287
+"Data Science Society at Berkeley",2025-01-09,1329
+"Data Science Society at Berkeley",2025-01-18,1329
+"Data Science Society at Berkeley",2025-02-21,1362
+"Data Science Student Society at UCSD",2025-01-09,1009
+"Data Science Student Society at UCSD",2025-01-18,1017
+"Data Science Student Society at UCSD",2025-02-21,1037
+"Data Science Student Society at UJ",2025-01-09,124
+"Data Science Student Society at UJ",2025-01-18,124
+"Data Science Student Society at UJ",2025-02-21,124
+"Data Science Zimbabwe",2025-01-27,10213
+"Data Science and AI Society - UTS",2025-01-09,385
+"Data Science and AI Society - UTS",2025-01-18,386
+"Data Science and AI Society - UTS",2025-02-21,387
+"Data Science and Ai Association of Australia | DSAi",2025-01-09,6524
+"Data Science and Ai Association of Australia | DSAi",2025-01-18,6537
+"Data Science and Ai Association of Australia | DSAi",2025-02-21,6592
+"Data Science for Social Good Foundation",2025-01-27,6905
+"Data Scientists Ltd",2025-01-27,38
+"Data Visualization Society",2025-01-09,148245
+"Data Visualization Society",2025-01-18,148463
+"Data Visualization Society",2025-01-27,148671
+"Data Visualization Society",2025-02-21,149086
+"Data for Good",2025-01-27,13987
+"Data for Good Foundation",2025-01-27,2372
+"Data2X, United Nations Foundation",2025-01-27,5611
+"DataCamp",2025-01-09,490026
+"DataCamp",2025-01-18,491989
+"DataCamp",2025-01-27,493847
+"DataCamp",2025-02-21,499187
+"DataDotOrg",2025-01-27,12189
+"DataIQ",2025-01-27,21535
+"DataIQ School of Analysis",2025-01-27,145
+"DataKind",2025-01-27,25768
+"DataKind UK",2025-01-27,4590
+"DataRobot",2025-01-27,140511
+"DataSoc",2025-01-09,897
+"DataSoc",2025-01-18,898
+"DataSoc",2025-01-27,899
+"DataSoc",2025-02-21,900
+"DataTalksClub",2025-01-09,24809
+"DataTalksClub",2025-01-18,25044
+"DataTalksClub",2025-02-21,25568
+"Databricks",2025-01-27,831237
+"Datacove",2025-01-27,1077
+"Datadog",2025-01-09,376344
+"Datahug (acquired by CallidusCloud)",2025-01-27,2644
+"Dataiku",2025-01-27,196558
+"Datalitics",2025-01-27,211
+"Datalytics",2025-01-27,36192
+"Dataquest.io",2025-01-27,45037
+"Daybreak",2025-01-27,28334
+"Debian",2025-01-09,115120
+"Decision Inc.",2025-01-27,36957
+"DecisionBrain",2025-01-09,3735
+"DecisionBrain",2025-01-18,3755
+"DecisionBrain",2025-02-21,3824
+"DeepLearning.AI",2025-01-09,1128017
+"DeepLearning.AI",2025-01-18,1132600
+"DeepLearning.AI",2025-01-27,1138247
+"DeepLearning.AI",2025-02-21,1155991
+"DeepVidhya",2025-01-27,399
+"Defense Advanced Research Projects Agency (DARPA)",2025-01-09,245476
+"Defense Intelligence Agency",2025-01-09,307077
+"Deloitte",2025-01-09,17579447
+"Delta Air Lines",2025-01-09,1441230
+"Democratic National Committee",2025-01-09,51973
+"Derilinx",2025-01-27,1250
+"Design Science",2025-01-09,1545
+"Deutsche Bank",2025-01-09,2673993
+"Developer Relations Foundation",2025-01-27,385
+"Development Seed",2025-01-27,6703
+"Digital Boardwalk",2025-01-09,518
+"Digital Divide Data (DDD)",2025-01-09,30046
+"Digital Earth Africa",2025-01-27,8643
+"Digital Summit Series",2025-01-09,9728
+"Digital Transformation Academy",2025-01-09,10081
+"DigitalGlobe",2025-01-09,39149
+"Diligent",2025-01-09,103491
+"Dimension Data",2025-01-09,433712
+"Dimension Data",2025-01-18,433821
+"Dimension Data",2025-02-21,434110
+"Discover Financial Services",2025-01-09,205147
+"DoD Cyber Crime Center (DC3)",2025-01-09,56412
+"Docker, Inc",2025-01-09,708856
+"Domino Data Lab",2025-01-27,48619
+"Done With R",2025-01-27,22
+"Doris Duke Foundation",2025-01-27,9192
+"Downtown Boston Alliance",2025-01-09,672
+"Dragon Coders Private Limited",2025-01-27,576
+"Dubai Technologies",2025-01-09,16726
+"Dubai Technologies",2025-01-18,16800
+"Dubai Technologies",2025-02-21,17085
+"Dubai Technology Entrepreneur Campus - Dtec",2025-01-09,14148
+"Dubai Technology Entrepreneur Campus - Dtec",2025-01-18,14202
+"Dubai Technology Entrepreneur Campus - Dtec",2025-02-21,14498
+"Dublin University Computer Science Society",2025-01-09,166
+"Dublin University Computer Science Society",2025-01-18,168
+"Dublin University Computer Science Society",2025-02-21,185
+"DuckDB",2025-01-27,35259
+"Dun & Bradstreet",2025-01-09,241707
+"Dun & Bradstreet South Asia Middle East Ltd.",2025-01-09,15523
+"Duncan McCall",2025-01-09,501
+"E-SAT",2025-01-09,1060
+"EAVI - Media Literacy for Citizenship",2025-01-09,1515
+"EC-Council",2025-01-09,387247
+"EMD Serono, Inc.",2025-01-09,56769
+"EOS Worldwide",2025-01-09,41389
+"EY",2025-01-09,9590245
+"East Africa Research &Data Analysis",2025-01-27,19
+"Eaton Vance",2025-01-09,31836
+"EcoAngola",2025-01-27,32412
+"Economic Policy Institute",2025-01-09,23221
+"Economic and Social Research Institute (ESRI)",2025-01-27,25870
+"Ecosia",2023-01-21,105121
+"Ecosia",2023-02-10,105829
+"Ecosia",2023-02-25,106458
+"Ecosia",2023-03-13,106902
+"Ecosia",2023-03-29,107671
+"Ecosia",2023-04-10,108112
+"Ecosia",2023-04-23,108591
+"Ecosia",2023-06-05,109931
+"Ecosia",2023-06-11,110143
+"Ecosia",2023-06-23,110606
+"Ecosia",2023-07-06,111025
+"Ecosia",2023-07-23,116449
+"Ecosia",2023-08-05,126585
+"Ecosia",2023-08-29,128452
+"Ecosia",2023-10-18,130614
+"Ecosia",2023-12-17,131010
+"Ecosia",2023-12-18,131026
+"Ecosia",2024-09-02,142391
+"Ecosia",2025-01-09,147068
+"Eden Recruitment",2020-10-20,21633
+"Edge Impulse",2023-01-22,30517
+"Edison Energy LLC",2020-10-16,4314
+"Edison Energy LLC",2020-10-20,4345
+"Edison Energy LLC",2020-10-21,4361
+"Edison Energy LLC",2020-10-28,4407
+"Edison Energy LLC",2020-10-31,4432
+"Edison Energy LLC",2020-11-02,4436
+"Edison Energy LLC",2020-11-07,4456
+"Edison Energy LLC",2020-11-12,4475
+"Edison Energy LLC",2020-11-21,4513
+"Edison Energy LLC",2020-11-30,4525
+"Edison Energy LLC",2020-12-08,4569
+"Edison Energy LLC",2020-12-15,4583
+"Edison Energy LLC",2020-12-27,4627
+"Edison SpA",2020-10-16,76192
+"Edison SpA",2020-10-21,76431
+"Edison SpA",2020-10-22,76518
+"Edison SpA",2020-11-02,77123
+"Edison SpA",2020-11-07,77362
+"Edison SpA",2020-11-21,78177
+"Edison SpA",2020-12-15,79425
+"Editas Medicine",2023-01-25,31445
+"Editas Medicine",2023-01-29,31509
+"Edlitera",2023-01-21,76
+"Edlitera",2023-02-25,77
+"Edlitera",2023-03-13,83
+"Edlitera",2023-03-29,86
+"Edlitera",2023-04-10,86
+"Edlitera",2023-04-23,85
+"Edlitera",2023-06-05,88
+"Edlitera",2023-06-11,88
+"Edlitera",2023-06-23,88
+"Edlitera",2023-07-06,88
+"Edlitera",2023-07-23,90
+"Edlitera",2023-08-05,93
+"Edlitera",2023-08-29,96
+"Edlitera",2023-10-18,94
+"Edlitera",2023-12-18,93
+"Edmonton R User Group",2022-05-22,5
+"Edmonton R User Group",2022-05-25,6
+"Edmonton R User Group",2022-05-27,6
+"Edmonton R User Group",2022-05-30,6
+"Edmonton R User Group",2022-06-01,6
+"Edmonton R User Group",2022-06-03,6
+"Edmonton R User Group",2022-06-07,6
+"Edmonton R User Group",2022-06-08,6
+"Edmonton R User Group",2022-06-11,6
+"Edmonton R User Group",2022-06-13,6
+"Edmonton R User Group",2022-06-15,6
+"Edmonton R User Group",2022-06-16,6
+"Edmonton R User Group",2022-06-22,6
+"Edmonton R User Group",2022-06-23,6
+"Edmonton R User Group",2022-06-24,6
+"Edmonton R User Group",2022-06-26,6
+"Edmonton R User Group",2022-06-28,6
+"Edmonton R User Group",2022-06-30,6
+"Edmonton R User Group",2022-07-01,6
+"Edmonton R User Group",2022-07-02,6
+"Edmonton R User Group",2022-07-04,6
+"Edmonton R User Group",2022-07-05,6
+"Edmonton R User Group",2022-07-09,6
+"Edmonton R User Group",2022-07-12,6
+"Edmonton R User Group",2022-07-18,7
+"Edmonton R User Group",2022-07-21,7
+"Edmonton R User Group",2022-07-23,7
+"Edmonton R User Group",2022-07-25,7
+"Edmonton R User Group",2022-08-01,8
+"Edmonton R User Group",2022-08-08,8
+"Edmonton R User Group",2022-08-16,9
+"Edmonton R User Group",2022-08-20,9
+"Edmonton R User Group",2022-08-25,9
+"Edmonton R User Group",2022-08-28,10
+"Edmonton R User Group",2022-09-01,10
+"Edmonton R User Group",2022-09-07,10
+"Edmonton R User Group",2022-09-10,10
+"Edmonton R User Group",2022-09-16,10
+"Edmonton R User Group",2022-09-22,10
+"Edmonton R User Group",2022-09-29,10
+"Edmonton R User Group",2022-10-03,10
+"Edmonton R User Group",2022-10-09,10
+"Edmonton R User Group",2022-10-12,10
+"Edmonton R User Group",2022-10-16,10
+"Edmonton R User Group",2022-10-22,11
+"Edmonton R User Group",2022-10-28,11
+"Edmonton R User Group",2022-11-03,11
+"Edmonton R User Group",2022-11-06,11
+"Edmonton R User Group",2022-11-14,11
+"Edmonton R User Group",2022-11-20,11
+"Edmonton R User Group",2022-11-24,11
+"Edmonton R User Group",2022-12-01,12
+"Edmonton R User Group",2022-12-08,12
+"Edmonton R User Group",2022-12-14,12
+"Edmonton R User Group",2022-12-27,12
+"Edmonton R User Group",2023-01-01,12
+"Edmonton R User Group",2023-01-05,12
+"Edmonton R User Group",2023-01-09,12
+"Edmonton R User Group",2023-01-22,12
+"Edmonton R User Group",2023-01-28,12
+"Edmonton R User Group",2023-02-04,12
+"Edmonton R User Group",2023-02-10,16
+"Edmonton R User Group",2023-02-13,24
+"Edmonton R User Group",2023-02-24,25
+"Edmonton R User Group",2023-03-10,32
+"Edmonton R User Group",2023-03-13,34
+"Edmonton R User Group",2023-03-14,34
+"Edmonton R User Group",2023-03-18,34
+"Edmonton R User Group",2023-03-21,34
+"Edmonton R User Group",2023-03-25,35
+"Edmonton R User Group",2023-03-29,37
+"Edmonton R User Group",2023-04-01,38
+"Edmonton R User Group",2023-04-10,43
+"Edmonton R User Group",2023-04-13,43
+"Edmonton R User Group",2023-04-21,44
+"Edmonton R User Group",2023-04-23,44
+"Edmonton R User Group",2023-04-29,47
+"Edmonton R User Group",2023-05-12,48
+"Edmonton R User Group",2023-05-19,48
+"Edmonton R User Group",2023-05-29,49
+"Edmonton R User Group",2023-06-05,49
+"Edmonton R User Group",2023-06-11,49
+"Edmonton R User Group",2023-06-14,49
+"Edmonton R User Group",2023-06-17,49
+"Edmonton R User Group",2023-06-23,49
+"Edmonton R User Group",2023-06-27,49
+"Edmonton R User Group",2023-07-06,49
+"Edmonton R User Group",2023-07-23,49
+"Edmonton R User Group",2023-08-02,50
+"Edmonton R User Group",2023-08-05,50
+"Edmonton R User Group",2023-08-08,50
+"Edmonton R User Group",2023-08-10,50
+"Edmonton R User Group",2023-08-29,51
+"Edmonton R User Group",2023-09-15,51
+"Edmonton R User Group",2023-10-18,51
+"Edmonton R User Group",2023-12-14,71
+"Edmonton R User Group",2023-12-18,72
+"Edmonton R User Group",2024-01-22,72
+"Edmonton R User Group",2024-04-09,73
+"Edmonton R User Group",2024-04-17,73
+"Edmonton R User Group",2024-04-28,74
+"Edmonton R User Group",2024-05-03,74
+"Edmonton R User Group",2024-05-19,74
+"Edmonton R User Group",2024-06-08,74
+"Edmonton R User Group",2024-06-24,74
+"Edmonton R User Group",2024-07-17,74
+"Edmonton R User Group",2024-07-23,74
+"Edmonton R User Group",2024-08-02,74
+"Edmonton R User Group",2024-08-06,74
+"Edmonton R User Group",2024-08-09,74
+"Edmonton R User Group",2024-08-20,74
+"Edmonton R User Group",2024-09-02,73
+"Edmonton R User Group",2024-09-07,73
+"Edmonton R User Group",2024-09-10,73
+"Edmonton R User Group",2024-09-16,73
+"Edmonton R User Group",2024-09-24,73
+"Edmonton R User Group",2025-01-27,75
+"Edudictive",2020-10-16,1981
+"Edudictive",2020-10-21,1985
+"Edudictive",2020-10-24,1991
+"Edudictive",2020-10-28,1992
+"Edudictive",2020-11-07,2001
+"Edudictive",2020-11-21,2015
+"Edward Jones",2021-02-19,180781
+"Edward Jones",2021-03-26,182626
+"Eight Sleep",2023-01-25,12849
+"Eindhoven Airport NV",2023-10-18,7880
+"Eindhoven Airport NV",2023-12-17,8007
+"Eindhoven Airport NV",2023-12-18,8014
+"Eindhoven Airport NV",2024-09-02,8660
+"Eindhoven Airport NV",2025-01-09,8976
+"Eindhoven Medical Robotics",2023-10-18,2156
+"Eindhoven Medical Robotics",2023-12-18,2226
+"Eindhoven University of Technology",2023-02-10,128709
+"Eindhoven University of Technology",2023-10-18,138422
+"Eindhoven University of Technology",2023-12-14,138019
+"Eindhoven University of Technology",2023-12-17,138220
+"Eindhoven University of Technology",2023-12-18,138263
+"Eindhoven University of Technology",2024-04-08,142683
+"Eindhoven University of Technology",2024-06-28,146104
+"Eindhoven University of Technology",2024-08-06,147641
+"Eindhoven University of Technology",2024-09-02,148796
+"Eindhoven University of Technology",2024-09-16,149880
+"Eindhoven University of Technology",2025-01-09,155438
+"Ekam Early Learning Centre",2020-12-27,403
+"Ekam Early Learning Centre",2021-01-19,413
+"El Puente",2025-01-09,615
+"Elastic",2020-10-14,152046
+"Elastic",2020-10-19,153112
+"Elastic",2023-01-21,310138
+"Elastic",2023-01-25,311132
+"Elastic",2023-02-10,315747
+"Elastic",2023-02-25,320154
+"Elastic",2023-03-13,324750
+"Elastic",2023-03-29,330393
+"Elastic",2023-04-10,333293
+"Elastic",2023-04-23,337092
+"Elastic",2023-06-05,348830
+"Elastic",2023-06-11,350703
+"Elastic",2023-06-23,354321
+"Elastic",2023-07-06,357791
+"Elastic",2023-07-23,362342
+"Elastic",2023-08-05,366592
+"Elastic",2023-08-29,372938
+"Elastic",2023-10-18,385913
+"Elastic",2023-12-17,389515
+"Elastic",2023-12-18,389644
+"Elastic",2024-06-28,424215
+"Elastic",2024-09-02,434113
+"Elastic",2025-01-09,450100
+"Elbit Systems Ltd",2023-01-22,94537
+"Electric Vehicles",2021-02-19,1071
+"Electric Vehicles",2021-03-06,1138
+"Electric Vehicles",2021-03-26,1213
+"ElectroRoute",2020-12-27,1835
+"ElectroRoute",2021-02-19,1903
+"ElectroRoute",2021-03-26,1959
+"Electronic Frontier Foundation (EFF)",2023-01-21,20871
+"Electronic Frontier Foundation (EFF)",2023-02-10,21148
+"Electronic Frontier Foundation (EFF)",2023-02-25,21326
+"Electronic Frontier Foundation (EFF)",2023-03-13,21549
+"Electronic Frontier Foundation (EFF)",2023-03-29,21724
+"Electronic Frontier Foundation (EFF)",2023-04-10,21870
+"Electronic Frontier Foundation (EFF)",2023-04-23,21996
+"Electronic Frontier Foundation (EFF)",2023-06-05,22478
+"Electronic Frontier Foundation (EFF)",2023-06-11,22557
+"Electronic Frontier Foundation (EFF)",2023-06-23,22693
+"Electronic Frontier Foundation (EFF)",2023-07-06,22785
+"Electronic Frontier Foundation (EFF)",2023-07-23,22929
+"Electronic Frontier Foundation (EFF)",2023-08-05,23038
+"Electronic Frontier Foundation (EFF)",2023-08-29,23289
+"Electronic Frontier Foundation (EFF)",2023-10-18,23965
+"Electronic Frontier Foundation (EFF)",2023-12-14,23758
+"Electronic Frontier Foundation (EFF)",2023-12-17,23794
+"Electronic Frontier Foundation (EFF)",2023-12-18,23806
+"Electronic Frontier Foundation (EFF)",2024-04-08,25084
+"Electronic Frontier Foundation (EFF)",2024-06-28,25968
+"Electronic Frontier Foundation (EFF)",2024-08-06,26278
+"Electronic Frontier Foundation (EFF)",2024-09-02,26527
+"Electronic Frontier Foundation (EFF)",2024-09-16,26655
+"Electronic Frontier Foundation (EFF)",2025-01-09,27480
+"Element 84",2023-04-23,1749
+"Element 84",2023-06-05,1789
+"Element 84",2023-06-11,1855
+"Element 84",2023-06-23,1871
+"Element 84",2023-07-06,1879
+"Element 84",2023-07-23,1893
+"Element 84",2023-08-05,1905
+"Element 84",2023-08-29,1926
+"Element 84",2023-10-18,2041
+"Element 84",2023-12-17,2116
+"Element 84",2023-12-18,2118
+"Element 84",2024-09-02,3225
+"Element 84",2025-01-09,4510
+"Elevian Inc.",2023-01-25,1121
+"Elevian Inc.",2023-01-29,1124
+"Eli Lilly and Company",2023-01-28,1421350
+"Eli Lilly and Company",2025-01-09,1952694
+"Elm Company",2020-10-30,302172
+"Elm Company",2020-11-03,302436
+"Elm Company",2020-11-06,302653
+"Elm Company",2020-11-10,302948
+"Elm Company",2020-11-14,303296
+"Elm Company",2020-11-18,303836
+"Elm Company",2020-11-23,304783
+"Elm Company",2020-11-28,305467
+"Elm Company",2020-12-03,306045
+"Elm Company",2020-12-05,306257
+"Elm Company",2020-12-12,307131
+"Elm Company",2020-12-15,307585
+"Elm Company",2020-12-20,308321
+"Elm Company",2020-12-25,309681
+"Elm Company",2020-12-29,310877
+"Elm Company",2021-01-03,311735
+"Elm Company",2021-01-06,312560
+"Elm Company",2021-01-11,313370
+"Elm Company",2021-01-15,314279
+"Elm Company",2021-01-19,314952
+"Elm Company",2021-01-25,316021
+"Elm Company",2021-01-30,316656
+"Elm Company",2021-01-31,316619
+"Elm Company",2021-02-03,317157
+"Elm Company",2021-02-07,317660
+"Elm Company",2021-02-12,318472
+"Elm Company",2021-02-17,319526
+"Elm Company",2021-02-21,320207
+"Elm Company",2021-02-25,321239
+"Elm Company",2021-03-01,322230
+"Elm Company",2021-03-06,323681
+"Elm Company",2021-03-10,324663
+"Elm Company",2021-03-16,325622
+"Elm Company",2021-03-20,326408
+"Elm Company",2021-03-24,326895
+"Elm Company",2021-03-30,327760
+"Elm Company",2021-04-06,328505
+"Elm Company",2021-04-10,329229
+"Elm Company",2021-04-15,329720
+"Elm Company",2021-04-20,330392
+"Elm Company",2021-04-24,330949
+"Elm Company",2021-04-28,331602
+"Elm Company",2021-05-03,332354
+"Elm Company",2021-05-07,332946
+"Elm Company",2021-05-10,333289
+"Elm Company",2021-05-14,333634
+"Elm Company",2021-05-21,335594
+"Elm Company",2021-05-26,336511
+"Elm Company",2021-06-02,337688
+"Elm Company",2021-06-09,338806
+"Elm Company",2021-06-16,339843
+"Elm Company",2021-06-21,340515
+"Elm Company",2021-06-29,341913
+"Elm Company",2021-07-02,342498
+"Elm Company",2021-07-04,342719
+"Elm Company",2021-07-09,343516
+"Elm Company",2021-07-14,344244
+"Elm Company",2021-07-18,344755
+"Elm Company",2021-07-22,345123
+"Elm Company",2021-08-14,348397
+"Elm Company",2021-08-26,350954
+"Elm Company",2021-09-02,352484
+"Elm Company",2021-09-16,355897
+"Elm Company",2021-10-17,361140
+"Elm Company",2021-10-29,362987
+"Elm Company",2021-11-06,364696
+"Elm Company",2021-11-20,366463
+"Elm Company",2021-12-07,368406
+"Elm Company",2021-12-14,369516
+"Elm Company",2021-12-20,370790
+"Elm Company",2021-12-26,372068
+"Elm Company",2021-12-30,372705
+"Elm Company",2021-12-31,372833
+"Elm Company",2022-01-03,373191
+"Elm Company",2022-01-04,373454
+"Elm Company",2022-01-06,373799
+"Elm Company",2022-01-07,374025
+"Elm Company",2022-01-10,374450
+"Elm Company",2022-01-14,375168
+"Elm Company",2022-01-18,376039
+"Elm Company",2022-01-27,377904
+"Elm Company",2022-02-01,379281
+"Elm Company",2022-02-07,380842
+"Elm Company",2022-02-10,381755
+"Elm Company",2022-02-12,382252
+"Elm Company",2022-02-16,383666
+"Elm Company",2022-02-20,384820
+"Elm Company",2022-02-23,385627
+"Elm Company",2022-02-26,386342
+"Elm Company",2022-03-07,388618
+"Elm Company",2022-03-15,390491
+"Elm Company",2022-03-20,391571
+"Elm Company",2022-03-29,393682
+"Elm Company",2022-04-09,396149
+"Elm Company",2022-04-11,396609
+"Elm Company",2022-04-13,397165
+"Elm Company",2022-04-25,399550
+"Elm Company",2022-04-29,400257
+"Elm Company",2022-05-05,400837
+"Elm Company",2022-05-12,402398
+"Elm Company",2022-05-30,405821
+"Elm Company",2022-06-01,406094
+"Elm Company",2022-06-03,406440
+"Elm Company",2022-06-07,407314
+"Elm Company",2022-06-08,407314
+"Elm Company",2022-06-11,408255
+"Elm Company",2022-06-16,409297
+"Elm Company",2022-06-20,410003
+"Elm Company",2022-06-22,410569
+"Elm Company",2022-06-23,410718
+"Elm Company",2022-06-28,411917
+"Elm Company",2022-06-30,412245
+"Elm Company",2022-07-01,412490
+"Elm Company",2022-07-02,412573
+"Elm Company",2022-07-04,413094
+"Elm Company",2022-07-05,413514
+"Elm Company",2022-07-09,414207
+"Elm Company",2022-07-12,414736
+"Elm Company",2022-07-18,416011
+"Elm Company",2022-07-21,417081
+"Elm Company",2022-07-23,417682
+"Elm Company",2022-07-25,418512
+"Elm Company",2022-08-01,420532
+"Elm Company",2022-08-08,422548
+"Elm Company",2022-08-16,425283
+"Elm Company",2022-08-20,426673
+"Elm Company",2022-08-25,428013
+"Elm Company",2022-08-28,428913
+"Elm Company",2022-09-01,430540
+"Elm Company",2022-09-07,432422
+"Elm Company",2022-09-10,433419
+"Elm Company",2022-09-16,436001
+"Elm Company",2022-09-22,438095
+"Elm Company",2022-09-29,440111
+"Elm Company",2022-10-03,441239
+"Elm Company",2022-10-09,443744
+"Elm Company",2022-10-12,444604
+"Elm Company",2022-10-16,445372
+"Elm Company",2022-10-22,446943
+"Elm Company",2022-10-28,448696
+"Elm Company",2022-11-03,450247
+"Elm Company",2022-11-06,450907
+"Elm Company",2022-11-14,452835
+"Elm Company",2022-11-20,455041
+"Elm Company",2022-11-24,456542
+"Elm Company",2022-12-01,458251
+"Elm Company",2022-12-08,459874
+"Elm Company",2022-12-14,461385
+"Elm Company",2022-12-27,464453
+"Elm Company",2023-01-01,466001
+"Elm Company",2023-01-05,467640
+"Elm Company",2023-01-09,468694
+"Elm Company",2023-01-22,472661
+"Elm Company",2023-01-28,474848
+"Elm Company",2023-02-04,476838
+"Elm Company",2023-02-10,479126
+"Elm Company",2023-02-13,480145
+"Elm Company",2023-02-24,483433
+"Elm Company",2023-03-10,487923
+"Elm Company",2023-03-14,489325
+"Elm Company",2023-03-18,490393
+"Elm Company",2023-03-21,492073
+"Elm Company",2023-03-25,493683
+"Elm Company",2023-04-01,495890
+"Elm Company",2023-04-10,498688
+"Elm Company",2023-04-13,499709
+"Elm Company",2023-04-21,501608
+"Elm Company",2023-04-29,503142
+"Elm Company",2023-05-12,507359
+"Elm Company",2023-05-19,509485
+"Elm Company",2023-05-29,512653
+"Elm Company",2023-06-05,515195
+"Elm Company",2023-06-11,518255
+"Elm Company",2023-06-14,520292
+"Elm Company",2023-06-17,522807
+"Elm Company",2023-06-23,527140
+"Elm Company",2023-06-27,528621
+"Elm Company",2023-07-06,532164
+"Elm Company",2023-07-23,538909
+"Elm Company",2023-08-02,542268
+"Elm Company",2023-08-08,543525
+"Elm Company",2023-08-10,544217
+"Elm Company",2023-08-29,552417
+"Elm Company",2023-09-15,560263
+"Elm Company",2023-10-18,574795
+"Elm Company",2023-12-14,576128
+"Elm Company",2023-12-16,576639
+"Elm Company",2023-12-18,577467
+"Elm Company",2024-01-22,588243
+"Elm Company",2024-04-08,615825
+"Elm Company",2024-04-09,616018
+"Elm Company",2024-04-17,617190
+"Elm Company",2024-04-19,617579
+"Elm Company",2024-04-28,619056
+"Elm Company",2024-05-03,620017
+"Elm Company",2024-05-19,625071
+"Elm Company",2024-06-08,630515
+"Elm Company",2024-06-24,634820
+"Elm Company",2024-07-17,640748
+"Elm Company",2024-07-23,642565
+"Elm Company",2024-08-02,644840
+"Elm Company",2024-08-06,645595
+"Elm Company",2024-08-09,646485
+"Elm Company",2024-08-20,649360
+"Elm Company",2024-09-02,652767
+"Elm Company",2024-09-07,654380
+"Elm Company",2024-09-10,655895
+"Elm Company",2024-09-16,658129
+"Elm Company",2024-09-24,660037
+"Elm Company",2025-01-27,693880
+"Elovate.co",2023-01-25,19
+"Elsevier",2023-01-28,541058
+"Elsevier Nursing & Health Education",2023-01-28,12985
+"Embarc Collective",2023-06-05,5312
+"Embarc Collective",2023-06-11,5337
+"Embarc Collective",2023-06-23,5384
+"Embarc Collective",2023-07-06,5429
+"Embarc Collective",2023-07-23,5516
+"Embarc Collective",2023-08-05,5578
+"Embarc Collective",2023-08-29,5689
+"Embarc Collective",2023-10-18,5926
+"Emerald Coast Science Center",2023-02-25,93
+"Emerald Coast Science Center",2023-03-13,94
+"Emerald Coast Science Center",2023-03-29,96
+"Emerald Coast Science Center",2023-04-10,99
+"Emerald Coast Science Center",2023-04-23,101
+"Emerald Coast Science Center",2023-06-05,111
+"Emerald Coast Science Center",2023-06-11,111
+"Emerald Coast Science Center",2023-06-23,112
+"Emerald Coast Science Center",2023-07-06,115
+"Emerald Coast Science Center",2023-07-23,116
+"Emerald Coast Science Center",2023-08-05,118
+"Emerald Coast Science Center",2023-08-29,121
+"EmeraldPublishing",2023-01-28,24397
+"Employment Hero",2023-01-21,69488
+"Employment Hero",2023-02-10,75639
+"Employment Hero",2023-02-25,80268
+"Employment Hero",2023-03-13,84768
+"Employment Hero",2023-03-29,88858
+"Employment Hero",2023-04-10,90824
+"Employment Hero",2023-04-23,93025
+"Employment Hero",2023-06-05,102162
+"Employment Hero",2023-06-11,103471
+"Employment Hero",2023-06-23,106917
+"Employment Hero",2023-07-06,110639
+"Employment Hero",2023-07-23,114327
+"Employment Hero",2023-08-05,117401
+"Employment Hero",2023-08-29,121431
+"Employment Hero",2023-10-18,133305
+"Employment Hero",2023-12-17,145459
+"Employment Hero",2023-12-18,145645
+"EnableD",2023-04-21,44
+"EnableD",2023-04-29,62
+"EnableD",2023-05-12,150
+"EnableD",2023-05-19,166
+"EnableD",2023-05-29,175
+"EnableD",2023-06-05,182
+"EnableD",2023-06-11,193
+"EnableD",2023-06-14,196
+"EnableD",2023-06-17,196
+"EnableD",2023-06-23,196
+"EnableD",2023-06-27,196
+"EnableD",2023-07-06,223
+"EnableD",2023-07-23,236
+"EnableD",2023-08-02,240
+"EnableD",2023-08-08,254
+"EnableD",2023-08-10,254
+"EnableD",2023-08-29,275
+"EnableD",2023-09-15,279
+"EnableD",2023-10-18,329
+"EnableD",2023-12-14,332
+"EnableD",2023-12-18,332
+"EnableD",2024-01-22,337
+"EnableD",2024-04-09,341
+"EnableD",2024-04-17,342
+"EnableD",2024-04-28,343
+"EnableD",2024-05-03,343
+"EnableD",2024-05-19,344
+"EnableD",2024-06-08,339
+"EnableD",2024-06-24,341
+"EnableD",2024-07-17,341
+"EnableD",2024-07-23,342
+"EnableD",2024-08-02,342
+"EnableD",2024-08-06,342
+"EnableD",2024-08-09,342
+"EnableD",2024-08-20,342
+"EnableD",2024-09-02,343
+"EnableD",2024-09-07,343
+"EnableD",2024-09-10,343
+"EnableD",2024-09-16,343
+"EnableD",2024-09-24,342
+"EnableD",2025-01-27,338
+"EnduroSat",2023-01-21,8314
+"EnduroSat",2023-02-25,8711
+"EnduroSat",2023-03-13,8840
+"EnduroSat",2023-03-29,9080
+"EnduroSat",2023-04-10,9188
+"EnduroSat",2023-04-23,9406
+"EnduroSat",2023-06-05,9943
+"EnduroSat",2023-06-11,9989
+"EnduroSat",2023-06-23,10128
+"EnduroSat",2023-07-06,10255
+"EnduroSat",2023-07-23,10476
+"EnduroSat",2023-08-05,10619
+"EnduroSat",2023-08-29,10922
+"EnduroSat",2023-10-18,11597
+"EnduroSat",2023-12-18,13246
+"Engagez",2023-01-21,1089
+"Engagez",2023-02-10,1129
+"Engagez",2023-02-25,1140
+"Engagez",2023-03-13,1168
+"Engagez",2023-03-29,1178
+"Engagez",2023-04-10,1183
+"Engagez",2023-04-23,1186
+"Engagez",2023-06-05,1193
+"Engagez",2023-06-11,1192
+"Engagez",2023-06-23,1194
+"Engagez",2023-07-06,1207
+"Engagez",2023-07-23,1234
+"Engagez",2023-08-05,1243
+"Engagez",2023-08-29,1245
+"Engagez",2023-10-18,1246
+"Engagez",2023-12-14,1207
+"Engagez",2023-12-17,1208
+"Engagez",2023-12-18,1208
+"Engagez",2024-06-28,1216
+"Engagez",2024-08-06,1213
+"Engagez",2024-09-02,1215
+"Engagez",2025-01-09,1224
+"Enhancv",2023-01-21,5749
+"Enhancv",2023-02-25,5768
+"Enhancv",2023-03-13,5770
+"Enhancv",2023-03-29,5800
+"Enhancv",2023-04-10,5812
+"Enhancv",2023-04-23,5825
+"Enhancv",2023-06-05,6048
+"Enhancv",2023-06-11,6065
+"Enhancv",2023-06-23,6098
+"Enhancv",2023-07-06,6139
+"Enhancv",2023-07-23,6172
+"Enhancv",2023-08-05,6207
+"Enhancv",2023-08-29,6283
+"Enhancv",2023-10-18,6382
+"Enhancv",2023-12-18,6381
+"Enigen IT - Lutech Group",2020-10-21,2944
+"Enigen IT - Lutech Group",2020-10-22,2945
+"Enigen IT - Lutech Group",2020-11-02,2946
+"Enigen IT - Lutech Group",2020-11-07,2950
+"Enigen IT - Lutech Group",2020-11-21,2958
+"Enigen IT - Lutech Group",2020-12-15,2971
+"Enigen IT Lutech Group",2020-10-16,2943
+"Enkay Enviro Services jaipur",2023-01-28,316
+"Enpal",2023-01-25,29646
+"Enphase Energy",2023-01-21,89811
+"Enphase Energy",2023-02-10,92850
+"Enphase Energy",2023-02-25,94963
+"Enphase Energy",2023-03-13,97419
+"Enphase Energy",2023-03-29,99805
+"Enphase Energy",2023-04-10,101771
+"Enphase Energy",2023-04-23,104253
+"Enphase Energy",2023-06-05,110040
+"Enphase Energy",2023-06-11,110960
+"Enphase Energy",2023-06-23,112740
+"Enphase Energy",2023-07-06,114938
+"Enphase Energy",2023-07-23,118951
+"Enphase Energy",2023-08-05,121260
+"Enphase Energy",2023-08-29,125359
+"Enphase Energy",2023-10-18,132882
+"Enphase Energy",2023-12-17,136456
+"Enphase Energy",2023-12-18,136549
+"Enphase Energy",2024-06-28,157597
+"Enphase Energy",2024-08-06,161615
+"Enphase Energy",2024-09-02,164157
+"Enphase Energy",2025-01-09,172753
+"Ensemble Hospitalier de la C<f4>te",2021-02-19,7450
+"Ensemble Hospitalier de la C<f4>te",2021-03-26,7662
+"Enterprise Bank & Trust",2023-01-21,8816
+"Enterprise Bank & Trust",2023-02-10,8895
+"Enterprise Bank & Trust",2023-02-25,8970
+"Enterprise Bank & Trust",2023-03-13,9090
+"Enterprise Bank & Trust",2023-03-29,9194
+"Enterprise Bank & Trust",2023-04-10,9262
+"Enterprise Bank & Trust",2023-04-23,9330
+"Enterprise Bank & Trust",2023-06-05,9557
+"Enterprise Bank & Trust",2023-06-11,9600
+"Enterprise Bank & Trust",2023-06-23,9677
+"Enterprise Bank & Trust",2023-07-06,9729
+"Enterprise Bank & Trust",2023-07-23,9800
+"Enterprise Bank & Trust",2023-08-05,9881
+"Enterprise Bank & Trust",2023-08-29,10009
+"Enterprise Bank & Trust",2023-10-18,10331
+"Enterprise Bank & Trust",2023-12-14,10404
+"Enterprise Bank & Trust",2023-12-17,10426
+"Enterprise Bank & Trust",2023-12-18,10432
+"Enterprise Bank & Trust",2024-04-08,11110
+"Enterprise Bank & Trust",2024-06-28,11734
+"Enterprise Bank & Trust",2024-08-06,11888
+"Enterprise Bank & Trust",2024-09-02,12029
+"Enterprise Bank & Trust",2024-09-16,12112
+"Enterprise Bank & Trust",2025-01-09,12704
+"Enterprise IT World",2023-01-21,8238
+"Enterprise IT World",2023-02-25,8459
+"Enterprise IT World",2023-03-13,8587
+"Enterprise IT World",2023-03-29,8624
+"Enterprise IT World",2023-04-10,8721
+"Enterprise IT World",2023-04-23,8792
+"Enterprise IT World",2023-06-05,9074
+"Enterprise IT World",2023-06-11,9083
+"Enterprise IT World",2023-06-23,9097
+"Enterprise IT World",2023-07-06,9152
+"Enterprise IT World",2023-07-23,9275
+"Enterprise IT World",2023-08-05,9364
+"Enterprise IT World",2023-08-29,9486
+"Enterprise IT World",2023-10-18,9665
+"Enterprise IT World",2023-12-18,9755
+"Entrepreneur First",2023-01-25,105997
+"Entrepreneur First",2023-01-29,106242
+"Enviro Jobs Network",2023-01-28,122828
+"Enviro-Safe Resource Recovery",2023-01-28,479
+"Envirolution",2021-05-10,1063
+"Environment + Energy Leader",2020-10-19,2531
+"Environment + Energy Leader",2020-10-28,2552
+"Environment + Energy Leader",2020-11-07,2572
+"Environment + Energy Leader",2020-11-21,2626
+"Environment Agency",2023-01-28,221250
+"Environment Analyst",2023-01-28,5431
+"Environment and Energy Leader",2020-10-20,2534
+"Environmental Analytics Inc.",2023-01-28,209
+"Environmental Defense Fund",2023-01-28,146264
+"Environmental Engineering (uk) Ltd",2023-01-28,1211
+"Environmental Engineering Consultants Inc",2023-01-28,991
+"Environmental Protection Agency (EPA) Ireland",2023-01-28,25311
+"Environmental Science Associates",2023-01-28,16430
+"Environmental Science Center",2023-01-28,408
+"Environmental Science Corp.",2023-01-28,705
+"Environmental Services Group Inc.",2023-01-28,1515
+"Environmental Solutions and Consultancy",2023-01-28,2480
+"Envitech Inc.",2023-01-28,251
+"Envitech Ltd",2023-01-28,231
+"Envitech Ltd. - Smart Environmental Monitoring Software's",2023-01-28,554
+"Eolas Recruitment",2023-01-29,45387
+"Epizyme",2023-01-25,20482
+"Epizyme",2023-01-29,20491
+"Equalista",2023-01-25,705
+"Equifax",2023-01-21,162791
+"Equifax",2023-02-10,165035
+"Equifax",2023-02-25,166493
+"Equifax",2023-03-13,167762
+"Equifax",2023-03-29,169182
+"Equifax",2023-04-10,170032
+"Equifax",2023-04-23,171384
+"Equifax",2023-06-05,175798
+"Equifax",2023-06-11,176510
+"Equifax",2023-06-23,178067
+"Equifax",2023-07-06,179650
+"Equifax",2023-07-23,181501
+"Equifax",2023-08-05,182997
+"Equifax",2023-08-29,186929
+"Equifax",2023-10-18,193031
+"Equifax",2023-12-14,195716
+"Equifax",2023-12-17,196076
+"Equifax",2023-12-18,196170
+"Equifax",2024-04-08,208127
+"Equifax",2024-06-28,218427
+"Equifax",2024-08-06,222255
+"Equifax",2024-09-02,224634
+"Equifax",2024-09-16,225941
+"Equifax",2025-01-09,235471
+"Equitable Healthcare Access Consortium",2023-12-18,756
+"Equity Space Alliance",2023-02-25,238
+"Equity Space Alliance",2023-03-13,251
+"Equity Space Alliance",2023-03-29,267
+"Equity Space Alliance",2023-04-10,287
+"Equity Space Alliance",2023-04-23,303
+"Equity Space Alliance",2023-06-05,381
+"Equity Space Alliance",2023-06-11,386
+"Equity Space Alliance",2023-06-23,396
+"Equity Space Alliance",2023-07-06,397
+"Equity Space Alliance",2023-07-23,407
+"Equity Space Alliance",2023-08-05,421
+"Equity Space Alliance",2023-08-29,425
+"Eraneos - powered by Ginkgo",2023-06-05,3450
+"Eraneos - powered by Ginkgo",2023-06-11,3466
+"Eraneos - powered by Ginkgo",2023-06-14,3472
+"Eraneos - powered by Ginkgo",2023-06-17,3476
+"Eraneos - powered by Ginkgo",2023-06-23,3483
+"Eraneos - powered by Ginkgo",2023-06-27,3484
+"Eraneos - powered by Ginkgo",2023-07-06,3498
+"Eraneos - powered by Ginkgo",2023-07-23,3533
+"Eraneos - powered by Ginkgo",2023-08-02,3550
+"Eraneos - powered by Ginkgo",2023-08-08,3558
+"Eraneos - powered by Ginkgo",2023-08-10,3563
