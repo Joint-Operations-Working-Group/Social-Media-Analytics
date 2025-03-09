@@ -1,140 +1,663 @@
 "Company","Date","Followers"
-"TotalVerify",2025-01-18,3641
-"TotalVerify",2025-02-21,3672
-"Towards AI",2025-01-27,269575
-"Towards Data Science",2025-01-09,639789
-"Towards Data Science",2025-01-18,639984
-"Towards Data Science",2025-01-27,640093
-"Towards Data Science",2025-02-21,640695
-"TransUnion",2025-01-09,467872
-"Transparency International",2025-01-09,136123
-"Transportation Security Administration (TSA)",2025-01-09,164132
-"Treemetrics Ltd",2025-01-27,1715
-"TrialAssure",2025-01-27,4026
-"Tufts Health Plan",2025-01-09,27123
-"Tunis R User Group",2025-01-27,726
-"Twenty Billion Neurons",2025-01-27,3229
-"Twitch",2025-01-09,551556
-"Twitter",2025-01-09,1583452
-"Two Sigma",2025-01-27,216879
-"U.S. Bank",2025-01-09,501328
-"U.S. Customs and Border Protection",2025-01-09,284377
-"U.S. Department of Commerce",2025-01-09,98287
-"U.S. Department of Energy (DOE)",2025-01-09,300523
-"U.S. Department of Homeland Security",2025-01-09,934050
-"U.S. Department of Labor",2025-01-09,368587
-"U.S. Department of State",2025-01-09,1359600
-"U.S. Department of Transportation",2025-01-09,219215
-"U.S. Department of the Treasury",2025-01-09,144401
-"U.S. Immigration and Customs Enforcement (ICE)",2025-01-09,180484
-"U.S. Navy Reserve",2025-01-09,58898
-"U.S. Secret Service",2025-01-09,300745
-"U.S. Securities and Exchange Commission",2025-01-09,146267
-"U.S. Small Business Administration",2025-01-09,227151
-"UBC Computer Science Student Society",2025-01-09,714
-"UBC Computer Science Student Society",2025-01-18,716
-"UBC Computer Science Student Society",2025-02-21,723
-"UCD I&E Student Managed Fund",2025-01-09,2181
-"UCD I&E Student Managed Fund",2025-01-18,2188
-"UCD I&E Student Managed Fund",2025-02-21,2244
-"UCD Investors and Entrepreneurs Society",2025-01-09,3545
-"UCD Investors and Entrepreneurs Society",2025-01-18,3547
-"UCD Investors and Entrepreneurs Society",2025-02-21,3721
-"UCD Netsoc – UCD's Internet and Computer Science Society",2025-01-09,502
-"UCD Netsoc – UCD's Internet and Computer Science Society",2025-01-18,503
-"UCD Netsoc – UCD's Internet and Computer Science Society",2025-01-27,505
-"UCD Netsoc – UCD's Internet and Computer Science Society",2025-02-21,507
-"UCL Data Science Society",2025-01-09,1720
-"UCL Data Science Society",2025-01-18,1723
-"UCL Data Science Society",2025-01-27,1729
-"UCL Data Science Society",2025-02-21,1737
-"UCSD Computer Science & Engineering Society",2025-01-09,358
-"UCSD Computer Science & Engineering Society",2025-01-18,359
-"UCSD Computer Science & Engineering Society",2025-02-21,363
-"UK Space Agency",2025-01-09,113630
-"UK Statistics Authority",2025-01-27,4635
-"UKCloud Ltd",2025-01-09,5827
-"UMass Boston",2025-01-09,112994
-"UN Climate Change",2025-01-09,546146
-"UN Environment Programme",2025-01-09,1319715
-"UN SDG:Learn",2025-01-27,44787
-"UN Sustainable Development Group",2025-01-27,250304
-"UN Women",2025-01-09,1470774
-"UNDP Guinea-Bissau",2025-01-27,3744
-"UNESCO",2025-01-09,2153460
-"UNICEF",2025-01-09,4958677
-"UNICEF",2025-01-27,4976689
-"UNICEF Innocenti",2025-01-27,67785
-"UNSW Computer Science and Engineering Society (CSESoc)",2025-01-09,2423
-"UNSW Computer Science and Engineering Society (CSESoc)",2025-01-18,2425
-"UNSW Computer Science and Engineering Society (CSESoc)",2025-02-21,2489
-"UNSW Data Science Society (DataSoc)",2025-01-09,1197
-"UNSW Data Science Society (DataSoc)",2025-01-18,1203
-"UNSW Data Science Society (DataSoc)",2025-02-21,1214
-"US Navy",2025-01-09,708821
-"USAA",2025-01-09,410519
-"USAID",2025-01-09,2394337
-"USC Center for AI in Society's Student Branch (CAIS++)",2025-01-09,343
-"USC Center for AI in Society's Student Branch (CAIS++)",2025-01-18,345
-"USC Center for AI in Society's Student Branch (CAIS++)",2025-02-21,351
-"UST Computer Science Society",2025-01-09,97
-"UST Computer Science Society",2025-01-18,100
-"UST Computer Science Society",2025-02-21,103
-"Uber",2025-01-09,2992560
-"Udemy",2025-01-27,1485895
-"UnCruise Adventures Small Ship Cruising",2025-01-09,5913
-"United Airlines",2025-01-09,981556
-"United Launch Alliance (ULA)",2025-01-09,111397
-"United Nations",2025-01-09,5734327
-"United Nations Economic Commission for Africa",2025-01-09,89700
-"United Nations Foundation",2025-01-09,204870
-"United Nations Foundation",2025-01-27,205751
-"United Nations Institute for Training and Research (UNITAR)",2025-01-27,437992
-"United Nations OCHA",2025-01-09,575655
-"United Nations Office for Outer Space Affairs (UNOOSA)",2025-01-09,43756
-"United Nations Satellite Centre (UNOSAT)",2025-01-27,7911
-"United Nations Volunteers",2025-01-27,3020764
-"United States Air Force",2025-01-09,748973
-"United States Air Force Security Forces",2025-01-09,8665
-"United States Attorneys'​ Offices",2025-01-09,132641
-"United States Department of Defense",2025-01-09,1420446
-"United States Geospatial Intelligence Foundation (USGIF)",2025-01-09,14487
-"United States Naval Academy",2025-01-09,81080
-"University College Dublin",2025-01-09,319214
-"University College Dublin",2025-01-18,320287
-"University College Dublin",2025-02-21,324208
-"University Of Sheffield Computer Science Society",2025-01-09,97
-"University Of Sheffield Computer Science Society",2025-01-18,98
-"University Of Sheffield Computer Science Society",2025-02-21,99
-"University of Bristol Computer Science Society",2025-01-09,274
-"University of Bristol Computer Science Society",2025-01-18,274
-"University of Bristol Computer Science Society",2025-02-21,280
-"University of Limerick",2025-01-09,127165
-"University of Limerick",2025-01-18,127523
-"University of Limerick",2025-02-21,129004
-"University of Massachusetts",2025-01-09,61683
-"University of West Florida",2025-01-09,77254
-"UnternehmerTUM",2025-01-09,48795
-"UoM AI and Machine Learning Society",2025-01-09,91
-"UoM AI and Machine Learning Society",2025-01-18,91
-"UoM AI and Machine Learning Society",2025-02-21,92
-"Ursa Labs",2025-01-27,450
+"VERDE",2021-09-02,126
+"VERDE",2021-09-16,126
+"VERDE",2021-10-17,126
+"VERDE",2021-10-29,126
+"VERDE",2021-11-06,126
+"VERDE",2021-11-20,126
+"VERDE",2021-12-07,128
+"VERDE",2021-12-14,128
+"VERDE",2021-12-20,128
+"VERDE",2021-12-26,128
+"VERDE",2021-12-30,128
+"VERDE",2021-12-31,128
+"VERDE",2022-01-03,128
+"VERDE",2022-01-04,128
+"VERDE",2022-01-06,128
+"VERDE",2022-01-07,128
+"VERDE",2022-01-10,128
+"VERDE",2022-01-14,128
+"VERDE",2022-01-18,128
+"VERDE",2022-01-27,129
+"VERDE",2022-02-01,131
+"VERDE",2022-02-07,131
+"VERDE",2022-02-10,147
+"VERDE",2022-02-12,154
+"VERDE",2022-02-23,160
+"VERDE",2022-02-26,160
+"VERDE",2022-03-07,163
+"VERDE",2022-03-15,167
+"VERDE",2022-03-20,169
+"VERDE",2022-03-29,171
+"VERDE",2022-03-31,171
+"VERDE",2022-04-09,173
+"VERDE",2022-04-11,173
+"VERDE",2022-04-13,173
+"VERDE",2022-04-19,172
+"VERDE",2022-04-25,172
+"VERDE",2022-04-29,172
+"VERDE",2022-05-05,173
+"VERDE",2022-05-22,173
+"VERDE",2022-05-25,173
+"VERDE",2022-05-27,174
+"VERDE",2022-06-01,176
+"VERDE",2022-06-07,177
+"VERDE",2022-06-08,177
+"VERDE",2022-06-11,177
+"VERDE",2022-06-20,177
+"VERDE",2022-06-22,177
+"VERDE",2022-06-23,177
+"VERDE",2022-06-24,177
+"VERDE",2022-06-26,177
+"VERDE",2022-06-28,177
+"VERDE",2022-06-30,177
+"VERDE",2022-07-01,177
+"VERDE",2022-07-02,177
+"VERDE",2022-07-04,177
+"VERDE",2022-07-05,177
+"VERDE",2022-07-09,177
+"VERDE",2022-07-12,177
+"VERDE",2022-07-18,177
+"VERDE",2022-07-21,178
+"VERDE",2022-07-23,178
+"VERDE",2022-07-25,178
+"VERDE",2022-08-01,178
+"VERDE",2022-08-08,178
+"VERDE",2022-08-16,178
+"VERDE",2022-08-20,178
+"VERDE",2022-08-25,178
+"VERDE",2022-08-28,178
+"VERDE",2022-09-01,178
+"VERDE",2022-09-07,180
+"VERDE",2022-09-10,180
+"VERDE",2022-09-16,180
+"VERDE",2022-09-22,180
+"VERDE",2022-09-29,180
+"VERDE",2022-10-03,180
+"VERDE",2022-10-09,180
+"VERDE",2022-10-12,180
+"VERDE",2022-10-16,180
+"VERDE",2022-10-22,180
+"VERDE",2022-10-28,180
+"VERDE",2022-11-03,180
+"VERDE",2022-11-06,181
+"VERDE",2022-11-14,183
+"VERDE",2022-11-20,183
+"VERDE",2022-11-24,183
+"VERDE",2022-12-01,183
+"VERDE",2022-12-08,183
+"VERDE",2022-12-14,183
+"VERDE",2022-12-27,183
+"VERDE",2023-01-01,184
+"VERDE",2023-01-05,184
+"VERDE",2023-01-09,184
+"VERDE",2023-01-22,184
+"VERDE",2023-01-28,185
+"VERDE",2023-02-04,185
+"VERDE",2023-02-10,185
+"VERDE",2023-02-13,185
+"VERDE",2023-02-24,184
+"VERDE",2023-03-10,185
+"VERDE",2023-03-14,185
+"VERDE",2023-03-18,185
+"VERDE",2023-03-21,185
+"VERDE",2023-03-25,185
+"VERDE",2023-04-01,186
+"VERDE",2023-04-10,186
+"VERDE",2023-04-13,186
+"VERDE",2023-04-21,186
+"VERDE",2023-04-29,186
+"VERDE",2023-05-12,188
+"VERDE",2023-05-19,189
+"VERDE",2023-05-29,189
+"VERDE",2023-06-05,189
+"VERDE",2023-06-11,190
+"VERDE",2023-06-14,190
+"VERDE",2023-06-17,190
+"VERDE",2023-06-23,191
+"VERDE",2023-06-27,191
+"VERDE",2023-07-06,191
+"VERDE",2023-07-23,191
+"VERDE",2023-08-02,191
+"VERDE",2023-08-08,191
+"VERDE",2023-08-10,191
+"VERDE",2023-08-29,192
+"VERDE",2023-09-15,192
+"VERDE",2023-10-18,193
+"VERDE",2023-12-16,189
+"VERDE",2023-12-18,189
+"VERDE",2024-01-22,194
+"VERDE",2024-04-08,195
+"VERDE",2024-04-09,195
+"VERDE",2024-04-17,221
+"VERDE",2024-04-19,221
+"VERDE",2024-04-28,222
+"VERDE",2024-05-03,223
+"VERDE",2024-05-19,225
+"VERDE",2024-06-08,229
+"VERDE",2024-06-24,231
+"VERDE",2024-06-28,231
+"VERDE",2024-07-17,237
+"VERDE",2024-07-20,238
+"VERDE",2024-07-23,238
+"VERDE",2024-08-02,239
+"VERDE",2024-08-06,239
+"VERDE",2024-08-09,239
+"VERDE",2024-08-20,244
+"VERDE",2024-09-02,246
+"VERDE",2024-09-07,247
+"VERDE",2024-09-10,248
+"VERDE",2024-09-16,248
+"VERDE",2024-09-24,248
+"VERDE",2024-10-02,249
+"VERDE",2024-11-15,250
+"VERDE",2024-11-24,251
+"VERDE",2024-11-26,251
+"VERDE",2024-12-07,251
+"VERDE",2025-01-08,252
+"VERDE",2025-01-18,252
 "VERDE",2025-01-27,253
+"VERDE",2025-02-04,252
+"VERDE",2025-02-20,251
+"VERDE",2025-02-28,252
+"VERDE",2025-03-03,252
+"VERDE",2025-03-09,253
+"VERDEVERDE",2023-12-14,NA
+"VIB",2023-01-25,20733
+"VIB",2023-01-29,20780
+"VIMAR Digital Marketing",2024-06-24,786
+"VINE",2022-09-10,1151
+"VINE",2022-09-16,1153
+"VINE",2022-09-22,1158
+"VINE",2022-09-29,1162
+"VINE",2022-10-03,1164
+"VINE",2022-10-09,1167
+"VINE",2022-10-16,1167
+"VINE",2022-10-22,1172
+"VINE",2022-10-28,1174
+"VINE",2022-11-03,1178
+"VINE",2022-11-06,1179
+"VINE",2022-11-14,1181
+"VINE",2022-11-20,1185
+"VINE",2022-11-24,1187
+"VINE",2022-12-01,1189
+"VINE",2022-12-08,1189
+"VINE",2022-12-14,1190
+"VINE",2022-12-27,1209
+"VINE",2023-01-01,1209
+"VINE",2023-01-05,1210
+"VINE",2023-01-09,1211
+"VINE",2023-01-22,1214
+"VINE",2023-01-29,1213
+"VINE",2023-02-04,1218
+"VINE",2023-02-25,1224
+"VINE",2023-03-18,1232
+"VINE",2023-03-21,1234
+"VINE",2023-03-25,1237
+"VINE",2023-04-10,1250
+"VINE",2023-04-13,1255
+"VINE",2023-04-21,1256
+"VINE",2023-04-29,1260
+"VINE",2023-05-19,1280
+"VINE",2023-05-29,1283
+"VINE",2023-06-05,1284
+"VINE",2023-06-14,1288
+"VINE",2023-06-17,1288
+"VINE",2023-06-27,1292
+"VINE",2023-07-06,1297
+"VINE",2023-07-23,1303
+"VINE",2023-08-08,1305
+"VINE",2023-08-10,1306
+"VINE",2023-09-15,1307
+"VINE",2023-10-18,1307
+"VINE",2023-12-17,1297
+"VINE",2023-12-18,1297
+"VINE",2024-01-22,1302
+"VINE",2024-04-10,1331
+"VINE",2024-05-28,1359
+"VINE",2024-06-25,1374
+"VINE",2024-08-02,1393
+"VINE",2024-08-09,1395
+"VINE",2024-09-02,1409
+"VINE",2024-09-17,1412
+"VINE",2024-09-24,1420
+"VINE",2024-10-02,1423
+"VINE",2024-11-15,1436
 "VINE",2025-01-09,1457
 "VINE",2025-01-18,1459
+"VINE",2025-01-28,1459
 "VINE",2025-02-21,1473
+"VINE",2025-03-03,1480
+"VISIT FLORIDA",2023-12-14,18329
+"VISIT FLORIDA",2023-12-17,18346
+"VISIT FLORIDA",2023-12-18,18353
+"VISIT FLORIDA",2024-04-08,19125
+"VISIT FLORIDA",2024-05-04,19293
+"VISIT FLORIDA",2024-05-28,19509
+"VISIT FLORIDA",2024-06-28,19689
+"VISIT FLORIDA",2024-07-20,19827
+"VISIT FLORIDA",2024-08-06,19893
+"VISIT FLORIDA",2024-09-02,19997
+"VISIT FLORIDA",2024-09-16,20091
+"VISIT FLORIDA",2024-09-27,20155
 "VISIT FLORIDA",2025-01-09,20502
+"VISIT FLORIDA",2025-01-19,20539
+"VISIT FLORIDA",2025-01-27,20564
+"VISIT FLORIDA",2025-02-21,20797
+"VISIT FLORIDA",2025-02-28,20874
+"VISO Cyber Security",2022-08-20,597
+"VISO Cyber Security",2022-08-25,601
+"VISO Cyber Security",2022-08-28,605
+"VISO Cyber Security",2022-09-01,610
+"VISO Cyber Security",2022-09-07,612
+"VISO Cyber Security",2022-09-10,613
+"VISO Cyber Security",2022-09-16,634
+"VISO Cyber Security",2022-09-22,644
+"VISO Cyber Security",2022-09-29,645
+"VISO Cyber Security",2022-10-03,645
+"VISO Cyber Security",2022-10-09,647
+"VISO Cyber Security",2022-10-12,647
+"VISO Cyber Security",2022-10-16,648
+"VISO Cyber Security",2022-10-22,666
+"VISO Cyber Security",2022-10-28,673
+"VISO Cyber Security",2022-11-03,678
+"VISO Cyber Security",2022-11-06,680
+"VISO Cyber Security",2022-11-14,684
+"VISO Cyber Security",2022-11-20,685
+"VISO Cyber Security",2022-11-24,686
+"VISO Cyber Security",2022-12-01,688
+"VISO Cyber Security",2022-12-08,691
+"VISO Cyber Security",2022-12-14,693
+"VISO Cyber Security",2022-12-27,694
+"VISO Cyber Security",2023-01-01,695
+"VISO Cyber Security",2023-01-05,697
+"VISO Cyber Security",2023-01-09,697
+"VISO Cyber Security",2023-01-22,700
+"VISO Cyber Security",2023-01-28,713
+"VISO Cyber Security",2023-02-04,718
+"VISO Cyber Security",2023-02-10,723
+"VISO Cyber Security",2023-02-13,724
+"VISO Cyber Security",2023-02-24,759
+"VISO Cyber Security",2023-03-10,769
+"VISO Cyber Security",2023-03-14,769
+"VISO Cyber Security",2023-03-18,773
+"VISO Cyber Security",2023-03-21,776
+"VISO Cyber Security",2023-03-25,778
+"VISO Cyber Security",2023-04-01,779
+"VISO Cyber Security",2023-04-10,784
+"VISO Cyber Security",2023-04-13,788
+"VISO Cyber Security",2023-04-21,797
+"VISO Cyber Security",2023-04-29,802
+"VISO Cyber Security",2023-05-12,809
+"VISO Cyber Security",2023-05-19,817
+"VISO Cyber Security",2023-05-29,819
+"VISO Cyber Security",2023-06-05,821
+"VISO Cyber Security",2023-06-11,826
+"VISO Cyber Security",2023-06-14,826
+"VISO Cyber Security",2023-06-17,826
+"VISO Cyber Security",2023-06-23,830
+"VISO Cyber Security",2023-06-27,831
+"VISO Cyber Security",2023-07-06,833
+"VISO Cyber Security",2023-07-23,840
+"VISO Cyber Security",2023-08-02,843
+"VISO Cyber Security",2023-08-08,846
+"VISO Cyber Security",2023-08-10,846
+"VISO Cyber Security",2023-08-29,855
+"VISO Cyber Security",2023-09-15,861
+"VISO Cyber Security",2023-10-18,932
+"VISO Cyber Security",2023-12-14,986
+"VISO Cyber Security",2023-12-18,986
+"VISO Cyber Security",2024-01-22,1057
+"VISO Cyber Security",2024-04-09,1122
+"VISO Cyber Security",2024-04-17,1125
+"VISO Cyber Security",2024-04-28,1129
+"VISO Cyber Security",2024-05-03,1131
+"VISO Cyber Security",2024-05-19,1143
+"VISO Cyber Security",2024-06-08,1153
+"VISO Cyber Security",2024-06-24,1152
+"VISO Cyber Security",2024-06-28,1153
+"VISO Cyber Security",2024-07-17,1154
+"VISO Cyber Security",2024-07-20,1154
+"VISO Cyber Security",2024-07-23,1155
+"VISO Cyber Security",2024-08-02,1156
+"VISO Cyber Security",2024-08-06,1156
+"VISO Cyber Security",2024-08-09,1158
+"VISO Cyber Security",2024-08-20,1160
+"VISO Cyber Security",2024-09-02,1164
+"VISO Cyber Security",2024-09-07,1164
+"VISO Cyber Security",2024-09-10,1165
+"VISO Cyber Security",2024-09-16,1166
+"VISO Cyber Security",2024-09-24,1170
+"VISO Cyber Security",2024-10-02,1173
+"VISO Cyber Security",2024-11-15,1191
+"VISO Cyber Security",2024-11-24,1193
+"VISO Cyber Security",2024-11-26,1193
+"VISO Cyber Security",2024-12-07,1194
+"VISO Cyber Security",2025-01-08,1202
+"VISO Cyber Security",2025-01-18,1202
 "VISO Cyber Security",2025-01-27,1205
+"VISO Cyber Security",2025-02-04,1207
+"VISO Cyber Security",2025-02-20,1216
+"VISO Cyber Security",2025-02-28,1217
+"VISO Cyber Security",2025-03-03,1224
+"VISO Cyber Security",2025-03-09,1227
 "VIZIO",2025-01-09,29117
+"VIZIO",2025-01-19,29189
+"VIZIO",2025-01-27,29236
+"VIZIO",2025-02-21,29461
+"VIZIO",2025-02-28,29520
+"VIZZU",2023-01-21,457
+"VIZZU",2023-02-25,463
+"VIZZU",2023-03-13,483
+"VIZZU",2023-03-29,501
+"VIZZU",2023-04-10,504
+"VIZZU",2023-04-23,518
+"VIZZU",2023-06-05,541
+"VIZZU",2023-06-11,542
+"VIZZU",2023-06-23,551
+"VIZZU",2023-07-06,569
+"VIZZU",2023-07-23,590
+"VIZZU",2023-08-05,597
+"VIZZU",2023-08-29,603
+"VIZZU",2023-10-18,616
+"VMware",2023-01-21,1833964
+"VMware",2023-02-10,1842871
+"VMware",2023-02-25,1848952
+"VMware",2023-03-13,1855315
+"VMware",2023-03-29,1862091
+"VMware",2023-04-10,1868079
+"VMware",2023-04-23,1875068
+"VMware",2023-06-05,1895839
+"VMware",2023-06-11,1899659
+"VMware",2023-06-23,1907831
+"VMware",2023-07-06,1916500
+"VMware",2023-07-23,1926591
+"VMware",2023-08-05,1935388
+"VMware",2023-08-29,1949031
+"VMware",2023-10-18,1991041
+"VMware",2023-12-14,1941878
+"VMware",2023-12-17,1943395
+"VMware",2023-12-18,1943771
+"VMware",2024-04-08,1974643
+"VMware",2024-05-04,1978711
+"VMware",2024-05-28,1982154
+"VMware",2024-06-24,1986155
+"VMware",2024-06-28,1987023
+"VMware",2024-07-20,1990681
+"VMware",2024-08-06,1993113
+"VMware",2024-09-02,1997921
+"VMware",2024-09-16,2001181
+"VMware",2024-09-27,2003563
 "VMware",2025-01-09,2013086
+"VMware",2025-01-19,2014079
+"VMware",2025-01-27,2014666
+"VMware",2025-02-21,2017022
+"VMware",2025-02-28,2017428
+"VMware Networking and Security",2023-01-21,5812
+"VMware Networking and Security",2023-02-25,6306
+"VMware Networking and Security",2023-03-13,6472
+"VMware Networking and Security",2023-03-29,6613
+"VMware Networking and Security",2023-04-10,6695
+"VMware Networking and Security",2023-04-23,6774
+"VMware Networking and Security",2023-06-05,7096
+"VMware Networking and Security",2023-06-11,7123
+"VMware Networking and Security",2023-06-23,7169
+"VMware Networking and Security",2023-07-06,7197
+"VMware Networking and Security",2023-07-23,7225
+"VMware Networking and Security",2023-08-05,7286
+"VMware Networking and Security",2023-08-29,7364
+"VNG Corporation",2023-01-28,124963
+"VPT Inc.",2023-01-21,1329
+"VPT Inc.",2023-02-10,1358
+"VPT Inc.",2023-02-25,1381
+"VPT Inc.",2023-03-13,1391
+"VPT Inc.",2023-03-29,1401
+"VPT Inc.",2023-04-10,1411
+"VPT Inc.",2023-04-23,1418
+"VPT Inc.",2023-06-05,1437
+"VPT Inc.",2023-06-11,1445
+"VPT Inc.",2023-06-23,1452
+"VPT Inc.",2023-07-06,1456
+"VPT Inc.",2023-07-23,1466
+"VPT Inc.",2023-08-05,1474
+"VPT Inc.",2023-08-29,1487
+"VPT Inc.",2023-10-18,1519
+"VPT Inc.",2023-12-17,1501
+"VPT Inc.",2023-12-18,1501
+"VPT Inc.",2024-06-28,1639
+"VPT Inc.",2024-09-02,1667
 "VPT, Inc.",2025-01-09,1766
+"VPT, Inc.",2025-01-19,1772
+"VPT, Inc.",2025-01-27,1775
+"VPT, Inc.",2025-02-21,1790
+"VPT, Inc.",2025-02-28,1799
+"VSB - Technical University of Ostrava",2023-01-28,39207
+"VSN International",2025-02-28,3461
+"VSN International",2025-03-03,3465
+"VSN International",2025-03-09,3503
+"VTP - PSS GROUP",2023-01-28,109
+"VULCA NGO",2024-06-24,355
+"Valence",2023-01-25,2515
+"Valiance Solutions",2023-01-28,32456
+"ValleyML",2023-01-21,688
+"ValleyML",2023-02-25,692
+"ValleyML",2023-03-13,696
+"ValleyML",2023-03-29,698
+"ValleyML",2023-04-10,701
+"ValleyML",2023-04-23,704
+"ValleyML",2023-06-05,709
+"ValleyML",2023-06-11,710
+"ValleyML",2023-06-23,710
+"ValleyML",2023-07-06,710
+"ValleyML",2023-07-23,709
+"ValleyML",2023-08-05,714
+"ValleyML",2023-08-29,716
+"ValleyML",2023-10-18,696
+"Valo",2023-01-25,6938
+"Valo",2023-01-29,6954
+"Van Leer Foundation",2023-12-17,18255
+"Van Leer Foundation",2023-12-18,18264
+"Van Leer Foundation",2024-01-22,18556
+"Van Leer Foundation",2024-04-10,20279
+"Van Leer Foundation",2024-05-28,20822
+"Van Leer Foundation",2024-06-25,21092
+"Van Leer Foundation",2024-08-02,21625
+"Van Leer Foundation",2024-08-09,21668
+"Van Leer Foundation",2024-09-02,21823
+"Van Leer Foundation",2024-09-17,21944
+"Van Leer Foundation",2024-09-24,22006
+"Van Leer Foundation",2024-10-02,22058
+"Van Leer Foundation",2024-11-15,22461
 "Van Leer Foundation",2025-01-09,22828
 "Van Leer Foundation",2025-01-18,22949
+"Van Leer Foundation",2025-01-28,23135
 "Van Leer Foundation",2025-02-21,23416
+"Van Leer Foundation",2025-03-03,23501
+"VantAI",2023-01-25,3206
+"VantAI",2023-01-29,3225
+"Vantage Resources",2023-01-29,22106
+"Vantik",2023-01-25,2639
+"Vaya Space",2023-02-25,4053
+"Vaya Space",2023-03-13,4147
+"Vaya Space",2023-03-29,4233
+"Vaya Space",2023-04-10,4278
+"Vaya Space",2023-04-23,4326
+"Vaya Space",2023-06-05,4490
+"Vaya Space",2023-06-11,4501
+"Vaya Space",2023-06-23,4577
+"Vaya Space",2023-07-06,4623
+"Vaya Space",2023-07-23,4659
+"Vaya Space",2023-08-05,4702
+"Vaya Space",2023-08-29,4780
+"Vellore Institute of Technology",2023-01-28,205796
+"Velociraptor DFIR",2023-02-25,7535
+"Velociraptor DFIR",2023-03-13,7883
+"Velociraptor DFIR",2023-03-29,8277
+"Velociraptor DFIR",2023-04-10,8541
+"Velociraptor DFIR",2023-04-23,8792
+"Velociraptor DFIR",2023-06-05,9638
+"Velociraptor DFIR",2023-06-11,9723
+"Velociraptor DFIR",2023-06-23,9894
+"Velociraptor DFIR",2023-07-06,10020
+"Velociraptor DFIR",2023-07-23,10196
+"Velociraptor DFIR",2023-08-05,10317
+"Velociraptor DFIR",2023-08-29,10520
+"Venner Shipley",2023-08-29,2452
+"Venner Shipley",2023-10-18,2518
+"Venner Shipley",2023-12-14,2528
+"Venner Shipley",2023-12-17,2534
+"Venner Shipley",2023-12-18,2535
+"Venner Shipley",2024-04-08,2673
+"Venner Shipley",2024-05-04,2710
+"Venner Shipley",2024-05-28,2732
+"Venner Shipley",2024-06-28,2795
+"Venner Shipley",2024-07-20,2827
+"Venner Shipley",2024-08-06,2865
+"Venner Shipley",2024-09-02,2924
+"Venner Shipley",2024-09-16,2945
+"Venner Shipley",2024-09-27,2967
 "Venner Shipley",2025-01-09,3255
+"Venner Shipley",2025-01-19,3275
+"Venner Shipley",2025-01-27,3286
+"Venner Shipley",2025-02-21,3318
+"Venner Shipley",2025-02-28,3338
+"Venner Shipley LLP",2023-01-21,2208
+"Venner Shipley LLP",2023-02-10,2220
+"Venner Shipley LLP",2023-02-25,2246
+"Venner Shipley LLP",2023-03-13,2265
+"Venner Shipley LLP",2023-03-29,2287
+"Venner Shipley LLP",2023-04-10,2300
+"Venner Shipley LLP",2023-04-23,2313
+"Venner Shipley LLP",2023-06-05,2341
+"Venner Shipley LLP",2023-06-11,2346
+"Venner Shipley LLP",2023-06-23,2360
+"Venner Shipley LLP",2023-07-06,2371
+"Venner Shipley LLP",2023-07-23,2388
+"Venner Shipley LLP",2023-08-05,2419
+"VentureFizz",2023-01-21,5704
+"VentureFizz",2023-02-10,5732
+"VentureFizz",2023-02-25,5748
+"VentureFizz",2023-03-13,5781
+"VentureFizz",2023-03-29,5815
+"VentureFizz",2023-04-10,5829
+"VentureFizz",2023-04-23,5860
+"VentureFizz",2023-06-05,5896
+"VentureFizz",2023-06-11,5904
+"VentureFizz",2023-06-23,5926
+"VentureFizz",2023-07-06,5929
+"VentureFizz",2023-07-23,5973
+"VentureFizz",2023-08-05,5989
+"VentureFizz",2023-08-29,6039
+"VentureFizz",2023-10-18,6134
+"VentureFizz",2023-12-14,6320
+"VentureFizz",2023-12-17,6323
+"VentureFizz",2023-12-18,6324
+"VentureFizz",2024-05-04,6562
+"VentureFizz",2024-06-28,6648
+"VentureFizz",2024-08-06,6762
+"VentureFizz",2024-09-02,6827
 "VentureFizz",2025-01-09,7008
+"VentureFizz",2025-01-19,7017
+"VentureFizz",2025-01-27,7025
+"VentureFizz",2025-02-21,7071
+"VentureFizz",2025-02-28,7081
+"Veolia Water Technologies",2023-01-28,149558
+"Veolia Water Technologies UK",2023-01-28,29654
+"Vera",2023-01-25,356
+"Verge Genomics",2023-01-25,10567
+"Verge Genomics",2023-01-29,10605
+"Verify Recruitment",2024-06-24,1149
+"Verily",2023-01-25,138903
+"Verily",2023-01-29,139027
+"Verisk - atmospheric and environmental research",2023-01-28,3351
+"Verisk - extreme event solutions",2023-01-28,35108
+"Verra",2023-01-28,30148
+"Versameb AG",2023-01-25,1364
+"Versameb AG",2023-01-29,1376
+"Version 1",2023-01-29,95378
+"Verta",2023-01-25,1372
+"Vertex Pharmaceuticals",2023-01-21,235706
+"Vertex Pharmaceuticals",2023-01-25,236400
+"Vertex Pharmaceuticals",2023-01-29,237100
+"Vertex Pharmaceuticals",2023-02-10,239322
+"Vertex Pharmaceuticals",2023-02-25,241980
+"Vertex Pharmaceuticals",2023-03-13,244863
+"Vertex Pharmaceuticals",2023-03-29,248038
+"Vertex Pharmaceuticals",2023-04-10,250524
+"Vertex Pharmaceuticals",2023-04-23,253060
+"Vertex Pharmaceuticals",2023-06-05,261654
+"Vertex Pharmaceuticals",2023-06-11,263154
+"Vertex Pharmaceuticals",2023-06-23,266654
+"Vertex Pharmaceuticals",2023-07-06,270075
+"Vertex Pharmaceuticals",2023-07-23,273957
+"Vertex Pharmaceuticals",2023-08-05,277480
+"Vertex Pharmaceuticals",2023-08-29,284176
+"Vertex Pharmaceuticals",2023-10-18,299290
+"Vertex Pharmaceuticals",2023-12-14,308391
+"Vertex Pharmaceuticals",2023-12-17,309503
+"Vertex Pharmaceuticals",2023-12-18,309786
+"Vertex Pharmaceuticals",2024-04-08,342727
+"Vertex Pharmaceuticals",2024-05-04,352482
+"Vertex Pharmaceuticals",2024-05-28,358872
+"Vertex Pharmaceuticals",2024-06-24,365166
+"Vertex Pharmaceuticals",2024-06-28,366118
+"Vertex Pharmaceuticals",2024-07-20,371617
+"Vertex Pharmaceuticals",2024-08-06,375480
+"Vertex Pharmaceuticals",2024-09-02,381354
+"Vertex Pharmaceuticals",2024-09-16,383997
+"Vertex Pharmaceuticals",2024-09-27,387087
 "Vertex Pharmaceuticals",2025-01-09,407988
+"Vertex Pharmaceuticals",2025-01-19,410541
+"Vertex Pharmaceuticals",2025-01-27,412083
+"Vertex Pharmaceuticals",2025-02-21,423522
+"Vertex Pharmaceuticals",2025-02-28,425726
+"Vertex Solutions International Ltd",2023-01-25,51875
+"Vessel",2023-01-25,2152
+"Vessy.com - Trust Culture DEIB",2024-06-24,434
+"Vestbee",2024-06-24,10149
+"Vevo Therapeutics",2023-01-25,450
+"Vevo Therapeutics",2023-01-29,463
+"Via",2023-01-25,94051
+"Via Satellite",2023-12-17,8791
+"Via Satellite",2023-12-18,8795
+"Via Satellite",2025-02-21,11723
+"Via Satellite Magazine",2023-01-21,6722
+"Via Satellite Magazine",2023-02-25,7041
+"Via Satellite Magazine",2023-03-13,7228
+"Via Satellite Magazine",2023-03-29,7421
+"Via Satellite Magazine",2023-04-10,7497
+"Via Satellite Magazine",2023-04-23,7552
+"Via Satellite Magazine",2023-06-05,7800
+"Via Satellite Magazine",2023-06-11,7823
+"Via Satellite Magazine",2023-06-23,7866
+"Via Satellite Magazine",2023-07-06,7927
+"Via Satellite Magazine",2023-07-23,7995
+"Via Satellite Magazine",2023-08-05,8145
+"Via Satellite Magazine",2023-08-29,8279
+"Via Satellite Magazine",2023-10-18,8645
+"Viam",2023-01-25,1305
+"Viasat",2023-08-29,120117
+"Viasat",2023-10-18,125727
+"Viasat",2023-12-14,126949
+"Viasat",2023-12-17,127130
+"Viasat",2023-12-18,127183
+"Viasat",2024-04-08,136731
+"Viasat",2024-05-04,139356
+"Viasat",2024-05-28,141371
+"Viasat",2024-06-24,143627
+"Viasat",2024-06-28,143922
+"Viasat",2024-07-20,144832
+"Viasat",2024-08-06,145594
+"Viasat",2024-09-02,147830
+"Viasat",2024-09-16,149527
+"Viasat",2024-09-27,150686
 "Viasat",2025-01-09,159347
+"Viasat",2025-01-19,160262
+"Viasat",2025-01-27,161450
+"Viasat",2025-02-21,164364
+"Viasat",2025-02-28,165092
+"Viasat Inc.",2023-01-21,100813
+"Viasat Inc.",2023-02-10,102420
 "Viasat Inc.",2023-02-25,103876
 "Viasat Inc.",2023-03-13,105597
 "Viasat Inc.",2023-03-29,106992
@@ -352,8 +875,17 @@
 "ViennaR",2024-09-16,387
 "ViennaR",2024-09-24,387
 "ViennaR",2024-10-02,387
+"ViennaR",2024-11-15,387
+"ViennaR",2024-11-24,385
 "ViennaR",2024-11-26,385
+"ViennaR",2024-12-07,386
+"ViennaR",2025-01-08,386
+"ViennaR",2025-01-18,386
 "ViennaR",2025-01-27,386
+"ViennaR",2025-02-04,386
+"ViennaR",2025-02-20,386
+"ViennaR",2025-02-28,386
+"ViennaR",2025-03-03,386
 "ViennaR",2025-03-09,387
 "VietnamWorks",2023-01-28,278439
 "Vietnamese-German University",2023-01-28,5742
@@ -389,6 +921,8 @@
 "Village Capital",2023-12-17,33838
 "Village Capital",2023-12-18,33851
 "Village Capital",2025-01-09,42501
+"Village Capital",2025-01-19,42775
+"Village Capital",2025-01-27,42995
 "Village Capital",2025-02-21,43518
 "Village Capital",2025-02-28,43781
 "Vimeo",2023-01-25,111861
@@ -423,7 +957,10 @@
 "Virgin",2024-08-06,293276
 "Virgin",2024-09-02,294640
 "Virgin",2024-09-16,295580
+"Virgin",2024-09-27,296306
 "Virgin",2025-01-09,301688
+"Virgin",2025-01-19,302222
+"Virgin",2025-01-27,302706
 "Virgin",2025-02-21,304074
 "Virgin",2025-02-28,304442
 "Virgin Galactic",2023-01-21,235348
@@ -446,6 +983,8 @@
 "Virgin Galactic",2023-12-18,252243
 "Virgin Galactic",2024-09-02,264522
 "Virgin Galactic",2025-01-09,266826
+"Virgin Galactic",2025-01-19,267048
+"Virgin Galactic",2025-01-27,267168
 "Virgin Galactic",2025-02-21,267682
 "Virgin Galactic",2025-02-28,267832
 "Virgin Orbit",2023-01-21,93526
@@ -505,9 +1044,13 @@
 "Visa",2024-08-06,1721164
 "Visa",2024-09-02,1748521
 "Visa",2024-09-16,1759491
+"Visa",2024-09-27,1767754
 "Visa",2025-01-09,2014147
+"Visa",2025-01-19,2047238
+"Visa",2025-01-27,2065544
 "Visa",2025-02-21,2101925
 "Visa",2025-02-28,2113680
+"Visa University",2025-01-19,24726
 "Visa University",2025-02-21,25486
 "Visa University",2025-02-28,25656
 "Vision Health Pioneers Incubator",2023-01-25,4449
@@ -535,10 +1078,19 @@
 "Visualitics",2021-05-10,24955
 "Visualitics",2021-12-05,26553
 "Visualitics",2022-02-27,27306
+"ViviFiy",2025-02-20,701
+"ViviFiy",2025-02-28,700
+"ViviFiy",2025-03-03,699
 "ViviFiy",2025-03-09,700
 "ViviFiy Academy",2024-10-02,664
+"ViviFiy Academy",2024-11-15,668
+"ViviFiy Academy",2024-11-24,694
 "ViviFiy Academy",2024-11-26,698
+"ViviFiy Academy",2024-12-07,698
+"ViviFiy Academy",2025-01-08,696
+"ViviFiy Academy",2025-01-18,697
 "ViviFiy Academy",2025-01-27,698
+"ViviFiy Academy",2025-02-04,700
 "Vizgen",2023-01-25,7861
 "Vizgen",2023-01-29,7893
 "Volograms",2024-06-24,6381
@@ -548,6 +1100,8 @@
 "Volunteer New York!",2024-06-28,4930
 "Volunteer New York!",2024-09-02,5080
 "Volunteer New York!",2025-01-09,5271
+"Volunteer New York!",2025-01-19,5286
+"Volunteer New York!",2025-01-27,5308
 "Volunteer New York!",2025-02-21,5341
 "Volunteer New York!",2025-02-28,5370
 "Vox Technology Park",2021-02-19,1340
@@ -601,7 +1155,10 @@
 "Voya Investment Management",2024-08-06,22042
 "Voya Investment Management",2024-09-02,22257
 "Voya Investment Management",2024-09-16,22380
+"Voya Investment Management",2024-09-27,22499
 "Voya Investment Management",2025-01-09,23440
+"Voya Investment Management",2025-01-19,23615
+"Voya Investment Management",2025-01-27,23704
 "Voya Investment Management",2025-02-21,24028
 "Voya Investment Management",2025-02-28,24131
 "Voyage Real Estate",2023-01-21,73
@@ -856,11 +1413,22 @@
 "W.K. Kellogg Foundation",2024-09-16,79892
 "W.K. Kellogg Foundation",2024-09-24,80109
 "W.K. Kellogg Foundation",2024-10-02,80322
+"W.K. Kellogg Foundation",2024-11-15,81525
+"W.K. Kellogg Foundation",2024-11-24,81786
 "W.K. Kellogg Foundation",2024-11-26,81854
+"W.K. Kellogg Foundation",2024-12-07,82133
+"W.K. Kellogg Foundation",2025-01-08,83273
+"W.K. Kellogg Foundation",2025-01-18,84284
 "W.K. Kellogg Foundation",2025-01-27,84612
+"W.K. Kellogg Foundation",2025-02-04,84950
+"W.K. Kellogg Foundation",2025-02-20,85555
+"W.K. Kellogg Foundation",2025-02-28,85884
+"W.K. Kellogg Foundation",2025-03-03,85986
 "W.K. Kellogg Foundation",2025-03-09,86186
 "W3Schools.com",2023-01-25,483970
 "W3Schools.com",2025-01-09,1920522
+"W3Schools.com",2025-01-19,1937500
+"W3Schools.com",2025-01-27,1953870
 "W3Schools.com",2025-02-21,2005282
 "W3Schools.com",2025-02-28,2015531
 "WATERFRONT RESCUE MISSION",2023-03-13,247
@@ -878,6 +1446,8 @@
 "WATERFRONT RESCUE MISSION",2023-12-18,421
 "WFI Group",2023-01-28,1593
 "WHEDco",2025-01-09,1351
+"WHEDco",2025-01-19,1352
+"WHEDco",2025-01-27,1355
 "WHEDco",2025-02-21,1356
 "WHEDco",2025-02-28,1358
 "WIB-San Francisco Bay Area",2023-01-25,629
@@ -907,6 +1477,8 @@
 "WWF",2024-06-28,848750
 "WWF",2024-09-02,861441
 "WWF",2025-01-09,892345
+"WWF",2025-01-19,894791
+"WWF",2025-01-27,896592
 "WWF",2025-02-21,902737
 "WWF",2025-02-28,904672
 "WWF Nepal",2023-01-28,26346
@@ -939,7 +1511,10 @@
 "Walmart",2024-08-06,4249848
 "Walmart",2024-09-02,4290215
 "Walmart",2024-09-16,4315356
+"Walmart",2024-09-27,4337744
 "Walmart",2025-01-09,4459038
+"Walmart",2025-01-19,4477369
+"Walmart",2025-01-27,4496210
 "Walmart",2025-02-21,4536091
 "Walmart",2025-02-28,4542965
 "Walt Disney Animation Studios",2025-02-21,606808
@@ -1132,8 +1707,17 @@
 "Walton Family Foundation",2024-09-16,65325
 "Walton Family Foundation",2024-09-24,65508
 "Walton Family Foundation",2024-10-02,65676
+"Walton Family Foundation",2024-11-15,66636
+"Walton Family Foundation",2024-11-24,66794
 "Walton Family Foundation",2024-11-26,66823
+"Walton Family Foundation",2024-12-07,66926
+"Walton Family Foundation",2025-01-08,67382
+"Walton Family Foundation",2025-01-18,67694
 "Walton Family Foundation",2025-01-27,67885
+"Walton Family Foundation",2025-02-04,68031
+"Walton Family Foundation",2025-02-20,68403
+"Walton Family Foundation",2025-02-28,68621
+"Walton Family Foundation",2025-03-03,68656
 "Walton Family Foundation",2025-03-09,68824
 "WarDucks",2024-06-24,2495
 "Warsaw RUG Meetup - Spotkania EntuzjastÃ³w R",2024-05-19,48
@@ -1153,8 +1737,17 @@
 "Warsaw RUG Meetup - Spotkania EntuzjastÃ³w R",2024-09-16,49
 "Warsaw RUG Meetup - Spotkania EntuzjastÃ³w R",2024-09-24,49
 "Warsaw RUG Meetup - Spotkania Entuzjastów R",2024-10-02,49
+"Warsaw RUG Meetup - Spotkania Entuzjastów R",2024-11-15,49
+"Warsaw RUG Meetup - Spotkania Entuzjastów R",2024-11-24,49
 "Warsaw RUG Meetup - Spotkania Entuzjastów R",2024-11-26,49
+"Warsaw RUG Meetup - Spotkania Entuzjastów R",2024-12-07,49
+"Warsaw RUG Meetup - Spotkania Entuzjastów R",2025-01-08,49
+"Warsaw RUG Meetup - Spotkania Entuzjastów R",2025-01-18,49
 "Warsaw RUG Meetup - Spotkania Entuzjastów R",2025-01-27,49
+"Warsaw RUG Meetup - Spotkania Entuzjastów R",2025-02-04,48
+"Warsaw RUG Meetup - Spotkania Entuzjastów R",2025-02-20,48
+"Warsaw RUG Meetup - Spotkania Entuzjastów R",2025-02-28,48
+"Warsaw RUG Meetup - Spotkania Entuzjastów R",2025-03-03,48
 "Warsaw RUG Meetup - Spotkania Entuzjastów R",2025-03-09,48
 "Warwick Data S",2023-06-14,1021
 "Warwick Data S",2023-06-17,1025
@@ -1288,11 +1881,15 @@
 "Warwick Data Science Society",2024-08-09,1626
 "Warwick Data Science Society",2024-09-02,1628
 "Warwick Data Science Society",2024-09-17,1631
+"Warwick Data Science Society",2024-09-24,1632
+"Warwick Data Science Society",2024-10-02,1638
 "Warwick Data Science Society",2024-11-15,1647
 "Warwick Data Science Society",2025-01-09,1650
 "Warwick Data Science Society",2025-01-18,1650
 "Warwick Data Science Society",2025-01-28,1651
 "Warwick Data Science Society",2025-02-21,1649
+"Warwick Data Science Society",2025-03-03,1654
+"WashingtonExec",2025-01-19,15447
 "WashingtonExec",2025-02-21,16242
 "Water & Air Research Inc.",2023-01-28,1159
 "Water Alliance",2023-01-28,4306
@@ -1354,7 +1951,10 @@
 "Wayfair",2024-08-06,348470
 "Wayfair",2024-09-02,352800
 "Wayfair",2024-09-16,354900
+"Wayfair",2024-09-27,356179
 "Wayfair",2025-01-09,368189
+"Wayfair",2025-01-19,370383
+"Wayfair",2025-01-27,371679
 "Wayfair",2025-02-21,374752
 "Wayfair",2025-02-28,375564
 "Waymo",2023-01-21,158427
@@ -1391,10 +1991,21 @@
 "We R Madagascar",2024-09-16,215
 "We R Madagascar",2024-09-24,215
 "We R Madagascar",2024-10-02,215
+"We R Madagascar",2024-11-15,216
+"We R Madagascar",2024-11-24,216
 "We R Madagascar",2024-11-26,216
+"We R Madagascar",2024-12-07,215
+"We R Madagascar",2025-01-08,217
+"We R Madagascar",2025-01-18,218
 "We R Madagascar",2025-01-27,218
+"We R Madagascar",2025-02-04,220
+"We R Madagascar",2025-02-20,218
+"We R Madagascar",2025-02-28,218
+"We R Madagascar",2025-03-03,218
 "We R Madagascar",2025-03-09,217
 "WeMakeScholars",2023-01-28,9454
+"WebExpo Conference",2025-02-28,4567
+"WebExpo Conference",2025-03-03,4572
 "WebExpo Conference",2025-03-09,4573
 "WebPays",2021-05-10,802
 "WebsiteNI",2024-01-22,1114
@@ -1422,8 +2033,17 @@
 "WebsiteNI",2024-09-16,1427
 "WebsiteNI",2024-09-24,1425
 "WebsiteNI",2024-10-02,1426
+"WebsiteNI",2024-11-15,1429
+"WebsiteNI",2024-11-24,1452
 "WebsiteNI",2024-11-26,1452
+"WebsiteNI",2024-12-07,1533
+"WebsiteNI",2025-01-08,1638
+"WebsiteNI",2025-01-18,1682
 "WebsiteNI",2025-01-27,1690
+"WebsiteNI",2025-02-04,1854
+"WebsiteNI",2025-02-20,2031
+"WebsiteNI",2025-02-28,2044
+"WebsiteNI",2025-03-03,2059
 "WebsiteNI",2025-03-09,2061
 "Webster Bank",2023-01-21,22656
 "Webster Bank",2023-02-10,23012
@@ -1452,7 +2072,10 @@
 "Webster Bank",2024-08-06,30474
 "Webster Bank",2024-09-02,30692
 "Webster Bank",2024-09-16,30845
+"Webster Bank",2024-09-27,30983
 "Webster Bank",2025-01-09,32024
+"Webster Bank",2025-01-19,32237
+"Webster Bank",2025-01-27,32359
 "Webster Bank",2025-02-21,32778
 "Webster Bank",2025-02-28,32924
 "Webtrends",2023-01-22,8992
@@ -1598,8 +2221,17 @@
 "Weights & Biases",2024-09-16,73595
 "Weights & Biases",2024-09-24,73830
 "Weights & Biases",2024-10-02,74033
+"Weights & Biases",2024-11-15,75232
+"Weights & Biases",2024-11-24,75404
 "Weights & Biases",2024-11-26,75457
+"Weights & Biases",2024-12-07,75621
+"Weights & Biases",2025-01-08,76247
+"Weights & Biases",2025-01-18,76573
 "Weights & Biases",2025-01-27,76835
+"Weights & Biases",2025-02-04,77129
+"Weights & Biases",2025-02-20,77683
+"Weights & Biases",2025-02-28,77958
+"Weights & Biases",2025-03-03,78032
 "Weights & Biases",2025-03-09,78922
 "Weights & BiasesWeights & Biases",2023-12-14,NA
 "WellClever",2021-03-30,123
@@ -1777,8 +2409,17 @@
 "WellClever",2024-09-16,120
 "WellClever",2024-09-24,120
 "WellClever",2024-10-02,120
+"WellClever",2024-11-15,120
+"WellClever",2024-11-24,120
 "WellClever",2024-11-26,120
+"WellClever",2024-12-07,120
+"WellClever",2025-01-08,120
+"WellClever",2025-01-18,120
 "WellClever",2025-01-27,120
+"WellClever",2025-02-04,120
+"WellClever",2025-02-20,120
+"WellClever",2025-02-28,121
+"WellClever",2025-03-03,121
 "WellClever",2025-03-09,120
 "Wellcome Trust",2023-01-25,93934
 "Wellcome Trust",2023-01-29,94200
@@ -1809,7 +2450,10 @@
 "Wells Fargo",2024-08-06,2379550
 "Wells Fargo",2024-09-02,2419020
 "Wells Fargo",2024-09-16,2439698
+"Wells Fargo",2024-09-27,2456317
 "Wells Fargo",2025-01-09,2560146
+"Wells Fargo",2025-01-19,2576129
+"Wells Fargo",2025-01-27,2586082
 "Wells Fargo",2025-02-21,2621426
 "Wells Fargo",2025-02-28,2631670
 "Wequity for Women and Technology",2023-01-21,2486
@@ -1944,11 +2588,14 @@
 "Western Computer Science Undergraduate Society",2024-08-09,210
 "Western Computer Science Undergraduate Society",2024-09-02,212
 "Western Computer Science Undergraduate Society",2024-09-17,214
+"Western Computer Science Undergraduate Society",2024-09-24,215
+"Western Computer Science Undergraduate Society",2024-10-02,216
 "Western Computer Science Undergraduate Society",2024-11-15,227
 "Western Computer Science Undergraduate Society",2025-01-09,236
 "Western Computer Science Undergraduate Society",2025-01-18,238
 "Western Computer Science Undergraduate Society",2025-01-28,236
 "Western Computer Science Undergraduate Society",2025-02-21,240
+"Western Computer Science Undergraduate Society",2025-03-03,241
 "Western Digital",2023-01-21,418737
 "Western Digital",2023-02-10,421553
 "Western Digital",2023-02-25,422389
@@ -1976,7 +2623,10 @@
 "Western Digital",2024-08-06,512035
 "Western Digital",2024-09-02,530498
 "Western Digital",2024-09-16,540372
+"Western Digital",2024-09-27,547897
 "Western Digital",2025-01-09,612494
+"Western Digital",2025-01-19,620566
+"Western Digital",2025-01-27,626327
 "Western Digital",2025-02-21,651034
 "Western Digital",2025-02-28,654325
 "Wharton Online",2023-01-25,50048
@@ -2014,6 +2664,8 @@
 "White House Leadership Development Program",2023-10-18,6755
 "White House Leadership Development Program",2023-12-18,7475
 "Whitney Museum of American Art",2025-01-09,105091
+"Whitney Museum of American Art",2025-01-19,105919
+"Whitney Museum of American Art",2025-01-27,106423
 "Whitney Museum of American Art",2025-02-21,108794
 "Whitney Museum of American Art",2025-02-28,109355
 "Why R?",2021-01-06,2265
@@ -2241,15 +2893,23 @@
 "Why R?",2024-09-10,4914
 "Why R?",2024-09-16,4929
 "Why R?",2024-09-17,4932
+"Why R?",2024-09-24,4950
 "Why R?",2024-09-24,4949
 "Why R?",2024-10-02,4974
 "Why R?",2024-11-15,5069
+"Why R?",2024-11-24,5080
 "Why R?",2024-11-26,5089
+"Why R?",2024-12-07,5106
+"Why R?",2025-01-08,5142
 "Why R?",2025-01-09,5145
 "Why R?",2025-01-18,5150
 "Why R?",2025-01-27,5161
 "Why R?",2025-01-28,5162
+"Why R?",2025-02-04,5164
+"Why R?",2025-02-20,5173
 "Why R?",2025-02-21,5173
+"Why R?",2025-02-28,5176
+"Why R?",2025-03-03,5178
 "Why R?",2025-03-09,5182
 "Why R? Foundation",2022-02-09,3355
 "Why R?Why R?",2023-12-14,NA
@@ -2553,8 +3213,17 @@
 "William and Flora Hewlett Foundation",2024-09-16,47425
 "William and Flora Hewlett Foundation",2024-09-24,47619
 "William and Flora Hewlett Foundation",2024-10-02,47908
+"William and Flora Hewlett Foundation",2024-11-15,48944
+"William and Flora Hewlett Foundation",2024-11-24,49092
 "William and Flora Hewlett Foundation",2024-11-26,49128
+"William and Flora Hewlett Foundation",2024-12-07,49310
+"William and Flora Hewlett Foundation",2025-01-08,49786
+"William and Flora Hewlett Foundation",2025-01-18,50004
 "William and Flora Hewlett Foundation",2025-01-27,50225
+"William and Flora Hewlett Foundation",2025-02-04,50458
+"William and Flora Hewlett Foundation",2025-02-20,51005
+"William and Flora Hewlett Foundation",2025-02-28,51273
+"William and Flora Hewlett Foundation",2025-03-03,51360
 "William and Flora Hewlett Foundation",2025-03-09,51561
 "WindBorne Systems",2023-01-21,483
 "WindBorne Systems",2023-02-25,498
@@ -2610,7 +3279,10 @@
 "Wolfram",2024-08-06,26797
 "Wolfram",2024-09-02,26996
 "Wolfram",2024-09-16,27113
+"Wolfram",2024-09-27,27197
 "Wolfram",2025-01-09,27996
+"Wolfram",2025-01-19,28083
+"Wolfram",2025-01-27,28119
 "Wolfram",2025-02-21,28335
 "Wolfram",2025-02-28,28419
 "Women + Cybersecurity = Women's Society of Cyberjutsu",2023-01-21,19101
@@ -2768,8 +3440,12 @@
 "Women In Technology (WIT)",2024-09-10,325548
 "Women In Technology (WIT)",2024-09-16,325887
 "Women In Technology (WIT)",2024-09-24,326517
+"Women In Technology (WIT)",2024-09-27,326698
 "Women In Technology (WIT)",2024-10-02,326965
+"Women In Technology (WIT)",2024-11-15,329140
+"Women In Technology (WIT)",2024-11-24,329529
 "Women In Technology (WIT)",2024-11-26,329554
+"Women In Technology (WIT)",2024-12-07,329798
 "Women Mean Business (WMB)",2024-06-24,4785
 "Women Techmakers",2023-03-29,18840
 "Women Techmakers",2023-04-10,19871
@@ -2984,8 +3660,17 @@
 "Women Who Code",2024-09-16,170835
 "Women Who Code",2024-09-24,171054
 "Women Who Code",2024-10-02,171253
+"Women Who Code",2024-11-15,172084
+"Women Who Code",2024-11-24,172219
 "Women Who Code",2024-11-26,172252
+"Women Who Code",2024-12-07,172400
+"Women Who Code",2025-01-08,172719
+"Women Who Code",2025-01-18,172950
 "Women Who Code",2025-01-27,173117
+"Women Who Code",2025-02-04,173258
+"Women Who Code",2025-02-20,173608
+"Women Who Code",2025-02-28,173783
+"Women Who Code",2025-03-03,173789
 "Women Who Code",2025-03-09,173948
 "Women Who Code Python",2023-01-21,3344
 "Women Who Code Python",2023-02-25,3435
@@ -3022,8 +3707,17 @@
 "Women in AI Benelux",2024-09-16,7755
 "Women in AI Benelux",2024-09-24,7783
 "Women in AI Benelux",2024-10-02,7817
+"Women in AI Benelux",2024-11-15,8260
+"Women in AI Benelux",2024-11-24,8343
 "Women in AI Benelux",2024-11-26,8362
+"Women in AI Benelux",2024-12-07,8458
+"Women in AI Benelux",2025-01-08,8602
+"Women in AI Benelux",2025-01-18,8656
 "Women in AI Benelux",2025-01-27,8762
+"Women in AI Benelux",2025-02-04,8844
+"Women in AI Benelux",2025-02-20,9095
+"Women in AI Benelux",2025-02-28,9173
+"Women in AI Benelux",2025-03-03,9180
 "Women in AI Benelux",2025-03-09,9222
 "Women in AI Ethics",2023-03-13,2597
 "Women in AI Ethics",2023-03-29,2678
@@ -3229,8 +3923,17 @@
 "Women in AI Ireland",2024-09-16,5546
 "Women in AI Ireland",2024-09-24,5570
 "Women in AI Ireland",2024-10-02,5581
+"Women in AI Ireland",2024-11-15,5753
+"Women in AI Ireland",2024-11-24,5781
 "Women in AI Ireland",2024-11-26,5803
+"Women in AI Ireland",2024-12-07,5830
+"Women in AI Ireland",2025-01-08,5891
+"Women in AI Ireland",2025-01-18,5889
 "Women in AI Ireland",2025-01-27,5903
+"Women in AI Ireland",2025-02-04,5919
+"Women in AI Ireland",2025-02-20,5995
+"Women in AI Ireland",2025-02-28,6019
+"Women in AI Ireland",2025-03-03,6029
 "Women in AI Ireland",2025-03-09,6098
 "Women in AI Netherlands",2024-01-22,5191
 "Women in AI Netherlands",2024-04-09,6301
@@ -3448,8 +4151,17 @@
 "Women in Data Science (WiDS) Dublin",2024-09-16,552
 "Women in Data Science (WiDS) Dublin",2024-09-24,556
 "Women in Data Science (WiDS) Dublin",2024-10-02,558
+"Women in Data Science (WiDS) Dublin",2024-11-15,559
+"Women in Data Science (WiDS) Dublin",2024-11-24,559
 "Women in Data Science (WiDS) Dublin",2024-11-26,559
+"Women in Data Science (WiDS) Dublin",2024-12-07,559
+"Women in Data Science (WiDS) Dublin",2025-01-08,564
+"Women in Data Science (WiDS) Dublin",2025-01-18,562
 "Women in Data Science (WiDS) Dublin",2025-01-27,565
+"Women in Data Science (WiDS) Dublin",2025-02-04,565
+"Women in Data Science (WiDS) Dublin",2025-02-20,567
+"Women in Data Science (WiDS) Dublin",2025-02-28,567
+"Women in Data Science (WiDS) Dublin",2025-03-03,567
 "Women in Data Science (WiDS) Dublin",2025-03-09,566
 "Women in Data Science (WiDS) Kenya",2023-07-23,691
 "Women in Data Science (WiDS) Kenya",2023-08-02,761
@@ -3482,8 +4194,17 @@
 "Women in Data Science (WiDS) Kenya",2024-09-16,1742
 "Women in Data Science (WiDS) Kenya",2024-09-24,1744
 "Women in Data Science (WiDS) Kenya",2024-10-02,1748
+"Women in Data Science (WiDS) Kenya",2024-11-15,1757
+"Women in Data Science (WiDS) Kenya",2024-11-24,1754
 "Women in Data Science (WiDS) Kenya",2024-11-26,1756
+"Women in Data Science (WiDS) Kenya",2024-12-07,1754
+"Women in Data Science (WiDS) Kenya",2025-01-08,1763
+"Women in Data Science (WiDS) Kenya",2025-01-18,1764
 "Women in Data Science (WiDS) Kenya",2025-01-27,1763
+"Women in Data Science (WiDS) Kenya",2025-02-04,1773
+"Women in Data Science (WiDS) Kenya",2025-02-20,1800
+"Women in Data Science (WiDS) Kenya",2025-02-28,1820
+"Women in Data Science (WiDS) Kenya",2025-03-03,1819
 "Women in Data Science (WiDS) Kenya",2025-03-09,1821
 "Women in Data Science (WiDS) Worldwide",2023-01-21,31772
 "Women in Data Science (WiDS) Worldwide",2023-02-25,33057
@@ -3636,8 +4357,17 @@
 "Women in Data®",2023-12-18,60035
 "Women in Data®",2024-01-22,61953
 "Women in Data®",2024-10-02,79346
+"Women in Data®",2024-11-15,81530
+"Women in Data®",2024-11-24,81903
 "Women in Data®",2024-11-26,82097
+"Women in Data®",2024-12-07,82724
+"Women in Data®",2025-01-08,83347
+"Women in Data®",2025-01-18,83770
 "Women in Data®",2025-01-27,84475
+"Women in Data®",2025-02-04,85033
+"Women in Data®",2025-02-20,86307
+"Women in Data®",2025-02-28,86971
+"Women in Data®",2025-03-03,87101
 "Women in Data®",2025-03-09,87483
 "Women in DataÂ®",2023-12-16,59951
 "Women in DataÂ®",2024-04-09,69257
@@ -3789,8 +4519,17 @@
 "Women in Machine Learning and Data Science MAURITIUS",2024-09-16,102
 "Women in Machine Learning and Data Science MAURITIUS",2024-09-24,102
 "Women in Machine Learning and Data Science MAURITIUS",2024-10-02,103
+"Women in Machine Learning and Data Science MAURITIUS",2024-11-15,102
+"Women in Machine Learning and Data Science MAURITIUS",2024-11-24,102
 "Women in Machine Learning and Data Science MAURITIUS",2024-11-26,102
+"Women in Machine Learning and Data Science MAURITIUS",2024-12-07,102
+"Women in Machine Learning and Data Science MAURITIUS",2025-01-08,103
+"Women in Machine Learning and Data Science MAURITIUS",2025-01-18,103
 "Women in Machine Learning and Data Science MAURITIUS",2025-01-27,104
+"Women in Machine Learning and Data Science MAURITIUS",2025-02-04,104
+"Women in Machine Learning and Data Science MAURITIUS",2025-02-20,104
+"Women in Machine Learning and Data Science MAURITIUS",2025-02-28,104
+"Women in Machine Learning and Data Science MAURITIUS",2025-03-03,104
 "Women in Machine Learning and Data Science MAURITIUS",2025-03-09,104
 "Women in Machine Learning and Data Science MAURITIUSWomen in Machine Learning and Data Science MAURITIUS",2023-12-14,NA
 "Women in Payments",2023-01-21,24352
@@ -3810,6 +4549,7 @@
 "Women in Payments",2023-10-18,28865
 "Women in Payments",2023-12-17,29970
 "Women in Payments",2023-12-18,29984
+"Women in Payments",2025-01-19,38625
 "Women in Payments",2025-02-21,39893
 "Women in Tech UK",2024-06-24,17181
 "Women in Technology",2024-06-24,52873
@@ -3914,10 +4654,16 @@
 "Women in Technology (WIT)",2022-07-23,216330
 "Women in Technology (WIT)",2022-07-25,216804
 "Women in Technology (WIT)",2022-08-01,218466
+"Women in Technology (WIT)",2025-01-08,330385
 "Women in Technology (WIT)",2025-01-09,330468
+"Women in Technology (WIT)",2025-01-18,330896
+"Women in Technology (WIT)",2025-01-19,330914
 "Women in Technology (WIT)",2025-01-27,331251
+"Women in Technology (WIT)",2025-02-04,331572
+"Women in Technology (WIT)",2025-02-20,332420
 "Women in Technology (WIT)",2025-02-21,332445
 "Women in Technology (WIT)",2025-02-28,332836
+"Women in Technology (WIT)",2025-03-03,332904
 "Women in Technology (WIT)",2025-03-09,333304
 "Women in Technology World Series",2024-06-24,44053
 "Women in machine learning data science MAURITIUS",2021-06-02,15
@@ -3998,6 +4744,8 @@
 "Women of Influence+",2023-12-17,815534
 "Women of Influence+",2023-12-18,815750
 "Women of Influence+",2025-01-09,930596
+"Women of Influence+",2025-01-19,932241
+"Women of Influence+",2025-01-27,934908
 "Women of Influence+",2025-02-21,940566
 "Women of Influence+",2025-02-28,941616
 "Women's Security Society",2023-02-25,618
@@ -4098,8 +4846,17 @@
 "Women+ in Geospatial",2024-09-16,28503
 "Women+ in Geospatial",2024-09-24,28861
 "Women+ in Geospatial",2024-10-02,29023
+"Women+ in Geospatial",2024-11-15,30106
+"Women+ in Geospatial",2024-11-24,30285
 "Women+ in Geospatial",2024-11-26,30328
+"Women+ in Geospatial",2024-12-07,30567
+"Women+ in Geospatial",2025-01-08,31108
+"Women+ in Geospatial",2025-01-18,31372
 "Women+ in Geospatial",2025-01-27,31602
+"Women+ in Geospatial",2025-02-04,31839
+"Women+ in Geospatial",2025-02-20,32792
+"Women+ in Geospatial",2025-02-28,33271
+"Women+ in Geospatial",2025-03-03,33432
 "Women+ in Geospatial",2025-03-09,33684
 "Women4IT",2024-06-24,1648
 "WomenCo",2024-06-24,200
@@ -4153,8 +4910,17 @@
 "WorkLiveKerry ( discoverkerry.com)",2024-09-16,3274
 "WorkLiveKerry ( discoverkerry.com)",2024-09-24,3284
 "WorkLiveKerry ( discoverkerry.com)",2024-10-02,3301
+"WorkLiveVisitKerry ( discoverkerry.com)",2024-11-15,3396
+"WorkLiveVisitKerry (discoverkerry.com)",2024-11-24,3420
 "WorkLiveVisitKerry (discoverkerry.com)",2024-11-26,3422
+"WorkLiveVisitKerry (discoverkerry.com)",2024-12-07,3444
+"WorkLiveVisitKerry (discoverkerry.com)",2025-01-08,3488
+"WorkLiveVisitKerry (discoverkerry.com)",2025-01-18,3503
 "WorkLiveVisitKerry (discoverkerry.com)",2025-01-27,3518
+"WorkLiveVisitKerry (discoverkerry.com)",2025-02-04,3526
+"WorkLiveVisitKerry (discoverkerry.com)",2025-02-20,3555
+"WorkLiveVisitKerry (discoverkerry.com)",2025-02-28,3571
+"WorkLiveVisitKerry (discoverkerry.com)",2025-03-03,3573
 "WorkLiveVisitKerry (discoverkerry.com)",2025-03-09,3576
 "Workday",2023-01-29,737760
 "Workday",2023-03-29,760505
@@ -4180,14 +4946,21 @@
 "Workday",2024-08-06,1048384
 "Workday",2024-09-02,1066847
 "Workday",2024-09-16,1076642
+"Workday",2024-09-27,1085418
 "Workday",2025-01-09,1134852
+"Workday",2025-01-19,1141170
+"Workday",2025-01-27,1147159
 "Workday",2025-02-21,1166680
 "Workday",2025-02-28,1171811
 "Workforce Optimizer - AI Enabled WFM",2023-01-28,5059
 "Workforce Professionals Training Institute (WPTI)",2025-01-09,2817
+"Workforce Professionals Training Institute (WPTI)",2025-01-19,2829
+"Workforce Professionals Training Institute (WPTI)",2025-01-27,2847
 "Workforce Professionals Training Institute (WPTI)",2025-02-21,2887
 "Workforce Professionals Training Institute (WPTI)",2025-02-28,2901
 "Workforce1",2025-01-09,5470
+"Workforce1",2025-01-19,5490
+"Workforce1",2025-01-27,5506
 "Workforce1",2025-02-21,5575
 "Workforce1",2025-02-28,5575
 "Workist",2023-01-25,1766
@@ -4220,7 +4993,10 @@
 "World Economic Forum",2024-08-06,5146344
 "World Economic Forum",2024-09-02,5172399
 "World Economic Forum",2024-09-16,5182790
+"World Economic Forum",2024-09-27,5191306
 "World Economic Forum",2025-01-09,5248195
+"World Economic Forum",2025-01-19,5262980
+"World Economic Forum",2025-01-27,5276341
 "World Economic Forum",2025-02-21,5303968
 "World Economic Forum",2025-02-28,5312933
 "World Federation Of Neurology",2021-02-19,285
@@ -4270,7 +5046,10 @@
 "World Health Organization",2024-08-06,5618948
 "World Health Organization",2024-09-02,5644961
 "World Health Organization",2024-09-16,5660028
+"World Health Organization",2024-09-27,5671334
 "World Health Organization",2025-01-09,5751312
+"World Health Organization",2025-01-19,5759905
+"World Health Organization",2025-01-27,5768705
 "World Health Organization",2025-02-21,5791166
 "World Health Organization",2025-02-28,5796436
 "World Meteorological Organization",2023-01-28,61247
@@ -4296,6 +5075,8 @@
 "World of Beer Franchising Inc.",2024-08-06,6940
 "World of Beer Franchising Inc.",2024-09-02,6954
 "World of Beer Franchising, Inc.",2025-01-09,7015
+"World of Beer Franchising, Inc.",2025-01-19,7046
+"World of Beer Franchising, Inc.",2025-01-27,7054
 "World of Beer Franchising, Inc.",2025-02-21,7072
 "World of Beer Franchising, Inc.",2025-02-28,7085
 "WorldQuant",2021-01-06,38151
@@ -4304,376 +5085,3 @@
 "WorldQuant",2021-01-19,38319
 "WorldQuant",2021-01-25,38405
 "WorldQuant",2021-01-30,38512
-"WorldQuant",2021-01-31,38534
-"WorldQuant",2021-02-03,38564
-"WorldQuant",2021-02-07,38614
-"WorldQuant",2021-02-12,38675
-"WorldQuant",2021-02-17,38732
-"WorldQuant",2021-02-21,38789
-"WorldQuant",2021-02-25,38827
-"WorldQuant",2021-03-01,38889
-"WorldQuant",2021-03-06,38977
-"WorldQuant",2021-03-10,39026
-"WorldQuant",2021-03-16,39088
-"WorldQuant",2021-03-20,39180
-"WorldQuant",2021-03-24,39217
-"WorldQuant",2021-03-30,39340
-"WorldQuant",2021-04-06,39458
-"WorldQuant",2021-04-10,39528
-"WorldQuant",2021-04-15,39597
-"WorldQuant",2021-04-20,39678
-"WorldQuant",2021-04-24,39719
-"WorldQuant",2021-04-28,39780
-"WorldQuant",2021-05-03,39910
-"WorldQuant",2021-05-07,39971
-"WorldQuant",2021-05-10,39998
-"WorldQuant",2021-05-14,40060
-"WorldQuant",2021-05-21,40152
-"WorldQuant",2021-05-26,40260
-"WorldQuant",2021-06-02,40376
-"WorldQuant",2021-06-09,40467
-"WorldQuant",2021-06-16,40572
-"WorldQuant",2021-06-21,40634
-"WorldQuant",2021-06-29,40733
-"WorldQuant",2021-07-02,40783
-"WorldQuant",2021-07-04,40812
-"WorldQuant",2021-07-09,40872
-"WorldQuant",2021-07-14,40935
-"WorldQuant",2021-07-18,40993
-"WorldQuant",2021-07-22,41079
-"WorldQuant",2021-08-14,41392
-"WorldQuant",2021-08-26,41546
-"WorldQuant",2021-09-02,41673
-"WorldQuant",2021-09-16,41887
-"WorldQuant",2021-10-17,42388
-"WorldQuant",2021-10-29,42585
-"WorldQuant",2021-11-06,42725
-"WorldQuant",2021-11-20,43003
-"WorldQuant",2021-12-07,43335
-"WorldQuant",2021-12-14,43427
-"WorldQuant",2021-12-20,43533
-"WorldQuant",2021-12-26,43649
-"WorldQuant",2021-12-30,43726
-"WorldQuant",2021-12-31,43742
-"WorldQuant",2022-01-03,43789
-"WorldQuant",2022-01-04,43834
-"WorldQuant",2022-01-06,43913
-"WorldQuant",2022-01-07,43952
-"WorldQuant",2022-01-10,44035
-"WorldQuant",2022-01-14,44147
-"WorldQuant",2022-01-18,44236
-"WorldQuant",2022-01-27,44466
-"WorldQuant",2022-02-01,44648
-"WorldQuant",2022-02-10,44917
-"WorldQuant",2022-02-16,45077
-"WorldQuant",2022-02-23,45300
-"WorldQuant",2022-02-26,45359
-"WorldQuant",2022-03-07,45542
-"WorldQuant",2022-03-15,45708
-"WorldQuant",2022-03-20,45854
-"WorldQuant",2022-03-31,46133
-"WorldQuant",2022-04-09,46363
-"WorldQuant",2022-04-13,46452
-"WorldQuant",2022-04-19,46592
-"WorldQuant",2022-04-29,46875
-"WorldQuant",2022-05-05,45359
-"WorldQuant",2022-05-22,47498
-"WorldQuant",2022-06-07,47916
-"WorldQuant",2022-06-08,47916
-"WorldQuant",2022-06-11,48022
-"WorldQuant",2022-06-22,48315
-"WorldQuant",2022-06-23,48327
-"WorldQuant",2022-06-26,48401
-"WorldQuant",2022-06-28,48442
-"WorldQuant",2022-06-30,48496
-"WorldQuant",2022-07-01,48529
-"WorldQuant",2022-07-02,48543
-"WorldQuant",2022-07-04,48590
-"WorldQuant",2022-07-05,48639
-"WorldQuant",2022-07-09,48779
-"WorldQuant",2022-07-12,48885
-"WorldQuant",2022-07-18,49066
-"WorldQuant",2022-07-21,49180
-"WorldQuant",2022-07-23,49257
-"WorldQuant",2022-07-25,49326
-"WorldQuant",2022-08-01,49665
-"WorldQuant",2022-08-08,49961
-"WorldQuant",2022-08-16,50403
-"WorldQuant",2022-08-20,50677
-"WorldQuant",2022-08-25,50884
-"WorldQuant",2022-08-28,51000
-"WorldQuant",2022-09-01,51203
-"WorldQuant",2022-09-07,51430
-"WorldQuant",2022-09-10,51553
-"WorldQuant",2022-09-16,51983
-"WorldQuant",2022-09-22,52477
-"WorldQuant",2022-09-29,52999
-"WorldQuant",2022-10-03,53196
-"WorldQuant",2022-10-09,53522
-"WorldQuant",2022-10-12,53720
-"WorldQuant",2022-10-16,53916
-"WorldQuant",2022-10-22,54216
-"WorldQuant",2022-10-28,54510
-"WorldQuant",2022-11-03,54765
-"WorldQuant",2022-11-06,54895
-"WorldQuant",2022-11-14,55313
-"WorldQuant",2022-11-20,55706
-"WorldQuant",2022-11-24,55912
-"WorldQuant",2022-12-01,56208
-"WorldQuant",2022-12-08,56604
-"WorldQuant",2022-12-14,56869
-"WorldQuant",2022-12-27,57473
-"WorldQuant",2023-01-01,57719
-"WorldQuant",2023-01-05,57931
-"WorldQuant",2023-01-09,58131
-"WorldQuant",2023-01-22,58791
-"WorldQuant",2023-01-28,59153
-"WorldQuant",2023-02-04,59526
-"WorldQuant",2023-02-10,59924
-"WorldQuant",2023-02-13,60133
-"WorldQuant",2023-02-24,60697
-"WorldQuant",2023-03-10,61640
-"WorldQuant",2023-03-14,61924
-"WorldQuant",2023-03-18,62168
-"WorldQuant",2023-03-21,62330
-"WorldQuant",2023-03-25,62572
-"WorldQuant",2023-04-01,63019
-"WorldQuant",2023-04-10,63622
-"WorldQuant",2023-04-13,63840
-"WorldQuant",2023-04-21,64346
-"WorldQuant",2023-04-29,64923
-"WorldQuant",2023-05-12,65762
-"WorldQuant",2023-05-19,66180
-"WorldQuant",2023-05-29,66706
-"WorldQuant",2023-06-05,67194
-"WorldQuant",2023-06-11,67610
-"WorldQuant",2023-06-14,67851
-"WorldQuant",2023-06-17,68042
-"WorldQuant",2023-06-23,68433
-"WorldQuant",2023-06-27,68696
-"WorldQuant",2023-07-06,69216
-"WorldQuant",2023-07-23,70188
-"WorldQuant",2023-08-02,70888
-"WorldQuant",2023-08-08,71275
-"WorldQuant",2023-08-10,71483
-"WorldQuant",2023-08-29,72871
-"WorldQuant",2023-09-15,74525
-"WorldQuant",2023-10-18,78064
-"WorldQuant",2023-12-14,82188
-"WorldQuant",2023-12-16,82451
-"WorldQuant",2023-12-18,82647
-"WorldQuant",2024-01-22,85536
-"WorldQuant",2024-04-08,92239
-"WorldQuant",2024-04-09,92417
-"WorldQuant",2024-04-17,93283
-"WorldQuant",2024-04-19,93488
-"WorldQuant",2024-04-28,94223
-"WorldQuant",2024-05-03,94769
-"WorldQuant",2024-05-19,96383
-"WorldQuant",2024-05-28,97080
-"WorldQuant",2024-06-08,98181
-"WorldQuant",2024-06-24,99472
-"WorldQuant",2024-06-28,99752
-"WorldQuant",2024-07-17,101238
-"WorldQuant",2024-07-20,101531
-"WorldQuant",2024-07-23,101789
-"WorldQuant",2024-08-02,102497
-"WorldQuant",2024-08-06,102701
-"WorldQuant",2024-08-09,103006
-"WorldQuant",2024-08-20,103703
-"WorldQuant",2024-09-02,104666
-"WorldQuant",2024-09-07,105099
-"WorldQuant",2024-09-10,105374
-"WorldQuant",2024-09-16,105937
-"WorldQuant",2024-09-24,106706
-"WorldQuant",2024-10-02,107444
-"WorldQuant",2024-11-26,111670
-"WorldQuant",2025-01-27,116454
-"WorldQuant",2025-03-09,119608
-"Worldpanel by Kantar",2023-01-28,128322
-"Writer's Relief",2023-01-21,138945
-"Writer's Relief",2023-02-10,139644
-"Writer's Relief",2023-02-25,140136
-"Writer's Relief",2023-03-13,140795
-"Writer's Relief",2023-03-29,141386
-"Writer's Relief",2023-04-10,142019
-"Writer's Relief",2023-04-23,142699
-"Writer's Relief",2023-06-05,144802
-"Writer's Relief",2023-06-11,145188
-"Writer's Relief",2023-06-23,145970
-"Writer's Relief",2023-07-06,146712
-"Writer's Relief",2023-07-23,147396
-"Writer's Relief",2023-08-05,147863
-"Writer's Relief",2023-08-29,148383
-"Writer's Relief",2023-10-18,143175
-"Writer's Relief",2023-12-17,144494
-"Writer's Relief",2023-12-18,144525
-"Writer's Relief",2024-06-28,146145
-"Writer's Relief",2024-09-02,145665
-"Writer's Relief",2025-01-09,144449
-"Writer's Relief",2025-02-21,143928
-"Writer's Relief",2025-02-28,143844
-"Wyss Institute at Harvard University",2023-01-25,37281
-"Wyss Institute at Harvard University",2023-01-29,37352
-"X the moonshot factory",2023-01-21,130275
-"X the moonshot factory",2023-01-25,130607
-"X the moonshot factory",2023-01-29,130904
-"X the moonshot factory",2023-02-25,132885
-"X the moonshot factory",2023-03-13,133982
-"X the moonshot factory",2023-03-29,135248
-"X the moonshot factory",2023-04-10,136122
-"X the moonshot factory",2023-04-23,137152
-"X the moonshot factory",2023-06-05,141888
-"X the moonshot factory",2023-06-11,142504
-"X the moonshot factory",2023-06-23,143740
-"X the moonshot factory",2023-07-06,145041
-"X the moonshot factory",2023-07-23,146593
-"X the moonshot factory",2023-08-05,148016
-"X the moonshot factory",2023-08-29,149820
-"X the moonshot factory",2023-10-18,155243
-"X the moonshot factory",2023-12-18,147958
-"X-Europe Data Science",2021-03-30,2
-"X-Europe Data Science",2021-04-06,19
-"X-Europe Data Science",2021-04-10,21
-"X-Europe Data Science",2021-04-15,21
-"X-Europe Data Science",2021-04-20,22
-"X-Europe Data Science",2021-04-24,22
-"X-Europe Data Science",2021-04-28,23
-"X-Europe Data Science",2021-05-03,24
-"X-Europe Data Science",2021-05-07,24
-"X-Europe Data Science",2021-05-10,24
-"X-Europe Data Science",2021-05-14,36
-"X-Europe Data Science",2021-05-21,37
-"X-Europe Data Science",2021-05-26,37
-"X-Europe Data Science",2021-05-31,37
-"X-Europe Data Science",2021-06-02,37
-"X-Europe Data Science",2021-06-06,37
-"X-Europe Data Science",2021-06-09,37
-"X-Europe Data Science",2021-06-16,38
-"X-Europe Data Science",2021-06-21,42
-"X-Europe Data Science",2021-06-29,54
-"X-Europe Data Science",2021-07-02,55
-"X-Europe Data Science",2021-07-04,55
-"X-Europe Data Science",2021-07-09,55
-"X-Europe Data Science",2021-07-14,55
-"X-Europe Data Science",2021-07-18,55
-"X-Europe Data Science",2021-07-22,55
-"X-Europe Data Science",2021-08-14,55
-"X-Europe Data Science",2021-08-26,56
-"X-Europe Data Science",2021-09-02,57
-"X-Europe Data Science",2021-09-09,57
-"X-Europe Data Science",2021-09-16,57
-"X-Europe Data Science",2021-10-17,58
-"X-Europe Data Science",2021-10-29,58
-"X-Europe Data Science",2021-11-06,59
-"X-Europe Data Science",2021-11-20,68
-"X-Europe Data Science",2021-12-03,70
-"X-Europe Data Science",2021-12-07,71
-"X-Europe Data Science",2021-12-14,74
-"X-Europe Data Science",2021-12-20,74
-"X-Europe Data Science",2021-12-26,74
-"X-Europe Data Science",2021-12-30,75
-"X-Europe Data Science",2021-12-31,75
-"X-Europe Data Science",2022-01-03,75
-"X-Europe Data Science",2022-01-04,75
-"X-Europe Data Science",2022-01-06,75
-"X-Europe Data Science",2022-01-07,75
-"X-Europe Data Science",2022-01-10,75
-"X-Europe Data Science",2022-01-12,75
-"X-Europe Data Science",2022-01-14,75
-"X-Europe Data Science",2022-01-18,75
-"X-Europe Data Science",2022-01-27,75
-"X-Europe Data Science",2022-02-01,75
-"X-Europe Data Science",2022-02-07,75
-"X-Europe Data Science",2022-02-10,75
-"X-Europe Data Science",2022-02-12,75
-"X-Europe Data Science",2022-02-16,75
-"X-Europe Data Science",2022-02-20,76
-"X-Europe Data Science",2022-02-23,76
-"X-Europe Data Science",2022-02-26,77
-"X-Europe Data Science",2022-03-03,77
-"X-Europe Data Science",2022-03-07,77
-"X-Europe Data Science",2022-03-15,77
-"X-Europe Data Science",2022-03-20,77
-"X-Europe Data Science",2022-03-29,77
-"X-Europe Data Science",2022-03-31,78
-"X-Europe Data Science",2022-04-09,78
-"X-Europe Data Science",2022-04-13,78
-"X-Europe Data Science",2022-04-19,78
-"X-Europe Data Science",2022-04-29,80
-"X-Europe Data Science",2022-05-01,81
-"X-Europe Data Science",2022-05-05,81
-"X-Europe Data Science",2022-05-12,81
-"X-Europe Data Science",2022-05-22,81
-"X-Europe Data Science",2022-05-23,81
-"X-Europe Data Science",2022-05-25,81
-"X-Europe Data Science",2022-06-07,81
-"X-Europe Data Science",2022-06-08,81
-"X-Europe Data Science",2025-01-09,88
-"X-Europe Data Science",2025-01-18,87
-"X-Europe Data Science",2025-01-27,87
-"X-Europe Data Science",2025-02-21,86
-"Xanadu Consultancy",2025-01-27,3066
-"Xava",2025-01-27,304
-"Xebia",2025-01-09,316867
-"Xomnia",2025-01-27,8907
-"Xuntos - Let's Get Together",2025-01-27,850
-"Y Combinator",2025-01-09,1134245
-"YMCA of the USA",2025-01-09,167034
-"YouTube",2025-01-09,2198296
-"Young Democrats of America Rural Caucus",2025-01-09,46
-"Yuri's Night",2025-01-09,1395
-"ZIMSA - Zimbabwean Statistical Association",2025-01-27,1977
-"Zendesk AI agents (Ultimate)",2025-01-27,13970
-"Zero-G",2025-01-09,4850
-"Zindi",2025-01-27,17022
-"Zurich Insurance",2025-01-09,930027
-"a.i. solutions",2025-01-09,6772
-"athenahealth",2025-01-09,258106
-"blueStone Staffing",2025-01-09,29246
-"cynkra",2025-01-27,601
-"data.table Community",2025-01-27,233
-"datatraining.io",2025-01-27,43482
-"dotConferences",2025-01-27,1166
-"eSec Forte® Technologies",2025-01-09,14513
-"eoda GmbH",2025-01-27,1108
-"geoLOGIC systems ltd.",2025-01-09,4161
-"geoLOGIC systems ltd.",2025-01-18,4180
-"geoLOGIC systems ltd.",2025-02-21,4222
-"getINNOtized GmbH",2025-01-27,8154
-"gistec",2025-01-09,15156
-"gistec",2025-01-18,15204
-"gistec",2025-02-21,15325
-"i2, Inc.",2025-01-27,994
-"iSpace, Inc.",2025-01-09,67452
-"insight2impact",2025-01-27,1364
-"jamesrores.com",2025-01-09,926
-"meetup.ai",2025-01-09,525
-"meetup.ai",2025-01-18,525
-"meetup.ai",2025-02-21,526
-"null - The Open Security Community",2025-01-09,18549
-"openSUSE Project",2025-01-09,19062
-"publicjobs",2025-01-09,180228
-"publicjobs",2025-01-18,180546
-"publicjobs",2025-02-21,181499
-"r-programming.org",2025-01-27,2353
-"rOpenSci",2025-01-27,1465
-"scikit-learn",2025-01-09,119262
-"scikit-learn",2025-01-18,119327
-"scikit-learn",2025-01-27,119522
-"scikit-learn",2025-02-21,119796
-"simpl.study",2025-01-09,69
-"simpl.study",2025-01-18,68
-"simpl.study",2025-02-21,68
-"storytelling with data",2025-01-09,155269
-"storytelling with data",2025-01-18,155409
-"storytelling with data",2025-01-27,155487
-"storytelling with data",2025-02-21,156134
-"thaink²",2025-01-27,1082
-"useR! - The R User Conference",2025-01-09,5811
-"useR! - The R User Conference",2025-01-18,5847
-"useR! - The R User Conference",2025-01-27,5899
-"useR! - The R User Conference",2025-02-21,6056
-"vGIS Inc.",2025-01-09,25208
-"vGIS Inc.",2025-01-18,25256
-"vGIS Inc.",2025-02-21,25397
