@@ -1,4 +1,4 @@
-"X1","X2","X3"
+Company,Date,Followers
 "IBM",2025-08-15,"18571449"
 "Accenture",2025-08-15,"13667794"
 "Tata Consultancy Services",2025-08-15,"17719559"
@@ -555,3 +555,4 @@
 "The Use of R in Official Statistics - uRos",2025-08-15,"327"
 "rainbowR",2025-08-15,"95"
 "Lotas",2025-08-15,"70"
+
