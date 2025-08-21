@@ -1,4 +1,4 @@
-"X1","X2","X3"
+Company,Date,Followers
 "Fujitsu",2025-08-18,"1143112"
 "Dimension Data",2025-08-18,"434535"
 "Fugro",2025-08-18,"366457"
@@ -597,3 +597,4 @@
 "PyData Sri Lanka",2025-08-18,"102"
 "R Users Malawi",2025-08-18,"167"
 "PyData Boston",2025-08-18,"164"
+
