@@ -1,556 +1,4071 @@
 Company,Date,Followers
-"IBM",2025-08-11,"18553107"
-"Accenture",2025-08-11,"13639285"
-"Tata Consultancy Services",2025-08-11,"17701895"
-"McKinsey & Company",2025-08-11,"6548935"
-"Novartis",2025-08-11,"4258804"
-"SAS",2025-08-11,"945998"
-"Roche",2025-08-11,"3819702"
-"Cognizant",2025-08-11,"8400432"
-"Boston Consulting Group (BCG)",2025-08-11,"5019003"
-"Informatica",2025-08-11,"351575"
-"UNICEF",2025-08-11,"5173676"
-"Ascential – Part of the Informa Group",2025-08-11,"68358"
-"Esri",2025-08-11,"463813"
-"Globant",2025-08-11,"1220475"
-"Gates Foundation",2025-08-11,"1396162"
-"Nagarro",2025-08-11,"1552500"
-"Newgen Software",2025-08-11,"289370"
-"Open Society Foundations",2025-08-11,"256629"
-"IUCN",2025-08-11,"233815"
-"Ford Foundation",2025-08-11,"267819"
-"Office for National Statistics",2025-08-11,"81654"
-"KIPP Foundation",2025-08-11,"67434"
-"RWJF",2025-08-11,"124084"
-"United Nations Foundation",2025-08-11,"216125"
-"Oceana",2025-08-11,"75691"
-"Packt",2025-08-11,"129417"
-"United Nations Volunteers",2025-08-11,"3081074"
-"Qatar Foundation",2025-08-11,"659671"
-"MacArthur Foundation",2025-08-11,"185986"
-"Gordon and Betty Moore Foundation",2025-08-11,"19152"
-"Two Sigma",2025-08-11,"237902"
-"The David and Lucile Packard Foundation",2025-08-11,"58332"
-"Skoll Foundation",2025-08-11,"101255"
-"Analytic Partners",2025-08-11,"41199"
-"Conning",2025-08-11,"17933"
-"The James Irvine Foundation",2025-08-11,"24014"
-"Menlo Ventures",2025-08-11,"55975"
-"William and Flora Hewlett Foundation",2025-08-11,"58671"
-"Elm Company",2025-08-11,"764605"
-"Doris Duke Foundation",2025-08-11,"11086"
-"Mellon Foundation",2025-08-11,"77804"
-"W.K. Kellogg Foundation",2025-08-11,"95345"
-"Rockefeller Philanthropy Advisors",2025-08-11,"61684"
-"Cité des sciences et de l'industrie",2025-08-11,"21273"
-"G-Research",2025-08-11,"59646"
-"Brightwater Recruitment",2025-08-11,"216142"
-"Jupiter Asset Management",2025-08-11,"52255"
-"Idiro Analytics",2025-08-11,"6173"
-"Datalytics",2025-08-11,"38573"
-"Pluralsight",2025-08-11,"223532"
-"The Kresge Foundation",2025-08-11,"64610"
-"The New York Community Trust",2025-08-11,"8722"
-"Women in Technology (WIT)",2025-08-11,"339339"
-"MMS",2025-08-11,"60376"
-"Cpl",2025-08-11,"394575"
-"GlobalLogic",2025-08-11,"1128547"
-"Susquehanna International Group",2025-08-11,"204700"
-"The Rockefeller Foundation",2025-08-11,"353271"
-"Tableau",2025-08-11,"1101474"
-"The Linux Foundation",2025-08-11,"367916"
-"Genpact",2025-08-11,"5118803"
-"i2, Inc.",2025-08-11,"998"
-"The Apache Software Foundation",2025-08-11,"77409"
-"WorldQuant",2025-08-11,"135753"
-"Collibra",2025-08-11,"87833"
-"Jump Trading Group",2025-08-11,"97104"
-"Qualtrics",2025-08-11,"305052"
-"United Nations Institute for Training and Research (UNITAR)",2025-08-11,"454106"
-"Remsoft",2025-08-11,"5003"
-"TxMQ",2025-08-11,"3712"
-"Altair RapidMiner",2025-08-11,"20875"
-"Canadian Institute of Actuaries l Institut canadien des actuaires",2025-08-11,"12231"
-"Geoscience Australia",2025-08-11,"45048"
-"Conrad N. Hilton Foundation",2025-08-11,"31011"
-"KNIME",2025-08-11,"64134"
-"ICHEC (Irish Centre for High-End Computing)",2025-08-11,"1973"
-"Udemy",2025-08-11,"1579521"
-"Pacific Whale Foundation",2025-08-11,"3518"
-"QuantumBlack, AI by McKinsey",2025-08-11,"219674"
-"Alteryx",2025-08-11,"346729"
-"WebExpo Conference",2025-08-11,"4873"
-"Datahug (acquired by CallidusCloud)",2025-08-11,"2640"
-"Stack Overflow",2025-08-11,"1580537"
-"The Analytics Institute",2025-08-11,"9946"
-"NCX",2025-08-11,"9734"
-"Kaggle",2025-08-11,"462818"
-"Institute of Mathematics and its Applications",2025-08-11,"29863"
-"Remote Sensing and Photogrammetry Society (RSPSoc)",2025-08-11,"34963"
-"Open Knowledge Foundation",2025-08-11,"12558"
-"Coillte",2025-08-11,"19946"
-"The unbelievable Machine Company GmbH",2025-08-11,"2781"
-"Lucid Software",2025-08-11,"139532"
-"Alfred P. Sloan Foundation",2025-08-11,"6902"
-"WebsiteNI",2025-08-11,"2082"
-"UN Sustainable Development Group",2025-08-11,"255619"
-"Bloomberg Philanthropies",2025-08-11,"196088"
-"GitHub",2025-08-11,"5075235"
-"Quovantis Technologies",2025-08-11,"14810"
-"r-programming.org",2025-08-11,"2340"
-"La Villette",2025-08-11,"25639"
-"Jane Street",2025-08-11,"321952"
-"CSO (Central Statistics Office Ireland)",2025-08-11,"13633"
-"Eraneos Germany",2025-08-11,"5289"
-"Posit PBC",2025-08-11,"111083"
-"Asystec (Now Ergo)",2025-08-11,"2499"
-"Tiger Analytics",2025-08-11,"541506"
-"Irish Defence Forces Careers",2025-08-11,"19358"
-"African Institute for Mathematical Sciences (AIMS)",2025-08-11,"25325"
-"Center for International Environmental Law (CIEL)",2025-08-11,"28553"
-"Inspire Walworth",2025-08-11,"100"
-"WellClever",2025-08-11,"120"
-"RegioData Research GmbH",2025-08-11,"440"
-"VSN International",2025-08-11,"4004"
-"Geospatial World",2025-08-11,"57601"
-"General Assembly",2025-08-11,"212336"
-"Walton Family Foundation",2025-08-11,"74675"
-"Coursera",2025-08-11,"2381884"
-"Flowminder",2025-08-11,"2764"
-"Economic and Social Research Institute (ESRI)",2025-08-11,"28905"
-"DataKind",2025-08-11,"29308"
-"Film Analytics",2025-08-11,"214"
-"Knoldus Inc | part of NashTech ",2025-08-11,"22082"
-"STATSports",2025-08-11,"50536"
-"DataRobot",2025-08-11,"147286"
-"FishWise",2025-08-11,"6065"
-"Xava",2025-08-11,"334"
-"Dataiku",2025-08-11,"214881"
-"Senseforth.ai",2025-08-11,"42546"
-"H2O.ai",2025-08-11,"144239"
-"Falkonry",2025-08-11,"5653"
-"Gapminder Foundation",2025-08-11,"20607"
-"Open Data Institute",2025-08-11,"21727"
-"KatRisk",2025-08-11,"4013"
-"Ixio Analytics",2025-08-11,"759"
-"Xomnia",2025-08-11,"9407"
-"Royal Statistical Society",2025-08-11,"20899"
-"Black Girls Code",2025-08-11,"60155"
-"FutureLearn",2025-08-11,"133051"
-"dotAI by dotConferences",2025-08-11,"1402"
-"Xanadu Consultancy",2025-08-11,"3122"
-"ORRECO",2025-08-11,"5438"
-"Qatar Computing Research Institute",2025-08-11,"21271"
-"DataKind UK",2025-08-11,"5377"
-"DataCamp",2025-08-11,"524008"
-"Women Who Code",2025-08-11,"177299"
-"Kitman Labs",2025-08-11,"16292"
-"Plotly",2025-08-11,"43016"
-"Data for Good",2025-08-11,"15260"
-"Databricks",2025-08-11,"985849"
-"IBM Hybrid Cloud and Infrastructure",2025-08-11,"278933"
-"Appsilon",2025-08-11,"10819"
-"Domino Data Lab",2025-08-11,"51824"
-"BCG Digital Ventures",2025-08-11,"159645"
-"Aon Centre for Innovation and Analytics (ACIA)",2025-08-11,"17832"
-"Analytics Vidhya",2025-08-11,"204192"
-"ProCogia",2025-08-11,"10936"
-"Snowflake",2025-08-11,"1115163"
-"Palomar ",2025-08-11,"6275"
-"Data Science Dojo",2025-08-11,"306479"
-"Fivetran",2025-08-11,"132875"
-"DataIQ",2025-08-11,"23845"
-"Data Science Institute",2025-08-11,"20036"
-"IBM Data, AI & Automation",2025-08-11,"287604"
-"CARTO",2025-08-11,"51911"
-"Decision Inc.",2025-08-11,"37882"
-"GitLab",2025-08-11,"1064827"
-"Sustainable Development Solutions Network",2025-08-11,"81729"
-"Segal Family Foundation",2025-08-11,"25507"
-"Python Software Foundation",2025-08-11,"141893"
-"Netcelero",2025-08-11,"1808"
-"IHM ",2025-08-11,"4721"
-"Major League Hacking",2025-08-11,"45882"
-"UK Statistics Authority ",2025-08-11,"5094"
-"Data Science Central",2025-08-11,"274434"
-"SkyTruth",2025-08-11,"4407"
-"VERDE",2025-08-11,"264"
-"Daybreak",2025-08-11,"32203"
-"Global Partnership for Sustainable Development Data",2025-08-11,"15743"
-"Development Seed",2025-08-11,"8272"
-"Group on Earth Observations (GEO)",2025-08-11,"19406"
-"Squarepoint",2025-08-11,"63217"
-"ADAPT Centre",2025-08-11,"8416"
-"Data & Society Research Institute",2025-08-11,"24239"
-"Appinventiv",2025-08-11,"631931"
-"Gower Street Analytics",2025-08-11,"2381"
-"Open Data Science Conference (ODSC)",2025-08-11,"143025"
-"JuliaHub",2025-08-11,"33383"
-"Python Ireland",2025-08-11,"4110"
-"ThinkR (FR)",2025-08-11,"997"
-"Sololearn",2025-08-11,"169980"
-"Seekho.pk",2025-08-11,"17469"
-"Lander Analytics",2025-08-11,"798"
-"Dataquest.io",2025-08-11,"46074"
-"NumFOCUS",2025-08-11,"11127"
-"Ursa Labs",2025-08-11,"452"
-"The Alan Turing Institute",2025-08-11,"98582"
-"Klue",2025-08-11,"30465"
-"insight2impact",2025-08-11,"1376"
-"PyCon Italia",2025-08-11,"3275"
-"PyData Berlin",2025-08-11,"1595"
-"Project Jupyter",2025-08-11,"18096"
-"GapData Institute",2025-08-11,"171"
-"SatVu",2025-08-11,"11738"
-"Data Science Academy",2025-08-11,"550935"
-"Data For Good",2025-08-11,"25361"
-"Twenty Billion Neurons",2025-08-11,"3276"
-"Machine Learning Mastery",2025-08-11,"285373"
-"SuperDataScience",2025-08-11,"94065"
-"Big Data LDN",2025-08-11,"14359"
-"Xuntos - Let's Get Together",2025-08-11,"834"
-"Microsoft Power BI Mastery",2025-08-11,"86179"
-"Zendesk AI agents (Ultimate)",2025-08-11,"14191"
-"QuantStack",2025-08-11,"2355"
-"Derilinx",2025-08-11,"1280"
-"Radiant Earth",2025-08-11,"10640"
-"United Nations Satellite Centre (UNOSAT)",2025-08-11,"8673"
-"Global Fishing Watch",2025-08-11,"22201"
-"OpenAI",2025-08-11,"7895937"
-"RSS Data Science and AI Section",2025-08-11,"2950"
-"Invenia Labs",2025-08-11,"2619"
-"Hugging Face",2025-08-11,"1033702"
-"Comunidad R Hispano",2025-08-11,"1178"
-"The Global Academy",2025-08-11,"515"
-"Open Cadastre",2025-08-11,"27"
-"Sister Analyst",2025-08-11,"553"
-"SDG Academy",2025-08-11,"31181"
-"Innovate Limerick",2025-08-11,"937"
-"Réalta Technologies",2025-08-11,"7981"
-"R-Ladies Belo Horizonte",2025-08-11,"2177"
-"PyData Amsterdam",2025-08-11,"4793"
-"(WiMLDS) Women in Machine Learning & Data Science",2025-08-11,"18326"
-"Fathom Data",2025-08-11,"804"
-"ADF Haiti",2025-08-11,"736"
-"eoda GmbH",2025-08-11,"1241"
-"The Carpentries",2025-08-11,"3278"
-"Alldus",2025-08-11,"125151"
-"AI Ireland",2025-08-11,"6906"
-"Data for Good Foundation",2025-08-11,"2402"
-"RVA Data Science Community",2025-08-11,"366"
-"Why R?",2025-08-11,"5237"
-"InciSioN - International Student Surgical Network",2025-08-11,"5024"
-"PyData Delhi",2025-08-11,"1839"
-"Bhutan Data Scientists",2025-08-11,"64"
-"Huawei IT Products & Solutions",2025-08-11,"32503"
-"CivicDataLab",2025-08-11,"9083"
-"R-Ladies Montpellier",2025-08-11,"35"
-"SCALEWORK",2025-08-11,"1632"
-"Data Visualization Society",2025-08-11,"150972"
-"R-Ladies Italy",2025-08-11,"638"
-"Omdena",2025-08-11,"51101"
-"EcoAngola",2025-08-11,"33611"
-"Rust Programming Language",2025-08-11,"8754"
-"Age Of Geeks",2025-08-11,"149182"
-"R User Group Nepal",2025-08-11,"102"
-"Women in Machine Learning and Data Science MAURITIUS",2025-08-11,"111"
-"R-Ladies Melbourne Inc",2025-08-11,"286"
-"East Africa Research &Data Analysis",2025-08-11,"24"
-"Irish Air Corps",2025-08-11,"2528"
-"datatraining.io",2025-08-11,"46583"
-"getINNOtized GmbH",2025-08-11,"8689"
-"Evolution AI",2025-08-11,"4165"
-"TrialAssure",2025-08-11,"4151"
-"Data Science Council of America",2025-08-11,"60284"
-"Obama Foundation",2025-08-11,"423255"
-"Geosaber",2025-08-11,"13304"
-"Tekkare",2025-08-11,"1719"
-"R-Ladies Global",2025-08-11,"7899"
-"Machine Learning Prague conference",2025-08-11,"951"
-"Canvas Intelligence",2025-08-11,"15022"
-"NVIDIA AI",2025-08-11,"1335584"
-"QuantEcon",2025-08-11,"613"
-"365 Data Science",2025-08-11,"175792"
-"Hopsworks",2025-08-11,"6506"
-"Business Science",2025-08-11,"15210"
-"Treemetrics Ltd",2025-08-11,"1784"
-"CeADAR Ireland",2025-08-11,"6108"
-"Space4Good",2025-08-11,"13594"
-"Outreachy",2025-08-11,"20682"
-"DeepLearning.AI",2025-08-11,"1241381"
-"UCL Data Science Society",2025-08-11,"1822"
-"Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)",2025-08-11,"88911"
-"Government Statistical Service",2025-08-11,"10747"
-"Government of Ireland",2025-08-11,"93097"
-"Weights & Biases",2025-08-11,"83420"
-"Quansight",2025-08-11,"5279"
-"DSN - Data Science Nigeria",2025-08-11,"22926"
-"African Institute for Mathematical Sciences, Ghana (AIMS Ghana)",2025-08-11,"3486"
-"Zindi",2025-08-11,"18949"
-"Data Science for Social Good Foundation",2025-08-11,"7556"
-"R for the Rest of Us",2025-08-11,"6191"
-"AIR Centre - Atlantic International Research Centre",2025-08-11,"6263"
-"R User Community EMEA",2025-08-11,"602"
-"SustainOSS",2025-08-11,"679"
-"Cascadia R Conference",2025-08-11,"952"
-"Coding Black Females",2025-08-11,"17487"
-"OpenTeams",2025-08-11,"4084"
-"R-Ladies Amsterdam",2025-08-11,"729"
-"ArkeUp Academy | Océan Indien",2025-08-11,"2056"
-"Google Summer of Code",2025-08-11,"105882"
-"AWS Databases & Analytics",2025-08-11,"266056"
-"Dragon Coders Private Limited",2025-08-11,"760"
-"PlantingSpace",2025-08-11,"1748"
-"The Currency",2025-08-11,"23634"
-"Jumping Rivers Ltd",2025-08-11,"3719"
-"PyData Toronto",2025-08-11,"103"
-"Benin ThinkLab",2025-08-11,"90"
-"Towards Data Science",2025-08-11,"642797"
-"R Users Group - Ecuador",2025-08-11,"298"
-"R-Ladies Miami",2025-08-11,"193"
-"Anaconda, Inc.",2025-08-11,"97046"
-"AI for Good",2025-08-11,"35766"
-"Quansight Initiate",2025-08-11,"153"
-"Prefect",2025-08-11,"27253"
-"PyData London",2025-08-11,"1771"
-"Health Data Research UK (HDR UK)",2025-08-11,"26693"
-"PyData NYC",2025-08-11,"1827"
-"PyData",2025-08-11,"1678"
-"PyCon DE & PyData",2025-08-11,"4062"
-"R-Ladies Goiânia",2025-08-11,"211"
-"LSBU Business School ",2025-08-11,"2978"
-"UN SDG:Learn",2025-08-11,"50089"
-"AI Inclusive",2025-08-11,"4114"
-"MachineX Intelligence",2025-08-11,"1764"
-"Spatial Thoughts",2025-08-11,"44806"
-"DataIQ School of Analysis",2025-08-11,"146"
-"Warsaw RUG Meetup - Spotkania Entuzjastów R",2025-08-11,"48"
-"NumericMind",2025-08-11,"1775"
-"Women in Data®",2025-08-11,"96189"
-"Data2X, United Nations Foundation",2025-08-11,"6166"
-"R-Ladies Lima",2025-08-11,"1620"
-"discoverkerry.com",2025-08-11,"3742"
-"Observatoire du Numérique en Haïti (ObNH)",2025-08-11,"110"
-"UNICEF Innocenti",2025-08-11,"71052"
-"Source Cooperative",2025-08-11,"4552"
-"ViennaR",2025-08-11,"386"
-"EwaData",2025-08-11,"1014"
-"R User Community Africa",2025-08-11,"91"
-"ClusterAI",2025-08-11,"460"
-"ArData",2025-08-11,"358"
-"R-Ladies Montevideo",2025-08-11,"128"
-"JuliaCon 2025",2025-08-11,"5281"
-"R-Ladies Oslo",2025-08-11,"34"
-"CIMS Global",2025-08-11,"565"
-"Statistics Without Borders",2025-08-11,"2444"
-"Datalitics",2025-08-11,"219"
-"Towards AI",2025-08-11,"269622"
-"R Consortium",2025-08-11,"9280"
-"PyCaret",2025-08-11,"19618"
-"The Catalyst",2025-08-11,"1662"
-"Women in AI Benelux",2025-08-11,"9888"
-"African Drone & Data Academy Powered By UNICEF",2025-08-11,"3206"
-"UCD Netsoc – UCD's Internet and Computer Science Society",2025-08-11,"514"
-"R User Community ",2025-08-11,"20223"
-"Business Data Laboratory Limited",2025-08-11,"248"
-"storytelling with data",2025-08-11,"161493"
-"R-Ladies Charlottesville",2025-08-11,"19"
-"Rose Data Studio, LLC",2025-08-11,"353"
-"EuroPython",2025-08-11,"6176"
-"OpenStreetMap Ireland",2025-08-11,"297"
-"The Collective Impact Group For Guinea",2025-08-11,"158"
-"Women in AI Ireland",2025-08-11,"7120"
-"Sentient Projects",2025-08-11,"639"
-"Code for Cause",2025-08-11,"21356"
-"Colombia Diversa",2025-08-11,"7140"
-"SDGs",2025-08-11,"6739"
-"InsideAIML",2025-08-11,"19787"
-"PumasAI",2025-08-11,"6014"
-"FreeLocalMappers",2025-08-11,"1140"
-"Global Shapers Community - Thimphu Hub",2025-08-11,"629"
-"Fisheries Transparency Initiative (FiTI)",2025-08-11,"3470"
-"Women+ in Geospatial",2025-08-11,"37080"
-"Ayiti Analytics",2025-08-11,"2021"
-"LatinR",2025-08-11,"2583"
-"Becht Foundation",2025-08-11,"886"
-"NIMBADATA",2025-08-11,"4"
-"Digital Earth Africa",2025-08-11,"11312"
-"Africa in Science",2025-08-11,"4878"
-"BeZero Carbon",2025-08-11,"36406"
-"DataSoc",2025-08-11,"897"
-"UNDP Guinea-Bissau ",2025-08-11,"3903"
-"PLACE",2025-08-11,"1868"
-"Amazon Science",2025-08-11,"376721"
-"NannyML (acq. by Soda Data Quality)",2025-08-11,"8112"
-"The R Foundation for Statistical Computing",2025-08-11,"11989"
-"Sylvera",2025-08-11,"41383"
-"DataDotOrg",2025-08-11,"13685"
-"R LADIES LA PAZ",2025-08-11,"252"
-"Innovative Hub for Research in Africa",2025-08-11,"516"
-"R-Ladies Tunis",2025-08-11,"752"
-"The Julia Language",2025-08-11,"16178"
-"Seasalt.ai",2025-08-11,"963"
-"The Organization for Women in Science for the Developing World (OWSD)",2025-08-11,"8030"
-"Dark Peak Analytics",2025-08-11,"1411"
-"R useR Group",2025-08-11,"37"
-"R Ladies Curitiba",2025-08-11,"94"
-"PyData Southampton",2025-08-11,"207"
-"Rx Studio™",2025-08-11,"1044"
-"Girls In ICT Niger",2025-08-11,"415"
-"GORODATA",2025-08-11,"1577"
-"R Ladies Niterói",2025-08-11,"48"
-"PySport",2025-08-11,"3557"
-"useR! - The R User Conference",2025-08-11,"7234"
-"Tag Ng",2025-08-11,"3222"
-"Spark",2025-08-11,"7534"
-"DATA MANSA",2025-08-11,"190"
-"Make Every Woman Count",2025-08-11,"1372"
-"Thimphu TechPark",2025-08-11,"622"
-"Julius Technologies",2025-08-11,"270"
-"JuliaActuary",2025-08-11,"3207"
-"PyData Ireland",2025-08-11,"314"
-"Ishango.ai",2025-08-11,"3704"
-"Black in Data",2025-08-11,"4971"
-"DATA CENTRIC AFRICA",2025-08-11,"1365"
-"Nivishe Foundation",2025-08-11,"10371"
-"Smart Data Foundry",2025-08-11,"5859"
-"Datacove",2025-08-11,"1354"
-"PyLadies Dublin",2025-08-11,"751"
-"Oman Data Science Organization ",2025-08-11,"142"
-"R-Ladies Saudi Arabia (Dammam)",2025-08-11,"424"
-"Software Insights Ireland",2025-08-11,"1266"
-"R-Ladies Tbilisi",2025-08-11,"197"
-"ViviFiy",2025-08-11,"708"
-"cynkra",2025-08-11,"973"
-"PyData Global",2025-08-11,"7460"
-"PackagingCon",2025-08-11,"160"
-"HackHills",2025-08-11,"435"
-"McKinsey Africa",2025-08-11,"50930"
-"Compylo",2025-08-11,"1252"
-"Statistics Globe",2025-08-11,"12366"
-"Statistical Models for Social Sciences Consultant",2025-08-11,"4896"
-"PyData Eindhoven",2025-08-11,"1882"
-"R-Ladies Gaborone",2025-08-11,"805"
-"X-Europe Data Science",2025-08-11,"92"
-"rOpenSci",2025-08-11,"1969"
-"R-Ladies Urmia",2025-08-11,"338"
-"Inlecom Commercial Pathways",2025-08-11,"1270"
-"Microsoft Research",2025-08-11,"323880"
-"Tunis R User Group",2025-08-11,"730"
-"VISO Cyber Security",2025-08-11,"1282"
-"DeepVidhya",2025-08-11,"400"
-"scikit-learn",2025-08-11,"121588"
-"DuckDB",2025-08-11,"42722"
-"R-HTA in LMICs",2025-08-11,"1265"
-"Legato Health Technologies Ireland",2025-08-11,"9744"
-"R-Ladies Cologne",2025-08-11,"360"
-"Rladies Madrid",2025-08-11,"103"
-"Applied Epi",2025-08-11,"8814"
-"BIMS",2025-08-11,"2900"
-"Midlands Ireland",2025-08-11,"6108"
-"Edmonton R User Group",2025-08-11,"79"
-"R-Ladies D.C.",2025-08-11,"173"
-"SciML",2025-08-11,"4013"
-"NumPy",2025-08-11,"4040"
-"Pandas",2025-08-11,"3600"
-"InciSioN-UGANDA",2025-08-11,"283"
-"Gestion et Administration des Entreprises- INP-HB",2025-08-11,"670"
-"PyData Prague",2025-08-11,"361"
-"NawiriTech",2025-08-11,"1791"
-"Expertise Data Vision (EDaVi)",2025-08-11,"88"
-"R-Ladies Paris",2025-08-11,"1460"
-"HyperAI",2025-08-11,"2870"
-"PyData Pittsburgh",2025-08-11,"529"
-"R-Ladies Zürich",2025-08-11,"325"
-"BCG X",2025-08-11,"304134"
-"R-Ladies Rome",2025-08-11,"800"
-"Bioconductor",2025-08-11,"2769"
-"SaLLy • Statistical Learning Laboratory",2025-08-11,"2237"
-"JuliaLang Eindhoven",2025-08-11,"617"
-"PyLadies Seattle",2025-08-11,"316"
-"RSS Real World Data Science",2025-08-11,"956"
-"Overture Maps Foundation",2025-08-11,"10166"
-"R-Ladies NYC",2025-08-11,"155"
-"R-Ladies St. Louis",2025-08-11,"172"
-"Makie",2025-08-11,"77"
-"thaink²",2025-08-11,"1246"
-"Learning Bayesian Statistics",2025-08-11,"3447"
-"Carelon Global Solutions Ireland",2025-08-11,"29150"
-"QTA Tech",2025-08-11,"1515"
-"CellClar CIC",2025-08-11,"2699"
-"Ghana R Users Community",2025-08-11,"651"
-"Women in Data Science (WiDS) Kenya",2025-08-11,"1911"
-"Midlands ICT Network",2025-08-11,"952"
-"PyData London",2025-08-11,"1126"
-"Health and medical sciences programme | The Alan Turing Institute",2025-08-11,"1922"
-"Open Source in Pharma",2025-08-11,"1914"
-"FemAnalytica",2025-08-11,"1562"
-"EnableD",2025-08-11,"336"
-"PyData Slovakia",2025-08-11,"87"
-"Women in Data Science (WiDS) Dublin",2025-08-11,"803"
-"R-Ladies São Paulo",2025-08-11,"1242"
-"Bike Library",2025-08-11,"1467"
-"blaze tech newsletters",2025-08-11,"40"
-"R-Ladies Cairo",2025-08-11,"221"
-"Global Collaboration Partners Limited",2025-08-11,"289"
-"RLadies Vancouver",2025-08-11,"55"
-"Psych #rstats Club",2025-08-11,"732"
-"Safi App",2025-08-11,"228"
-"NASA International Space Apps Challenge Dublin",2025-08-11,"836"
-"Nature Globe",2025-08-11,"287"
-"Polars",2025-08-11,"21515"
-"R-Ladies Manchester",2025-08-11,"119"
-"FastAPI",2025-08-11,"50040"
-"Castellanos Global",2025-08-11,"384"
-"AI Signals",2025-08-11,"486"
-"R-Ladies Lancaster",2025-08-11,"192"
-"R-Ladies Santiago",2025-08-11,"280"
-"Spatial Data Science Conference",2025-08-11,"4474"
-"The Navigation Fund",2025-08-11,"976"
-"Cloud-Native Geospatial Forum (CNG)",2025-08-11,"7458"
-"ZIMSA - Zimbabwean Statistical Association",2025-08-11,"2081"
-"R-Ladies Salzburg",2025-08-11,"112"
-"Johannesburg R User Group Community",2025-08-11,"196"
-"Kolkata R UseR group",2025-08-11,"1578"
-"Estación R",2025-08-11,"5273"
-"Spare Cores",2025-08-11,"338"
-"Apache Sedona",2025-08-11,"2913"
-"data.table Community",2025-08-11,"313"
-"R-Ladies Vienna",2025-08-11,"102"
-"Ahmedabad R Users Group",2025-08-11,"489"
-"We R Madagascar",2025-08-11,"224"
-"GRB ",2025-08-11,"9980"
-"Rbanism",2025-08-11,"49"
-"R community Cameroon",2025-08-11,"411"
-"Karachi R User Group",2025-08-11,"71"
-"SACHA 1989 ltd",2025-08-11,"170"
-"Thraets",2025-08-11,"340"
-"R-Forwards",2025-08-11,"117"
-"PyData Paris",2025-08-11,"1524"
-"Oxford Dynamic Robot Systems",2025-08-11,"885"
-"Done With R",2025-08-11,"22"
-"Developer Relations Foundation",2025-08-11,"645"
-"BSides Galway",2025-08-11,"277"
-"Botswana R Users",2025-08-11,"36"
-"R Users Malawi",2025-08-11,"167"
-"R x TH",2025-08-11,"13"
-"PyData Boston",2025-08-11,"162"
-"PyDataMCR",2025-08-11,"259"
-"IndabaX Chad",2025-08-11,"1059"
-"RCollab",2025-08-11,"586"
-"Julia Gender Inclusive",2025-08-11,"23"
-"Baseline Community + Workspace",2025-08-11,"1146"
-"Projet Mobilier National",2025-08-11,"277"
-"Healix",2025-08-11,"51"
-"PyData Bradford",2025-08-11,"116"
-"R en Buenos Aires",2025-08-11,"553"
-"Limerick IT Summit",2025-08-11,"488"
-"Field of Play",2025-08-11,"906"
-"Cliniphai",2025-08-11,"369"
-"IRESSEF - Institute for Health Research, Epidemiological Surveillance, and Training",2025-08-11,"3105"
-"R Community Mali",2025-08-11,"81"
-"PyCon Greece",2025-08-11,"1038"
-"Rome R Users Group",2025-08-11,"49"
-"The Use of R in Official Statistics - uRos",2025-08-11,"325"
-"rainbowR",2025-08-11,"92"
-
+Spark,2025-04-13,7501
+Spark,2025-04-22,7505
+Spark,2025-04-27,7505
+Spark,2025-04-28,7506
+Spark,2025-05-06,7506
+Spark,2025-05-20,7511
+Spark,2025-05-25,7511
+Spark,2025-05-27,7512
+Spark,2025-06-01,7514
+Spark,2025-06-07,7511
+Spark,2025-06-08,7511
+Spark,2025-06-09,7509
+Spark,2025-06-10,7509
+Spark,2025-06-22,7516
+Spark,2025-07-01,7516
+Spark,2025-07-04,7516
+Spark,2025-07-08,7520
+Spark,2025-07-15,7523
+Spark,2025-07-27,7526
+Spark,2025-08-11,7534
+Spark,2025-08-15,7537
+Spark,2025-08-18,7539
+Spark,2025-08-21,7541
+SparkFun Electronics,2024-06-24,32307
+SparkSpark,2023-12-14,NA
+Sparks Group,2023-01-21,47400
+Sparks Group,2023-02-10,48313
+Sparks Group,2023-02-25,48813
+Sparks Group,2023-03-13,49328
+Sparks Group,2023-03-29,49814
+Sparks Group,2023-04-10,50101
+Sparks Group,2023-04-23,50623
+Sparks Group,2023-06-05,52780
+Sparks Group,2023-06-11,53326
+Sparks Group,2023-06-23,53843
+Sparks Group,2023-07-06,54706
+Sparks Group,2023-07-23,55335
+Sparks Group,2023-08-05,55944
+Sparks Group,2023-08-29,57041
+Sparks Group,2023-10-18,62871
+Sparks Group,2023-12-17,69334
+Sparks Group,2023-12-18,69386
+Sparks Group,2024-06-28,80947
+Sparks Group,2024-09-02,84961
+Sparks Group,2025-01-09,91375
+Sparks Group,2025-01-19,91905
+Sparks Group,2025-01-27,92150
+Sparks Group,2025-02-21,93382
+Sparks Group,2025-02-28,94169
+Sparks Group,2025-03-16,95165
+Sparks Group,2025-04-28,97337
+Sparks Group,2025-05-27,99148
+Sparks Group,2025-06-07,99652
+Sparks Group,2025-07-27,105036
+Sparks Group,2025-08-18,105843
+Spatial Data Science Conference,2024-01-22,1471
+Spatial Data Science Conference,2024-04-09,2468
+Spatial Data Science Conference,2024-04-17,2567
+Spatial Data Science Conference,2024-04-28,2682
+Spatial Data Science Conference,2024-05-03,2723
+Spatial Data Science Conference,2024-05-19,2980
+Spatial Data Science Conference,2024-06-08,3229
+Spatial Data Science Conference,2024-06-24,3288
+Spatial Data Science Conference,2024-06-28,3300
+Spatial Data Science Conference,2024-07-17,3335
+Spatial Data Science Conference,2024-07-20,3339
+Spatial Data Science Conference,2024-07-23,3341
+Spatial Data Science Conference,2024-08-02,3384
+Spatial Data Science Conference,2024-08-06,3391
+Spatial Data Science Conference,2024-08-09,3409
+Spatial Data Science Conference,2024-08-20,3458
+Spatial Data Science Conference,2024-09-02,3501
+Spatial Data Science Conference,2024-09-07,3521
+Spatial Data Science Conference,2024-09-10,3535
+Spatial Data Science Conference,2024-09-16,3562
+Spatial Data Science Conference,2024-09-24,3579
+Spatial Data Science Conference,2024-10-02,3604
+Spatial Data Science Conference,2024-11-15,4013
+Spatial Data Science Conference,2024-11-24,4019
+Spatial Data Science Conference,2024-11-26,4022
+Spatial Data Science Conference,2024-12-07,4030
+Spatial Data Science Conference,2025-01-08,4037
+Spatial Data Science Conference,2025-01-18,4051
+Spatial Data Science Conference,2025-01-27,4060
+Spatial Data Science Conference,2025-02-04,4077
+Spatial Data Science Conference,2025-02-20,4092
+Spatial Data Science Conference,2025-02-28,4093
+Spatial Data Science Conference,2025-03-03,4094
+Spatial Data Science Conference,2025-03-09,4092
+Spatial Data Science Conference,2025-03-16,4095
+Spatial Data Science Conference,2025-04-13,4126
+Spatial Data Science Conference,2025-04-22,4139
+Spatial Data Science Conference,2025-04-27,4161
+Spatial Data Science Conference,2025-04-28,4161
+Spatial Data Science Conference,2025-05-06,4161
+Spatial Data Science Conference,2025-05-20,4317
+Spatial Data Science Conference,2025-05-25,4346
+Spatial Data Science Conference,2025-05-27,4348
+Spatial Data Science Conference,2025-06-01,4362
+Spatial Data Science Conference,2025-06-07,4396
+Spatial Data Science Conference,2025-06-08,4398
+Spatial Data Science Conference,2025-06-09,4399
+Spatial Data Science Conference,2025-06-10,4402
+Spatial Data Science Conference,2025-06-22,4408
+Spatial Data Science Conference,2025-07-01,4423
+Spatial Data Science Conference,2025-07-04,4423
+Spatial Data Science Conference,2025-07-08,4420
+Spatial Data Science Conference,2025-07-15,4432
+Spatial Data Science Conference,2025-07-27,4467
+Spatial Data Science Conference,2025-08-11,4474
+Spatial Data Science Conference,2025-08-15,4474
+Spatial Data Science Conference,2025-08-18,4475
+Spatial Data Science Conference,2025-08-21,4480
+Spatial Thoughts,2024-11-15,39317
+Spatial Thoughts,2024-11-24,39458
+Spatial Thoughts,2024-11-26,39759
+Spatial Thoughts,2024-12-07,40073
+Spatial Thoughts,2025-01-08,40467
+Spatial Thoughts,2025-01-18,40524
+Spatial Thoughts,2025-01-27,40552
+Spatial Thoughts,2025-02-04,40609
+Spatial Thoughts,2025-02-20,40710
+Spatial Thoughts,2025-02-28,41389
+Spatial Thoughts,2025-03-03,41543
+Spatial Thoughts,2025-03-09,41682
+Spatial Thoughts,2025-03-16,41863
+Spatial Thoughts,2025-04-13,42849
+Spatial Thoughts,2025-04-22,43065
+Spatial Thoughts,2025-04-27,43170
+Spatial Thoughts,2025-04-28,43192
+Spatial Thoughts,2025-05-06,43192
+Spatial Thoughts,2025-05-20,43374
+Spatial Thoughts,2025-05-25,43408
+Spatial Thoughts,2025-05-27,43431
+Spatial Thoughts,2025-06-01,43478
+Spatial Thoughts,2025-06-07,43481
+Spatial Thoughts,2025-06-08,43481
+Spatial Thoughts,2025-06-09,43476
+Spatial Thoughts,2025-06-10,43518
+Spatial Thoughts,2025-06-22,43619
+Spatial Thoughts,2025-07-01,43733
+Spatial Thoughts,2025-07-04,43733
+Spatial Thoughts,2025-07-08,43803
+Spatial Thoughts,2025-07-15,43882
+Spatial Thoughts,2025-07-27,43978
+Spatial Thoughts,2025-08-11,44806
+Spatial Thoughts,2025-08-15,44910
+Spatial Thoughts,2025-08-18,44936
+Spatial Thoughts,2025-08-21,45004
+SpecialEffect,2024-06-24,8783
+Spectrum Nonprofit Services,2025-02-28,1111
+Spectrum Nonprofit Services,2025-03-16,1123
+Spectrum Nonprofit Services,2025-04-28,1154
+Spectrum Nonprofit Services,2025-05-27,1197
+Spectrum Nonprofit Services,2025-06-07,1218
+Spectrum Nonprofit Services,2025-07-27,1370
+Spill,2023-01-25,11035
+SpinLaunch,2023-01-21,28508
+SpinLaunch,2023-02-25,28638
+SpinLaunch,2023-03-13,28788
+SpinLaunch,2023-03-29,29141
+SpinLaunch,2023-04-10,29780
+SpinLaunch,2023-04-23,30122
+SpinLaunch,2023-06-05,30524
+SpinLaunch,2023-06-11,30578
+SpinLaunch,2023-06-23,30680
+SpinLaunch,2023-07-06,30788
+SpinLaunch,2023-07-23,30853
+SpinLaunch,2023-08-05,30945
+SpinLaunch,2023-08-29,31160
+SpinLaunch,2023-10-18,32018
+SpinLaunch,2023-12-18,32228
+Spire,2023-01-21,35823
+Spire,2023-02-25,36431
+Spire,2023-03-13,36701
+Spire,2023-03-29,36945
+Spire,2023-04-10,37144
+Spire,2023-04-23,37383
+Spire,2023-06-05,38120
+Spire,2023-06-11,38232
+Spire,2023-06-23,38667
+Spire,2023-07-06,38929
+Spire,2023-07-23,39309
+Spire,2023-08-05,39642
+Spire,2023-08-29,40222
+Spire,2023-10-18,41276
+Spire,2023-12-17,41723
+Spire,2023-12-18,41731
+Spire,2025-02-21,48800
+Spire,2025-03-16,49382
+Spire,2025-04-28,50341
+Spire,2025-05-27,50789
+Spire Aviation,2023-01-21,2061
+Spire Aviation,2023-02-25,2137
+Spire Aviation,2023-03-13,2166
+Spire Aviation,2023-03-29,2183
+Spire Aviation,2023-04-10,2198
+Spire Aviation,2023-04-23,2213
+Spire Aviation,2023-06-05,2259
+Spire Aviation,2023-06-11,2268
+Spire Aviation,2023-06-23,2296
+Spire Aviation,2023-07-06,2318
+Spire Aviation,2023-07-23,2336
+Spire Aviation,2023-08-05,2352
+Spire Aviation,2023-08-29,2378
+Spire Aviation,2023-10-18,2441
+Spiro,2023-02-25,6022
+Spiro,2023-03-13,6213
+Spiro,2023-03-29,6383
+Spiro,2023-04-10,6550
+Spiro,2023-04-23,6697
+Spiro,2023-06-05,7395
+Spiro,2023-06-11,7469
+Spiro,2023-06-23,7634
+Spiro,2023-07-06,7814
+Spiro,2023-07-23,8055
+Spiro,2023-08-05,8295
+Spiro,2023-08-29,8660
+Splunk,2023-01-21,509527
+Splunk,2023-02-10,514282
+Splunk,2023-02-25,517978
+Splunk,2023-03-13,521489
+Splunk,2023-03-29,525430
+Splunk,2023-04-10,528246
+Splunk,2023-04-23,531787
+Splunk,2023-06-05,543596
+Splunk,2023-06-11,545490
+Splunk,2023-06-23,549461
+Splunk,2023-07-06,553763
+Splunk,2023-07-23,559330
+Splunk,2023-08-05,564299
+Splunk,2023-08-29,572212
+Splunk,2023-10-18,576174
+Splunk,2023-12-14,591303
+Splunk,2023-12-17,592303
+Splunk,2023-12-18,592573
+Splunk,2024-04-08,633815
+Splunk,2024-05-04,643968
+Splunk,2024-05-28,650803
+Splunk,2024-06-24,658766
+Splunk,2024-06-28,659905
+Splunk,2024-07-20,666088
+Splunk,2024-08-06,670279
+Splunk,2024-09-02,676248
+Splunk,2024-09-16,679616
+Splunk,2024-09-27,682692
+Splunk,2025-01-09,699571
+Splunk,2025-01-19,701425
+Splunk,2025-01-27,702840
+Splunk,2025-02-21,708504
+Splunk,2025-02-28,710134
+Splunk,2025-03-15,713612
+Splunk,2025-03-16,713765
+Splunk,2025-04-28,723235
+Splunk,2025-05-27,728831
+Splunk,2025-06-07,730952
+Splunk,2025-07-27,745193
+Splunk Training and Certification,2023-01-21,4263
+Splunk Training and Certification,2023-02-25,4558
+Splunk Training and Certification,2023-03-13,4658
+Splunk Training and Certification,2023-03-29,4887
+Splunk Training and Certification,2023-04-10,5001
+Splunk Training and Certification,2023-04-23,5139
+Splunk Training and Certification,2023-06-05,5474
+Splunk Training and Certification,2023-06-11,5526
+Splunk Training and Certification,2023-06-23,5643
+Splunk Training and Certification,2023-07-06,5748
+Splunk Training and Certification,2023-07-23,5860
+Splunk Training and Certification,2023-08-05,5989
+Splunk Training and Certification,2023-08-29,6209
+Spoon.net,2023-01-25,255
+Spoon.net,2023-01-29,255
+Spot Meetings,2023-01-25,3338
+Spotify,2021-01-19,1804696
+Springer Nature Group,2021-02-19,109863
+Springer Nature Group,2021-03-26,112170
+Springer Nature Group,2023-01-28,175044
+Spryker,2023-01-25,23223
+Square,2023-01-25,477640
+Squarepoint,2025-01-18,49980
+Squarepoint,2025-01-27,50733
+Squarepoint,2025-02-04,51279
+Squarepoint,2025-02-20,52047
+Squarepoint,2025-02-28,52281
+Squarepoint,2025-03-03,52360
+Squarepoint,2025-03-09,52552
+Squarepoint,2025-03-16,52772
+Squarepoint,2025-04-13,55684
+Squarepoint,2025-04-22,56392
+Squarepoint,2025-04-27,56704
+Squarepoint,2025-04-28,56757
+Squarepoint,2025-05-06,56757
+Squarepoint,2025-05-20,57674
+Squarepoint,2025-05-25,57866
+Squarepoint,2025-05-27,57947
+Squarepoint,2025-06-01,58095
+Squarepoint,2025-06-07,58315
+Squarepoint,2025-06-08,58337
+Squarepoint,2025-06-09,58359
+Squarepoint,2025-06-10,58519
+Squarepoint,2025-06-22,59359
+Squarepoint,2025-07-01,59865
+Squarepoint,2025-07-04,59865
+Squarepoint,2025-07-08,60447
+Squarepoint,2025-07-15,60966
+Squarepoint,2025-07-27,62249
+Squarepoint,2025-08-11,63217
+Squarepoint,2025-08-15,63605
+Squarepoint,2025-08-18,63709
+Squarepoint,2025-08-21,64239
+Squarepoint Capital,2020-10-20,7253
+Squarepoint Capital,2020-10-21,7258
+Squarepoint Capital,2020-10-23,7266
+Squarepoint Capital,2020-10-25,7286
+Squarepoint Capital,2020-10-25,7279
+Squarepoint Capital,2020-10-28,7305
+Squarepoint Capital,2020-10-30,7317
+Squarepoint Capital,2020-11-03,7335
+Squarepoint Capital,2020-11-06,7357
+Squarepoint Capital,2020-11-10,7383
+Squarepoint Capital,2020-11-14,7412
+Squarepoint Capital,2020-11-18,7433
+Squarepoint Capital,2020-11-23,7480
+Squarepoint Capital,2020-11-28,7526
+Squarepoint Capital,2020-12-03,7596
+Squarepoint Capital,2020-12-05,7623
+Squarepoint Capital,2020-12-12,7709
+Squarepoint Capital,2020-12-15,7760
+Squarepoint Capital,2020-12-20,7824
+Squarepoint Capital,2020-12-25,7858
+Squarepoint Capital,2020-12-29,7910
+Squarepoint Capital,2021-01-03,7952
+Squarepoint Capital,2021-01-06,7973
+Squarepoint Capital,2021-01-11,7992
+Squarepoint Capital,2021-01-15,8037
+Squarepoint Capital,2021-01-19,8054
+Squarepoint Capital,2021-01-25,8103
+Squarepoint Capital,2021-01-30,8137
+Squarepoint Capital,2021-01-31,8141
+Squarepoint Capital,2021-02-03,8160
+Squarepoint Capital,2021-02-07,8182
+Squarepoint Capital,2021-02-12,8202
+Squarepoint Capital,2021-02-17,8237
+Squarepoint Capital,2021-02-21,8266
+Squarepoint Capital,2021-02-25,8287
+Squarepoint Capital,2021-03-01,8306
+Squarepoint Capital,2021-03-06,8350
+Squarepoint Capital,2021-03-10,8369
+Squarepoint Capital,2021-03-16,8398
+Squarepoint Capital,2021-03-20,8437
+Squarepoint Capital,2021-03-24,8457
+Squarepoint Capital,2021-03-30,8483
+Squarepoint Capital,2021-04-06,8507
+Squarepoint Capital,2021-04-10,8536
+Squarepoint Capital,2021-04-15,8558
+Squarepoint Capital,2021-04-20,8593
+Squarepoint Capital,2021-04-24,8609
+Squarepoint Capital,2021-04-28,8628
+Squarepoint Capital,2021-05-03,8647
+Squarepoint Capital,2021-05-07,8666
+Squarepoint Capital,2021-05-10,8678
+Squarepoint Capital,2021-05-14,8704
+Squarepoint Capital,2021-05-21,8735
+Squarepoint Capital,2021-05-26,8751
+Squarepoint Capital,2021-06-02,8778
+Squarepoint Capital,2021-06-09,8816
+Squarepoint Capital,2021-06-16,8857
+Squarepoint Capital,2021-06-21,8880
+Squarepoint Capital,2021-06-29,8932
+Squarepoint Capital,2021-07-02,8956
+Squarepoint Capital,2021-07-04,8960
+Squarepoint Capital,2021-07-09,8990
+Squarepoint Capital,2021-07-14,9031
+Squarepoint Capital,2021-07-18,9057
+Squarepoint Capital,2021-07-22,9095
+Squarepoint Capital,2021-08-14,9244
+Squarepoint Capital,2021-08-26,9338
+Squarepoint Capital,2021-09-02,9389
+Squarepoint Capital,2021-09-16,9503
+Squarepoint Capital,2021-10-17,9987
+Squarepoint Capital,2021-10-29,10058
+Squarepoint Capital,2021-11-06,10103
+Squarepoint Capital,2021-11-20,10211
+Squarepoint Capital,2021-12-07,10354
+Squarepoint Capital,2021-12-14,10398
+Squarepoint Capital,2021-12-20,10432
+Squarepoint Capital,2021-12-26,10470
+Squarepoint Capital,2021-12-30,10500
+Squarepoint Capital,2021-12-31,10509
+Squarepoint Capital,2022-01-03,10514
+Squarepoint Capital,2022-01-04,10523
+Squarepoint Capital,2022-01-06,10542
+Squarepoint Capital,2022-01-07,10552
+Squarepoint Capital,2022-01-10,10565
+Squarepoint Capital,2022-01-14,10612
+Squarepoint Capital,2022-01-18,10637
+Squarepoint Capital,2022-01-27,10693
+Squarepoint Capital,2022-02-01,10722
+Squarepoint Capital,2022-02-07,10762
+Squarepoint Capital,2022-02-16,10852
+Squarepoint Capital,2022-02-20,10905
+Squarepoint Capital,2022-02-23,10964
+Squarepoint Capital,2022-02-26,11015
+Squarepoint Capital,2022-03-03,11080
+Squarepoint Capital,2022-03-07,11121
+Squarepoint Capital,2022-03-15,11194
+Squarepoint Capital,2022-03-31,11357
+Squarepoint Capital,2022-04-09,11462
+Squarepoint Capital,2022-04-13,11491
+Squarepoint Capital,2022-04-19,11549
+Squarepoint Capital,2022-04-29,11679
+Squarepoint Capital,2022-05-05,11755
+Squarepoint Capital,2022-05-12,11866
+Squarepoint Capital,2022-05-22,11987
+Squarepoint Capital,2022-05-23,11995
+Squarepoint Capital,2022-05-25,12029
+Squarepoint Capital,2022-05-27,12058
+Squarepoint Capital,2022-05-30,12096
+Squarepoint Capital,2022-06-01,12117
+Squarepoint Capital,2022-06-03,12146
+Squarepoint Capital,2022-06-07,12208
+Squarepoint Capital,2022-06-08,12208
+Squarepoint Capital,2022-06-11,12316
+Squarepoint Capital,2022-06-13,12337
+Squarepoint Capital,2022-06-15,12376
+Squarepoint Capital,2022-06-23,12486
+Squarepoint Capital,2022-06-26,12513
+Squarepoint Capital,2022-06-28,12536
+Squarepoint Capital,2022-06-30,12547
+Squarepoint Capital,2022-07-01,12560
+Squarepoint Capital,2022-07-02,12562
+Squarepoint Capital,2022-07-04,12576
+Squarepoint Capital,2022-07-05,12612
+Squarepoint Capital,2022-07-09,12671
+Squarepoint Capital,2022-07-12,12702
+Squarepoint Capital,2022-07-18,12788
+Squarepoint Capital,2022-07-21,12845
+Squarepoint Capital,2022-07-23,12875
+Squarepoint Capital,2022-07-25,12929
+Squarepoint Capital,2022-08-01,13098
+Squarepoint Capital,2022-08-08,13276
+Squarepoint Capital,2022-08-16,13494
+Squarepoint Capital,2022-08-20,13577
+Squarepoint Capital,2022-08-25,13686
+Squarepoint Capital,2022-08-28,13750
+Squarepoint Capital,2022-09-01,13849
+Squarepoint Capital,2022-09-07,13957
+Squarepoint Capital,2022-09-10,14044
+Squarepoint Capital,2022-09-16,14215
+Squarepoint Capital,2022-09-22,14343
+Squarepoint Capital,2022-09-29,14433
+Squarepoint Capital,2022-10-03,14481
+Squarepoint Capital,2022-10-09,14561
+Squarepoint Capital,2022-10-12,14620
+Squarepoint Capital,2022-10-16,14755
+Squarepoint Capital,2022-10-22,14868
+Squarepoint Capital,2022-10-28,14958
+Squarepoint Capital,2022-11-03,15054
+Squarepoint Capital,2022-11-06,15090
+Squarepoint Capital,2022-11-14,15243
+Squarepoint Capital,2022-11-20,15333
+Squarepoint Capital,2022-11-24,15395
+Squarepoint Capital,2022-12-01,15537
+Squarepoint Capital,2022-12-08,15722
+Squarepoint Capital,2022-12-14,15910
+Squarepoint Capital,2022-12-27,16191
+Squarepoint Capital,2023-01-01,16374
+Squarepoint Capital,2023-01-05,16656
+Squarepoint Capital,2023-01-09,16807
+Squarepoint Capital,2023-01-22,17026
+Squarepoint Capital,2023-01-28,17257
+Squarepoint Capital,2023-02-04,17438
+Squarepoint Capital,2023-02-10,17610
+Squarepoint Capital,2023-02-13,17733
+Squarepoint Capital,2023-02-24,18048
+Squarepoint Capital,2023-03-10,18863
+Squarepoint Capital,2023-03-14,19212
+Squarepoint Capital,2023-03-18,19434
+Squarepoint Capital,2023-03-21,19536
+Squarepoint Capital,2023-03-25,19660
+Squarepoint Capital,2023-04-01,19832
+Squarepoint Capital,2023-04-10,20028
+Squarepoint Capital,2023-04-13,20092
+Squarepoint Capital,2023-04-21,20230
+Squarepoint Capital,2023-04-29,20358
+Squarepoint Capital,2023-05-12,20579
+Squarepoint Capital,2023-05-19,20793
+Squarepoint Capital,2023-05-29,21024
+Squarepoint Capital,2023-06-05,21313
+Squarepoint Capital,2023-06-11,21459
+Squarepoint Capital,2023-06-14,21567
+Squarepoint Capital,2023-06-17,21655
+Squarepoint Capital,2023-06-23,21849
+Squarepoint Capital,2023-06-27,21948
+Squarepoint Capital,2023-07-06,22203
+Squarepoint Capital,2023-07-23,22849
+Squarepoint Capital,2023-08-02,23275
+Squarepoint Capital,2023-08-08,23512
+Squarepoint Capital,2023-08-10,23596
+Squarepoint Capital,2023-08-29,24353
+Squarepoint Capital,2023-09-15,24950
+Squarepoint Capital,2023-10-18,26001
+Squarepoint Capital,2023-12-16,27840
+Squarepoint Capital,2023-12-18,27945
+Squarepoint Capital,2024-01-22,29215
+Squarepoint Capital,2024-04-08,31874
+Squarepoint Capital,2024-04-09,31924
+Squarepoint Capital,2024-04-17,32134
+Squarepoint Capital,2024-04-19,32532
+Squarepoint Capital,2024-04-28,33916
+Squarepoint Capital,2024-05-03,34234
+Squarepoint Capital,2024-05-19,34801
+Squarepoint Capital,2024-06-08,37959
+Squarepoint Capital,2024-06-24,39076
+Squarepoint Capital,2024-06-28,39261
+Squarepoint Capital,2024-07-17,40580
+Squarepoint Capital,2024-07-20,40731
+Squarepoint Capital,2024-07-23,40825
+Squarepoint Capital,2024-08-02,41220
+Squarepoint Capital,2024-08-06,41327
+Squarepoint Capital,2024-08-09,41446
+Squarepoint Capital,2024-08-20,41744
+Squarepoint Capital,2024-09-02,42205
+Squarepoint Capital,2024-09-07,42474
+Squarepoint Capital,2024-09-10,42596
+Squarepoint Capital,2024-09-16,43442
+Squarepoint Capital,2024-09-24,43861
+Squarepoint Capital,2024-10-02,44257
+Squarepoint Capital,2024-11-15,45824
+Squarepoint Capital,2024-11-24,46082
+Squarepoint Capital,2024-11-26,46128
+Squarepoint Capital,2024-12-07,46480
+Squarepoint Capital,2025-01-08,47901
+Squarepoint CapitalSquarepoint Capital,2023-12-14,NA
+Stable Diffusion API,2023-03-29,1301
+Stable Diffusion API,2023-04-10,1427
+Stable Diffusion API,2023-04-23,1563
+Stable Diffusion API,2023-06-05,1994
+Stable Diffusion API,2023-06-11,2061
+Stable Diffusion API,2023-06-23,2142
+Stable Diffusion API,2023-07-06,2211
+Stable Diffusion API,2023-07-23,2321
+Stable Diffusion API,2023-08-05,2439
+Stable Diffusion API,2023-08-29,2615
+Stack Overflow,2020-10-16,550254
+Stack Overflow,2020-10-19,551528
+Stack Overflow,2020-10-20,552285
+Stack Overflow,2020-10-20,552025
+Stack Overflow,2020-10-21,552873
+Stack Overflow,2020-10-23,553997
+Stack Overflow,2020-10-25,555709
+Stack Overflow,2020-10-25,555112
+Stack Overflow,2020-10-28,557261
+Stack Overflow,2020-10-28,557092
+Stack Overflow,2020-10-30,558685
+Stack Overflow,2020-11-03,561068
+Stack Overflow,2020-11-06,563656
+Stack Overflow,2020-11-07,564525
+Stack Overflow,2020-11-10,566460
+Stack Overflow,2020-11-14,569579
+Stack Overflow,2020-11-18,572989
+Stack Overflow,2020-11-21,576141
+Stack Overflow,2020-11-23,578785
+Stack Overflow,2020-11-28,581921
+Stack Overflow,2020-11-30,582774
+Stack Overflow,2020-12-03,585084
+Stack Overflow,2020-12-05,586674
+Stack Overflow,2020-12-08,588625
+Stack Overflow,2020-12-12,590995
+Stack Overflow,2020-12-15,592890
+Stack Overflow,2020-12-20,596076
+Stack Overflow,2020-12-25,598594
+Stack Overflow,2020-12-29,600681
+Stack Overflow,2021-01-03,603457
+Stack Overflow,2021-01-06,605473
+Stack Overflow,2021-01-11,609332
+Stack Overflow,2021-01-15,614400
+Stack Overflow,2021-01-19,617988
+Stack Overflow,2021-01-19,617961
+Stack Overflow,2021-01-25,624386
+Stack Overflow,2021-01-30,629914
+Stack Overflow,2021-01-31,630690
+Stack Overflow,2021-02-03,633168
+Stack Overflow,2021-02-07,636398
+Stack Overflow,2021-02-12,640668
+Stack Overflow,2021-02-17,644310
+Stack Overflow,2021-02-21,648182
+Stack Overflow,2021-02-25,652528
+Stack Overflow,2021-03-01,655900
+Stack Overflow,2021-03-06,661048
+Stack Overflow,2021-03-10,664806
+Stack Overflow,2021-03-16,669076
+Stack Overflow,2021-03-20,673133
+Stack Overflow,2021-03-24,676207
+Stack Overflow,2021-03-30,682027
+Stack Overflow,2021-04-06,688448
+Stack Overflow,2021-04-10,692809
+Stack Overflow,2021-04-15,696556
+Stack Overflow,2021-04-20,700733
+Stack Overflow,2021-04-24,703639
+Stack Overflow,2021-04-28,706360
+Stack Overflow,2021-05-03,709810
+Stack Overflow,2021-05-07,712928
+Stack Overflow,2021-05-10,714672
+Stack Overflow,2021-05-14,718065
+Stack Overflow,2021-05-21,722165
+Stack Overflow,2021-05-26,724484
+Stack Overflow,2021-06-02,728256
+Stack Overflow,2021-06-09,731973
+Stack Overflow,2021-06-16,735152
+Stack Overflow,2021-06-21,736883
+Stack Overflow,2021-06-29,739363
+Stack Overflow,2021-07-02,740489
+Stack Overflow,2021-07-04,740916
+Stack Overflow,2021-07-09,742477
+Stack Overflow,2021-07-14,743890
+Stack Overflow,2021-07-18,745025
+Stack Overflow,2021-07-22,747041
+Stack Overflow,2021-08-14,756750
+Stack Overflow,2021-08-26,761417
+Stack Overflow,2021-09-02,763852
+Stack Overflow,2021-09-16,769086
+Stack Overflow,2021-10-17,781465
+Stack Overflow,2021-10-29,786746
+Stack Overflow,2021-11-06,790492
+Stack Overflow,2021-11-20,799727
+Stack Overflow,2021-12-07,808959
+Stack Overflow,2021-12-14,811692
+Stack Overflow,2021-12-20,813774
+Stack Overflow,2021-12-26,816192
+Stack Overflow,2021-12-30,818045
+Stack Overflow,2021-12-31,818846
+Stack Overflow,2022-01-03,820268
+Stack Overflow,2022-01-04,821549
+Stack Overflow,2022-01-06,823370
+Stack Overflow,2022-01-07,824581
+Stack Overflow,2022-01-10,826540
+Stack Overflow,2022-01-12,829089
+Stack Overflow,2022-01-14,831636
+Stack Overflow,2022-01-18,837420
+Stack Overflow,2022-01-27,849958
+Stack Overflow,2022-02-01,856470
+Stack Overflow,2022-02-01,856120
+Stack Overflow,2022-02-07,861840
+Stack Overflow,2022-02-10,865010
+Stack Overflow,2022-02-12,866739
+Stack Overflow,2022-02-20,872124
+Stack Overflow,2022-02-23,874411
+Stack Overflow,2022-02-26,876281
+Stack Overflow,2022-03-03,879307
+Stack Overflow,2022-03-07,881673
+Stack Overflow,2022-03-15,886876
+Stack Overflow,2022-03-20,890278
+Stack Overflow,2022-03-29,895671
+Stack Overflow,2022-03-31,896908
+Stack Overflow,2022-04-09,902575
+Stack Overflow,2022-04-11,903537
+Stack Overflow,2022-04-13,904788
+Stack Overflow,2022-04-19,908324
+Stack Overflow,2022-04-25,912267
+Stack Overflow,2022-04-29,915469
+Stack Overflow,2022-05-05,876281
+Stack Overflow,2022-05-12,924801
+Stack Overflow,2022-05-22,933694
+Stack Overflow,2022-05-23,934544
+Stack Overflow,2022-06-01,941723
+Stack Overflow,2022-06-03,943588
+Stack Overflow,2022-06-07,947330
+Stack Overflow,2022-06-08,947330
+Stack Overflow,2022-06-11,950889
+Stack Overflow,2022-06-13,952433
+Stack Overflow,2022-06-15,955120
+Stack Overflow,2022-06-16,956553
+Stack Overflow,2022-06-20,959289
+Stack Overflow,2022-06-23,962330
+Stack Overflow,2022-06-23,962321
+Stack Overflow,2022-06-24,963983
+Stack Overflow,2022-06-26,965568
+Stack Overflow,2022-06-28,967671
+Stack Overflow,2022-06-30,969651
+Stack Overflow,2022-06-30,969650
+Stack Overflow,2022-07-01,970862
+Stack Overflow,2022-07-02,971292
+Stack Overflow,2022-07-04,973419
+Stack Overflow,2022-07-05,975056
+Stack Overflow,2022-07-09,979281
+Stack Overflow,2022-07-12,982556
+Stack Overflow,2022-07-13,983315
+Stack Overflow,2022-07-18,988744
+Stack Overflow,2022-07-18,988435
+Stack Overflow,2022-07-21,992733
+Stack Overflow,2022-07-23,995648
+Stack Overflow,2022-07-25,998407
+Stack Overflow,2022-08-01,1009052
+Stack Overflow,2022-08-02,1009784
+Stack Overflow,2022-08-08,1018026
+Stack Overflow,2022-08-16,1027991
+Stack Overflow,2022-08-20,1033862
+Stack Overflow,2022-08-20,1033861
+Stack Overflow,2022-08-25,1039340
+Stack Overflow,2022-08-28,1042356
+Stack Overflow,2022-08-28,1042355
+Stack Overflow,2022-09-01,1047731
+Stack Overflow,2022-09-07,1053794
+Stack Overflow,2022-09-07,1053793
+Stack Overflow,2022-09-10,1056778
+Stack Overflow,2022-09-10,1056776
+Stack Overflow,2022-09-16,1064662
+Stack Overflow,2022-09-16,1064659
+Stack Overflow,2022-09-22,1072213
+Stack Overflow,2022-09-22,1072211
+Stack Overflow,2022-09-29,1081937
+Stack Overflow,2022-10-03,1087072
+Stack Overflow,2022-10-03,1087070
+Stack Overflow,2022-10-09,1099534
+Stack Overflow,2022-10-09,1099531
+Stack Overflow,2022-10-12,1105771
+Stack Overflow,2022-10-12,1105694
+Stack Overflow,2022-10-16,1111922
+Stack Overflow,2022-10-16,1111919
+Stack Overflow,2022-10-22,1122659
+Stack Overflow,2022-10-22,1122658
+Stack Overflow,2022-10-28,1130551
+Stack Overflow,2022-10-28,1130550
+Stack Overflow,2022-11-03,1136345
+Stack Overflow,2022-11-06,1139215
+Stack Overflow,2022-11-14,1150806
+Stack Overflow,2022-11-20,1157133
+Stack Overflow,2022-11-20,1157132
+Stack Overflow,2022-11-24,1160262
+Stack Overflow,2022-11-24,1160259
+Stack Overflow,2022-12-01,1166394
+Stack Overflow,2022-12-01,1166393
+Stack Overflow,2022-12-08,1172308
+Stack Overflow,2022-12-08,1172305
+Stack Overflow,2022-12-14,1176503
+Stack Overflow,2022-12-27,1184523
+Stack Overflow,2023-01-01,1188290
+Stack Overflow,2023-01-05,1191490
+Stack Overflow,2023-01-09,1194410
+Stack Overflow,2023-01-09,1194407
+Stack Overflow,2023-01-21,1204994
+Stack Overflow,2023-01-22,1205455
+Stack Overflow,2023-01-22,1205454
+Stack Overflow,2023-01-28,1210119
+Stack Overflow,2023-01-29,1210437
+Stack Overflow,2023-02-04,1214352
+Stack Overflow,2023-02-04,1214349
+Stack Overflow,2023-02-10,1218508
+Stack Overflow,2023-02-10,1218502
+Stack Overflow,2023-02-13,1220634
+Stack Overflow,2023-02-24,1227764
+Stack Overflow,2023-02-25,1228277
+Stack Overflow,2023-02-25,1228273
+Stack Overflow,2023-03-10,1238534
+Stack Overflow,2023-03-13,1240659
+Stack Overflow,2023-03-14,1242120
+Stack Overflow,2023-03-18,1245557
+Stack Overflow,2023-03-21,1247958
+Stack Overflow,2023-03-21,1247942
+Stack Overflow,2023-03-25,1251232
+Stack Overflow,2023-03-25,1251228
+Stack Overflow,2023-03-29,1255116
+Stack Overflow,2023-04-01,1258194
+Stack Overflow,2023-04-10,1266326
+Stack Overflow,2023-04-10,1266228
+Stack Overflow,2023-04-10,1266227
+Stack Overflow,2023-04-13,1269307
+Stack Overflow,2023-04-13,1269305
+Stack Overflow,2023-04-21,1275680
+Stack Overflow,2023-04-23,1277014
+Stack Overflow,2023-04-29,1282241
+Stack Overflow,2023-05-12,1292911
+Stack Overflow,2023-05-19,1298332
+Stack Overflow,2023-05-19,1298329
+Stack Overflow,2023-05-29,1305068
+Stack Overflow,2023-05-29,1305044
+Stack Overflow,2023-06-05,1311721
+Stack Overflow,2023-06-05,1311710
+Stack Overflow,2023-06-05,1311708
+Stack Overflow,2023-06-11,1318188
+Stack Overflow,2023-06-14,1321963
+Stack Overflow,2023-06-14,1321960
+Stack Overflow,2023-06-17,1325014
+Stack Overflow,2023-06-17,1325011
+Stack Overflow,2023-06-23,1331704
+Stack Overflow,2023-06-23,1331703
+Stack Overflow,2023-06-27,1336566
+Stack Overflow,2023-06-27,1336556
+Stack Overflow,2023-07-06,1350035
+Stack Overflow,2023-07-06,1350026
+Stack Overflow,2023-07-06,1350024
+Stack Overflow,2023-07-23,1371780
+Stack Overflow,2023-07-23,1371744
+Stack Overflow,2023-07-23,1371742
+Stack Overflow,2023-08-02,1384672
+Stack Overflow,2023-08-05,1388034
+Stack Overflow,2023-08-08,1390676
+Stack Overflow,2023-08-08,1390673
+Stack Overflow,2023-08-10,1393115
+Stack Overflow,2023-08-10,1393114
+Stack Overflow,2023-08-29,1409867
+Stack Overflow,2023-09-15,1427979
+Stack Overflow,2023-09-15,1427977
+Stack Overflow,2023-10-18,1469115
+Stack Overflow,2023-10-18,1469097
+Stack Overflow,2023-10-18,1427979
+Stack Overflow,2023-12-14,1461392
+Stack Overflow,2023-12-16,1462645
+Stack Overflow,2023-12-17,1463080
+Stack Overflow,2023-12-17,1463078
+Stack Overflow,2023-12-18,1463565
+Stack Overflow,2023-12-18,1463560
+Stack Overflow,2023-12-18,1463550
+Stack Overflow,2024-01-22,1477572
+Stack Overflow,2024-01-22,1477564
+Stack Overflow,2024-04-08,1509280
+Stack Overflow,2024-04-09,1509826
+Stack Overflow,2024-04-10,1510144
+Stack Overflow,2024-04-17,1512076
+Stack Overflow,2024-04-19,1512581
+Stack Overflow,2024-04-28,1514634
+Stack Overflow,2024-05-03,1516050
+Stack Overflow,2024-05-19,1531834
+Stack Overflow,2024-05-28,1536661
+Stack Overflow,2024-05-28,1536649
+Stack Overflow,2024-06-08,1540058
+Stack Overflow,2024-06-24,1544318
+Stack Overflow,2024-06-28,1545239
+Stack Overflow,2024-07-17,1548984
+Stack Overflow,2024-07-20,1549244
+Stack Overflow,2024-07-23,1549944
+Stack Overflow,2024-08-02,1551959
+Stack Overflow,2024-08-02,1551958
+Stack Overflow,2024-08-06,1552573
+Stack Overflow,2024-08-09,1553393
+Stack Overflow,2024-08-09,1553391
+Stack Overflow,2024-08-20,1555097
+Stack Overflow,2024-09-02,1556477
+Stack Overflow,2024-09-02,1556473
+Stack Overflow,2024-09-02,1556472
+Stack Overflow,2024-09-07,1557562
+Stack Overflow,2024-09-10,1558671
+Stack Overflow,2024-09-16,1559726
+Stack Overflow,2024-09-17,1560122
+Stack Overflow,2024-09-24,1561391
+Stack Overflow,2024-09-24,1561387
+Stack Overflow,2024-10-02,1562451
+Stack Overflow,2024-11-15,1565886
+Stack Overflow,2024-11-15,1565879
+Stack Overflow,2024-11-24,1566092
+Stack Overflow,2024-11-26,1566174
+Stack Overflow,2024-12-07,1566726
+Stack Overflow,2025-01-08,1568239
+Stack Overflow,2025-01-09,1568324
+Stack Overflow,2025-01-18,1568954
+Stack Overflow,2025-01-18,1568952
+Stack Overflow,2025-01-19,1568962
+Stack Overflow,2025-01-27,1569357
+Stack Overflow,2025-01-27,1569355
+Stack Overflow,2025-01-28,1569514
+Stack Overflow,2025-02-04,1569811
+Stack Overflow,2025-02-20,1570656
+Stack Overflow,2025-02-21,1570654
+Stack Overflow,2025-02-28,1570785
+Stack Overflow,2025-02-28,1570784
+Stack Overflow,2025-03-03,1570874
+Stack Overflow,2025-03-03,1570858
+Stack Overflow,2025-03-09,1570871
+Stack Overflow,2025-03-10,1570943
+Stack Overflow,2025-03-15,1571110
+Stack Overflow,2025-03-16,1571116
+Stack Overflow,2025-03-16,1571114
+Stack Overflow,2025-04-13,1571640
+Stack Overflow,2025-04-13,1571617
+Stack Overflow,2025-04-22,1571875
+Stack Overflow,2025-04-22,1571876
+Stack Overflow,2025-04-27,1572095
+Stack Overflow,2025-04-28,1572122
+Stack Overflow,2025-05-06,1572122
+Stack Overflow,2025-05-20,1572396
+Stack Overflow,2025-05-20,1572399
+Stack Overflow,2025-05-25,1572523
+Stack Overflow,2025-05-25,1572524
+Stack Overflow,2025-05-27,1572583
+Stack Overflow,2025-06-01,1572891
+Stack Overflow,2025-06-07,1572892
+Stack Overflow,2025-06-07,1572891
+Stack Overflow,2025-06-08,1572935
+Stack Overflow,2025-06-09,1572963
+Stack Overflow,2025-06-09,1572971
+Stack Overflow,2025-06-10,1573016
+Stack Overflow,2025-06-22,1573147
+Stack Overflow,2025-07-01,1574469
+Stack Overflow,2025-07-04,1574469
+Stack Overflow,2025-07-08,1575671
+Stack Overflow,2025-07-15,1576800
+Stack Overflow,2025-07-15,1576819
+Stack Overflow,2025-07-27,1578417
+Stack Overflow,2025-07-27,1578416
+Stack Overflow,2025-07-27,1578421
+Stack Overflow,2025-08-11,1580537
+Stack Overflow,2025-08-15,1581423
+Stack Overflow,2025-08-18,1581564
+Stack Overflow,2025-08-18,1581563
+Stack Overflow,2025-08-21,1582106
+StackFuel,2023-01-25,2079
+StackRaft,2023-01-25,810
+StackRaft,2023-01-29,810
+Standard Chartered,2024-04-08,2040893
+Standard Chartered,2024-05-04,2057669
+Standard Chartered,2024-05-28,2074200
+Standard Chartered,2024-06-24,2090646
+Standard Chartered,2024-06-28,2093407
+Standard Chartered,2024-07-20,2107323
+Standard Chartered,2024-08-06,2114876
+Standard Chartered,2024-09-02,2127765
+Standard Chartered,2024-09-16,2134610
+Standard Chartered,2024-09-27,2141252
+Standard Chartered,2025-01-09,2186512
+Standard Chartered,2025-01-19,2191325
+Standard Chartered,2025-01-27,2195209
+Standard Chartered,2025-02-21,2207608
+Standard Chartered,2025-02-28,2211738
+Standard Chartered,2025-03-15,2221031
+Standard Chartered,2025-03-16,2221494
+Standard Chartered,2025-04-28,2241102
+Standard Chartered,2025-05-27,2250674
+Standard Chartered,2025-06-07,2252879
+Standard Chartered,2025-07-27,2287712
+Standard Chartered Bank,2023-01-21,1826565
+Standard Chartered Bank,2023-02-10,1838164
+Standard Chartered Bank,2023-02-25,1848182
+Standard Chartered Bank,2023-03-13,1859433
+Standard Chartered Bank,2023-03-29,1868956
+Standard Chartered Bank,2023-04-10,1876306
+Standard Chartered Bank,2023-04-23,1883903
+Standard Chartered Bank,2023-06-05,1910497
+Standard Chartered Bank,2023-06-11,1916147
+Standard Chartered Bank,2023-06-23,1927446
+Standard Chartered Bank,2023-07-06,1938814
+Standard Chartered Bank,2023-07-23,1951158
+Standard Chartered Bank,2023-08-05,1963257
+Standard Chartered Bank,2023-08-29,1986397
+Standard Chartered Bank,2023-10-18,2034299
+Standard Chartered Bank,2023-12-14,1950316
+Standard Chartered Bank,2023-12-17,1953765
+Standard Chartered Bank,2023-12-18,1954718
+Stanford Artificial Intelligence Laboratory (SAIL),2021-01-19,2061
+Stanford Artificial Intelligence Laboratory (SAIL),2021-02-19,2190
+Stanford Artificial Intelligence Laboratory (SAIL),2021-03-06,2324
+Stanford Cancer Institute,2023-01-25,15120
+Stanford Cancer Institute,2023-01-29,15198
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-01-21,29769
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-02-25,36815
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-03-13,39158
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-03-29,42031
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-04-10,43569
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-04-23,45149
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-04-29,46370
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-05-12,48211
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-05-19,49162
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-05-29,50107
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-06-05,50941
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-06-11,51501
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-06-14,51661
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-06-17,51785
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-06-23,52274
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-06-23,52273
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-06-27,52592
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-07-06,53076
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-07-23,53935
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-07-23,53934
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-08-02,54538
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-08-05,54709
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-08-08,54820
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-08-10,54908
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-08-29,55542
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-08-29,55541
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-09-15,54578
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-10-18,56824
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-10-18,56819
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-12-16,60634
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-12-18,60822
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-12-18,60821
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-01-22,63447
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-04-09,72644
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-04-17,74948
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-04-19,75548
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-04-28,77019
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-05-03,77881
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-05-19,79961
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-06-08,81381
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-06-24,81738
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-06-28,81951
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-07-17,82648
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-07-20,82696
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-07-23,82758
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-08-02,82926
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-08-06,82988
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-08-09,83162
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-08-20,83633
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-09-02,83957
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-09-07,84133
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-09-10,84295
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-09-16,84430
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-09-24,84596
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-10-02,84744
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-11-15,85518
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-11-24,85749
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-11-26,85796
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2024-12-07,86000
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-01-08,86690
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-01-18,86774
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-01-27,86860
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-02-04,86922
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-02-20,87073
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-02-28,87158
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-03-03,87144
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-03-09,87161
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-03-16,87237
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-04-13,87508
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-04-22,87663
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-04-27,87788
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-04-28,87802
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-05-06,87802
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-05-20,87991
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-05-25,88124
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-05-27,88190
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-06-01,88277
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-06-07,88409
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-06-08,88425
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-06-09,88458
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-06-10,88493
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-06-22,88643
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-07-01,88690
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-07-04,88690
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-07-08,88724
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-07-15,88790
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-07-27,88875
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-08-11,88911
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-08-15,88911
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-08-18,88913
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-08-21,88965
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2023-12-14,NA
+Stanford Continuing Studies,2023-01-25,14620
+Stanford GSB Executive Education,2023-01-25,100832
+Stanford Online,2023-01-21,54377
+Stanford Online,2023-02-25,58086
+Stanford Online,2023-03-13,59809
+Stanford Online,2023-03-29,61406
+Stanford Online,2023-04-10,62821
+Stanford Online,2023-04-23,64345
+Stanford Online,2023-06-05,69864
+Stanford Online,2023-06-11,70609
+Stanford Online,2023-06-23,72080
+Stanford Online,2023-07-06,73582
+Stanford Online,2023-07-23,75315
+Stanford Online,2023-08-05,76776
+Stanford Online,2023-08-29,79666
+Stanford Online,2023-10-18,80878
+Stanford University,2023-01-25,1157622
+Stanford University Graduate School of Business,2023-01-21,448024
+Stanford University Graduate School of Business,2023-02-10,451573
+Stanford University Graduate School of Business,2023-02-25,454063
+Stanford University Graduate School of Business,2023-03-13,456783
+Stanford University Graduate School of Business,2023-03-29,459646
+Stanford University Graduate School of Business,2023-04-10,462218
+Stanford University Graduate School of Business,2023-04-23,464881
+Stanford University Graduate School of Business,2023-06-05,472916
+Stanford University Graduate School of Business,2023-06-11,473948
+Stanford University Graduate School of Business,2023-06-23,476105
+Stanford University Graduate School of Business,2023-07-06,478814
+Stanford University Graduate School of Business,2023-07-23,481770
+Stanford University Graduate School of Business,2023-08-05,484418
+Stanford University Graduate School of Business,2023-08-29,489201
+Stanford University Graduate School of Business,2023-10-18,450290
+Stanford University Graduate School of Business,2023-12-14,456259
+Stanford University Graduate School of Business,2023-12-17,456886
+Stanford University Graduate School of Business,2023-12-18,456990
+Stanford University Graduate School of Business,2024-04-08,470243
+Stanford University Graduate School of Business,2024-05-04,474077
+Stanford University Graduate School of Business,2024-05-28,477226
+Stanford University Graduate School of Business,2024-06-24,481427
+Stanford University Graduate School of Business,2024-06-28,482043
+Stanford University Graduate School of Business,2024-07-20,485090
+Stanford University Graduate School of Business,2024-08-06,487943
+Stanford University Graduate School of Business,2024-09-02,491669
+Stanford University Graduate School of Business,2024-09-16,498040
+Stanford University Graduate School of Business,2024-09-27,499988
+Stanford University Graduate School of Business,2025-01-09,511933
+Stanford University Graduate School of Business,2025-01-19,513343
+Stanford University Graduate School of Business,2025-01-27,514284
+Stanford University Graduate School of Business,2025-02-21,516962
+Stanford University Graduate School of Business,2025-02-28,517629
+Stanford University Graduate School of Business,2025-03-15,519057
+Stanford University Graduate School of Business,2025-03-16,519209
+Stanford University Graduate School of Business,2025-04-28,524149
+Stanford University Graduate School of Business,2025-05-27,527345
+Stanford University Graduate School of Business,2025-06-07,528370
+Stanford University Graduate School of Business,2025-07-27,533680
+Stanford Woods Institute for the Environment,2023-01-28,2838
+StarBerry Games,2023-01-25,1170
+Starfish Space,2023-03-29,5496
+Starfish Space,2023-04-10,5730
+Starfish Space,2023-04-23,5891
+Starfish Space,2023-06-05,6351
+Starfish Space,2023-06-11,6431
+Starfish Space,2023-06-23,6787
+Starfish Space,2023-07-06,7012
+Starfish Space,2023-07-23,7155
+Starfish Space,2023-08-05,7260
+Starfish Space,2023-08-29,7516
+Starfish Space,2023-10-18,8369
+Starschema,2023-06-05,6189
+Starschema,2023-06-11,6198
+Starschema,2023-06-23,6220
+Starschema,2023-07-06,6256
+Starschema,2023-07-23,6279
+Starschema,2023-08-05,6299
+Starschema,2023-08-29,6329
+Starschema,2023-10-18,6435
+Starschema,2023-12-14,6388
+Starschema,2023-12-17,6390
+Starschema,2023-12-18,6392
+Startacus,2024-06-24,2525
+Startup Network Europe,2023-01-25,14169
+Startup Network Europe,2023-01-29,14198
+Startup Pakistan,2023-01-21,391519
+Startup Pakistan,2023-02-25,404031
+Startup Pakistan,2023-03-13,412365
+Startup Pakistan,2023-03-29,423392
+Startup Pakistan,2023-04-10,432103
+Startup Pakistan,2023-04-23,439183
+Startup Pakistan,2023-06-05,462306
+Startup Pakistan,2023-06-11,466169
+Startup Pakistan,2023-06-23,475163
+Startup Pakistan,2023-07-06,485028
+Startup Pakistan,2023-07-23,500443
+Startup Pakistan,2023-08-05,512371
+Startup Pakistan,2023-08-29,529322
+Startup Pakistan,2023-10-18,531904
+StatSoft (now part of TIBCO Software),2020-12-15,2208
+StatSoft (now part of TIBCO Software),2020-12-27,2217
+StatSoft (now part of TIBCO Software),2021-01-19,2235
+State University of New York College of Optometry,2024-06-28,3646
+State University of New York College of Optometry,2024-08-06,3707
+State University of New York College of Optometry,2024-09-02,3768
+State University of New York College of Optometry,2025-01-09,3920
+State University of New York College of Optometry,2025-01-19,3929
+State University of New York College of Optometry,2025-01-27,3942
+State University of New York College of Optometry,2025-02-21,3977
+State University of New York College of Optometry,2025-02-28,3986
+State University of New York College of Optometry,2025-03-16,4016
+State University of New York College of Optometry,2025-04-28,4094
+State University of New York College of Optometry,2025-05-27,4140
+State University of New York College of Optometry,2025-06-07,4152
+State University of New York College of Optometry,2025-07-27,4210
+State University of New York College of Optometry,2025-08-18,4252
+State of Arizona Enterprise Technology (ASET),2023-01-21,1980
+State of Arizona Enterprise Technology (ASET),2023-02-10,1988
+State of Arizona Enterprise Technology (ASET),2023-02-25,1991
+State of Arizona Enterprise Technology (ASET),2023-03-13,1996
+State of Arizona Enterprise Technology (ASET),2023-03-29,1995
+State of Arizona Enterprise Technology (ASET),2023-04-10,1997
+State of Arizona Enterprise Technology (ASET),2023-04-23,2007
+State of Arizona Enterprise Technology (ASET),2023-06-05,2021
+State of Arizona Enterprise Technology (ASET),2023-06-11,2022
+State of Arizona Enterprise Technology (ASET),2023-06-23,2032
+State of Arizona Enterprise Technology (ASET),2023-07-06,2033
+State of Arizona Enterprise Technology (ASET),2023-07-23,2042
+State of Arizona Enterprise Technology (ASET),2023-08-05,2046
+State of Arizona Enterprise Technology (ASET),2023-08-29,2070
+State of Arizona Enterprise Technology (ASET),2023-10-18,2111
+State of Arizona Enterprise Technology (ASET),2023-12-17,2092
+State of Arizona Enterprise Technology (ASET),2023-12-18,2091
+State of Arizona Enterprise Technology (ASET),2025-01-09,2437
+State of Arizona Enterprise Technology (ASET),2025-01-19,2447
+State of Arizona Enterprise Technology (ASET),2025-01-27,2447
+State of Arizona Enterprise Technology (ASET),2025-02-21,2456
+State of Arizona Enterprise Technology (ASET),2025-02-28,2460
+State of Arizona Enterprise Technology (ASET),2025-03-16,2467
+State of Arizona Enterprise Technology (ASET),2025-04-28,2512
+State of Arizona Enterprise Technology (ASET),2025-05-27,2550
+State of Arizona Enterprise Technology (ASET),2025-06-07,2562
+State of Arizona Enterprise Technology (ASET),2025-07-27,2602
+StateScoop,2025-05-27,5024
+Statista,2021-02-19,107057
+Statista,2021-03-06,109064
+Statista,2021-03-26,111552
+Statista,2021-05-10,117024
+Statistical Models for Social Sciences Consultant,2023-05-19,2651
+Statistical Models for Social Sciences Consultant,2023-05-29,2674
+Statistical Models for Social Sciences Consultant,2023-06-05,2689
+Statistical Models for Social Sciences Consultant,2023-06-11,2751
+Statistical Models for Social Sciences Consultant,2023-06-14,2762
+Statistical Models for Social Sciences Consultant,2023-06-17,2768
+Statistical Models for Social Sciences Consultant,2023-06-23,2783
+Statistical Models for Social Sciences Consultant,2023-06-27,2793
+Statistical Models for Social Sciences Consultant,2023-07-06,2875
+Statistical Models for Social Sciences Consultant,2023-07-23,2928
+Statistical Models for Social Sciences Consultant,2023-08-02,2974
+Statistical Models for Social Sciences Consultant,2023-08-08,3014
+Statistical Models for Social Sciences Consultant,2023-08-10,3019
+Statistical Models for Social Sciences Consultant,2023-08-29,3066
+Statistical Models for Social Sciences Consultant,2023-09-15,3089
+Statistical Models for Social Sciences Consultant,2023-10-18,3153
+Statistical Models for Social Sciences Consultant,2023-12-14,3215
+Statistical Models for Social Sciences Consultant,2023-12-18,3226
+Statistical Models for Social Sciences Consultant,2024-01-22,3290
+Statistical Models for Social Sciences Consultant,2024-04-09,3527
+Statistical Models for Social Sciences Consultant,2024-04-17,3544
+Statistical Models for Social Sciences Consultant,2024-04-28,3558
+Statistical Models for Social Sciences Consultant,2024-05-03,3566
+Statistical Models for Social Sciences Consultant,2024-05-19,3591
+Statistical Models for Social Sciences Consultant,2024-06-08,3612
+Statistical Models for Social Sciences Consultant,2024-06-24,3627
+Statistical Models for Social Sciences Consultant,2024-06-28,3629
+Statistical Models for Social Sciences Consultant,2024-07-17,3649
+Statistical Models for Social Sciences Consultant,2024-07-20,3651
+Statistical Models for Social Sciences Consultant,2024-07-23,3655
+Statistical Models for Social Sciences Consultant,2024-08-02,3668
+Statistical Models for Social Sciences Consultant,2024-08-06,3674
+Statistical Models for Social Sciences Consultant,2024-08-09,3676
+Statistical Models for Social Sciences Consultant,2024-08-20,3685
+Statistical Models for Social Sciences Consultant,2024-09-02,3722
+Statistical Models for Social Sciences Consultant,2024-09-07,3724
+Statistical Models for Social Sciences Consultant,2024-09-10,3723
+Statistical Models for Social Sciences Consultant,2024-09-16,3731
+Statistical Models for Social Sciences Consultant,2024-09-24,3735
+Statistical Models for Social Sciences Consultant,2024-10-02,3746
+Statistical Models for Social Sciences Consultant,2024-11-15,3901
+Statistical Models for Social Sciences Consultant,2024-11-24,3924
+Statistical Models for Social Sciences Consultant,2024-11-26,3926
+Statistical Models for Social Sciences Consultant,2024-12-07,3974
+Statistical Models for Social Sciences Consultant,2025-01-08,4036
+Statistical Models for Social Sciences Consultant,2025-01-18,4063
+Statistical Models for Social Sciences Consultant,2025-01-27,4076
+Statistical Models for Social Sciences Consultant,2025-02-04,4097
+Statistical Models for Social Sciences Consultant,2025-02-20,4148
+Statistical Models for Social Sciences Consultant,2025-02-28,4185
+Statistical Models for Social Sciences Consultant,2025-03-03,4197
+Statistical Models for Social Sciences Consultant,2025-03-09,4233
+Statistical Models for Social Sciences Consultant,2025-03-16,4266
+Statistical Models for Social Sciences Consultant,2025-04-13,4341
+Statistical Models for Social Sciences Consultant,2025-04-22,4359
+Statistical Models for Social Sciences Consultant,2025-04-27,4375
+Statistical Models for Social Sciences Consultant,2025-04-28,4380
+Statistical Models for Social Sciences Consultant,2025-05-06,4380
+Statistical Models for Social Sciences Consultant,2025-05-20,4445
+Statistical Models for Social Sciences Consultant,2025-05-25,4453
+Statistical Models for Social Sciences Consultant,2025-05-27,4454
+Statistical Models for Social Sciences Consultant,2025-06-01,4508
+Statistical Models for Social Sciences Consultant,2025-06-07,4567
+Statistical Models for Social Sciences Consultant,2025-06-08,4570
+Statistical Models for Social Sciences Consultant,2025-06-09,4574
+Statistical Models for Social Sciences Consultant,2025-06-10,4584
+Statistical Models for Social Sciences Consultant,2025-06-22,4656
+Statistical Models for Social Sciences Consultant,2025-07-01,4684
+Statistical Models for Social Sciences Consultant,2025-07-04,4684
+Statistical Models for Social Sciences Consultant,2025-07-08,4734
+Statistical Models for Social Sciences Consultant,2025-07-15,4766
+Statistical Models for Social Sciences Consultant,2025-07-27,4833
+Statistical Models for Social Sciences Consultant,2025-08-11,4896
+Statistical Models for Social Sciences Consultant,2025-08-15,4928
+Statistical Models for Social Sciences Consultant,2025-08-18,4996
+Statistical Models for Social Sciences Consultant,2025-08-21,5039
+Statistics Globe,2021-06-21,1860
+Statistics Globe,2021-06-29,1918
+Statistics Globe,2021-07-02,1949
+Statistics Globe,2021-07-04,1955
+Statistics Globe,2021-07-09,1982
+Statistics Globe,2021-07-14,2000
+Statistics Globe,2021-07-18,2013
+Statistics Globe,2021-07-22,2021
+Statistics Globe,2021-08-14,2204
+Statistics Globe,2021-08-26,2284
+Statistics Globe,2021-09-02,2319
+Statistics Globe,2021-09-16,2396
+Statistics Globe,2021-10-17,2527
+Statistics Globe,2021-10-29,2581
+Statistics Globe,2021-11-06,2618
+Statistics Globe,2021-11-20,2672
+Statistics Globe,2021-12-07,2757
+Statistics Globe,2021-12-14,2773
+Statistics Globe,2021-12-20,2788
+Statistics Globe,2021-12-26,2800
+Statistics Globe,2021-12-30,2810
+Statistics Globe,2021-12-31,2814
+Statistics Globe,2022-01-03,2820
+Statistics Globe,2022-01-04,2824
+Statistics Globe,2022-01-06,2835
+Statistics Globe,2022-01-07,2841
+Statistics Globe,2022-01-10,2845
+Statistics Globe,2022-01-14,2866
+Statistics Globe,2022-01-18,2876
+Statistics Globe,2022-01-27,2919
+Statistics Globe,2022-02-01,2933
+Statistics Globe,2022-02-10,2978
+Statistics Globe,2022-02-12,2985
+Statistics Globe,2022-02-16,2995
+Statistics Globe,2022-02-23,3045
+Statistics Globe,2022-03-03,3074
+Statistics Globe,2022-03-07,3087
+Statistics Globe,2022-03-15,3145
+Statistics Globe,2022-03-20,3180
+Statistics Globe,2022-03-29,3221
+Statistics Globe,2022-03-31,3231
+Statistics Globe,2022-04-09,3281
+Statistics Globe,2022-04-13,3294
+Statistics Globe,2022-04-19,3315
+Statistics Globe,2022-04-25,3332
+Statistics Globe,2022-04-29,3353
+Statistics Globe,2022-05-22,3445
+Statistics Globe,2022-05-27,3461
+Statistics Globe,2022-05-30,3469
+Statistics Globe,2022-06-01,3474
+Statistics Globe,2022-06-07,3518
+Statistics Globe,2022-06-08,3518
+Statistics Globe,2022-06-11,3543
+Statistics Globe,2022-06-13,3547
+Statistics Globe,2022-06-16,3558
+Statistics Globe,2022-06-22,3584
+Statistics Globe,2022-06-26,3597
+Statistics Globe,2022-06-28,3607
+Statistics Globe,2022-06-30,3618
+Statistics Globe,2022-07-01,3619
+Statistics Globe,2022-07-02,3622
+Statistics Globe,2022-07-04,3638
+Statistics Globe,2022-07-05,3643
+Statistics Globe,2022-07-09,3661
+Statistics Globe,2022-07-12,3684
+Statistics Globe,2022-07-18,3708
+Statistics Globe,2022-07-21,3737
+Statistics Globe,2022-07-23,3790
+Statistics Globe,2022-07-25,3811
+Statistics Globe,2022-08-01,3863
+Statistics Globe,2022-08-08,3930
+Statistics Globe,2022-08-16,3986
+Statistics Globe,2022-08-20,3997
+Statistics Globe,2022-08-25,4149
+Statistics Globe,2022-08-28,4190
+Statistics Globe,2022-09-01,4262
+Statistics Globe,2022-09-07,4290
+Statistics Globe,2022-09-10,4304
+Statistics Globe,2022-09-16,4332
+Statistics Globe,2022-09-22,4371
+Statistics Globe,2022-09-29,4406
+Statistics Globe,2022-10-03,4422
+Statistics Globe,2022-10-09,4495
+Statistics Globe,2022-10-12,4500
+Statistics Globe,2022-10-16,4524
+Statistics Globe,2022-10-22,4554
+Statistics Globe,2022-10-28,4580
+Statistics Globe,2022-11-03,4594
+Statistics Globe,2022-11-06,4613
+Statistics Globe,2022-11-14,4666
+Statistics Globe,2022-11-20,4713
+Statistics Globe,2022-11-24,4725
+Statistics Globe,2022-12-01,4764
+Statistics Globe,2022-12-08,4797
+Statistics Globe,2022-12-14,4824
+Statistics Globe,2022-12-27,4860
+Statistics Globe,2023-01-01,4899
+Statistics Globe,2023-01-05,4919
+Statistics Globe,2023-01-09,4942
+Statistics Globe,2023-01-22,4981
+Statistics Globe,2023-01-28,5085
+Statistics Globe,2023-02-04,5111
+Statistics Globe,2023-02-10,5129
+Statistics Globe,2023-02-13,5140
+Statistics Globe,2023-02-24,5179
+Statistics Globe,2023-03-10,5215
+Statistics Globe,2023-03-14,5230
+Statistics Globe,2023-03-18,5245
+Statistics Globe,2023-03-21,5249
+Statistics Globe,2023-03-25,5265
+Statistics Globe,2023-04-01,5310
+Statistics Globe,2023-04-10,5363
+Statistics Globe,2023-04-13,5377
+Statistics Globe,2023-04-21,5408
+Statistics Globe,2023-04-29,5425
+Statistics Globe,2023-05-12,5496
+Statistics Globe,2023-05-19,5525
+Statistics Globe,2023-05-29,5541
+Statistics Globe,2023-06-05,5559
+Statistics Globe,2023-06-11,5564
+Statistics Globe,2023-06-14,5570
+Statistics Globe,2023-06-17,5576
+Statistics Globe,2023-06-23,5593
+Statistics Globe,2023-06-27,5604
+Statistics Globe,2023-07-06,5623
+Statistics Globe,2023-07-23,5653
+Statistics Globe,2023-08-02,5697
+Statistics Globe,2023-08-08,5709
+Statistics Globe,2023-08-10,5715
+Statistics Globe,2023-08-29,5606
+Statistics Globe,2023-09-15,5636
+Statistics Globe,2023-10-18,5713
+Statistics Globe,2023-12-14,5891
+Statistics Globe,2023-12-18,5935
+Statistics Globe,2024-01-22,6065
+Statistics Globe,2024-04-09,6580
+Statistics Globe,2024-04-17,6682
+Statistics Globe,2024-04-28,6777
+Statistics Globe,2024-05-03,6824
+Statistics Globe,2024-05-19,6912
+Statistics Globe,2024-06-08,7062
+Statistics Globe,2024-06-24,7219
+Statistics Globe,2024-06-28,7237
+Statistics Globe,2024-07-17,7403
+Statistics Globe,2024-07-20,7419
+Statistics Globe,2024-07-23,7450
+Statistics Globe,2024-08-02,7543
+Statistics Globe,2024-08-06,7560
+Statistics Globe,2024-08-09,7602
+Statistics Globe,2024-08-20,7757
+Statistics Globe,2024-09-02,8011
+Statistics Globe,2024-09-07,8064
+Statistics Globe,2024-09-10,8073
+Statistics Globe,2024-09-16,8091
+Statistics Globe,2024-09-24,8255
+Statistics Globe,2024-10-02,8355
+Statistics Globe,2024-11-15,8958
+Statistics Globe,2024-11-24,9159
+Statistics Globe,2024-11-26,9207
+Statistics Globe,2024-12-07,9334
+Statistics Globe,2025-01-08,9766
+Statistics Globe,2025-01-18,10008
+Statistics Globe,2025-01-27,10135
+Statistics Globe,2025-02-04,10229
+Statistics Globe,2025-02-20,10351
+Statistics Globe,2025-02-28,10438
+Statistics Globe,2025-03-03,10467
+Statistics Globe,2025-03-09,10559
+Statistics Globe,2025-03-16,10621
+Statistics Globe,2025-04-13,10972
+Statistics Globe,2025-04-22,11140
+Statistics Globe,2025-04-27,11243
+Statistics Globe,2025-04-28,11254
+Statistics Globe,2025-05-06,11254
+Statistics Globe,2025-05-20,11414
+Statistics Globe,2025-05-25,11469
+Statistics Globe,2025-05-27,11513
+Statistics Globe,2025-06-01,11590
+Statistics Globe,2025-06-07,11650
+Statistics Globe,2025-06-08,11652
+Statistics Globe,2025-06-09,11673
+Statistics Globe,2025-06-10,11684
+Statistics Globe,2025-06-22,11789
+Statistics Globe,2025-07-01,11888
+Statistics Globe,2025-07-04,11888
+Statistics Globe,2025-07-08,11926
+Statistics Globe,2025-07-15,12007
+Statistics Globe,2025-07-27,12146
+Statistics Globe,2025-08-11,12366
+Statistics Globe,2025-08-15,12400
+Statistics Globe,2025-08-18,12405
+Statistics Globe,2025-08-21,12453
+Statistics Without Borders,2020-10-25,397
+Statistics Without Borders,2020-10-28,398
+Statistics Without Borders,2020-10-30,399
+Statistics Without Borders,2020-11-03,402
+Statistics Without Borders,2020-11-06,403
+Statistics Without Borders,2020-11-10,408
+Statistics Without Borders,2020-11-14,412
+Statistics Without Borders,2020-11-18,414
+Statistics Without Borders,2020-11-23,418
+Statistics Without Borders,2020-11-28,421
+Statistics Without Borders,2020-12-03,424
+Statistics Without Borders,2020-12-05,425
+Statistics Without Borders,2020-12-12,432
+Statistics Without Borders,2020-12-15,436
+Statistics Without Borders,2020-12-20,440
+Statistics Without Borders,2020-12-25,443
+Statistics Without Borders,2020-12-29,445
+Statistics Without Borders,2021-01-03,447
+Statistics Without Borders,2021-01-06,448
+Statistics Without Borders,2021-01-11,452
+Statistics Without Borders,2021-01-15,456
+Statistics Without Borders,2021-01-19,463
+Statistics Without Borders,2021-01-25,471
+Statistics Without Borders,2021-01-30,474
+Statistics Without Borders,2021-01-31,475
+Statistics Without Borders,2021-02-03,477
+Statistics Without Borders,2021-02-07,482
+Statistics Without Borders,2021-02-12,488
+Statistics Without Borders,2021-02-17,493
+Statistics Without Borders,2021-02-21,500
+Statistics Without Borders,2021-02-25,503
+Statistics Without Borders,2021-03-01,508
+Statistics Without Borders,2021-03-06,514
+Statistics Without Borders,2021-03-10,518
+Statistics Without Borders,2021-03-16,523
+Statistics Without Borders,2021-03-20,526
+Statistics Without Borders,2021-03-24,531
+Statistics Without Borders,2021-03-30,538
+Statistics Without Borders,2021-04-06,548
+Statistics Without Borders,2021-04-10,557
+Statistics Without Borders,2021-04-15,561
+Statistics Without Borders,2021-04-20,574
+Statistics Without Borders,2021-04-24,577
+Statistics Without Borders,2021-04-28,582
+Statistics Without Borders,2021-05-03,589
+Statistics Without Borders,2021-05-07,595
+Statistics Without Borders,2021-05-10,599
+Statistics Without Borders,2021-05-14,602
+Statistics Without Borders,2021-05-21,605
+Statistics Without Borders,2021-05-26,614
+Statistics Without Borders,2021-06-02,620
+Statistics Without Borders,2021-06-09,630
+Statistics Without Borders,2021-06-16,638
+Statistics Without Borders,2021-06-21,641
+Statistics Without Borders,2021-06-29,648
+Statistics Without Borders,2021-07-02,657
+Statistics Without Borders,2021-07-04,664
+Statistics Without Borders,2021-07-09,668
+Statistics Without Borders,2021-07-14,672
+Statistics Without Borders,2021-07-18,675
+Statistics Without Borders,2021-07-22,679
+Statistics Without Borders,2021-08-14,720
+Statistics Without Borders,2021-08-26,731
+Statistics Without Borders,2021-09-02,736
+Statistics Without Borders,2021-09-16,751
+Statistics Without Borders,2021-10-17,811
+Statistics Without Borders,2021-10-29,826
+Statistics Without Borders,2021-11-06,832
+Statistics Without Borders,2021-11-20,855
+Statistics Without Borders,2021-12-07,867
+Statistics Without Borders,2021-12-14,876
+Statistics Without Borders,2021-12-20,879
+Statistics Without Borders,2021-12-26,885
+Statistics Without Borders,2021-12-30,890
+Statistics Without Borders,2021-12-31,891
+Statistics Without Borders,2022-01-03,896
+Statistics Without Borders,2022-01-04,897
+Statistics Without Borders,2022-01-06,902
+Statistics Without Borders,2022-01-07,907
+Statistics Without Borders,2022-01-10,909
+Statistics Without Borders,2022-01-14,916
+Statistics Without Borders,2022-01-18,916
+Statistics Without Borders,2022-01-27,930
+Statistics Without Borders,2022-02-01,934
+Statistics Without Borders,2022-02-07,940
+Statistics Without Borders,2022-02-10,943
+Statistics Without Borders,2022-02-12,945
+Statistics Without Borders,2022-02-16,952
+Statistics Without Borders,2022-02-20,959
+Statistics Without Borders,2022-02-23,962
+Statistics Without Borders,2022-02-26,970
+Statistics Without Borders,2022-03-03,976
+Statistics Without Borders,2022-03-07,980
+Statistics Without Borders,2022-03-15,988
+Statistics Without Borders,2022-03-20,375
+Statistics Without Borders,2022-03-29,375
+Statistics Without Borders,2022-03-31,1021
+Statistics Without Borders,2022-04-09,1027
+Statistics Without Borders,2022-04-13,1040
+Statistics Without Borders,2022-04-29,1064
+Statistics Without Borders,2022-05-05,1072
+Statistics Without Borders,2022-05-12,1081
+Statistics Without Borders,2022-05-22,1105
+Statistics Without Borders,2022-05-23,1106
+Statistics Without Borders,2022-05-30,1118
+Statistics Without Borders,2022-06-01,1120
+Statistics Without Borders,2022-06-03,1122
+Statistics Without Borders,2022-06-07,1136
+Statistics Without Borders,2022-06-08,1136
+Statistics Without Borders,2022-06-13,1150
+Statistics Without Borders,2022-06-15,1153
+Statistics Without Borders,2022-06-16,1155
+Statistics Without Borders,2022-06-22,1168
+Statistics Without Borders,2022-06-23,1170
+Statistics Without Borders,2022-06-26,1174
+Statistics Without Borders,2022-06-28,1175
+Statistics Without Borders,2022-06-30,1176
+Statistics Without Borders,2022-07-01,1177
+Statistics Without Borders,2022-07-02,1177
+Statistics Without Borders,2022-07-04,1180
+Statistics Without Borders,2022-07-05,1181
+Statistics Without Borders,2022-07-09,1187
+Statistics Without Borders,2022-07-12,1191
+Statistics Without Borders,2022-07-18,1199
+Statistics Without Borders,2022-07-21,1207
+Statistics Without Borders,2022-07-23,1210
+Statistics Without Borders,2022-07-25,1213
+Statistics Without Borders,2022-08-01,1225
+Statistics Without Borders,2022-08-08,1244
+Statistics Without Borders,2022-08-16,1261
+Statistics Without Borders,2022-08-20,1267
+Statistics Without Borders,2022-08-25,1276
+Statistics Without Borders,2022-08-28,1278
+Statistics Without Borders,2022-09-01,1287
+Statistics Without Borders,2022-09-07,1295
+Statistics Without Borders,2022-09-10,1303
+Statistics Without Borders,2022-09-16,1310
+Statistics Without Borders,2022-09-22,1323
+Statistics Without Borders,2022-09-29,1337
+Statistics Without Borders,2022-10-03,1339
+Statistics Without Borders,2022-10-09,1350
+Statistics Without Borders,2022-10-12,1353
+Statistics Without Borders,2022-10-16,1359
+Statistics Without Borders,2022-10-22,1367
+Statistics Without Borders,2022-10-28,1371
+Statistics Without Borders,2022-11-03,1380
+Statistics Without Borders,2022-11-06,1384
+Statistics Without Borders,2022-11-14,1389
+Statistics Without Borders,2022-11-20,1398
+Statistics Without Borders,2022-11-24,1400
+Statistics Without Borders,2022-12-01,1407
+Statistics Without Borders,2022-12-08,1414
+Statistics Without Borders,2022-12-14,1419
+Statistics Without Borders,2022-12-27,1432
+Statistics Without Borders,2023-01-01,1438
+Statistics Without Borders,2023-01-05,1442
+Statistics Without Borders,2023-01-09,1447
+Statistics Without Borders,2023-01-22,1471
+Statistics Without Borders,2023-01-28,1482
+Statistics Without Borders,2023-02-04,1493
+Statistics Without Borders,2023-02-10,1504
+Statistics Without Borders,2023-02-13,1514
+Statistics Without Borders,2023-02-24,1533
+Statistics Without Borders,2023-03-10,1558
+Statistics Without Borders,2023-03-14,1562
+Statistics Without Borders,2023-03-18,1566
+Statistics Without Borders,2023-03-21,1570
+Statistics Without Borders,2023-03-25,1575
+Statistics Without Borders,2023-04-01,1588
+Statistics Without Borders,2023-04-10,1603
+Statistics Without Borders,2023-04-13,1609
+Statistics Without Borders,2023-04-21,1611
+Statistics Without Borders,2023-04-29,1619
+Statistics Without Borders,2023-05-12,1635
+Statistics Without Borders,2023-05-19,1647
+Statistics Without Borders,2023-05-29,1653
+Statistics Without Borders,2023-06-05,1667
+Statistics Without Borders,2023-06-11,1681
+Statistics Without Borders,2023-06-14,1684
+Statistics Without Borders,2023-06-17,1694
+Statistics Without Borders,2023-06-23,1702
+Statistics Without Borders,2023-06-27,1706
+Statistics Without Borders,2023-07-06,1719
+Statistics Without Borders,2023-07-23,1743
+Statistics Without Borders,2023-08-02,1764
+Statistics Without Borders,2023-08-08,1768
+Statistics Without Borders,2023-08-10,1773
+Statistics Without Borders,2023-08-29,1804
+Statistics Without Borders,2023-09-15,1814
+Statistics Without Borders,2023-10-18,1840
+Statistics Without Borders,2023-12-16,1790
+Statistics Without Borders,2023-12-18,1795
+Statistics Without Borders,2024-01-22,1838
+Statistics Without Borders,2024-04-09,1955
+Statistics Without Borders,2024-04-17,1968
+Statistics Without Borders,2024-04-19,1971
+Statistics Without Borders,2024-04-28,1980
+Statistics Without Borders,2024-05-03,1988
+Statistics Without Borders,2024-05-19,2005
+Statistics Without Borders,2024-06-08,2034
+Statistics Without Borders,2024-06-24,2044
+Statistics Without Borders,2024-06-28,2047
+Statistics Without Borders,2024-07-17,2075
+Statistics Without Borders,2024-07-20,2081
+Statistics Without Borders,2024-07-23,2084
+Statistics Without Borders,2024-08-02,2096
+Statistics Without Borders,2024-08-06,2096
+Statistics Without Borders,2024-08-09,2100
+Statistics Without Borders,2024-08-20,2110
+Statistics Without Borders,2024-09-02,2125
+Statistics Without Borders,2024-09-07,2138
+Statistics Without Borders,2024-09-10,2147
+Statistics Without Borders,2024-09-16,2148
+Statistics Without Borders,2024-09-24,2155
+Statistics Without Borders,2024-10-02,2165
+Statistics Without Borders,2024-11-15,2201
+Statistics Without Borders,2024-11-24,2215
+Statistics Without Borders,2024-11-26,2218
+Statistics Without Borders,2024-12-07,2230
+Statistics Without Borders,2025-01-08,2271
+Statistics Without Borders,2025-01-18,2289
+Statistics Without Borders,2025-01-27,2298
+Statistics Without Borders,2025-02-04,2306
+Statistics Without Borders,2025-02-20,2318
+Statistics Without Borders,2025-02-28,2321
+Statistics Without Borders,2025-03-03,2330
+Statistics Without Borders,2025-03-09,2338
+Statistics Without Borders,2025-03-16,2344
+Statistics Without Borders,2025-04-13,2357
+Statistics Without Borders,2025-04-22,2359
+Statistics Without Borders,2025-04-27,2367
+Statistics Without Borders,2025-04-28,2366
+Statistics Without Borders,2025-05-06,2366
+Statistics Without Borders,2025-05-20,2379
+Statistics Without Borders,2025-05-25,2386
+Statistics Without Borders,2025-05-27,2388
+Statistics Without Borders,2025-06-01,2392
+Statistics Without Borders,2025-06-07,2394
+Statistics Without Borders,2025-06-08,2395
+Statistics Without Borders,2025-06-09,2397
+Statistics Without Borders,2025-06-10,2397
+Statistics Without Borders,2025-06-22,2405
+Statistics Without Borders,2025-07-01,2412
+Statistics Without Borders,2025-07-04,2412
+Statistics Without Borders,2025-07-08,2413
+Statistics Without Borders,2025-07-15,2417
+Statistics Without Borders,2025-07-27,2430
+Statistics Without Borders,2025-08-11,2444
+Statistics Without Borders,2025-08-15,2450
+Statistics Without Borders,2025-08-18,2451
+Statistics Without Borders,2025-08-21,2453
+Statsig,2023-06-23,5115
+Statsig,2023-07-06,5205
+Statsig,2023-07-23,5568
+Statsig,2023-08-05,5707
+Statsig,2023-08-29,5984
+Statsig,2023-10-18,6756
+Statsig,2023-12-18,8551
+Stellar Solutions,2024-09-02,3923
+Stellar Solutions,2024-09-16,3950
+Stellar Solutions,2024-09-27,3968
+Stellar Solutions,2025-01-09,4104
+Stellar Solutions,2025-01-19,4133
+Stellar Solutions,2025-01-27,4150
+Stellar Solutions,2025-02-21,4202
+Stellar Solutions,2025-02-28,4230
+Stellar Solutions,2025-03-15,4272
+Stellar Solutions,2025-03-16,4274
+Stellar Solutions,2025-04-28,4432
+Stellar Solutions,2025-05-27,4484
+Stellar Solutions,2025-06-07,4499
+Stellar Solutions,2025-07-27,4594
+Stemettes,2023-01-25,7827
+StemoniX,2023-01-25,2580
+StemoniX,2023-01-29,2581
+Stillfront Group,2023-01-25,4811
+Stochastic Solutions,2023-01-21,88
+Stochastic Solutions,2023-02-25,88
+Stochastic Solutions,2023-03-13,88
+Stochastic Solutions,2023-03-29,88
+Stochastic Solutions,2023-04-10,88
+Stochastic Solutions,2023-04-23,88
+Stochastic Solutions,2023-06-05,89
+Stochastic Solutions,2023-06-11,89
+Stochastic Solutions,2023-06-23,89
+Stochastic Solutions,2023-07-06,89
+Stochastic Solutions,2023-07-23,91
+Stochastic Solutions,2023-08-05,91
+Stochastic Solutions,2023-08-29,91
+Stochastic Solutions,2023-10-18,91
+Stochastic Solutions,2023-12-18,89
+Stochastic Solutions,2025-03-16,116
+Stochastic Solutions,2025-05-27,116
+Stockholm University,2023-01-28,243837
+Stoke Space,2023-01-21,9051
+Stoke Space,2023-02-25,10925
+Stoke Space,2023-03-13,11477
+Stoke Space,2023-03-29,12013
+Stoke Space,2023-04-10,12489
+Stoke Space,2023-04-23,12890
+Stoke Space,2023-06-05,14076
+Stoke Space,2023-06-11,14317
+Stoke Space,2023-06-23,14750
+Stoke Space,2023-07-06,15049
+Stoke Space,2023-07-23,15411
+Stoke Space,2023-08-05,15699
+Stoke Space,2023-08-29,16425
+Stoke Space,2023-10-18,20564
+Storied,2023-01-22,292
+Stories of Infosec Journeys,2023-01-21,769
+Stories of Infosec Journeys,2023-02-25,826
+Stories of Infosec Journeys,2023-03-13,841
+Stories of Infosec Journeys,2023-03-29,852
+Stories of Infosec Journeys,2023-04-10,862
+Stories of Infosec Journeys,2023-04-23,878
+Stories of Infosec Journeys,2023-06-05,928
+Stories of Infosec Journeys,2023-06-11,937
+Stories of Infosec Journeys,2023-06-23,962
+Stories of Infosec Journeys,2023-07-06,984
+Stories of Infosec Journeys,2023-07-23,1013
+Stories of Infosec Journeys,2023-08-05,1028
+Stories of Infosec Journeys,2023-08-29,1045
+Story by Data,2020-12-15,19702
+Story by Data,2020-12-27,19829
+Story by Data,2021-01-19,20460
+Storytel,2023-01-25,36595
+Stratos Genomics,2023-01-25,2003
+Stratos Genomics,2023-01-29,2004
+Streamlit,2023-01-22,21776
+Stroud Water Research Center,2023-01-28,1297
+Student,2021-01-19,5007
+Student,2021-02-19,5018
+Student,2021-03-06,5023
+Student,2021-03-26,5030
+StudentCode-in,2023-01-25,9820
+Studer Community Institute,2023-01-21,2759
+Studer Community Institute,2023-02-25,2818
+Studer Community Institute,2023-03-13,2835
+Studer Community Institute,2023-03-29,2850
+Studer Community Institute,2023-04-10,2860
+Studer Community Institute,2023-04-23,2871
+Studer Community Institute,2023-06-05,2916
+Studer Community Institute,2023-06-11,2922
+Studer Community Institute,2023-06-23,2929
+Studer Community Institute,2023-07-06,2942
+Studer Community Institute,2023-07-23,2959
+Studer Community Institute,2023-08-05,2971
+Studer Community Institute,2023-08-29,3030
+Studer Community Institute,2023-10-18,3098
+Studer Community Institute,2023-12-18,3135
+Studer Group,2023-01-21,26629
+Studer Group,2023-02-10,26641
+Studer Group,2023-02-25,26656
+Studer Group,2023-03-13,26669
+Studer Group,2023-03-29,26667
+Studer Group,2023-04-10,26683
+Studer Group,2023-04-23,26694
+Studer Group,2023-06-05,26774
+Studer Group,2023-06-11,26790
+Studer Group,2023-06-23,26813
+Studer Group,2023-07-06,26833
+Studer Group,2023-07-23,26832
+Studer Group,2023-08-05,26848
+Studer Group,2023-08-29,26876
+Studer Group,2023-10-18,26948
+Studer Group,2023-12-14,26198
+Studer Group,2023-12-17,26199
+Studer Group,2023-12-18,26202
+Studer Group,2024-04-08,26254
+Studer Group,2024-05-04,26270
+Studer Group,2024-05-28,26297
+Studer Group,2024-06-24,26318
+Studer Group,2024-06-28,26318
+Studer Group,2024-07-20,26322
+Studer Group,2024-08-06,26334
+Studer Group,2024-09-02,26337
+Studer Group,2024-09-16,26352
+Studer Group,2024-09-27,26351
+Studer Group,2025-01-09,26338
+Studer Group,2025-01-19,26362
+Studer Group,2025-01-27,26370
+Studer Group,2025-02-21,26401
+Studer Group,2025-02-28,26402
+Studer Group,2025-03-15,26402
+Studer Group,2025-03-16,26400
+Studer Group,2025-04-28,26435
+Studer Group,2025-05-27,26457
+Studer Group,2025-06-07,26470
+Studer Group,2025-07-27,26483
+Style Theory,2020-10-16,19585
+Style Theory,2020-10-20,19579
+Style Theory,2020-10-21,19577
+Style Theory,2020-10-28,19583
+Style Theory,2020-10-31,19579
+Style Theory,2020-11-02,19584
+Style Theory,2020-11-07,19604
+Style Theory,2020-11-12,19601
+Subsea 7,2021-01-22,455738
+Subsea 7,2021-01-25,456351
+Subsea 7,2021-01-28,457244
+Subsea 7,2021-01-31,457698
+Subsea 7,2021-02-03,458452
+Subsea 7,2021-02-07,459237
+Subsea 7,2021-02-12,460419
+Subsea 7,2021-02-16,461421
+Subsea 7,2021-02-21,462456
+Subsea 7,2021-02-25,463429
+Subsea 7,2021-03-01,464234
+Subsea 7,2021-03-06,465355
+Subsea 7,2021-03-10,466227
+Subsea 7,2021-03-13,466856
+Subsea 7,2021-03-20,468540
+Subsea 7,2021-03-28,470348
+Subsea 7,2021-03-31,471014
+Subsea 7,2021-04-06,471978
+Subsea 7,2021-04-10,472870
+Subsea 7,2021-04-15,473929
+Subsea 7,2021-04-20,475033
+Subsea 7,2021-04-24,475894
+Subsea 7,2021-04-28,476728
+Subsea 7,2021-05-07,478793
+Subsea 7,2021-05-10,479262
+Subsea 7,2021-05-14,480149
+Subsea 7,2021-05-21,481085
+Subsea 7,2021-05-26,481926
+Subsea 7,2021-05-31,482862
+Subsea 7,2021-06-06,483949
+Subsea 7,2021-06-09,484690
+Subsea 7,2021-06-16,485860
+Subsea 7,2021-06-21,486842
+Subsea 7,2021-06-29,488249
+Subsea 7,2021-07-04,489277
+Subsea 7,2021-07-09,490439
+Subsea 7,2021-07-14,491473
+Subsea 7,2021-07-22,493118
+Subsea 7,2021-08-14,497258
+Subsea 7,2021-08-26,499545
+Subsea 7,2021-09-02,501048
+Subsea 7,2021-09-09,502619
+Subsea 7,2021-09-16,504311
+Subsea 7,2021-10-17,513309
+Subsea 7,2021-10-29,516876
+Subsea 7,2021-11-20,522935
+Subsea 7,2021-12-03,525786
+Subsea 7,2021-12-14,527857
+Subsea 7,2021-12-20,529156
+Subsea 7,2021-12-26,530266
+Subsea 7,2022-01-12,534290
+Subsea 7,2022-02-01,539971
+Subsea 7,2022-02-12,542933
+Subsea 7,2022-02-16,543877
+Subsea 7,2022-02-20,544866
+Subsea 7,2022-02-23,545629
+Subsea 7,2022-03-03,547251
+Subsea 7,2022-03-15,550212
+Subsea 7,2022-03-29,554605
+Subsea 7,2022-04-11,558442
+Subsea 7,2022-04-13,559092
+Subsea 7,2022-05-01,564146
+Subsea 7,2022-05-22,570331
+Subsea 7,2022-05-27,572062
+Subsea 7,2022-06-07,575322
+Subsea 7,2022-06-08,575322
+Subsea 7,2022-06-24,581087
+Subsea 7,2022-06-30,582830
+Subsea 7,2022-07-02,583411
+Subsea 7,2022-07-05,584469
+Subsea 7,2022-07-13,586832
+Subsea 7,2022-07-18,588319
+Subsea 7,2022-07-23,590096
+Subsea 7,2022-07-25,590630
+Subsea 7,2022-08-02,593017
+Subsea 7,2022-08-16,597513
+Subsea 7,2022-08-20,599210
+Subsea 7,2022-08-25,600676
+Subsea 7,2022-08-28,601585
+Subsea 7,2022-09-07,606003
+Subsea7,2022-09-10,607064
+Subsea7,2022-09-16,609463
+Subsea7,2022-09-22,611652
+Subsea7,2022-09-29,614298
+Subsea7,2022-10-03,615575
+Subsea7,2022-10-09,617570
+Subsea7,2022-10-12,618702
+Subsea7,2022-10-16,619843
+Subsea7,2022-10-22,621986
+Subsea7,2022-10-28,623905
+Subsea7,2022-11-03,625355
+Subsea7,2022-11-06,626123
+Subsea7,2022-11-14,628072
+Subsea7,2022-11-20,629720
+Subsea7,2022-11-24,630800
+Subsea7,2022-12-01,632535
+Subsea7,2022-12-08,634090
+Subsea7,2022-12-14,635442
+Subsea7,2022-12-27,638037
+Subsea7,2023-01-01,639040
+Subsea7,2023-01-05,640191
+Subsea7,2023-01-09,641203
+Subsea7,2023-01-22,645150
+Subsea7,2023-01-29,647282
+Subsea7,2023-02-04,649347
+Subsea7,2023-02-25,655513
+Subsea7,2023-03-18,662057
+Subsea7,2023-03-21,662909
+Subsea7,2023-03-25,664097
+Subsea7,2023-04-10,668870
+Subsea7,2023-04-13,669976
+Subsea7,2023-04-21,672027
+Subsea7,2023-04-29,674320
+Subsea7,2023-05-19,680510
+Subsea7,2023-05-29,683797
+Subsea7,2023-06-05,685856
+Subsea7,2023-06-14,688936
+Subsea7,2023-06-17,689982
+Subsea7,2023-06-27,693606
+Subsea7,2023-07-06,696684
+Subsea7,2023-07-23,701806
+Subsea7,2023-08-08,708003
+Subsea7,2023-08-10,708947
+Subsea7,2023-09-15,723079
+Subsea7,2023-10-18,723079
+Subsea7,2023-12-17,738559
+Subsea7,2023-12-18,738829
+Subsea7,2024-01-22,749030
+Subsea7,2024-04-10,772465
+Subsea7,2024-05-28,786391
+Subsea7,2024-08-02,802367
+Subsea7,2024-08-09,804145
+Subsea7,2024-09-02,809179
+Subsea7,2024-09-17,813602
+Subsea7,2024-09-24,815465
+Subsea7,2024-10-02,817500
+Subsea7,2024-11-15,826375
+Subsea7,2025-01-09,836457
+Subsea7,2025-01-18,839109
+Subsea7,2025-01-28,841263
+Subsea7,2025-02-21,845869
+Subsea7,2025-03-03,850958
+Subsea7,2025-03-10,852774
+Subsea7,2025-03-15,854532
+Subsea7,2025-04-13,862333
+Subsea7,2025-04-22,864242
+Subsea7,2025-05-20,872955
+Subsea7,2025-05-25,874525
+Subsea7,2025-06-07,878365
+Subsea7,2025-06-09,878799
+Subsea7,2025-06-22,882560
+Subsea7,2025-07-15,893333
+Subsea7,2025-07-27,900179
+Subsea7,2025-08-18,911124
+Subsea7,2025-08-21,913270
+Sullivan & Cromwell LLP,2024-05-04,54426
+Sullivan & Cromwell LLP,2024-05-28,55169
+Sullivan & Cromwell LLP,2024-06-24,56059
+Sullivan & Cromwell LLP,2024-06-28,56226
+Sullivan & Cromwell LLP,2024-07-20,57088
+Sullivan & Cromwell LLP,2024-08-06,57711
+Sullivan & Cromwell LLP,2024-09-02,58477
+Sullivan & Cromwell LLP,2024-09-16,58963
+Sullivan & Cromwell LLP,2024-09-27,59421
+Sullivan & Cromwell LLP,2025-01-09,62324
+Sullivan & Cromwell LLP,2025-01-19,62613
+Sullivan & Cromwell LLP,2025-01-27,62724
+Sullivan & Cromwell LLP,2025-02-21,63217
+Sullivan & Cromwell LLP,2025-02-28,63331
+Sullivan & Cromwell LLP,2025-03-15,63587
+Sullivan & Cromwell LLP,2025-03-16,63601
+Sullivan & Cromwell LLP,2025-04-28,64879
+Sullivan & Cromwell LLP,2025-05-27,65541
+Sullivan & Cromwell LLP,2025-06-07,65854
+Sullivan & Cromwell LLP,2025-07-27,67607
+Summer Internship Society,2023-01-28,10674
+Sun Life,2023-01-21,281285
+Sun Life,2023-02-10,284322
+Sun Life,2023-02-25,286412
+Sun Life,2023-03-13,288337
+Sun Life,2023-03-29,290284
+Sun Life,2023-04-10,291494
+Sun Life,2023-04-23,293012
+Sun Life,2023-06-05,298513
+Sun Life,2023-06-11,299367
+Sun Life,2023-06-23,301066
+Sun Life,2023-07-06,302951
+Sun Life,2023-07-23,305521
+Sun Life,2023-08-05,308663
+Sun Life,2023-08-29,313840
+Sun Life,2023-10-18,324496
+Sun Life,2023-12-14,328459
+Sun Life,2023-12-17,328971
+Sun Life,2023-12-18,329188
+Sun Life,2024-04-08,354151
+Sun Life,2024-05-04,361589
+Sun Life,2024-05-28,368562
+Sun Life,2024-06-24,378347
+Sun Life,2024-06-28,380033
+Sun Life,2024-07-20,386459
+Sun Life,2024-08-06,389553
+Sun Life,2024-09-02,395767
+Sun Life,2024-09-16,399626
+Sun Life,2024-09-27,402411
+Sun Life,2025-01-09,425264
+Sun Life,2025-01-19,428210
+Sun Life,2025-01-27,430561
+Sun Life,2025-02-21,438250
+Sun Life,2025-02-28,440368
+Sun Life,2025-03-15,443626
+Sun Life,2025-03-16,443910
+Sun Life,2025-04-28,451021
+Sun Life,2025-05-27,456354
+Sun Life,2025-06-07,458470
+Sun Life,2025-07-27,473107
+Sun Microsystems,2024-06-24,160068
+SunTrust,2023-01-21,122327
+SunTrust,2023-02-10,122367
+SunTrust,2023-02-25,122410
+SunTrust,2023-03-13,122444
+SunTrust,2023-03-29,122455
+SunTrust,2023-04-10,122483
+SunTrust,2023-04-23,122520
+SunTrust,2023-06-05,122676
+SunTrust,2023-06-11,122706
+SunTrust,2023-06-23,122788
+SunTrust,2023-07-06,122849
+SunTrust,2023-07-23,122836
+SunTrust,2023-08-05,122903
+SunTrust,2023-08-29,123011
+SunTrust,2023-10-18,123179
+SunTrust,2023-12-14,117596
+SunTrust,2023-12-17,117599
+SunTrust,2023-12-18,117602
+SunTrust,2024-04-08,117462
+SunTrust,2024-05-04,117420
+SunTrust,2024-05-28,117428
+SunTrust,2024-06-24,117435
+SunTrust,2024-06-28,117443
+SunTrust,2024-07-20,117433
+SunTrust,2024-08-06,117465
+SunTrust,2024-09-02,117442
+SunTrust,2024-09-16,117441
+SunTrust,2024-09-27,117458
+SunTrust,2025-01-09,117284
+SunTrust,2025-01-19,117264
+SunTrust,2025-01-27,117272
+SunTrust,2025-02-21,117238
+SunTrust,2025-02-28,117202
+SunTrust,2025-03-15,117159
+SunTrust,2025-03-16,117157
+SunTrust,2025-04-28,117123
+SunTrust,2025-05-27,117094
+SunTrust,2025-06-07,117075
+SunTrust,2025-07-27,117051
+Sunshine,2023-01-25,4882
+Super Megabyte Ltd,2024-06-24,51
+Super Technologies,2023-01-21,1273
+Super Technologies,2023-02-10,1274
+Super Technologies,2023-02-25,1278
+Super Technologies,2023-03-13,1286
+Super Technologies,2023-03-29,1291
+Super Technologies,2023-04-10,1291
+Super Technologies,2023-04-23,1291
+Super Technologies,2023-06-05,1293
+Super Technologies,2023-06-11,1296
+Super Technologies,2023-06-23,1298
+Super Technologies,2023-07-06,1301
+Super Technologies,2023-07-23,1304
+Super Technologies,2023-08-05,1305
+Super Technologies,2023-08-29,1307
+Super Technologies,2023-10-18,1308
+Super Technologies,2023-12-14,1248
+Super Technologies,2023-12-17,1255
+Super Technologies,2023-12-18,1257
+Super Technologies,2024-04-08,1274
+Super Technologies,2024-05-04,1275
+Super Technologies,2024-05-28,1278
+Super Technologies,2024-06-24,1278
+Super Technologies,2024-06-28,1278
+Super Technologies,2024-07-20,1285
+Super Technologies,2024-08-06,1289
+Super Technologies,2024-09-02,1290
+Super Technologies,2024-09-16,1292
+Super Technologies,2024-09-27,1293
+Super Technologies,2025-01-09,1308
+Super Technologies,2025-01-19,1310
+Super Technologies,2025-01-27,1312
+Super Technologies,2025-02-21,1314
+Super Technologies,2025-02-28,1316
+Super Technologies,2025-03-15,1320
+Super Technologies,2025-03-16,1320
+Super Technologies,2025-04-28,1324
+Super Technologies,2025-05-27,1324
+Super Technologies,2025-06-07,1326
+Super Technologies,2025-07-27,1331
+SuperAwesome,2023-01-25,15649
+SuperDataScience,2020-10-16,54199
+SuperDataScience,2020-12-15,58062
+SuperDataScience,2020-12-27,58629
+SuperDataScience,2021-01-19,60264
+SuperDataScience,2021-01-22,60477
+SuperDataScience,2021-01-25,60645
+SuperDataScience,2021-01-28,60811
+SuperDataScience,2021-01-31,60943
+SuperDataScience,2021-02-03,61123
+SuperDataScience,2021-02-07,61288
+SuperDataScience,2021-02-12,61551
+SuperDataScience,2021-02-16,61748
+SuperDataScience,2021-02-19,61878
+SuperDataScience,2021-02-21,61939
+SuperDataScience,2021-02-25,62122
+SuperDataScience,2021-03-01,62285
+SuperDataScience,2021-03-06,62552
+SuperDataScience,2021-03-10,62720
+SuperDataScience,2021-03-13,62853
+SuperDataScience,2021-03-20,63174
+SuperDataScience,2021-03-26,63554
+SuperDataScience,2021-03-28,63681
+SuperDataScience,2021-03-31,63890
+SuperDataScience,2021-04-06,64135
+SuperDataScience,2021-04-10,64287
+SuperDataScience,2021-04-15,64489
+SuperDataScience,2021-04-20,64692
+SuperDataScience,2021-04-24,64844
+SuperDataScience,2021-04-28,65007
+SuperDataScience,2021-05-07,65350
+SuperDataScience,2021-05-10,65471
+SuperDataScience,2021-05-14,65678
+SuperDataScience,2021-05-21,66083
+SuperDataScience,2021-05-26,66364
+SuperDataScience,2021-05-31,66682
+SuperDataScience,2021-06-06,66956
+SuperDataScience,2021-06-09,67096
+SuperDataScience,2021-06-16,67308
+SuperDataScience,2021-06-21,67602
+SuperDataScience,2021-06-29,67981
+SuperDataScience,2021-07-02,68141
+SuperDataScience,2021-07-04,68198
+SuperDataScience,2021-07-09,68331
+SuperDataScience,2021-07-14,68496
+SuperDataScience,2021-07-18,68611
+SuperDataScience,2021-07-22,68748
+SuperDataScience,2021-08-14,69381
+SuperDataScience,2021-08-26,69784
+SuperDataScience,2021-09-02,70052
+SuperDataScience,2021-09-09,70428
+SuperDataScience,2021-09-16,70781
+SuperDataScience,2021-10-17,71898
+SuperDataScience,2021-10-29,72218
+SuperDataScience,2021-11-06,72465
+SuperDataScience,2021-11-20,72890
+SuperDataScience,2021-12-07,73339
+SuperDataScience,2021-12-14,73496
+SuperDataScience,2021-12-20,73627
+SuperDataScience,2021-12-26,73784
+SuperDataScience,2021-12-30,73864
+SuperDataScience,2021-12-31,73908
+SuperDataScience,2022-01-03,73951
+SuperDataScience,2022-01-04,74002
+SuperDataScience,2022-01-06,74065
+SuperDataScience,2022-01-07,74103
+SuperDataScience,2022-01-10,74194
+SuperDataScience,2022-01-12,74282
+SuperDataScience,2022-01-14,74374
+SuperDataScience,2022-01-18,74539
+SuperDataScience,2022-01-27,74935
+SuperDataScience,2022-02-01,75282
+SuperDataScience,2022-02-01,75256
+SuperDataScience,2022-02-07,75572
+SuperDataScience,2022-02-10,75713
+SuperDataScience,2022-02-12,75801
+SuperDataScience,2022-02-16,75950
+SuperDataScience,2022-02-20,76096
+SuperDataScience,2022-02-23,76223
+SuperDataScience,2022-02-26,76300
+SuperDataScience,2022-03-03,76429
+SuperDataScience,2022-03-07,76541
+SuperDataScience,2022-03-15,76796
+SuperDataScience,2022-03-20,76955
+SuperDataScience,2022-03-29,77213
+SuperDataScience,2022-03-31,77284
+SuperDataScience,2022-04-09,77679
+SuperDataScience,2022-04-13,77773
+SuperDataScience,2022-04-19,77931
+SuperDataScience,2022-04-29,78320
+SuperDataScience,2022-05-01,78374
+SuperDataScience,2022-05-05,78542
+SuperDataScience,2022-05-12,79001
+SuperDataScience,2022-05-22,79402
+SuperDataScience,2022-05-23,79448
+SuperDataScience,2022-05-25,79535
+SuperDataScience,2022-05-27,79622
+SuperDataScience,2022-05-30,79748
+SuperDataScience,2022-06-01,79826
+SuperDataScience,2022-06-03,79890
+SuperDataScience,2022-06-07,80044
+SuperDataScience,2022-06-08,80044
+SuperDataScience,2022-06-11,80158
+SuperDataScience,2022-06-13,80207
+SuperDataScience,2022-06-15,80285
+SuperDataScience,2022-06-23,80551
+SuperDataScience,2022-06-26,80711
+SuperDataScience,2022-06-28,80784
+SuperDataScience,2022-06-30,80834
+SuperDataScience,2022-07-01,80868
+SuperDataScience,2022-07-02,80884
+SuperDataScience,2022-07-04,80954
+SuperDataScience,2022-07-05,81000
+SuperDataScience,2022-07-09,81142
+SuperDataScience,2022-07-12,81283
+SuperDataScience,2022-07-13,81306
+SuperDataScience,2022-07-18,81518
+SuperDataScience,2022-07-18,81500
+SuperDataScience,2022-07-21,81674
+SuperDataScience,2022-07-23,81771
+SuperDataScience,2022-07-25,81867
+SuperDataScience,2022-08-01,82228
+SuperDataScience,2022-08-02,82250
+SuperDataScience,2022-08-08,82501
+SuperDataScience,2022-08-16,82873
+SuperDataScience,2022-08-20,83098
+SuperDataScience,2022-08-25,83256
+SuperDataScience,2022-08-28,83326
+SuperDataScience,2022-09-01,83487
+SuperDataScience,2022-09-07,83637
+SuperDataScience,2022-09-10,83721
+SuperDataScience,2022-09-16,83954
+SuperDataScience,2022-09-22,84137
+SuperDataScience,2022-09-22,84136
+SuperDataScience,2022-09-29,84357
+SuperDataScience,2022-10-03,84530
+SuperDataScience,2022-10-09,84752
+SuperDataScience,2022-10-12,84877
+SuperDataScience,2022-10-12,84874
+SuperDataScience,2022-10-16,85005
+SuperDataScience,2022-10-22,85258
+SuperDataScience,2022-10-28,85490
+SuperDataScience,2022-11-03,85698
+SuperDataScience,2022-11-06,85841
+SuperDataScience,2022-11-14,86259
+SuperDataScience,2022-11-20,86530
+SuperDataScience,2022-11-24,86658
+SuperDataScience,2022-12-01,86976
+SuperDataScience,2022-12-08,87324
+SuperDataScience,2022-12-14,87581
+SuperDataScience,2022-12-27,88095
+SuperDataScience,2023-01-01,88337
+SuperDataScience,2023-01-05,88515
+SuperDataScience,2023-01-09,88693
+SuperDataScience,2023-01-22,89347
+SuperDataScience,2023-01-28,89675
+SuperDataScience,2023-01-29,89707
+SuperDataScience,2023-02-04,89978
+SuperDataScience,2023-02-04,89977
+SuperDataScience,2023-02-10,90213
+SuperDataScience,2023-02-13,90329
+SuperDataScience,2023-02-24,90774
+SuperDataScience,2023-02-25,90805
+SuperDataScience,2023-03-10,91459
+SuperDataScience,2023-03-14,91691
+SuperDataScience,2023-03-18,91911
+SuperDataScience,2023-03-21,92081
+SuperDataScience,2023-03-21,92080
+SuperDataScience,2023-03-25,92255
+SuperDataScience,2023-04-01,92493
+SuperDataScience,2023-04-10,92771
+SuperDataScience,2023-04-13,92852
+SuperDataScience,2023-04-21,93038
+SuperDataScience,2023-04-29,93295
+SuperDataScience,2023-05-12,93654
+SuperDataScience,2023-05-19,93904
+SuperDataScience,2023-05-19,93903
+SuperDataScience,2023-05-29,94273
+SuperDataScience,2023-05-29,94272
+SuperDataScience,2023-06-05,94549
+SuperDataScience,2023-06-11,94666
+SuperDataScience,2023-06-14,94694
+SuperDataScience,2023-06-17,94732
+SuperDataScience,2023-06-23,94863
+SuperDataScience,2023-06-27,94945
+SuperDataScience,2023-07-06,95019
+SuperDataScience,2023-07-23,95078
+SuperDataScience,2023-08-02,95131
+SuperDataScience,2023-08-08,95165
+SuperDataScience,2023-08-10,95185
+SuperDataScience,2023-08-29,95326
+SuperDataScience,2023-09-15,95422
+SuperDataScience,2023-10-18,95635
+SuperDataScience,2023-10-18,95422
+SuperDataScience,2023-12-16,92965
+SuperDataScience,2023-12-17,92965
+SuperDataScience,2023-12-18,92994
+SuperDataScience,2023-12-18,92993
+SuperDataScience,2024-01-22,93085
+SuperDataScience,2024-04-09,93251
+SuperDataScience,2024-04-10,93259
+SuperDataScience,2024-04-17,93264
+SuperDataScience,2024-04-19,93268
+SuperDataScience,2024-04-28,93262
+SuperDataScience,2024-05-03,93327
+SuperDataScience,2024-05-19,93418
+SuperDataScience,2024-05-28,93457
+SuperDataScience,2024-06-08,93489
+SuperDataScience,2024-06-24,93516
+SuperDataScience,2024-06-28,93534
+SuperDataScience,2024-07-17,93599
+SuperDataScience,2024-07-20,93577
+SuperDataScience,2024-07-23,93581
+SuperDataScience,2024-08-02,93571
+SuperDataScience,2024-08-06,93563
+SuperDataScience,2024-08-09,93572
+SuperDataScience,2024-08-09,93571
+SuperDataScience,2024-08-20,93625
+SuperDataScience,2024-09-02,93615
+SuperDataScience,2024-09-07,93632
+SuperDataScience,2024-09-10,93624
+SuperDataScience,2024-09-16,93640
+SuperDataScience,2024-09-17,93648
+SuperDataScience,2024-09-24,93677
+SuperDataScience,2024-10-02,93710
+SuperDataScience,2024-10-02,93709
+SuperDataScience,2024-11-15,93755
+SuperDataScience,2024-11-24,93778
+SuperDataScience,2024-11-26,93790
+SuperDataScience,2024-12-07,93773
+SuperDataScience,2025-01-08,93818
+SuperDataScience,2025-01-09,93820
+SuperDataScience,2025-01-18,93906
+SuperDataScience,2025-01-18,93905
+SuperDataScience,2025-01-27,93929
+SuperDataScience,2025-01-28,93927
+SuperDataScience,2025-02-04,93930
+SuperDataScience,2025-02-20,93959
+SuperDataScience,2025-02-21,93960
+SuperDataScience,2025-02-28,93959
+SuperDataScience,2025-03-03,93946
+SuperDataScience,2025-03-03,93945
+SuperDataScience,2025-03-09,93960
+SuperDataScience,2025-03-10,93962
+SuperDataScience,2025-03-15,93955
+SuperDataScience,2025-03-16,93956
+SuperDataScience,2025-04-13,93986
+SuperDataScience,2025-04-13,93989
+SuperDataScience,2025-04-22,93967
+SuperDataScience,2025-04-27,93956
+SuperDataScience,2025-04-28,93953
+SuperDataScience,2025-05-06,93953
+SuperDataScience,2025-05-20,94002
+SuperDataScience,2025-05-25,94002
+SuperDataScience,2025-05-27,94003
+SuperDataScience,2025-06-01,93996
+SuperDataScience,2025-06-07,93959
+SuperDataScience,2025-06-08,93957
+SuperDataScience,2025-06-09,93958
+SuperDataScience,2025-06-10,93969
+SuperDataScience,2025-06-22,93989
+SuperDataScience,2025-07-01,94019
+SuperDataScience,2025-07-04,94019
+SuperDataScience,2025-07-08,94012
+SuperDataScience,2025-07-15,94028
+SuperDataScience,2025-07-15,94030
+SuperDataScience,2025-07-27,94063
+SuperDataScience,2025-08-11,94065
+SuperDataScience,2025-08-15,94075
+SuperDataScience,2025-08-18,94066
+SuperDataScience,2025-08-21,94103
+SuperDataScienceSuperDataScience,2023-12-14,NA
+Susquehanna International Group,2024-09-10,171314
+Susquehanna International Group,2024-09-16,171851
+Susquehanna International Group,2024-09-24,172753
+Susquehanna International Group,2024-10-02,173453
+Susquehanna International Group,2024-11-15,176825
+Susquehanna International Group,2024-11-24,177509
+Susquehanna International Group,2024-11-26,177624
+Susquehanna International Group,2024-12-07,178121
+Susquehanna International Group,2025-01-08,180063
+Susquehanna International Group,2025-01-18,181358
+Susquehanna International Group,2025-01-27,182159
+Susquehanna International Group,2025-02-04,183011
+Susquehanna International Group,2025-02-20,185426
+Susquehanna International Group,2025-02-28,186475
+Susquehanna International Group,2025-03-03,186741
+Susquehanna International Group,2025-03-09,187364
+Susquehanna International Group,2025-03-16,188130
+Susquehanna International Group,2025-04-13,191749
+Susquehanna International Group,2025-04-22,192823
+Susquehanna International Group,2025-04-27,193304
+Susquehanna International Group,2025-04-28,193408
+Susquehanna International Group,2025-05-06,193408
+Susquehanna International Group,2025-05-20,195858
+Susquehanna International Group,2025-05-25,196349
+Susquehanna International Group,2025-05-27,196529
+Susquehanna International Group,2025-06-01,196940
+Susquehanna International Group,2025-06-07,197537
+Susquehanna International Group,2025-06-08,197591
+Susquehanna International Group,2025-06-09,197669
+Susquehanna International Group,2025-06-10,197832
+Susquehanna International Group,2025-06-22,198887
+Susquehanna International Group,2025-07-01,199896
+Susquehanna International Group,2025-07-04,199896
+Susquehanna International Group,2025-07-08,200779
+Susquehanna International Group,2025-07-15,201606
+Susquehanna International Group,2025-07-27,202968
+Susquehanna International Group,2025-08-11,204700
+Susquehanna International Group,2025-08-15,205450
+Susquehanna International Group,2025-08-18,205643
+Susquehanna International Group,2025-08-21,206215
+Susquehanna International Group LLP (SIG),2020-10-20,66997
+Susquehanna International Group LLP (SIG),2020-10-20,66986
+Susquehanna International Group LLP (SIG),2020-10-21,67059
+Susquehanna International Group LLP (SIG),2020-10-23,67193
+Susquehanna International Group LLP (SIG),2020-10-25,67335
+Susquehanna International Group LLP (SIG),2020-10-25,67293
+Susquehanna International Group LLP (SIG),2020-10-28,67468
+Susquehanna International Group LLP (SIG),2020-10-30,67698
+Susquehanna International Group LLP (SIG),2020-11-03,67874
+Susquehanna International Group LLP (SIG),2020-11-06,68083
+Susquehanna International Group LLP (SIG),2020-11-10,68332
+Susquehanna International Group LLP (SIG),2020-11-14,68658
+Susquehanna International Group LLP (SIG),2020-11-18,68900
+Susquehanna International Group LLP (SIG),2020-11-23,69161
+Susquehanna International Group LLP (SIG),2020-11-28,69429
+Susquehanna International Group LLP (SIG),2020-12-03,69730
+Susquehanna International Group LLP (SIG),2020-12-05,69820
+Susquehanna International Group LLP (SIG),2020-12-12,70074
+Susquehanna International Group LLP (SIG),2020-12-15,70182
+Susquehanna International Group LLP (SIG),2020-12-20,70593
+Susquehanna International Group LLP (SIG),2020-12-25,70817
+Susquehanna International Group LLP (SIG),2020-12-29,71006
+Susquehanna International Group LLP (SIG),2021-01-03,71179
+Susquehanna International Group LLP (SIG),2021-01-06,71384
+Susquehanna International Group LLP (SIG),2021-01-11,71608
+Susquehanna International Group LLP (SIG),2021-01-15,71774
+Susquehanna International Group LLP (SIG),2021-01-19,71920
+Susquehanna International Group LLP (SIG),2021-01-25,72224
+Susquehanna International Group LLP (SIG),2021-01-30,72485
+Susquehanna International Group LLP (SIG),2021-01-31,72514
+Susquehanna International Group LLP (SIG),2021-02-03,72684
+Susquehanna International Group LLP (SIG),2021-02-07,72876
+Susquehanna International Group LLP (SIG),2021-02-12,73071
+Susquehanna International Group LLP (SIG),2021-02-17,73257
+Susquehanna International Group LLP (SIG),2021-02-21,73472
+Susquehanna International Group LLP (SIG),2021-02-25,73672
+Susquehanna International Group LLP (SIG),2021-03-01,73816
+Susquehanna International Group LLP (SIG),2021-03-06,74164
+Susquehanna International Group LLP (SIG),2021-03-10,74377
+Susquehanna International Group LLP (SIG),2021-03-16,74641
+Susquehanna International Group LLP (SIG),2021-03-20,74942
+Susquehanna International Group LLP (SIG),2021-03-24,75157
+Susquehanna International Group LLP (SIG),2021-03-30,75489
+Susquehanna International Group LLP (SIG),2021-04-06,75819
+Susquehanna International Group LLP (SIG),2021-04-10,76125
+Susquehanna International Group LLP (SIG),2021-04-15,76362
+Susquehanna International Group LLP (SIG),2021-04-20,76726
+Susquehanna International Group LLP (SIG),2021-04-24,76901
+Susquehanna International Group LLP (SIG),2021-04-28,77060
+Susquehanna International Group LLP (SIG),2021-05-03,77403
+Susquehanna International Group LLP (SIG),2021-05-07,77667
+Susquehanna International Group LLP (SIG),2021-05-10,77804
+Susquehanna International Group LLP (SIG),2021-05-14,78080
+Susquehanna International Group LLP (SIG),2021-05-21,78382
+Susquehanna International Group LLP (SIG),2021-05-26,78602
+Susquehanna International Group LLP (SIG),2021-06-02,79030
+Susquehanna International Group LLP (SIG),2021-06-09,79304
+Susquehanna International Group LLP (SIG),2021-06-16,79640
+Susquehanna International Group LLP (SIG),2021-06-21,79768
+Susquehanna International Group LLP (SIG),2021-06-29,80167
+Susquehanna International Group LLP (SIG),2021-07-02,80356
+Susquehanna International Group LLP (SIG),2021-07-04,80398
+Susquehanna International Group LLP (SIG),2021-07-09,80593
+Susquehanna International Group LLP (SIG),2021-07-14,80822
+Susquehanna International Group LLP (SIG),2021-07-18,80945
+Susquehanna International Group LLP (SIG),2021-07-22,81128
+Susquehanna International Group LLP (SIG),2021-08-14,81768
+Susquehanna International Group LLP (SIG),2021-08-26,82150
+Susquehanna International Group LLP (SIG),2021-09-02,82391
+Susquehanna International Group LLP (SIG),2021-09-16,82887
+Susquehanna International Group LLP (SIG),2021-10-17,83926
+Susquehanna International Group LLP (SIG),2021-10-29,84502
+Susquehanna International Group LLP (SIG),2021-11-06,84855
+Susquehanna International Group LLP (SIG),2021-11-20,85478
+Susquehanna International Group LLP (SIG),2021-12-07,86057
+Susquehanna International Group LLP (SIG),2021-12-14,86275
+Susquehanna International Group LLP (SIG),2021-12-20,86481
+Susquehanna International Group LLP (SIG),2021-12-26,86645
+Susquehanna International Group LLP (SIG),2021-12-30,86740
+Susquehanna International Group LLP (SIG),2021-12-31,86773
+Susquehanna International Group LLP (SIG),2022-01-03,86835
+Susquehanna International Group LLP (SIG),2022-01-04,86870
+Susquehanna International Group LLP (SIG),2022-01-06,86928
+Susquehanna International Group LLP (SIG),2022-01-07,86987
+Susquehanna International Group LLP (SIG),2022-01-10,87055
+Susquehanna International Group LLP (SIG),2022-01-14,87236
+Susquehanna International Group LLP (SIG),2022-01-18,87390
+Susquehanna International Group LLP (SIG),2022-01-27,87679
+Susquehanna International Group LLP (SIG),2022-02-01,87927
+Susquehanna International Group LLP (SIG),2022-02-07,88088
+Susquehanna International Group LLP (SIG),2022-02-10,88232
+Susquehanna International Group LLP (SIG),2022-02-12,88293
+Susquehanna International Group LLP (SIG),2022-02-16,88419
+Susquehanna International Group LLP (SIG),2022-02-23,88731
+Susquehanna International Group LLP (SIG),2022-02-26,88811
+Susquehanna International Group LLP (SIG),2022-03-03,88976
+Susquehanna International Group LLP (SIG),2022-03-07,89109
+Susquehanna International Group LLP (SIG),2022-03-15,89452
+Susquehanna International Group LLP (SIG),2022-03-20,89657
+Susquehanna International Group LLP (SIG),2022-03-29,90067
+Susquehanna International Group LLP (SIG),2022-04-09,90638
+Susquehanna International Group LLP (SIG),2022-04-11,90702
+Susquehanna International Group LLP (SIG),2022-04-19,91091
+Susquehanna International Group LLP (SIG),2022-04-25,91354
+Susquehanna International Group LLP (SIG),2022-04-29,91555
+Susquehanna International Group LLP (SIG),2022-05-05,91742
+Susquehanna International Group LLP (SIG),2022-05-12,92047
+Susquehanna International Group LLP (SIG),2022-05-22,92375
+Susquehanna International Group LLP (SIG),2022-05-23,92402
+Susquehanna International Group LLP (SIG),2022-05-25,92509
+Susquehanna International Group LLP (SIG),2022-05-30,92744
+Susquehanna International Group LLP (SIG),2022-06-01,92796
+Susquehanna International Group LLP (SIG),2022-06-03,92877
+Susquehanna International Group LLP (SIG),2022-06-11,93210
+Susquehanna International Group LLP (SIG),2022-06-13,93260
+Susquehanna International Group LLP (SIG),2022-06-15,93339
+Susquehanna International Group LLP (SIG),2022-06-20,93541
+Susquehanna International Group LLP (SIG),2022-06-22,93696
+Susquehanna International Group LLP (SIG),2022-06-26,93857
+Susquehanna International Group LLP (SIG),2022-06-28,93970
+Susquehanna International Group LLP (SIG),2022-06-30,94055
+Susquehanna International Group LLP (SIG),2022-07-01,94139
+Susquehanna International Group LLP (SIG),2022-07-02,94157
+Susquehanna International Group LLP (SIG),2022-07-04,94254
+Susquehanna International Group LLP (SIG),2022-07-05,94321
+Susquehanna International Group LLP (SIG),2022-07-09,94515
+Susquehanna International Group LLP (SIG),2022-07-12,94648
+Susquehanna International Group LLP (SIG),2022-07-18,94863
+Susquehanna International Group LLP (SIG),2022-07-21,95134
+Susquehanna International Group LLP (SIG),2022-07-23,95291
+Susquehanna International Group LLP (SIG),2022-07-25,95427
+Susquehanna International Group LLP (SIG),2022-08-01,95906
+Susquehanna International Group LLP (SIG),2022-08-08,96390
+Susquehanna International Group LLP (SIG),2022-08-16,96826
+Susquehanna International Group LLP (SIG),2022-08-20,97155
+Susquehanna International Group LLP (SIG),2022-08-25,97493
+Susquehanna International Group LLP (SIG),2022-08-28,97661
+Susquehanna International Group LLP (SIG),2022-09-01,98125
+Susquehanna International Group LLP (SIG),2022-09-07,98538
+Susquehanna International Group LLP (SIG),2022-09-10,98781
+Susquehanna International Group LLP (SIG),2022-09-16,99279
+Susquehanna International Group LLP (SIG),2022-09-22,99759
+Susquehanna International Group LLP (SIG),2022-09-29,100335
+Susquehanna International Group LLP (SIG),2022-10-03,100633
+Susquehanna International Group LLP (SIG),2022-10-09,101163
+Susquehanna International Group LLP (SIG),2022-10-12,101422
+Susquehanna International Group LLP (SIG),2022-10-16,101640
+Susquehanna International Group LLP (SIG),2022-10-22,102069
+Susquehanna International Group LLP (SIG),2022-10-28,102473
+Susquehanna International Group LLP (SIG),2022-11-03,102874
+Susquehanna International Group LLP (SIG),2022-11-06,103051
+Susquehanna International Group LLP (SIG),2022-11-14,103735
+Susquehanna International Group LLP (SIG),2022-11-20,104240
+Susquehanna International Group LLP (SIG),2022-11-24,104510
+Susquehanna International Group LLP (SIG),2022-12-01,105053
+Susquehanna International Group LLP (SIG),2022-12-08,105461
+Susquehanna International Group LLP (SIG),2022-12-14,105859
+Susquehanna International Group LLP (SIG),2022-12-27,106621
+Susquehanna International Group LLP (SIG),2023-01-01,106884
+Susquehanna International Group LLP (SIG),2023-01-05,107188
+Susquehanna International Group LLP (SIG),2023-01-09,107507
+Susquehanna International Group LLP (SIG),2023-01-22,108423
+Susquehanna International Group LLP (SIG),2023-01-28,108985
+Susquehanna International Group LLP (SIG),2023-02-04,109496
+Susquehanna International Group LLP (SIG),2023-02-10,110046
+Susquehanna International Group LLP (SIG),2023-02-13,110350
+Susquehanna International Group LLP (SIG),2023-02-24,111521
+Susquehanna International Group LLP (SIG),2023-03-10,112932
+Susquehanna International Group LLP (SIG),2023-03-14,113217
+Susquehanna International Group LLP (SIG),2023-03-18,113617
+Susquehanna International Group LLP (SIG),2023-03-21,113864
+Susquehanna International Group LLP (SIG),2023-03-25,114226
+Susquehanna International Group LLP (SIG),2023-04-01,114902
+Susquehanna International Group LLP (SIG),2023-04-10,115573
+Susquehanna International Group LLP (SIG),2023-04-13,115944
+Susquehanna International Group LLP (SIG),2023-04-21,116662
+Susquehanna International Group LLP (SIG),2023-04-29,117348
+Susquehanna International Group LLP (SIG),2023-05-12,118346
+Susquehanna International Group LLP (SIG),2023-05-19,119011
+Susquehanna International Group LLP (SIG),2023-05-29,119795
+Susquehanna International Group LLP (SIG),2023-06-05,120363
+Susquehanna International Group LLP (SIG),2023-06-11,120955
+Susquehanna International Group LLP (SIG),2023-06-14,121265
+Susquehanna International Group LLP (SIG),2023-06-17,121483
+Susquehanna International Group LLP (SIG),2023-06-23,121954
+Susquehanna International Group LLP (SIG),2023-06-27,122316
+Susquehanna International Group LLP (SIG),2023-07-06,123119
+Susquehanna International Group LLP (SIG),2023-07-23,124532
+Susquehanna International Group LLP (SIG),2023-08-02,125721
+Susquehanna International Group LLP (SIG),2023-08-08,126226
+Susquehanna International Group LLP (SIG),2023-08-10,126491
+Susquehanna International Group LLP (SIG),2023-08-29,128297
+Susquehanna International Group LLP (SIG),2023-09-15,130895
+Susquehanna International Group LLP (SIG),2023-10-18,135803
+Susquehanna International Group LLP (SIG),2023-12-14,139825
+Susquehanna International Group LLP (SIG),2023-12-16,140076
+Susquehanna International Group LLP (SIG),2023-12-18,140206
+Susquehanna International Group LLP (SIG),2024-01-22,144557
+Susquehanna International Group LLP (SIG),2024-04-08,156036
+Susquehanna International Group LLP (SIG),2024-04-09,156213
+Susquehanna International Group LLP (SIG),2024-04-17,156998
+Susquehanna International Group LLP (SIG),2024-04-19,157179
+Susquehanna International Group LLP (SIG),2024-04-28,157902
+Susquehanna International Group LLP (SIG),2024-05-03,158342
+Susquehanna International Group LLP (SIG),2024-05-19,159190
+Susquehanna International Group LLP (SIG),2024-05-28,159829
+Susquehanna International Group LLP (SIG),2024-06-08,160836
+Susquehanna International Group LLP (SIG),2024-06-24,162816
+Susquehanna International Group LLP (SIG),2024-06-28,163329
+Susquehanna International Group LLP (SIG),2024-07-17,165565
+Susquehanna International Group LLP (SIG),2024-07-20,166003
+Susquehanna International Group LLP (SIG),2024-07-23,166328
+Susquehanna International Group LLP (SIG),2024-08-02,167451
+Susquehanna International Group LLP (SIG),2024-08-06,167724
+Susquehanna International Group LLP (SIG),2024-08-09,168231
+Susquehanna International Group LLP (SIG),2024-08-20,169337
+Susquehanna International Group LLP (SIG),2024-09-02,170485
+Susquehanna International Group LLP (SIG),2024-09-07,170951
+SustainOSS,2023-01-25,188
+SustainOSS,2024-05-03,435
+SustainOSS,2024-05-19,450
+SustainOSS,2024-06-08,487
+SustainOSS,2024-06-24,490
+SustainOSS,2024-06-28,490
+SustainOSS,2024-07-17,500
+SustainOSS,2024-07-20,501
+SustainOSS,2024-07-23,501
+SustainOSS,2024-08-02,509
+SustainOSS,2024-08-06,511
+SustainOSS,2024-08-09,513
+SustainOSS,2024-08-20,517
+SustainOSS,2024-09-02,524
+SustainOSS,2024-09-07,525
+SustainOSS,2024-09-10,531
+SustainOSS,2024-09-16,534
+SustainOSS,2024-09-24,545
+SustainOSS,2024-10-02,552
+SustainOSS,2024-11-15,571
+SustainOSS,2024-11-24,576
+SustainOSS,2024-11-26,577
+SustainOSS,2024-12-07,581
+SustainOSS,2025-01-08,593
+SustainOSS,2025-01-18,596
+SustainOSS,2025-01-27,608
+SustainOSS,2025-02-04,609
+SustainOSS,2025-02-20,612
+SustainOSS,2025-02-28,615
+SustainOSS,2025-03-03,615
+SustainOSS,2025-03-09,615
+SustainOSS,2025-03-16,618
+SustainOSS,2025-04-13,633
+SustainOSS,2025-04-22,636
+SustainOSS,2025-04-27,640
+SustainOSS,2025-04-28,640
+SustainOSS,2025-05-06,640
+SustainOSS,2025-05-20,651
+SustainOSS,2025-05-25,651
+SustainOSS,2025-05-27,651
+SustainOSS,2025-06-01,652
+SustainOSS,2025-06-07,658
+SustainOSS,2025-06-08,659
+SustainOSS,2025-06-09,659
+SustainOSS,2025-06-10,659
+SustainOSS,2025-06-22,667
+SustainOSS,2025-07-01,668
+SustainOSS,2025-07-04,668
+SustainOSS,2025-07-08,671
+SustainOSS,2025-07-15,671
+SustainOSS,2025-07-27,674
+SustainOSS,2025-08-11,679
+SustainOSS,2025-08-15,679
+SustainOSS,2025-08-18,678
+SustainOSS,2025-08-21,679
+Sustainable Development Solutions Network,2021-07-14,30571
+Sustainable Development Solutions Network,2021-07-18,30688
+Sustainable Development Solutions Network,2021-07-22,30831
+Sustainable Development Solutions Network,2021-08-14,31546
+Sustainable Development Solutions Network,2021-08-26,31873
+Sustainable Development Solutions Network,2021-09-02,32041
+Sustainable Development Solutions Network,2021-09-16,32409
+Sustainable Development Solutions Network,2021-10-17,33514
+Sustainable Development Solutions Network,2021-10-29,33880
+Sustainable Development Solutions Network,2021-11-06,34115
+Sustainable Development Solutions Network,2021-11-20,34713
+Sustainable Development Solutions Network,2021-12-07,35257
+Sustainable Development Solutions Network,2021-12-14,35717
+Sustainable Development Solutions Network,2021-12-20,36151
+Sustainable Development Solutions Network,2021-12-26,36401
+Sustainable Development Solutions Network,2021-12-30,36591
+Sustainable Development Solutions Network,2021-12-31,36647
+Sustainable Development Solutions Network,2022-01-03,36715
+Sustainable Development Solutions Network,2022-01-04,36791
+Sustainable Development Solutions Network,2022-01-06,36867
+Sustainable Development Solutions Network,2022-01-07,36956
+Sustainable Development Solutions Network,2022-01-10,37072
+Sustainable Development Solutions Network,2022-01-14,37251
+Sustainable Development Solutions Network,2022-01-18,37426
+Sustainable Development Solutions Network,2022-01-27,37780
+Sustainable Development Solutions Network,2022-02-01,37997
+Sustainable Development Solutions Network,2022-02-07,38270
+Sustainable Development Solutions Network,2022-02-12,38573
+Sustainable Development Solutions Network,2022-02-16,38840
+Sustainable Development Solutions Network,2022-02-20,39025
+Sustainable Development Solutions Network,2022-02-23,39184
+Sustainable Development Solutions Network,2022-02-26,39462
+Sustainable Development Solutions Network,2022-03-03,39851
+Sustainable Development Solutions Network,2022-03-07,40064
+Sustainable Development Solutions Network,2022-03-15,40346
+Sustainable Development Solutions Network,2022-03-31,40929
+Sustainable Development Solutions Network,2022-04-09,41187
+Sustainable Development Solutions Network,2022-04-13,41291
+Sustainable Development Solutions Network,2022-04-19,41535
+Sustainable Development Solutions Network,2022-04-29,41920
+Sustainable Development Solutions Network,2022-05-05,42153
+Sustainable Development Solutions Network,2022-05-12,42511
+Sustainable Development Solutions Network,2022-05-22,43034
+Sustainable Development Solutions Network,2022-05-23,43096
+Sustainable Development Solutions Network,2022-05-27,43265
+Sustainable Development Solutions Network,2022-05-30,43352
+Sustainable Development Solutions Network,2022-06-01,43426
+Sustainable Development Solutions Network,2022-06-03,43667
+Sustainable Development Solutions Network,2022-06-07,43926
+Sustainable Development Solutions Network,2022-06-08,43926
+Sustainable Development Solutions Network,2022-06-13,44373
+Sustainable Development Solutions Network,2022-06-15,44561
+Sustainable Development Solutions Network,2022-06-16,44629
+Sustainable Development Solutions Network,2022-06-22,44850
+Sustainable Development Solutions Network,2022-06-23,44878
+Sustainable Development Solutions Network,2022-06-26,44969
+Sustainable Development Solutions Network,2022-06-28,45040
+Sustainable Development Solutions Network,2022-06-30,45114
+Sustainable Development Solutions Network,2022-07-01,45174
+Sustainable Development Solutions Network,2022-07-02,45186
+Sustainable Development Solutions Network,2022-07-04,45260
+Sustainable Development Solutions Network,2022-07-05,45303
+Sustainable Development Solutions Network,2022-07-09,45452
+Sustainable Development Solutions Network,2022-07-12,45579
+Sustainable Development Solutions Network,2022-07-18,45785
+Sustainable Development Solutions Network,2022-07-21,45924
+Sustainable Development Solutions Network,2022-07-23,46026
+Sustainable Development Solutions Network,2022-07-25,46112
+Sustainable Development Solutions Network,2022-08-01,46395
+Sustainable Development Solutions Network,2022-08-08,46684
+Sustainable Development Solutions Network,2022-08-16,47004
+Sustainable Development Solutions Network,2022-08-20,47205
+Sustainable Development Solutions Network,2022-08-25,47384
+Sustainable Development Solutions Network,2022-08-28,47478
+Sustainable Development Solutions Network,2022-09-01,47635
+Sustainable Development Solutions Network,2022-09-07,47812
+Sustainable Development Solutions Network,2022-09-10,47952
+Sustainable Development Solutions Network,2022-09-16,48331
+Sustainable Development Solutions Network,2022-09-22,48629
+Sustainable Development Solutions Network,2022-09-29,48906
+Sustainable Development Solutions Network,2022-10-03,49057
+Sustainable Development Solutions Network,2022-10-09,49280
+Sustainable Development Solutions Network,2022-10-12,49411
+Sustainable Development Solutions Network,2022-10-16,49524
+Sustainable Development Solutions Network,2022-10-22,49721
+Sustainable Development Solutions Network,2022-10-28,49939
+Sustainable Development Solutions Network,2022-11-03,50185
+Sustainable Development Solutions Network,2022-11-06,50288
+Sustainable Development Solutions Network,2022-11-14,50594
+Sustainable Development Solutions Network,2022-11-20,50842
+Sustainable Development Solutions Network,2022-11-24,50954
+Sustainable Development Solutions Network,2022-12-01,51287
+Sustainable Development Solutions Network,2022-12-08,51578
+Sustainable Development Solutions Network,2022-12-14,51806
+Sustainable Development Solutions Network,2022-12-27,52183
+Sustainable Development Solutions Network,2023-01-01,52338
+Sustainable Development Solutions Network,2023-01-05,52493
+Sustainable Development Solutions Network,2023-01-09,52755
+Sustainable Development Solutions Network,2023-01-22,53361
+Sustainable Development Solutions Network,2023-01-28,53753
+Sustainable Development Solutions Network,2023-02-04,54076
+Sustainable Development Solutions Network,2023-02-10,54352
+Sustainable Development Solutions Network,2023-02-13,54462
+Sustainable Development Solutions Network,2023-02-24,54952
+Sustainable Development Solutions Network,2023-03-10,55538
+Sustainable Development Solutions Network,2023-03-14,55788
+Sustainable Development Solutions Network,2023-03-18,55953
+Sustainable Development Solutions Network,2023-03-21,56041
+Sustainable Development Solutions Network,2023-03-25,56187
+Sustainable Development Solutions Network,2023-04-01,56437
+Sustainable Development Solutions Network,2023-04-10,56811
+Sustainable Development Solutions Network,2023-04-13,56962
+Sustainable Development Solutions Network,2023-04-21,57230
+Sustainable Development Solutions Network,2023-04-29,57562
+Sustainable Development Solutions Network,2023-05-12,57981
+Sustainable Development Solutions Network,2023-05-19,58165
+Sustainable Development Solutions Network,2023-05-29,58377
+Sustainable Development Solutions Network,2023-06-05,58624
+Sustainable Development Solutions Network,2023-06-11,58804
+Sustainable Development Solutions Network,2023-06-14,58883
+Sustainable Development Solutions Network,2023-06-17,58954
+Sustainable Development Solutions Network,2023-06-23,59539
+Sustainable Development Solutions Network,2023-06-27,59822
+Sustainable Development Solutions Network,2023-07-06,60219
+Sustainable Development Solutions Network,2023-07-23,60742
+Sustainable Development Solutions Network,2023-08-02,61284
+Sustainable Development Solutions Network,2023-08-08,61433
+Sustainable Development Solutions Network,2023-08-10,61524
+Sustainable Development Solutions Network,2023-08-29,62209
+Sustainable Development Solutions Network,2023-09-15,62863
+Sustainable Development Solutions Network,2023-10-18,64106
+Sustainable Development Solutions Network,2023-12-16,64174
+Sustainable Development Solutions Network,2023-12-18,64203
+Sustainable Development Solutions Network,2024-01-22,65085
+Sustainable Development Solutions Network,2024-04-08,67944
+Sustainable Development Solutions Network,2024-04-09,67973
+Sustainable Development Solutions Network,2024-04-17,68131
+Sustainable Development Solutions Network,2024-04-19,68181
+Sustainable Development Solutions Network,2024-04-28,68308
+Sustainable Development Solutions Network,2024-05-03,68416
+Sustainable Development Solutions Network,2024-05-19,68740
+Sustainable Development Solutions Network,2024-06-08,69101
+Sustainable Development Solutions Network,2024-06-24,70734
+Sustainable Development Solutions Network,2024-06-28,70877
+Sustainable Development Solutions Network,2024-07-17,71410
+Sustainable Development Solutions Network,2024-07-20,71498
+Sustainable Development Solutions Network,2024-07-23,71569
+Sustainable Development Solutions Network,2024-08-02,71744
+Sustainable Development Solutions Network,2024-08-06,71779
+Sustainable Development Solutions Network,2024-08-09,71829
+Sustainable Development Solutions Network,2024-08-20,72026
+Sustainable Development Solutions Network,2024-09-02,72200
+Sustainable Development Solutions Network,2024-09-07,72303
+Sustainable Development Solutions Network,2024-09-10,72358
+Sustainable Development Solutions Network,2024-09-16,72479
+Sustainable Development Solutions Network,2024-09-24,72900
+Sustainable Development Solutions Network,2024-10-02,73042
+Sustainable Development Solutions Network,2024-11-15,74486
+Sustainable Development Solutions Network,2024-11-24,74811
+Sustainable Development Solutions Network,2024-11-26,74892
+Sustainable Development Solutions Network,2024-12-07,75080
+Sustainable Development Solutions Network,2025-01-08,75653
+Sustainable Development Solutions Network,2025-01-18,76081
+Sustainable Development Solutions Network,2025-01-27,76290
+Sustainable Development Solutions Network,2025-02-04,76717
+Sustainable Development Solutions Network,2025-02-20,77107
+Sustainable Development Solutions Network,2025-02-28,77309
+Sustainable Development Solutions Network,2025-03-03,77400
+Sustainable Development Solutions Network,2025-03-09,77524
+Sustainable Development Solutions Network,2025-03-16,77747
+Sustainable Development Solutions Network,2025-03-16,77746
+Sustainable Development Solutions Network,2025-04-13,78461
+Sustainable Development Solutions Network,2025-04-22,78654
+Sustainable Development Solutions Network,2025-04-27,78801
+Sustainable Development Solutions Network,2025-04-28,78813
+Sustainable Development Solutions Network,2025-05-06,78813
+Sustainable Development Solutions Network,2025-05-20,79235
+Sustainable Development Solutions Network,2025-05-25,79345
+Sustainable Development Solutions Network,2025-05-27,79387
+Sustainable Development Solutions Network,2025-06-01,79505
+Sustainable Development Solutions Network,2025-06-07,79628
+Sustainable Development Solutions Network,2025-06-08,79647
+Sustainable Development Solutions Network,2025-06-09,79667
+Sustainable Development Solutions Network,2025-06-10,79698
+Sustainable Development Solutions Network,2025-06-22,79974
+Sustainable Development Solutions Network,2025-07-01,80568
+Sustainable Development Solutions Network,2025-07-04,80568
+Sustainable Development Solutions Network,2025-07-08,81028
+Sustainable Development Solutions Network,2025-07-15,81254
+Sustainable Development Solutions Network,2025-07-27,81549
+Sustainable Development Solutions Network,2025-08-11,81729
+Sustainable Development Solutions Network,2025-08-15,81832
+Sustainable Development Solutions Network,2025-08-18,81884
+Sustainable Development Solutions Network,2025-08-21,81997
+Sustainalytics,2023-01-28,114260
+Swappsi software,2024-06-24,2017
+Sweden Water Research,2023-01-28,2449
+Swift Developer,2020-10-16,683
+Swift Developer,2020-10-20,690
+Swift Developer,2020-10-21,692
+Swift Developer,2020-10-28,702
+Swift Developer,2020-10-31,706
+Swift Developer,2020-11-02,709
+Swift Developer,2020-11-07,711
+Swift Developer,2020-11-12,716
+Swift Developer,2020-11-21,721
+Swift Developer,2020-11-30,730
+Swift Developer,2020-12-08,739
+Swift Developer,2020-12-15,747
+Swift Developer,2020-12-27,768
+Swiss Agency for Development and Cooperation,2023-01-28,28777
+Swiss Alliance for Data-Intensive Services,2020-10-16,523
+Swiss Alliance for Data-Intensive Services,2020-10-21,526
+Swiss Alliance for Data-Intensive Services,2020-10-22,528
+Swiss Alliance for Data-Intensive Services,2020-11-02,538
+Swiss Alliance for Data-Intensive Services,2020-11-07,544
+Swiss Alliance for Data-Intensive Services,2020-11-21,551
+Swiss Alliance for Data-Intensive Services,2020-12-15,578
+Swiss Biobanking Platform,2021-02-19,359
+Swiss Biobanking Platform,2021-03-26,380
+Swiss Conference on Data Science (SDS),2020-10-16,376
+Swiss Conference on Data Science - SDS,2020-10-21,377
+Swiss Conference on Data Science SDS,2020-10-18,376
+Swiss Conference on Data Science | SDS,2020-10-22,377
+Swiss Conference on Data Science | SDS,2020-11-02,380
+Swiss Conference on Data Science | SDS,2020-11-07,386
+Swiss Conference on Data Science | SDS,2020-11-21,387
+Swiss Conference on Data Science | SDS,2020-12-15,390
+Swiss Data Science Center,2023-01-25,5102
+Swiss Federal Statistical Office FSO,2023-01-25,7879
+Swiss Philanthropy Foundation,2021-04-20,2970
+Swiss Philanthropy Foundation,2021-04-24,2989
+Swiss Philanthropy Foundation,2021-04-28,3001
+Swiss Philanthropy Foundation,2021-05-07,3030
+Swiss Philanthropy Foundation,2021-05-10,3033
+Swiss Philanthropy Foundation,2021-05-14,3041
+Swiss Philanthropy Foundation,2021-05-21,3050
+Swiss Philanthropy Foundation,2021-05-26,3060
+Swiss Philanthropy Foundation,2021-05-31,3068
+Swiss Philanthropy Foundation,2021-06-06,3081
+Swiss Philanthropy Foundation,2021-06-09,3084
+Swiss Philanthropy Foundation,2021-06-16,3093
+Swiss Philanthropy Foundation,2021-06-21,3097
+Swiss Philanthropy Foundation,2021-06-29,3107
+Swiss Philanthropy Foundation,2021-07-04,3118
+Swiss Philanthropy Foundation,2021-07-09,3145
+Swiss Philanthropy Foundation,2021-07-14,3161
+Swiss Philanthropy Foundation,2021-07-22,3192
+Swiss Philanthropy Foundation,2021-08-14,3246
+Swiss Philanthropy Foundation,2021-08-26,3266
+Swiss Philanthropy Foundation,2021-09-02,3278
+Swiss Philanthropy Foundation,2021-09-09,3294
+Swiss Philanthropy Foundation,2021-09-16,3320
+Swiss Philanthropy Foundation,2021-10-17,3373
+Swiss Philanthropy Foundation,2021-10-29,3387
+Swiss Philanthropy Foundation,2021-11-20,3423
+Swiss Philanthropy Foundation,2021-12-03,3448
+Swiss Philanthropy Foundation,2021-12-14,3463
+Swiss Philanthropy Foundation,2021-12-20,3478
+Swiss Philanthropy Foundation,2021-12-26,3500
+Swiss Philanthropy Foundation,2021-12-31,3507
+Swiss Philanthropy Foundation,2022-01-12,3515
+Swiss Philanthropy Foundation,2022-02-01,3581
+Swiss Philanthropy Foundation,2022-02-12,3613
+Swiss Philanthropy Foundation,2022-02-20,3637
+Swiss Philanthropy Foundation,2022-02-26,3664
+Swiss Philanthropy Foundation,2022-03-03,3674
+Swiss Philanthropy Foundation,2022-03-15,3710
+Swiss Philanthropy Foundation,2022-03-29,3788
+Swiss Philanthropy Foundation,2022-05-01,3979
+Swiss Philanthropy Foundation,2022-05-05,3664
+Swiss Philanthropy Foundation,2022-05-22,4086
+Swiss Philanthropy Foundation,2022-05-30,4106
+Swiss Philanthropy Foundation,2022-06-07,4150
+Swiss Philanthropy Foundation,2022-06-08,4150
+Swiss Philanthropy Foundation,2022-06-23,4216
+Swiss Philanthropy Foundation,2022-06-30,4238
+Swiss Philanthropy Foundation,2022-07-02,4246
+Swiss Philanthropy Foundation,2022-07-05,4263
+Swiss Philanthropy Foundation,2022-07-13,4297
+Swiss Philanthropy Foundation,2022-07-18,4313
+Swiss Philanthropy Foundation,2022-07-23,4342
+Swiss Philanthropy Foundation,2022-07-25,4364
+Swiss Philanthropy Foundation,2022-08-02,4390
+Swiss Philanthropy Foundation,2022-08-16,4431
+Swiss Philanthropy Foundation,2022-08-20,4477
+Swiss Philanthropy Foundation,2022-08-25,4503
+Swiss Philanthropy Foundation,2022-08-28,4521
+Swiss Philanthropy Foundation,2022-09-07,4597
+Swiss Philanthropy Foundation,2022-09-10,4609
+Swiss Philanthropy Foundation,2022-09-16,4635
+Swiss Philanthropy Foundation,2022-09-22,4655
+Swiss Philanthropy Foundation,2022-09-29,4678
+Swiss Philanthropy Foundation,2022-10-03,4698
+Swiss Philanthropy Foundation,2022-10-09,4727
+Swiss Philanthropy Foundation,2022-10-12,4752
+Swiss Philanthropy Foundation,2022-10-16,4764
+Swiss Philanthropy Foundation,2022-10-22,4800
+Swiss Philanthropy Foundation,2022-10-28,4812
+Swiss Philanthropy Foundation,2022-11-03,4823
+Swiss Philanthropy Foundation,2022-11-06,4833
+Swiss Philanthropy Foundation,2022-11-14,4881
+Swiss Philanthropy Foundation,2022-11-20,4905
+Swiss Philanthropy Foundation,2022-11-24,4918
+Swiss Philanthropy Foundation,2022-12-01,4953
+Swiss Philanthropy Foundation,2022-12-08,4985
+Swiss Philanthropy Foundation,2022-12-14,5015
+Swiss Philanthropy Foundation,2022-12-27,5047
+Swiss Philanthropy Foundation,2023-01-01,5055
+Swiss Philanthropy Foundation,2023-01-05,5062
+Swiss Philanthropy Foundation,2023-01-09,5066
+Swiss Philanthropy Foundation,2023-01-22,5136
+Swiss Philanthropy Foundation,2023-01-29,5166
+Swiss Philanthropy Foundation,2023-02-04,5191
+Swiss Philanthropy Foundation,2023-02-25,5258
+Swiss Philanthropy Foundation,2023-03-18,5346
+Swiss Philanthropy Foundation,2023-03-21,5354
+Swiss Philanthropy Foundation,2023-03-25,5370
+Swiss Philanthropy Foundation,2023-04-10,5418
+Swiss Philanthropy Foundation,2023-04-13,5438
+Swiss Philanthropy Foundation,2023-04-21,5466
+Swiss Philanthropy Foundation,2023-04-29,5522
+Swiss Philanthropy Foundation,2023-05-19,5626
+Swiss Philanthropy Foundation,2023-05-29,5645
+Swiss Philanthropy Foundation,2023-06-05,5675
+Swiss Philanthropy Foundation,2023-06-14,5710
+Swiss Philanthropy Foundation,2023-06-17,5716
+Swiss Philanthropy Foundation,2023-06-27,5751
+Swiss Philanthropy Foundation,2023-07-06,5791
+Swiss Philanthropy Foundation,2023-07-23,5831
+Swiss Philanthropy Foundation,2023-08-08,5898
+Swiss Philanthropy Foundation,2023-08-10,5908
+Swiss Philanthropy Foundation,2023-09-15,6128
+Swiss Philanthropy Foundation,2023-10-18,6128
+Swiss Philanthropy Foundation,2023-12-17,6384
+Swiss Philanthropy Foundation,2023-12-18,6385
+Swiss Philanthropy Foundation,2024-01-22,6487
+Swiss Philanthropy Foundation,2024-04-10,6734
+Swiss Philanthropy Foundation,2024-05-28,7013
+Swiss Philanthropy Foundation,2024-08-02,7191
+Swiss Philanthropy Foundation,2024-08-09,7197
+Swiss Philanthropy Foundation,2024-09-02,7250
+Swiss Philanthropy Foundation,2024-09-17,7309
+Swiss Philanthropy Foundation,2024-09-24,7332
+Swiss Philanthropy Foundation,2024-10-02,7385
+Swiss Philanthropy Foundation,2024-11-15,7534
+Swiss Philanthropy Foundation,2025-01-09,7726
+Swiss Philanthropy Foundation,2025-01-18,7749
+Swiss Philanthropy Foundation,2025-01-28,7783
+Swiss Philanthropy Foundation,2025-02-21,7891
+Swiss Philanthropy Foundation,2025-03-03,7945
+Swiss Philanthropy Foundation,2025-03-10,7964
+Swiss Philanthropy Foundation,2025-03-15,7984
+Swiss Philanthropy Foundation,2025-04-13,8159
+Swiss Philanthropy Foundation,2025-04-22,8196
+Swiss Philanthropy Foundation,2025-05-20,8478
+Swiss Philanthropy Foundation,2025-05-25,8532
+Swiss Philanthropy Foundation,2025-06-07,8641
+Swiss Philanthropy Foundation,2025-06-09,8652
+Swiss Philanthropy Foundation,2025-06-22,8734
+Swiss Philanthropy Foundation,2025-07-15,8842
+Swiss Philanthropy Foundation,2025-07-27,8945
+Swiss Philanthropy Foundation,2025-08-18,9065
+Swiss Philanthropy Foundation,2025-08-21,9096
+SwissAI,2021-01-25,339
+SwissAI,2021-01-28,339
+SwissAI,2021-01-31,339
+SwissAI,2021-02-03,339
+SwissAI,2021-02-07,339
+SwissAI,2021-02-12,339
+SwissAI,2021-02-16,339
+SwissAI,2021-02-21,339
+SwissAI,2021-02-25,340
+SwissAI,2021-03-01,340
+SwissAI,2021-03-06,338
+SwissAI,2021-03-10,338
+SwissAI,2021-03-13,338
+SwissAI,2021-03-20,338
+SwissAI,2021-03-28,338
+SwissAI,2021-03-31,339
+SwissAI,2021-04-06,339
+SwissAI,2021-04-10,339
+SwissAI,2021-04-15,338
+SwissAI,2021-04-20,338
+SwissAI,2021-04-24,339
+SwissAI,2021-04-28,342
+SwissAI,2021-05-07,344
+SwissAI,2021-05-10,344
+SwissAI,2021-05-14,350
+SwissAI,2021-05-21,354
+SwissAI,2021-05-26,355
+SwissAI,2021-05-31,355
+SwissAI,2021-06-06,355
+SwissAI,2021-06-09,355
+SwissAI,2021-06-16,355
+SwissAI,2021-06-21,355
+SwissAI,2021-06-29,354
+SwissAI,2021-07-04,353
+SwissAI,2021-07-09,353
+SwissAI,2021-07-14,354
+SwissAI,2021-07-22,355
+SwissAI,2021-08-14,354
+SwissAI,2021-08-26,354
+SwissAI,2021-09-02,354
+SwissAI,2021-09-09,353
+SwissAI,2021-09-16,353
+SwissAI,2021-10-17,356
+SwissAI,2021-10-29,355
+SwissAI,2021-11-20,354
+SwissAI,2021-12-03,355
+SwissAI,2021-12-14,355
+SwissAI,2021-12-20,355
+SwissAI,2021-12-31,355
+SwissAI,2022-01-12,356
+SwissAI,2022-02-01,357
+SwissAI,2022-02-07,358
+SwissAI,2022-02-16,358
+SwissAI,2022-02-23,359
+SwissAI,2022-02-26,359
+SwissAI,2022-03-03,359
+SwissAI,2022-03-20,358
+SwissAI,2022-03-29,359
+SwissAI,2022-04-11,360
+SwissAI,2022-05-01,364
+SwissAI,2022-05-05,359
+SwissAI,2022-05-27,363
+SwissAI,2022-05-30,363
+SwissAI,2022-06-07,363
+SwissAI,2022-06-08,363
+SwissAI,2022-06-16,363
+SwissAI,2022-06-23,363
+SwissAI,2022-06-30,363
+SwissAI,2022-07-02,363
+SwissAI,2022-07-05,363
+SwissAI,2022-07-13,363
+SwissAI,2022-07-18,365
+SwissAI,2022-07-23,365
+SwissAI,2022-07-25,366
+SwissAI,2022-08-02,366
+SwissAI,2022-08-16,366
+SwissAI,2022-08-20,366
+SwissAI,2022-08-25,365
+SwissAI,2022-08-28,365
+SwissAI,2022-09-07,365
+SwissAI,2022-09-10,365
+SwissAI,2022-09-16,365
+SwissAI,2022-09-22,365
+SwissAI,2022-09-29,365
+SwissAI,2022-10-03,365
+SwissAI,2022-10-09,367
+SwissAI,2022-10-12,367
+SwissAI,2022-10-16,367
+SwissAI,2022-10-22,367
+SwissAI,2022-10-28,367
+SwissAI,2022-11-03,366
+SwissAI,2022-11-06,366
+SwissAI,2022-11-14,366
+SwissAI,2022-11-20,368
+SwissAI,2022-11-24,369
+SwissAI,2022-12-01,369
+SwissAI,2022-12-08,369
+SwissAI,2022-12-14,369
+SwissAI,2022-12-27,369
+SwissAI,2023-01-01,369
+SwissAI,2023-01-05,370
+SwissAI,2023-01-09,370
+SwissAI,2023-01-22,371
+SwissAI,2023-01-29,372
+SwissAI,2023-02-04,372
+SwissAI,2023-02-25,374
+SwissAI,2023-03-18,375
+SwissAI,2023-03-21,375
+SwissAI,2023-03-25,376
+SwissAI,2023-04-10,380
+SwissAI,2023-04-13,380
+SwissAI,2023-04-21,380
+SwissAI,2023-04-29,381
+SwissAI,2023-05-19,383
+SwissAI,2023-05-29,384
+SwissAI,2023-06-05,384
+SwissAI,2023-06-14,385
+SwissAI,2023-06-17,386
+SwissAI,2023-06-27,387
+SwissAI,2023-07-06,389
+SwissAI,2023-07-23,391
+SwissAI,2023-08-08,393
+SwissAI,2023-08-10,393
+SwissAI,2023-09-15,398
+SwissAI,2023-10-18,398
+SwissAI,2023-12-17,407
+SwissAI,2023-12-18,407
+SwissAI,2024-01-22,412
+SwissAI,2024-04-10,418
+SwissAI,2024-05-28,424
+SwissAI,2024-08-02,425
+SwissAI,2024-08-09,425
+SwissAI,2024-09-02,426
+SwissAI,2024-09-17,427
+SwissAI,2024-09-24,428
+SwissAI,2024-10-02,429
+SwissAI,2024-11-15,432
+SwissAI,2025-01-09,433
+SwissAI,2025-01-18,435
+SwissAI,2025-01-28,441
+SwissAI,2025-02-21,444
+SwissAI,2025-03-03,445
+SwissAI,2025-03-10,446
+SwissAI,2025-03-15,448
+SwissAI,2025-04-13,449
+SwissAI,2025-04-22,450
+SwissAI,2025-05-20,453
+SwissAI,2025-05-25,456
+SwissAI,2025-06-07,457
+SwissAI,2025-06-09,457
+SwissAI,2025-06-22,457
+SwissAI,2025-07-15,461
+SwissAI,2025-07-27,460
+SwissAI,2025-08-18,462
+SwissAI,2025-08-21,463
+Swyg,2023-01-25,3493
+Sydney Machine Learning Group,2021-03-28,146
+Sydney Machine Learning Group,2021-03-31,146
+Sydney Machine Learning Group,2021-04-06,146
+Sydney Machine Learning Group,2021-04-10,147
+Sydney Machine Learning Group,2021-04-15,147
+Sydney Machine Learning Group,2021-04-20,147
+Sydney Machine Learning Group,2021-04-24,147
+Sydney Machine Learning Group,2021-04-28,147
+Sydney Machine Learning Group,2021-05-07,148
+Sydney Machine Learning Group,2021-05-10,148
+Sydney Machine Learning Group,2021-05-14,148
+Sydney Machine Learning Group,2021-05-21,148
+Sydney Machine Learning Group,2021-05-26,148
+Sydney Machine Learning Group,2021-05-31,147
+Sydney Machine Learning Group,2021-06-06,148
+Sydney Machine Learning Group,2021-06-09,148
+Sydney Machine Learning Group,2021-06-16,149
+Sydney Machine Learning Group,2021-06-21,149
+Sydney Machine Learning Group,2021-06-29,149
+Sydney Machine Learning Group,2021-07-04,150
+Sydney Machine Learning Group,2021-07-09,150
+Sydney Machine Learning Group,2021-07-14,150
+Sydney Machine Learning Group,2021-07-22,151
+Sydney Machine Learning Group,2021-08-14,153
+Sydney Machine Learning Group,2021-08-26,154
+Sydney Machine Learning Group,2021-09-02,155
+Sydney Machine Learning Group,2021-09-09,155
+Sydney Machine Learning Group,2021-09-16,156
+Sydney Machine Learning Group,2021-10-17,157
+Sydney Machine Learning Group,2021-10-29,158
+Sydney Machine Learning Group,2021-11-20,158
+Sydney Machine Learning Group,2021-12-14,158
+Sydney Machine Learning Group,2021-12-26,159
+Sydney Machine Learning Group,2021-12-31,159
+Sydney Machine Learning Group,2022-01-12,160
+Sydney Machine Learning Group,2022-02-01,162
+Sydney Machine Learning Group,2022-02-07,163
+Sydney Machine Learning Group,2022-02-12,163
+Sydney Machine Learning Group,2022-02-16,164
+Sydney Machine Learning Group,2022-02-23,164
+Sydney Machine Learning Group,2022-02-26,164
+Sydney Machine Learning Group,2022-03-03,164
+Sydney Machine Learning Group,2022-03-15,164
+Sydney Machine Learning Group,2022-04-11,166
+Sydney Machine Learning Group,2022-05-05,164
+Sydney Machine Learning Group,2022-05-27,165
+Sydney Machine Learning Group,2022-05-30,165
+Sydney Machine Learning Group,2022-06-07,165
+Sydney Machine Learning Group,2022-06-08,165
+Sydney Machine Learning Group,2022-06-11,165
+Sydney Machine Learning Group,2022-06-16,165
+Sydney Machine Learning Group,2022-06-23,165
+Sydney Machine Learning Group,2022-06-30,165
+Sydney Machine Learning Group,2022-07-02,166
+Sydney Machine Learning Group,2022-07-05,166
+Sydney Machine Learning Group,2022-07-13,166
+Sydney Machine Learning Group,2022-07-18,166
+Sydney Machine Learning Group,2022-07-23,166
+Sydney Machine Learning Group,2022-07-25,166
+Sydney Machine Learning Group,2022-08-02,166
+Sydney Machine Learning Group,2022-08-16,169
+Sydney Machine Learning Group,2022-08-20,169
+Sydney Machine Learning Group,2022-08-25,170
+Sydney Machine Learning Group,2022-08-28,171
+Sydney Machine Learning Group,2022-09-07,172
+Sydney Machine Learning Group,2022-09-10,172
+Sydney Machine Learning Group,2022-09-16,172
+Sydney Machine Learning Group,2022-09-22,172
+Sydney Machine Learning Group,2022-09-29,174
+Sydney Machine Learning Group,2022-10-03,173
+Sydney Machine Learning Group,2022-10-09,173
+Sydney Machine Learning Group,2022-10-16,173
+Sydney Machine Learning Group,2022-10-22,174
+Sydney Machine Learning Group,2022-10-28,174
+Sydney Machine Learning Group,2022-11-03,174
+Sydney Machine Learning Group,2022-11-06,174
+Sydney Machine Learning Group,2022-11-14,175
+Sydney Machine Learning Group,2022-11-20,175
+Sydney Machine Learning Group,2022-11-24,175
+Sydney Machine Learning Group,2022-12-01,175
+Sydney Machine Learning Group,2022-12-08,175
+Sydney Machine Learning Group,2022-12-14,175
+Sydney Machine Learning Group,2022-12-27,175
+Sydney Machine Learning Group,2023-01-01,175
+Sydney Machine Learning Group,2023-01-05,175
+Sydney Machine Learning Group,2023-01-09,175
+Sydney Machine Learning Group,2023-01-22,175
+Sydney Machine Learning Group,2023-01-29,175
+Sydney Machine Learning Group,2023-02-04,175
+Sydney Machine Learning Group,2023-02-25,175
+Sydney Machine Learning Group,2023-03-18,178
+Sydney Machine Learning Group,2023-03-21,179
+Sydney Machine Learning Group,2023-03-25,179
+Sydney Machine Learning Group,2023-04-10,181
+Sydney Machine Learning Group,2023-04-13,181
+Sydney Machine Learning Group,2023-04-21,181
+Sydney Machine Learning Group,2023-04-29,181
+Sydney Machine Learning Group,2023-05-19,182
+Sydney Machine Learning Group,2023-05-29,182
+Sydney Machine Learning Group,2023-06-05,182
+Sydney Machine Learning Group,2023-06-14,183
+Sydney Machine Learning Group,2023-06-17,183
+Sydney Machine Learning Group,2023-06-27,184
+Sydney Machine Learning Group,2023-07-06,185
+Sydney Machine Learning Group,2023-07-23,186
+Sydney Machine Learning Group,2023-08-08,186
+Sydney Machine Learning Group,2023-08-10,187
+Sydney Machine Learning Group,2023-09-15,187
+Sydney Machine Learning Group,2023-10-18,187
+Sydney Machine Learning Group,2023-12-17,186
+Sydney Machine Learning Group,2023-12-18,186
+Sydney Machine Learning Group,2024-01-22,188
+Sydney Machine Learning Group,2024-04-10,187
+Sydney Machine Learning Group,2024-05-28,185
+Sydney Machine Learning Group,2024-08-02,186
+Sydney Machine Learning Group,2024-08-09,187
+Sydney Machine Learning Group,2024-09-02,187
+Sydney Machine Learning Group,2024-09-17,187
+Sydney Machine Learning Group,2024-09-24,187
+Sydney Machine Learning Group,2024-10-02,187
+Sydney Machine Learning Group,2024-11-15,188
+Sydney Machine Learning Group,2025-01-09,189
+Sydney Machine Learning Group,2025-01-18,189
+Sydney Machine Learning Group,2025-01-28,189
+Sydney Machine Learning Group,2025-02-21,189
+Sydney Machine Learning Group,2025-03-03,188
+Sydney Machine Learning Group,2025-03-10,187
+Sydney Machine Learning Group,2025-03-15,188
+Sydney Machine Learning Group,2025-04-13,189
+Sydney Machine Learning Group,2025-04-22,189
+Sydney Machine Learning Group,2025-05-20,189
+Sydney Machine Learning Group,2025-05-25,189
+Sydney Machine Learning Group,2025-06-07,188
+Sydney Machine Learning Group,2025-06-09,188
+Sydney Machine Learning Group,2025-06-22,188
+Sydney Machine Learning Group,2025-07-15,187
+Sydney Machine Learning Group,2025-07-27,186
+Sydney Machine Learning Group,2025-08-18,185
+Sydney Machine Learning Group,2025-08-21,185
+Sylvera,2023-04-29,21619
+Sylvera,2023-05-12,22133
+Sylvera,2023-05-19,22383
+Sylvera,2023-05-29,22616
+Sylvera,2023-06-05,22826
+Sylvera,2023-06-11,23055
+Sylvera,2023-06-14,23190
+Sylvera,2023-06-17,23277
+Sylvera,2023-06-23,23455
+Sylvera,2023-06-27,23573
+Sylvera,2023-07-06,23803
+Sylvera,2023-07-23,24667
+Sylvera,2023-08-02,25195
+Sylvera,2023-08-08,25389
+Sylvera,2023-08-10,25485
+Sylvera,2023-08-29,26022
+Sylvera,2023-09-15,26676
+Sylvera,2023-10-18,28054
+Sylvera,2023-12-16,29923
+Sylvera,2023-12-18,29967
+Sylvera,2024-01-22,30732
+Sylvera,2024-04-09,32914
+Sylvera,2024-04-17,33072
+Sylvera,2024-04-19,33119
+Sylvera,2024-04-28,33285
+Sylvera,2024-05-03,33417
+Sylvera,2024-05-19,33750
+Sylvera,2024-06-08,34101
+Sylvera,2024-06-24,34398
+Sylvera,2024-06-28,34516
+Sylvera,2024-07-17,34885
+Sylvera,2024-07-20,34957
+Sylvera,2024-07-23,35010
+Sylvera,2024-08-02,35165
+Sylvera,2024-08-06,35197
+Sylvera,2024-08-09,35258
+Sylvera,2024-08-20,35419
+Sylvera,2024-09-02,35592
+Sylvera,2024-09-07,35736
+Sylvera,2024-09-10,35787
+Sylvera,2024-09-16,35871
+Sylvera,2024-09-24,36070
+Sylvera,2024-10-02,36214
+Sylvera,2024-11-15,36916
+Sylvera,2024-11-24,37024
+Sylvera,2024-11-26,37053
+Sylvera,2024-12-07,37194
+Sylvera,2025-01-08,37573
+Sylvera,2025-01-18,37753
+Sylvera,2025-01-27,37877
+Sylvera,2025-02-04,38034
+Sylvera,2025-02-20,38490
+Sylvera,2025-02-28,38674
+Sylvera,2025-03-03,38722
+Sylvera,2025-03-09,38819
+Sylvera,2025-03-16,38914
+Sylvera,2025-04-13,39304
+Sylvera,2025-04-22,39428
+Sylvera,2025-04-27,39499
+Sylvera,2025-04-28,39520
+Sylvera,2025-05-06,39520
+Sylvera,2025-05-20,39827
+Sylvera,2025-05-25,39976
+Sylvera,2025-05-27,40001
+Sylvera,2025-06-01,40080
+Sylvera,2025-06-07,40175
+Sylvera,2025-06-08,40186
+Sylvera,2025-06-09,40195
+Sylvera,2025-06-10,40227
+Sylvera,2025-06-22,40515
+Sylvera,2025-07-01,40667
+Sylvera,2025-07-04,40667
+Sylvera,2025-07-08,40796
+Sylvera,2025-07-15,40929
+Sylvera,2025-07-27,41180
+Sylvera,2025-08-11,41383
+Sylvera,2025-08-15,41426
+Sylvera,2025-08-18,41429
+Sylvera,2025-08-21,41508
+SylveraSylvera,2023-12-14,NA
+Synack Inc.,2023-01-21,38640
+Synack Inc.,2023-02-10,38865
+Synack Inc.,2023-02-25,39034
+Synack Inc.,2023-03-13,39260
+Synack Inc.,2023-03-29,39464
+Synack Inc.,2023-04-10,39611
+Synack Inc.,2023-04-23,39761
+Synack Inc.,2023-06-05,40438
+Synack Inc.,2023-06-11,40579
+Synack Inc.,2023-06-23,41091
+Synack Inc.,2023-07-06,41551
+Synack Inc.,2023-07-23,42290
+Synack Inc.,2023-08-05,42688
+Synack Inc.,2023-08-29,44027
+Synack Inc.,2023-10-18,45601
+Synack Inc.,2023-12-17,45787
+Synack Inc.,2023-12-18,45802
+Synack Red Team,2023-01-21,52921
+Synack Red Team,2023-02-25,54098
+Synack Red Team,2023-03-13,54716
+Synack Red Team,2023-03-29,55328
+Synack Red Team,2023-04-10,55714
+Synack Red Team,2023-04-23,56315
+Synack Red Team,2023-06-05,57842
+Synack Red Team,2023-06-11,58037
+Synack Red Team,2023-06-23,58453
+Synack Red Team,2023-07-06,58929
+Synack Red Team,2023-07-23,59643
+Synack Red Team,2023-08-05,60347
+Synack Red Team,2023-08-29,61821
+Synack Red Team,2023-10-18,64391
+Synack Red Team,2023-12-17,64423
+Synack Red Team,2023-12-18,64466
+Synack Red Team,2025-02-21,71662
+Synack Red Team,2025-03-16,71895
+Synack Red Team,2025-04-28,72364
+Synack Red Team,2025-05-27,72648
+"Synack, Inc.",2025-01-19,52846
+"Synack, Inc.",2025-02-21,53851
+"Synack, Inc.",2025-03-16,54585
+"Synack, Inc.",2025-04-28,56026
+"Synack, Inc.",2025-05-27,56357
+Synapse Florida,2023-01-21,7772
+Synapse Florida,2023-02-25,8350
+Synapse Florida,2023-03-13,8439
+Synapse Florida,2023-03-29,8610
+Synapse Florida,2023-04-10,8662
+Synapse Florida,2023-04-23,8732
+Synapse Florida,2023-06-05,8943
+Synapse Florida,2023-06-11,8964
+Synapse Florida,2023-06-23,9001
+Synapse Florida,2023-07-06,9069
+Synapse Florida,2023-07-23,9155
+Synapse Florida,2023-08-05,9218
+Synapse Florida,2023-08-29,9341
+Synapse Florida,2023-10-18,9587
+Synapse Florida,2023-12-18,9586
+Sync NI,2024-06-24,13073
+Synectics for Management Decisions Inc,2020-12-15,1283
+Synergy Health Partners,2023-01-21,687
+Synergy Health Partners,2023-02-25,709
+Synergy Health Partners,2023-03-13,716
+Synergy Health Partners,2023-03-29,728
+Synergy Health Partners,2023-04-10,736
+Synergy Health Partners,2023-04-23,742
+Synergy Health Partners,2023-06-05,768
+Synergy Health Partners,2023-06-11,771
+Synergy Health Partners,2023-06-23,777
+Synergy Health Partners,2023-07-06,781
+Synergy Health Partners,2023-07-23,788
+Synergy Health Partners,2023-08-05,791
+Synergy Health Partners,2023-08-29,801
+Synergy Surgicalists Inc.,2023-01-21,241
+Synergy Surgicalists Inc.,2023-02-25,243
+Synergy Surgicalists Inc.,2023-03-13,243
+Synergy Surgicalists Inc.,2023-03-29,247
+Synergy Surgicalists Inc.,2023-04-10,247
+Synergy Surgicalists Inc.,2023-04-23,248
+Synergy Surgicalists Inc.,2023-06-05,250
+Synergy Surgicalists Inc.,2023-06-11,250
+Synergy Surgicalists Inc.,2023-06-23,251
+Synergy Surgicalists Inc.,2023-07-06,251
+Synergy Surgicalists Inc.,2023-07-23,251
+Synergy Surgicalists Inc.,2023-08-05,252
+Synergy Surgicalists Inc.,2023-08-29,254
+Synergy Surgicalists Inc.,2023-10-18,261
+Synergy Surgicalists Inc.,2023-12-18,259
+"Synergy Surgicalists, Inc.",2025-05-27,272
+Syngenta,2023-01-25,1145538
+Syngenta,2023-01-29,1147914
+Synovus,2023-01-21,33330
+Synovus,2023-02-10,33573
+Synovus,2023-02-25,33728
+Synovus,2023-03-13,33878
+Synovus,2023-03-29,34053
+Synovus,2023-04-10,34159
+Synovus,2023-04-23,34299
+Synovus,2023-06-05,34625
+Synovus,2023-06-11,34718
+Synovus,2023-06-23,34874
+Synovus,2023-07-06,35036
+Synovus,2023-07-23,35236
+Synovus,2023-08-05,35448
+Synovus,2023-08-29,35775
+Synovus,2023-10-18,36529
+Synovus,2023-12-14,36248
+Synovus,2023-12-17,36283
+Synovus,2023-12-18,36290
+Synovus,2024-04-08,37766
+Synovus,2024-05-04,38149
+Synovus,2024-05-28,38493
+Synovus,2024-06-24,38862
+Synovus,2024-06-28,38928
+Synovus,2024-07-20,39219
+Synovus,2024-08-06,39436
+Synovus,2024-09-02,39884
+Synovus,2024-09-16,40129
+Synovus,2024-09-27,40343
+Synovus,2025-01-09,41585
+Synovus,2025-01-19,41725
+Synovus,2025-01-27,41855
+Synovus,2025-02-21,42259
+Synovus,2025-02-28,42379
+Synovus,2025-03-15,42625
+Synovus,2025-03-16,42628
+Synovus,2025-04-28,43327
+Synovus,2025-05-27,43946
+Synovus,2025-06-07,44158
+Synovus,2025-07-27,45256
+Synovus Bank,2023-01-21,966
+Synovus Bank,2023-02-10,974
+Synovus Bank,2023-02-25,981
+Synovus Bank,2023-03-13,997
+Synovus Bank,2023-03-29,1002
+Synovus Bank,2023-04-10,1010
+Synovus Bank,2023-04-23,1015
+Synovus Bank,2023-06-05,1044
+Synovus Bank,2023-06-11,1051
+Synovus Bank,2023-06-23,1052
+Synovus Bank,2023-07-06,1055
+Synovus Bank,2023-07-23,1062
+Synovus Bank,2023-08-05,1071
+Synovus Bank,2023-08-29,1059
+Synovus Bank,2023-10-18,1089
+Synovus Bank,2023-12-17,1107
+Synovus Bank,2023-12-18,1108
+Synovus Bank,2025-01-09,1307
+Synovus Bank,2025-01-19,1309
+Synovus Bank,2025-01-27,1315
+Synovus Bank,2025-02-21,1327
+Synovus Bank,2025-02-28,1332
+Synovus Bank,2025-03-16,1339
+Synovus Bank,2025-04-28,1356
+Synovus Bank,2025-05-27,1368
+Synovus Bank,2025-06-07,1373
+Synovus Bank,2025-07-27,1396
+Synthego Corporation,2023-01-25,21104
+Synthego Corporation,2023-01-29,21126
+Synthetic Futures,2023-01-21,558
+Synthetic Futures,2023-02-25,600
+Synthetic Futures,2023-03-13,635
+Synthetic Futures,2023-03-29,649
+Synthetic Futures,2023-04-10,650
+Synthetic Futures,2023-04-23,649
+Synthetic Futures,2023-06-05,676
+Synthetic Futures,2023-06-11,679
+Synthetic Futures,2023-06-23,685
+Synthetic Futures,2023-07-06,692
+Synthetic Futures,2023-07-23,697
+Synthetic Futures,2023-08-05,701
+Synthetic Futures,2023-08-29,706
+T-Mobile,2023-01-21,508787
+T-Mobile,2023-02-10,512370
+T-Mobile,2023-02-25,515526
+T-Mobile,2023-03-13,518058
+T-Mobile,2023-03-29,521472
+T-Mobile,2023-04-10,523122
+T-Mobile,2023-04-23,525322
+T-Mobile,2023-06-05,533384
+T-Mobile,2023-06-11,534612
+T-Mobile,2023-06-23,537191
+T-Mobile,2023-07-06,540293
+T-Mobile,2023-07-23,543475
+T-Mobile,2023-08-05,546970
+T-Mobile,2023-08-29,552412
+T-Mobile,2023-10-18,515472
+T-Mobile,2023-12-14,522888
+T-Mobile,2023-12-17,523646
+T-Mobile,2023-12-18,523872
+T-Mobile,2024-04-08,539387
+T-Mobile,2024-05-04,542976
+T-Mobile,2024-05-28,546079
+T-Mobile,2024-06-24,547905
+T-Mobile,2024-06-28,548531
+T-Mobile,2024-07-20,551139
+T-Mobile,2024-08-06,552054
+T-Mobile,2024-09-02,553947
+T-Mobile,2024-09-16,555783
+T-Mobile,2024-09-27,557466
+T-Mobile,2025-01-09,568788
+T-Mobile,2025-01-19,570969
+T-Mobile,2025-01-27,572612
+T-Mobile,2025-02-21,577617
+T-Mobile,2025-02-28,578832
+T-Mobile,2025-03-15,581339
+T-Mobile,2025-03-16,581410
+T-Mobile,2025-04-28,587711
+T-Mobile,2025-05-27,591937
+T-Mobile,2025-06-07,590628
+T-Mobile,2025-07-27,600370
+T.G.Masaryk Water Research Institute,2023-01-28,114
+TAMU WiCyS,2023-01-21,126
+TAMU WiCyS,2023-02-25,125
+TAMU WiCyS,2023-03-13,125
+TAMU WiCyS,2023-03-29,125
+TAMU WiCyS,2023-04-10,126
+TAMU WiCyS,2023-04-23,126
+TAMU WiCyS,2023-06-05,127
+TAMU WiCyS,2023-06-11,127
+TAMU WiCyS,2023-06-23,127
+TAMU WiCyS,2023-07-06,128
+TAMU WiCyS,2023-07-23,128
+TAMU WiCyS,2023-08-05,130
+TAMU WiCyS,2023-08-29,130
+TAMU WiCyS,2023-10-18,134
+TCM Security,2023-01-21,91940
+TCM Security,2023-02-25,96281
+TCM Security,2023-03-13,98213
+TCM Security,2023-03-29,100105
+TCM Security,2023-04-10,101718
+TCM Security,2023-04-23,105908
+TCM Security,2023-06-05,114518
+TCM Security,2023-06-11,115815
+TCM Security,2023-06-23,118516
+TCM Security,2023-07-06,121239
+TCM Security,2023-07-23,124723
+TCM Security,2023-08-05,127906
+TCM Security,2023-08-29,132835
+TCM Security,2023-10-18,145842
+TD,2023-01-21,697860
+TD,2023-02-10,705590
+TD,2023-02-25,711132
+TD,2023-03-13,716701
+TD,2023-03-29,722819
+TD,2023-04-10,727705
+TD,2023-04-23,732774
+TD,2023-06-05,749589
+TD,2023-06-11,752989
+TD,2023-06-23,759155
+TD,2023-07-06,765877
+TD,2023-07-23,773161
+TD,2023-08-05,778977
+TD,2023-08-29,788569
+TD,2023-10-18,758641
+TD,2023-12-14,777331
+TD,2023-12-17,778737
+TD,2023-12-18,779056
+TD,2024-04-08,810342
+TD,2024-05-04,819003
+TD,2024-05-28,826787
+TD,2024-06-24,828375
+TD,2024-06-28,829258
+TD,2024-07-20,834582
+TD,2024-08-06,838849
+TD,2024-09-02,847089
+TD,2024-09-16,847546
+TD,2024-09-27,853509
+TD,2025-01-09,878564
+TD,2025-01-19,882246
+TD,2025-01-27,884689
+TD,2025-02-21,893376
+TD,2025-02-28,895964
+TD,2025-03-15,900957
+TD,2025-03-16,901195
+TD,2025-04-28,913554
+TD,2025-05-27,920608
+TD,2025-06-07,923523
+TD,2025-07-27,939870
+TECH(K)NOW Day,2023-01-21,976
+TECH(K)NOW Day,2023-02-25,977
+TECH(K)NOW Day,2023-03-13,978
+TECH(K)NOW Day,2023-03-29,979
+TECH(K)NOW Day,2023-04-10,979
+TECH(K)NOW Day,2023-04-23,980
+TECH(K)NOW Day,2023-06-05,980
+TECH(K)NOW Day,2023-06-11,980
+TECH(K)NOW Day,2023-06-23,980
+TECH(K)NOW Day,2023-07-06,980
+TECH(K)NOW Day,2023-07-23,979
+TECH(K)NOW Day,2023-08-05,979
+TECH(K)NOW Day,2023-08-29,978
+TECH(K)NOW Day,2023-10-18,980
+TECH(K)NOW Day,2023-12-18,969
+TECH(K)NOW Day,2024-06-24,964
+TED Conferences,2023-01-28,23216699
+TED Conferences,2023-06-23,23585353
+TED Conferences,2023-07-06,23631314
+TED Conferences,2023-07-23,23664162
+TED Conferences,2023-08-05,23708259
+TED Conferences,2023-08-29,23766213
+TED Conferences,2023-10-18,23650520
+TED Conferences,2023-12-17,22932913
+TED Conferences,2023-12-18,22934676
+TED Conferences,2024-06-28,23544863
+TED Conferences,2024-09-02,23783469
+TED Conferences,2025-01-09,24280952
+TED Conferences,2025-01-19,24299776
+TED Conferences,2025-01-27,24310366
+TED Conferences,2025-02-21,24347059
+TED Conferences,2025-02-28,24355838
+TED Conferences,2025-03-16,24368958
+TED Conferences,2025-04-28,24406530
+TED Conferences,2025-05-27,24422710
+TED Conferences,2025-06-07,24424121
+TED Conferences,2025-07-27,24431606
+TED Conferences,2025-08-18,24440833
+TEKsystems,2023-01-21,696497
+TEKsystems,2023-02-10,708448
+TEKsystems,2023-02-25,717136
+TEKsystems,2023-03-13,721603
+TEKsystems,2023-03-29,727003
+TEKsystems,2023-04-10,730850
+TEKsystems,2023-04-23,736404
+TEKsystems,2023-06-05,752022
+TEKsystems,2023-06-11,755184
+TEKsystems,2023-06-23,761780
+TEKsystems,2023-07-06,768041
+TEKsystems,2023-07-23,779553
+TEKsystems,2023-08-05,788673
+TEKsystems,2023-08-29,802728
+TEKsystems,2023-10-18,834804
+TEKsystems,2023-12-14,834276
+TEKsystems,2023-12-17,835806
+TEKsystems,2023-12-18,836387
+TEKsystems,2024-04-08,905896
+TEKsystems,2024-05-04,925934
+TEKsystems,2024-05-28,941820
+TEKsystems,2024-06-24,958733
+TEKsystems,2024-06-28,961555
+TEKsystems,2024-07-20,976490
+TEKsystems,2024-08-06,986398
+TEKsystems,2024-09-02,1000335
+TEKsystems,2024-09-16,1007238
+TEKsystems,2024-09-27,1013291
+TEKsystems,2025-01-09,1069412
+TEKsystems,2025-01-19,1075034
+TEKsystems,2025-01-27,1079405
+TEKsystems,2025-02-21,1095205
+TEKsystems,2025-02-28,1099396
+TEKsystems,2025-03-15,1107657
+TEKsystems,2025-03-16,1107903
+TEKsystems,2025-04-28,1134246
+TEKsystems,2025-05-27,1150888
+TEKsystems,2025-06-07,1157336
+TEKsystems,2025-07-27,1187768
+TEKsystems Global Services in India,2023-02-25,14580
+TEKsystems Global Services in India,2023-03-13,15142
+TEKsystems Global Services in India,2023-03-29,16269
+TEKsystems Global Services in India,2023-04-10,17389
+TEKsystems Global Services in India,2023-04-23,18893
+TEKsystems Global Services in India,2023-06-05,22081
+TEKsystems Global Services in India,2023-06-11,22515
+TEKsystems Global Services in India,2023-06-23,23228
+TEKsystems Global Services in India,2023-07-06,23674
+TEKsystems Global Services in India,2023-07-23,24450
+TEKsystems Global Services in India,2023-08-05,25521
+TEKsystems Global Services in India,2023-08-29,26539
+TERI - The Energy and Resources Institute,2023-01-28,70482
+TERI School of Advanced Studies,2023-01-28,18275
+TGA,2021-05-10,1190
+TGA Medikal,2021-05-10,54
+THAICOM PUBLIC COMPANY LIMITED,2023-01-28,4629
+TIDAL,2021-01-19,37703
+TIER Mobility,2023-01-25,47716
+TMC,2023-02-10,65300
+TMLS Summit,2025-07-15,15127
+TMLS Summit,2025-07-27,15134
+TMLS Summit,2025-08-18,15129
+TMLS Summit,2025-08-21,15134
+TNO,2023-01-28,103467
+TSMC,2024-04-08,539420
+TSMC,2024-05-04,552106
+TSMC,2024-05-28,561966
+TSMC,2024-06-24,571957
+TSMC,2024-06-28,573361
+TSMC,2024-07-20,580231
+TSMC,2024-08-06,585015
+TSMC,2024-09-02,594673
+TSMC,2024-09-16,602204
+TSMC,2024-09-27,606798
+TSMC,2025-01-09,641425
+TSMC,2025-01-19,645358
+TSMC,2025-01-27,647991
+TSMC,2025-02-21,656673
+TSMC,2025-02-28,659055
+TSMC,2025-03-15,666043
+TSMC,2025-03-16,666420
+TSMC,2025-04-28,682829
+TSMC,2025-05-27,694003
+TSMC,2025-06-07,697781
+TSMC,2025-07-27,721171
+TTP plc,2024-05-04,16055
+TTP plc,2024-05-28,16292
+TTP plc,2024-06-28,16631
+TTP plc,2024-08-06,16975
+TTP plc,2024-09-02,17191
+TTP plc,2024-09-16,17404
+TTP plc,2024-09-27,17556
+TTP plc,2025-01-09,18349
+TTP plc,2025-01-19,18396
+TTP plc,2025-01-27,18432
+TTP plc,2025-02-21,18658
+TTP plc,2025-02-28,18695
+TTP plc,2025-03-15,18795
+TTP plc,2025-03-16,18795
+TTP plc,2025-04-28,18985
+TTP plc,2025-05-27,19144
+TTP plc,2025-06-07,19233
+TTP plc,2025-07-27,19503
+TU Dublin Research and Innovation,2024-06-24,2459
+TU Dublin School of Mathematics & Statistics,2025-01-27,198
+TU Dublin School of Mathematics & Statistics,2025-02-04,198
+TU Dublin School of Mathematics & Statistics,2025-02-20,208
+TU Dublin School of Mathematics & Statistics,2025-02-28,210
+TU Dublin School of Mathematics & Statistics,2025-03-03,210
+TU Dublin School of Mathematics & Statistics,2025-03-09,210
+TU Dublin School of Mathematics & Statistics,2025-03-16,211
+TWiT.tv,2024-09-02,3071
+TWiT.tv,2025-01-09,3255
+TWiT.tv,2025-01-19,3272
+TWiT.tv,2025-01-27,3268
+TWiT.tv,2025-02-21,3299
+TWiT.tv,2025-02-28,3301
+TWiT.tv,2025-03-16,3321
+TWiT.tv,2025-04-28,3348
+TWiT.tv,2025-05-27,3372
+TWiT.tv,2025-06-07,3377
+TWiT.tv,2025-07-27,3413
+Taara Quest,2023-03-13,133
+Taara Quest,2023-03-29,134
+Taara Quest,2023-04-10,135
+Taara Quest,2023-04-23,135
+Taara Quest,2023-06-05,190
+Taara Quest,2023-06-11,204
+Taara Quest,2023-06-23,247
+Taara Quest,2023-07-06,247
+Taara Quest,2023-07-23,252
+Taara Quest,2023-08-05,252
+Taara Quest,2023-08-29,254
+Tableau,2021-08-14,655598
+Tableau,2021-08-26,658516
+Tableau,2021-09-02,660913
+Tableau,2021-09-16,666136
+Tableau,2021-10-17,676551
+Tableau,2021-10-29,680421
+Tableau,2021-11-06,682846
+Tableau,2021-11-20,687833
+Tableau,2021-12-07,693402
+Tableau,2021-12-14,695266
+Tableau,2021-12-20,696642
+Tableau,2021-12-26,697804
+Tableau,2021-12-30,698611
+Tableau,2021-12-31,698839
+Tableau,2022-01-03,699317
+Tableau,2022-01-04,699779
+Tableau,2022-01-06,700535
+Tableau,2022-01-07,701219
+Tableau,2022-01-10,702102
+Tableau,2022-01-14,703948
+Tableau,2022-01-18,705561
+Tableau,2022-01-27,709496
+Tableau,2022-02-01,711228
+Tableau,2022-02-07,713206
+Tableau,2022-02-12,715201
+Tableau,2022-02-16,716642
+Tableau,2022-02-20,718054
+Tableau,2022-03-15,724232
+Tableau,2022-03-20,725422
+Tableau,2022-03-31,727929
+Tableau,2022-04-09,730695
+Tableau,2022-04-11,731164
+Tableau,2022-04-13,731739
+Tableau,2022-04-19,733317
+Tableau,2022-04-25,734878
+Tableau,2022-04-29,736199
+Tableau,2022-05-05,737746
+Tableau,2022-05-12,739781
+Tableau,2022-05-22,743402
+Tableau,2022-05-23,743659
+Tableau,2022-05-27,744949
+Tableau,2022-05-30,745625
+Tableau,2022-06-01,746111
+Tableau,2022-06-03,746877
+Tableau,2022-06-07,748180
+Tableau,2022-06-08,748180
+Tableau,2022-06-20,752220
+Tableau,2022-06-22,753004
+Tableau,2022-06-23,753265
+Tableau,2022-06-24,753793
+Tableau,2022-06-26,754184
+Tableau,2022-06-28,754770
+Tableau,2022-06-30,755286
+Tableau,2022-07-01,755680
+Tableau,2022-07-02,755773
+Tableau,2022-07-04,756338
+Tableau,2022-07-05,756723
+Tableau,2022-07-09,757802
+Tableau,2022-07-12,758659
+Tableau,2022-07-18,760108
+Tableau,2022-07-21,761173
+Tableau,2022-07-23,761851
+Tableau,2022-07-25,762424
+Tableau,2022-08-01,764561
+Tableau,2022-08-08,766156
+Tableau,2022-08-16,767943
+Tableau,2022-08-20,769099
+Tableau,2022-08-25,770179
+Tableau,2022-08-28,770861
+Tableau,2022-09-01,771911
+Tableau,2022-09-07,772996
+Tableau,2022-09-10,773844
+Tableau,2022-09-16,775900
+Tableau,2022-09-22,778304
+Tableau,2022-09-29,780409
+Tableau,2022-10-03,781562
+Tableau,2022-10-09,783653
+Tableau,2022-10-12,784849
+Tableau,2022-10-16,786088
+Tableau,2022-10-22,788366
+Tableau,2022-10-28,790441
+Tableau,2022-11-03,791847
+Tableau,2022-11-06,792790
+Tableau,2022-11-14,795028
+Tableau,2022-11-20,796662
+Tableau,2022-11-24,797982
+Tableau,2022-12-01,800104
+Tableau,2022-12-08,802049
+Tableau,2022-12-14,803603
+Tableau,2022-12-27,807239
+Tableau,2023-01-01,808607
+Tableau,2023-01-05,810239
+Tableau,2023-01-09,811521
+Tableau,2023-01-21,815413
+Tableau,2023-01-22,815628
+Tableau,2023-01-22,815627
+Tableau,2023-01-28,817689
+Tableau,2023-02-04,819109
+Tableau,2023-02-10,820328
+Tableau,2023-02-10,820327
+Tableau,2023-02-13,821009
+Tableau,2023-02-24,824214
+Tableau,2023-02-25,824451
+Tableau,2023-03-10,827692
+Tableau,2023-03-13,828267
+Tableau,2023-03-14,828622
+Tableau,2023-03-18,829764
+Tableau,2023-03-21,830414
+Tableau,2023-03-25,831540
+Tableau,2023-03-29,832695
+Tableau,2023-04-01,833549
+Tableau,2023-04-10,836083
+Tableau,2023-04-10,836053
+Tableau,2023-04-13,837100
+Tableau,2023-04-21,839076
+Tableau,2023-04-23,839478
+Tableau,2023-04-29,842170
+Tableau,2023-05-12,849836
+Tableau,2023-05-19,851635
+Tableau,2023-05-29,853752
+Tableau,2023-06-05,855727
+Tableau,2023-06-11,857176
+Tableau,2023-06-14,857980
+Tableau,2023-06-17,858781
+Tableau,2023-06-23,860185
+Tableau,2023-06-27,861603
+Tableau,2023-07-06,864188
+Tableau,2023-07-06,864187
+Tableau,2023-07-23,869153
+Tableau,2023-07-23,869125
+Tableau,2023-08-02,876588
+Tableau,2023-08-05,878100
+Tableau,2023-08-08,879196
+Tableau,2023-08-10,880333
+Tableau,2023-08-29,887545
+Tableau,2023-09-15,894463
+Tableau,2023-10-18,907995
+Tableau,2023-10-18,907974
+Tableau,2023-12-14,908217
+Tableau,2023-12-14,908208
+Tableau,2023-12-16,909228
+Tableau,2023-12-17,909533
+Tableau,2023-12-18,909818
+Tableau,2024-01-22,922363
+Tableau,2024-04-08,951513
