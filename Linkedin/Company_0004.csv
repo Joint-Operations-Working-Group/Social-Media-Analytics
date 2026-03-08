@@ -1,4 +1,278 @@
 Company,Date,Followers
+Company,Date,Followers
+IBM,2026-03-08,19270833
+Oracle,2026-03-08,11234041
+Accenture,2026-03-08,14484732
+Microsoft,2026-03-08,27735692
+Deloitte,2026-03-08,21283407
+Siemens,2026-03-08,8666521
+PwC,2026-03-08,7906575
+Intel,2026-03-08,4157170
+Intel Capital,2026-03-08,53783
+Cisco,2026-03-08,7473568
+J.P. Morgan,2026-03-08,5728390
+JPMorganChase,2026-03-08,7029829
+EY,2026-03-08,11195524
+KPMG US,2026-03-08,2059016
+NXP Semiconductors,2026-03-08,929697
+Procter & Gamble,2026-03-08,9029884
+Bank of America,2026-03-08,3286140
+Merrill Lynch,2026-03-08,752110
+Pfizer,2026-03-08,6877849
+Wells Fargo,2026-03-08,3213857
+HSBC,2026-03-08,4810871
+Deutsche Bank,2026-03-08,3283604
+American Express,2026-03-08,3398619
+Infosys,2026-03-08,10969563
+The Walt Disney Company,2026-03-08,6291877
+Walt Disney Animation Studios,2026-03-08,618051
+Walt Disney Imagineering,2026-03-08,331098
+Fidelity Investments,2026-03-08,1313022
+Lockheed Martin,2026-03-08,3111792
+U.S. Navy Reserve,2026-03-08,64339
+US Navy,2026-03-08,722300
+LinkedIn,2026-03-08,33269725
+Air Force Research Laboratory,2026-03-08,194491
+Honeywell,2026-03-08,3521683
+Morgan Stanley Wealth Management,2026-03-08,302780
+Morgan Stanley Investment Management,2026-03-08,349614
+Tata Consultancy Services,2026-03-08,18649377
+DHL,2026-03-08,2834811
+National Security Agency,2026-03-08,530858
+National Center for Supercomputing Applications,2026-03-08,9017
+Goldman Sachs,2026-03-08,5715847
+Boeing,2026-03-08,3935821
+T-Mobile,2026-03-08,645560
+Nestlé,2026-03-08,17743281
+Texas Instruments,2026-03-08,1107015
+GSK,2026-03-08,4696454
+Booz Allen Hamilton,2026-03-08,797086
+Northrop Grumman,2026-03-08,1660388
+CGI,2026-03-08,1902918
+Capital One,2026-03-08,1101495
+Barclays Investment Bank,2026-03-08,1082221
+Barclays,2026-03-08,2605609
+Google,2026-03-08,41055990
+ADP,2026-03-08,1964541
+Teradata,2026-03-08,505791
+Adobe,2026-03-08,5321775
+PayPal,2026-03-08,1649120
+Ford Motor Company,2026-03-08,4348580
+SAS,2026-03-08,970903
+AMD,2026-03-08,2191066
+MIT Media Lab,2026-03-08,201506
+MIT Sloan School of Management,2026-03-08,617276
+Massachusetts Institute of Technology,2026-03-08,1719330
+Raytheon,2026-03-08,1346902
+BNP Paribas,2026-03-08,1913697
+Amazon,2026-03-08,36402867
+British Army,2026-03-08,182259
+Roche,2026-03-08,4294587
+STMicroelectronics,2026-03-08,901192
+Boston Scientific,2026-03-08,1387588
+Harvard University,2026-03-08,2823541
+Harvard Business Review,2026-03-08,14581989
+Boston Children's Hospital,2026-03-08,194509
+L'Oréal,2026-03-08,6521552
+Eli Lilly and Company,2026-03-08,2587728
+Intuit,2026-03-08,980840
+Cognizant,2026-03-08,9074745
+ExxonMobil,2026-03-08,3728215
+HCLTech,2026-03-08,8821894
+Boston Consulting Group (BCG),2026-03-08,5321857
+Stanford GSB,2026-03-08,559069
+European Commission,2026-03-08,2472554
+Council of the European Union,2026-03-08,447947
+European Parliament,2026-03-08,1117086
+Prudential Financial,2026-03-08,417113
+Charles Schwab,2026-03-08,486946
+United Nations,2026-03-08,6487547
+BAE Systems  Inc.,2026-03-08,531146
+General Dynamics,2026-03-08,358403
+PTC,2026-03-08,397248
+Thales,2026-03-08,1942503
+NASA Glenn Research Center,2026-03-08,187460
+NASA Goddard Space Flight Center,2026-03-08,216877
+NASA Langley Research Center,2026-03-08,55563
+NASA Ames Research Center,2026-03-08,126986
+NASA,2026-03-08,6919300
+NASA Jet Propulsion Laboratory,2026-03-08,1174140
+Qualcomm,2026-03-08,2106072
+Applied Materials,2026-03-08,617354
+Nike,2026-03-08,6186791
+CNN,2026-03-08,3195722
+Gartner,2026-03-08,2166305
+Bain & Company,2026-03-08,2641247
+Pearson,2026-03-08,1222744
+Infineon Technologies,2026-03-08,944338
+TEKsystems,2026-03-08,1312220
+Visa,2026-03-08,2511693
+Keller Williams Realty  LLC,2026-03-08,485721
+Standard Chartered,2026-03-08,2422965
+Juniper Networks,2026-03-08,898717
+Delta Air Lines,2026-03-08,1677399
+Genentech,2026-03-08,909038
+The Wall Street Journal,2026-03-08,10050119
+United Airlines,2026-03-08,1228248
+Dun & Bradstreet,2026-03-08,302399
+London Health Sciences Centre,2026-03-08,49418
+Pratt & Whitney,2026-03-08,989481
+Hilton,2026-03-08,2575431
+Zurich Insurance,2026-03-08,1104958
+Bloomberg,2026-03-08,2173112
+U.S. Bank,2026-03-08,598200
+Experian,2026-03-08,1745804
+Caterpillar Inc.,2026-03-08,2186158
+Columbia University Irving Medical Center,2026-03-08,91951
+Columbia University,2026-03-08,749617
+American Airlines,2026-03-08,1253461
+Walmart,2026-03-08,5123199
+SunTrust,2026-03-08,116957
+Liberty Mutual Insurance,2026-03-08,529508
+KLA,2026-03-08,473939
+Airbus,2026-03-08,2819144
+Expedia Group,2026-03-08,908334
+TD,2026-03-08,1011964
+Amadeus,2026-03-08,529154
+Federal Reserve Bank of Atlanta,2026-03-08,39303
+Federal Reserve Board,2026-03-08,214118
+Federal Reserve Bank of Chicago,2026-03-08,50317
+Federal Reserve Bank of New York,2026-03-08,164942
+Federal Reserve System,2026-03-08,80058
+Federal Reserve Bank of Boston,2026-03-08,40196
+Seagate Technology,2026-03-08,293541
+Massachusetts General Hospital,2026-03-08,224590
+City of New York,2026-03-08,43313
+NYC Public Schools,2026-03-08,185057
+New York City Housing Authority (NYCHA),2026-03-08,37911
+McGraw Hill,2026-03-08,433119
+S&P Global,2026-03-08,872347
+ICICI Bank,2026-03-08,3861577
+VMware,2026-03-08,2056985
+TSA,2026-03-08,185258
+FEMA,2026-03-08,552028
+U.S. Secret Service,2026-03-08,366733
+U.S. Customs and Border Protection,2026-03-08,331129
+U.S. Department of Homeland Security,2026-03-08,985479
+Fifth Third Bank,2026-03-08,213550
+Mastercard,2026-03-08,2281631
+Carrefour,2026-03-08,1390938
+S&P Global Ratings,2026-03-08,150906
+Broadcom,2026-03-08,626487
+Kforce Inc,2026-03-08,1111081
+U.S. Department of State,2026-03-08,1561530
+Carnegie Mellon University,2026-03-08,357399
+New York University,2026-03-08,980319
+Salesforce,2026-03-08,6394146
+Boehringer Ingelheim,2026-03-08,2208971
+DHL Supply Chain,2026-03-08,2208013
+New York Life Insurance Company,2026-03-08,346707
+Peace Corps,2026-03-08,201810
+Analog Devices,2026-03-08,513119
+Hays,2026-03-08,9519343
+Macquarie Group,2026-03-08,785770
+Red Hat,2026-03-08,1526617
+IHG Hotels & Resorts,2026-03-08,1597225
+Boston University School of Public Health,2026-03-08,26793
+Boston University School of Law,2026-03-08,34987
+Questrom School of Business,2026-03-08,73757
+Boston University School of Medicine,2026-03-08,32685
+Boston University,2026-03-08,591099
+United States Attorneys' Offices,2026-03-08,142477
+NVIDIA,2026-03-08,4874270
+MassMutual,2026-03-08,140227
+Micron Technology,2026-03-08,888194
+Equifax,2026-03-08,297601
+Discover,2026-03-08,235600
+NYSE,2026-03-08,393840
+MITRE,2026-03-08,239151
+Rolls-Royce,2026-03-08,1840112
+The Carter Center,2026-03-08,76335
+ASML,2026-03-08,950260
+Akamai Technologies,2026-03-08,530750
+Biogen,2026-03-08,1244435
+The Economic Times,2026-03-08,3014361
+Brigham Young University,2026-03-08,351152
+Sun Life,2026-03-08,512158
+PNC,2026-03-08,396935
+Regions Bank,2026-03-08,170480
+The New York Times,2026-03-08,6901277
+EMD Serono  Inc.,2026-03-08,63944
+Sandisk,2026-03-08,360491
+Humana,2026-03-08,681635
+TransUnion,2026-03-08,567387
+Hertz,2026-03-08,225307
+Queens College,2026-03-08,126794
+Brooklyn College,2026-03-08,117107
+Hunter College,2026-03-08,158751
+The City University of New York,2026-03-08,178864
+Baruch College,2026-03-08,200392
+DNB,2026-03-08,165781
+Arm,2026-03-08,675858
+USAA,2026-03-08,446322
+University of Massachusetts,2026-03-08,66354
+Texas A&M University,2026-03-08,965835
+WD,2026-03-08,824449
+Massachusetts Department of Public Health,2026-03-08,46821
+Commonwealth of Massachusetts,2026-03-08,141896
+U.S. Department of Health and Human Services (HHS),2026-03-08,1138688
+FDA,2026-03-08,904776
+BB&T,2026-03-08,125745
+Financial Times,2026-03-08,7726560
+The Church of Jesus Christ of Latter-day Saints,2026-03-08,276558
+BlackRock,2026-03-08,2913347
+Apex Systems,2026-03-08,1999151
+Maxim Integrated,2026-03-08,118092
+U.S. Department of Commerce,2026-03-08,109623
+Eindhoven University of Technology,2026-03-08,176663
+F5,2026-03-08,387769
+BBVA,2026-03-08,1613012
+Harvard Business School,2026-03-08,2527157
+UNICEF,2026-03-08,5465580
+European Space Agency - ESA,2026-03-08,923075
+Internal Revenue Service,2026-03-08,372681
+Persistent Systems,2026-03-08,1874996
+USAID,2026-03-08,2404386
+U.S. Department of the Treasury,2026-03-08,153683
+Intelsat,2026-03-08,90144
+Lam Research,2026-03-08,442447
+Nasdaq,2026-03-08,597876
+BAE Systems Digital Intelligence,2026-03-08,144876
+YMCA of the USA,2026-03-08,214797
+Esri,2026-03-08,505597
+MFS Investment Management,2026-03-08,101797
+Los Alamos National Laboratory,2026-03-08,180675
+Blizzard Entertainment,2026-03-08,1136419
+World Health Organization,2026-03-08,6296590
+Sandia National Laboratories,2026-03-08,166680
+Chase for Business,2026-03-08,63628
+Boston College,2026-03-08,222648
+U.S. Department of Energy (DOE),2026-03-08,337853
+Nintendo,2026-03-08,860401
+Forbes,2026-03-08,18106506
+NATO,2026-03-08,837753
+U.S. Department of Labor,2026-03-08,414484
+Ball Aerospace,2026-03-08,104538
+The University of Edinburgh,2026-03-08,458767
+Huron,2026-03-08,255750
+Viasat,2026-03-08,204766
+Federal Railroad Administration,2026-03-08,79585
+U.S. Department of Transportation,2026-03-08,265701
+Boston Public Schools,2026-03-08,32868
+American University,2026-03-08,207915
+NYU Langone Health,2026-03-08,263908
+Ad Age,2026-03-08,1175209
+Crain's New York Business,2026-03-08,36818
+National Institute of Standards and Technology (NIST),2026-03-08,427517
+Federal Bureau of Investigation (FBI),2026-03-08,946998
+Fortinet,2026-03-08,1263441
+Microchip Technology Inc.,2026-03-08,491140
+Boston Globe Media,2026-03-08,70798
+Gucci,2026-03-08,2341782
+HSBC Private Bank,2026-03-08,169317
+Vertex Pharmaceuticals,2026-03-08,568154
+Bloomberg News,2026-03-08,4196094
+Federal Deposit Insurance Corporation (FDIC),2026-03-08,140076
 JuliaHub,2026-02-09,34570
 JuliaCon 2026,2026-02-09,5508
 SciML,2026-02-09,4158
