@@ -1,298 +1,51 @@
 Company,Date,Followers
-Women in Data Science (WiDS) Dublin,2026-03-08,910
-Women in AI Ireland,2026-03-08,8217
-PyLadies Dublin,2026-03-08,878
-United Nations Department of Economic and Social Affairs,2026-03-08,27494
-KDnuggets,2026-03-08,52921
-United Nations Office for Sustainable Development (UNOSD),2026-03-08,22953
-RLadies Barranquilla,2026-03-08,2
-R-Ladies D.C.,2026-03-08,176
-R-Ladies Gaborone,2026-03-08,808
-rainbowR,2026-03-08,619
-Rome R Users Group,2026-03-08,606
-Ghana R Users Community,2026-03-08,1492
-PyLadies Amsterdam,2026-03-08,1708
-Women in AI Benelux,2026-03-08,10608
-R Consortium,2026-03-08,10749
-InfluxData,2026-03-08,23094
-PySport,2026-03-08,4981
-R User Community Africa,2026-03-08,456
-Kemmy Business School,2026-03-08,7001
-Space42,2026-03-08,178041
-PyData La Paz,2026-03-08,15
-PyData Slovakia,2026-03-08,89
-PyData Sri Lanka,2026-03-08,193
-PyData Melbourne,2026-03-08,22
-PyData Ireland,2026-03-08,411
-PyData Kaunas,2026-03-08,41
-PyData Panamá,2026-03-08,52
-PyData Boston,2026-03-08,440
-PyData Singapore,2026-03-08,24
-PyData Amaravati,2026-03-08,27
-Pydata Nairobi,2026-03-08,43
-PyData Raipur,2026-03-08,52
-InternAge,2026-03-08,109
-PyData POA,2026-03-08,76
-PyData Kraków,2026-03-08,122
-PyData Khobar,2026-03-08,123
-PyData Bristol Meetup,2026-03-08,114
-PyData Johannesburg Community,2026-03-08,210
-PyData Padova,2026-03-08,159
-PyData Ann Arbor,2026-03-08,19
-PyData Southampton,2026-03-08,247
-PyData GRX,2026-03-08,422
-PyData Prague,2026-03-08,413
-PyData Edinburgh,2026-03-08,219
-PyData DC,2026-03-08,50
-PyData Piraeus,2026-03-08,261
-PyData Tunisia,2026-03-08,580
-PyData Trojmiasto,2026-03-08,507
-PyData Cluj-Napoca,2026-03-08,301
-PyData Athens,2026-03-08,253
-PyData Stockholm,2026-03-08,312
-PyData SWFL,2026-03-08,39
-PyData Brasília,2026-03-08,268
-PyData Montréal,2026-03-08,328
-PyData Cordoba,2026-03-08,332
-PyData Cyprus,2026-03-08,355
-PyData Hamburg,2026-03-08,702
-PyData Tel Aviv,2026-03-08,1005
-PyData Paris,2026-03-08,2005
-PyData Charlotte,2026-03-08,109
-PyData Copenhagen,2026-03-08,883
-PyCon DE & PyData,2026-03-08,4683
-PyData London,2026-03-08,1217
-Software Lancaster Talks,2026-03-08,872
-PyData Berlin,2026-03-08,2131
-PyData Bydgoszcz,2026-03-08,1068
-PyData Madrid,2026-03-08,1798
-PyData Los Angeles,2026-03-08,163
-PyData Yerevan,2026-03-08,1530
-PyData Manaus,2026-03-08,1253
-PyData Riyadh,2026-03-08,1303
-PyData London,2026-03-08,1979
-PyData São Paulo,2026-03-08,1605
-PyData Delhi,2026-03-08,1864
-PyData Amsterdam,2026-03-08,5704
-PyData NYC,2026-03-08,2002
-PyData Eindhoven,2026-03-08,2170
-PyData Miami,2026-03-08,585
-PyData Pittsburgh,2026-03-08,571
-R Users Malawi,2026-03-08,291
-R User Community EMEA,2026-03-08,615
-NTT DATA Middle East and Africa,2026-03-08,443894
-NTT DATA  Inc.,2026-03-08,1291317
-R User Community,2026-03-08,22237
-Softest Consulting Services Ltd,2026-03-08,6041
-PyLadies Seattle,2026-03-08,345
-Irish Human Rights and Equality Commission,2026-03-08,17880
-SciML,2026-03-08,4170
-PyData Warsaw,2026-03-08,370
-PyData,2026-03-08,2145
-Anaconda  Inc.,2026-03-08,102592
-NumFOCUS,2026-03-08,11739
+2K,2026-02-23,357305
 2K,2026-03-08,358069
-scikit-learn,2026-03-08,123119
-INCRYPT MINING LTD,2026-03-08,202
-Google Summer of Code,2026-03-08,119597
-PumasAI,2026-03-08,6596
-SwissAI,2026-03-08,477
-Keebo,2026-03-08,4852
-DecisionBrain,2026-03-08,4583
-GitHub,2026-03-08,5927644
-MIT Technology Review,2026-03-08,1504123
-Open Robotics,2026-03-08,201630
-OpenAI,2026-03-08,10279181
-Hackster.io,2026-03-08,57097
-Google Cloud,2026-03-08,3179593
-Stack Overflow,2026-03-08,1596821
-AWS AI,2026-03-08,454346
-PyTorch,2026-03-08,310259
-NVIDIA AI,2026-03-08,1661231
-Hugging Face,2026-03-08,1185177
-OpenCV,2026-03-08,337234
-IrishITJobs.ie,2026-03-08,1063
-PyData Global,2026-03-08,8184
-University of Limerick,2026-03-08,142651
-Evolution AI,2026-03-08,4284
-HEDS Data Science,2026-03-08,562
-Centre for Sustainable Fashion,2026-03-08,86676
-Fashion for Good,2026-03-08,153998
-The LEGO Foundation,2026-03-08,136951
-Adessium Foundation,2026-03-08,5261
-Van Leer Foundation,2026-03-08,29625
-Laudes Foundation,2026-03-08,39450
-MAVA Foundation,2026-03-08,8962
-Oak Foundation,2026-03-08,46992
-Swiss Philanthropy Foundation,2026-03-08,10153
-PHILANTHROPY ADVISORS,2026-03-08,6610
-Rocky Mountain Elk Foundation,2026-03-08,33602
-The Michael J. Fox Foundation for Parkinson's Research,2026-03-08,57920
-Lumina Foundation,2026-03-08,37549
-Wilder,2026-03-08,10759
-Aga Khan Foundation USA,2026-03-08,29698
-The Surfrider Foundation,2026-03-08,43255
-Foundation for Economic Education,2026-03-08,26424
-storytelling with data,2026-03-08,164467
-Dimension Data,2026-03-08,435264
-Open Data Science Conference (ODSC),2026-03-08,144513
-Data Science Academy,2026-03-08,570358
-Data Axle,2026-03-08,154995
-Data Science Dojo,2026-03-08,308540
-X-Europe Data Science,2026-03-08,93
-simpl.study,2026-03-08,67
-AI Ireland,2026-03-08,9022
-Why R?,2026-03-08,5581
-useR! - The R User Conference,2026-03-08,7835
-The Machine Learning Institute Certificate in Finance (MLI),2026-03-08,1636
-Data Science Institute,2026-03-08,20060
-Data Istanbul,2026-03-08,3933
-The Data Lab - Innovation Centre,2026-03-08,18107
-Data Science and Ai Association of Australia | DSAi,2026-03-08,7202
-Data Science Indonesia,2026-03-08,11909
-DSN - Data Science Nigeria,2026-03-08,26295
-Data Science Research Perú,2026-03-08,38890
-DSPT - Data Science Portugal,2026-03-08,11162
-Toronto Machine Learning Summit (TMLS),2026-03-08,15181
-Machine Learning and Data Analytics Lab at NTU EEE,2026-03-08,3077
-Machine Learning Society,2026-03-08,21315
-Machine Learning at Berkeley,2026-03-08,5373
-McMaster Artificial Intelligence Society,2026-03-08,1242
-Nordic.AI,2026-03-08,683
-AI Copenhagen,2026-03-08,340
-Sydney Machine Learning Group,2026-03-08,192
-JerusML,2026-03-08,717
-Data Science Milan,2026-03-08,1839
-Data Lille,2026-03-08,1686
-Los Angeles Machine Learning Meetup,2026-03-08,10
-Meetup Machine Learning Québec,2026-03-08,114
-Artificial Intelligence Hong Kong,2026-03-08,2119
-Hong Kong Machine Learning,2026-03-08,3267
-MLT,2026-03-08,8961
-meetup.ai,2026-03-08,547
-Cologne AI and Machine Learning Meetup,2026-03-08,1037
-Machine Learning Porto Alegre,2026-03-08,500
-Machine Learning in Healthcare,2026-03-08,1033
-Erlangen Artificial Intelligence & Machine Learning Meetup,2026-03-08,567
-Paris Machine Learning Meetup,2026-03-08,484
-Toronto Machine Learning Meetup,2026-03-08,311
-Data Residents,2026-03-08,53
-Data Science & Artificial Intelligence/AI South East London,2026-03-08,180
-Data Science Ghent,2026-03-08,300
-Machine Learning & Data Science Meetup Roma,2026-03-08,318
-The Data Pub,2026-03-08,3580
-Data Science Meetup,2026-03-08,145
-University College Dublin,2026-03-08,360303
-Data Science Research Arab Team,2026-03-08,302
-Thalesians Ltd,2026-03-08,5697
-CONNECT Centre,2026-03-08,5661
-UoM AI and Machine Learning Society,2026-03-08,97
-LSESU Machine Learning Society,2026-03-08,134
-Machine Learning Society at MIM UW,2026-03-08,399
-Nottingham Economics & Finance Society,2026-03-08,5700
-Finance Society at the University of Connecticut,2026-03-08,813
-CSUDH Finance Student Society,2026-03-08,90
-AUB Computer Science Student Society,2026-03-08,174
-Western Computer Science Undergraduate Society,2026-03-08,269
-UST Computer Science Society,2026-03-08,157
-University Of Sheffield Computer Science Society,2026-03-08,108
-UBC Computer Science Student Society,2026-03-08,824
-Otago Computing Students Society,2026-03-08,62
-Sheffield Women in Computer Science Society,2026-03-08,154
-Queen Mary Electronic Engineering & Computer Science Society,2026-03-08,53
-Lancaster University Computer Science Society,2026-03-08,111
-Dalhousie Computer Science Society,2026-03-08,198
-Computer Science & Engineering Society at UC San Diego,2026-03-08,433
-McMaster Computer Science Society,2026-03-08,87
-UNSW Computer Science and Engineering Society (CSESoc),2026-03-08,2762
-McMaster Computer Science Society,2026-03-08,251
-Dublin University Computer Science Society,2026-03-08,213
-University of Bristol Computer Science Society,2026-03-08,351
-Computer Science Society (CSS) - University of Birmingham,2026-03-08,490
-The Data Science & Statistics Society,2026-03-08,595
-LSESU Data Science Society,2026-03-08,12
-Hertie School Data Science Society,2026-03-08,343
-The Manchester AI Society,2026-03-08,1110
-Exeter Artificial Intelligence and Data Science Society (X-AI),2026-03-08,93
-DSCS  George Mason University,2026-03-08,120
-Data Science and AI Society - UTS,2026-03-08,393
-Bristol Data Science Society,2026-03-08,444
-Cambridge University Data Science Society,2026-03-08,279
-Baruch Data Science & Analytics Society,2026-03-08,655
-Ryerson University Data Science Society,2026-03-08,222
-LSESU Data Science Society,2026-03-08,658
-Leeds Data Science Society,2026-03-08,369
-Monash Data & AI Society,2026-03-08,1508
-ITU Data Science Society,2026-03-08,2114
-Hong Kong Data Science Society,2026-03-08,272
-Warwick Data Science Society,2026-03-08,1659
-Columbia Data Science Society,2026-03-08,1131
-Data Science Society,2026-03-08,2133
-Research Ireland Centre for Research Training in Artificial Intelligence,2026-03-08,2533
-AaltoAI,2026-03-08,1690
-SAIS Sheffield Artificial Intelligence Society,2026-03-08,38
-KCL Data Science Society,2026-03-08,69
-Ankara University Computer Society,2026-03-08,1092
-Artificial Intelligence & Robotics Society  University of Portsmouth,2026-03-08,386
-Artificial Intelligence in Medical Systems Society (AIMSS),2026-03-08,1476
-AI Hack 2021,2026-03-08,116
-Data Science Student Society at UJ,2026-03-08,123
-Big Data and Artificial Intelligence Club,2026-03-08,566
-Data Science Society,2026-03-08,301
-Data Science Club of UWA,2026-03-08,895
-ICL Machine Learning Society,2026-03-08,103
-Carleton Artificial Intelligence Society,2026-03-08,365
-Kharagpur Data Analytics Group,2026-03-08,4063
-USC Center for AI in Society's Student Branch (CAIS++),2026-03-08,401
-LUMS Data Science Society,2026-03-08,1004
-Imperial College Data Science Society,2026-03-08,1114
-UNSW Data Science Society (DataSoc),2026-03-08,1409
-Data Science Student Society at UC San Diego,2026-03-08,1256
-UCL Data Science Society,2026-03-08,2010
-Data Science Society at Berkeley,2026-03-08,1529
-Data Science Club at UTDallas,2026-03-08,2357
-UCD Investors and Entrepreneurs Society,2026-03-08,4659
-UCD Netsoc – UCD's Internet and Computer Science Society,2026-03-08,555
-UCD I&E Student Managed Fund,2026-03-08,2816
-Irish Student Consulting Group (ISCG),2026-03-08,6428
-DataSoc,2026-03-08,906
-MLOps,2026-03-08,3146
-MLOps community,2026-03-08,44866
-DataTalksClub,2026-03-08,30250
-Latvia Artificial Intelligence Club,2026-03-08,1976
-AMD Silo AI,2026-03-08,28130
-DAIN Studios,2026-03-08,5108
-MTENGO wa MIZU LTD,2026-01-26,62
-Kweza Afrika,2026-01-26,115
 AI & INNOVATION HUB,2026-01-26,800
-Ritz Holdings Limited,2026-01-26,3024
-Initial Data Offering,2026-01-26,2439
-The Cryptonomist,2026-01-26,8073
-Zantchito Malawi,2026-01-26,13004
-R User Community,2026-01-26,21671
-DataVerseAfrica,2026-01-26,4359
-crypto.news,2026-01-26,8224
-Imagine Worldwide,2026-01-26,11971
-Global Alliance for Improved Nutrition (GAIN),2026-01-26,108658
-Elite Research and Data Science Institute,2026-01-26,2006
-Ghana Computational Biosciences Network,2026-01-26,582
-OmniGenics,2026-01-26,1737
-IVSA UNILORIN (International Veterinary Students' Association University of Ilorin),2026-01-26,271
-MAKEUP GHANA,2026-01-26,81
-R-Ladies Gaborone,2026-01-26,810
-DEU Department of Business Administration,2026-01-26,1002
-Filariasis Research Group - KCCR,2026-01-26,2504
-Slamm Foundation,2026-01-26,546
-TCF Baghbaan Ambassadors,2026-01-26,468
-KNUST School of Public Health,2026-01-26,1401
-Ghana Data Science Summit (IndabaX Ghana),2026-01-26,6164
-TaxLawGH,2026-01-26,17726
-KNUST School of Medical Sciences,2026-01-26,4038
-Coalition for Fisheries Transparency,2026-01-26,3382
-SBP AFRICA GROUP,2026-01-26,1661
-Tacugama,2026-01-26,4931
-Eskay Therapeutics Ltd,2026-01-26,1427
-Genetics Biotechnology & Seed Science Unit University of Abomey-Calavi,2026-01-26,9156
+AI Copenhagen,2026-02-23,340
+AI Copenhagen,2026-03-08,340
+AI Hack 2021,2026-02-23,116
+AI Hack 2021,2026-03-08,116
+AI Inclusive,2025-11-16,4186
+AI Ireland,2026-02-23,8946
+AI Ireland,2026-03-08,9022
+AI for Global Goals,2025-11-24,8232
+AMD Silo AI,2026-02-23,27967
+AMD Silo AI,2026-03-08,28130
+ATRIBS GLOBAL TECHNOLOGY,2026-02-23,8221
+AUB Computer Science Student Society,2026-02-23,174
+AUB Computer Science Student Society,2026-03-08,174
+AWS AI,2026-02-23,454120
+AWS AI,2026-03-08,454346
+AaltoAI,2026-02-23,1681
+AaltoAI,2026-03-08,1690
+Adessium Foundation,2026-02-23,5241
+Adessium Foundation,2026-03-08,5261
+Aga Khan Foundation USA,2026-02-23,29663
+Aga Khan Foundation USA,2026-03-08,29698
+Age Of Geeks,2026-02-23,148428
+Alpine Data,2025-11-16,2355
+Anaconda  Inc.,2026-03-08,102592
+Anaconda Inc.,2025-11-24,100727
+Anaconda Inc.,2026-02-23,102304
+Ankara University Computer Society,2026-02-23,1081
+Ankara University Computer Society,2026-03-08,1092
+Appriss,2026-02-23,7087
+Appsilon,2025-11-16,11094
+Artificial Intelligence & Robotics Society  University of Portsmouth,2026-03-08,386
+Artificial Intelligence & Robotics Society University of Portsmouth,2026-02-23,386
+Artificial Intelligence Hong Kong,2026-02-23,2119
+Artificial Intelligence Hong Kong,2026-03-08,2119
+Artificial Intelligence in Medical Systems Society (AIMSS),2026-02-23,1474
+Artificial Intelligence in Medical Systems Society (AIMSS),2026-03-08,1476
+Awakatech,2025-11-24,1734
+Bamboo Health,2026-02-23,20161
+Baruch Data Science & Analytics Society,2026-02-23,655
+Baruch Data Science & Analytics Society,2026-03-08,655
+Bayanat Smart Solutions,2026-02-23,61499
+Beacon IT Solutions Abu Dhabi,2026-02-23,274
+Big Data and Artificial Intelligence Club,2026-02-23,566
+Big Data and Artificial Intelligence Club,2026-03-08,566
 Bike Library,2025-04-28,1467
 Bike Library,2025-05-06,1467
 Bike Library,2025-05-20,1467
@@ -3486,3 +3239,180 @@ Boston Planning & Development Agency,2023-03-29,4158
 Boston Planning & Development Agency,2023-04-10,4186
 Boston Planning & Development Agency,2023-04-23,4212
 Boston Planning & Development Agency,2023-06-05,4300
+Bristol Data Science Society,2026-02-23,439
+Bristol Data Science Society,2026-03-08,444
+Buffalo State Data Science & Analytics (DSA),2026-02-23,701
+CONNECT Centre,2026-02-23,5637
+CONNECT Centre,2026-03-08,5661
+CSUDH Finance Student Society,2026-02-23,90
+CSUDH Finance Student Society,2026-03-08,90
+Cambridge University Data Science Society,2026-02-23,278
+Cambridge University Data Science Society,2026-03-08,279
+Capital Quant Agency,2026-02-23,2358
+Carleton Artificial Intelligence Society,2026-02-23,363
+Carleton Artificial Intelligence Society,2026-03-08,365
+Centre for Sustainable Fashion,2026-02-23,86592
+Centre for Sustainable Fashion,2026-03-08,86676
+Coalition for Fisheries Transparency,2026-01-26,3382
+Cologne AI and Machine Learning Meetup,2026-02-23,1030
+Cologne AI and Machine Learning Meetup,2026-03-08,1037
+Columbia Data Science Society,2026-02-23,1129
+Columbia Data Science Society,2026-03-08,1131
+Computer Science & Engineering Society at UC San Diego,2026-02-23,430
+Computer Science & Engineering Society at UC San Diego,2026-03-08,433
+Computer Science Society (CSS) - University of Birmingham,2026-02-23,489
+Computer Science Society (CSS) - University of Birmingham,2026-03-08,490
+DAIN Studios,2026-02-23,5078
+DAIN Studios,2026-03-08,5108
+DEU Department of Business Administration,2026-01-26,1002
+DOF,2026-02-23,380392
+DSCS  George Mason University,2026-03-08,120
+DSCS George Mason University,2026-02-23,120
+DSN - Data Science Nigeria,2026-02-23,26145
+DSN - Data Science Nigeria,2026-03-08,26295
+DSPT - Data Science Portugal,2026-02-23,11065
+DSPT - Data Science Portugal,2026-03-08,11162
+DUBAI TECH,2026-02-23,161
+Dalhousie Computer Science Society,2026-02-23,198
+Dalhousie Computer Science Society,2026-03-08,198
+Data Analytics,2025-11-16,273665
+Data Axle,2026-02-23,154708
+Data Axle,2026-03-08,154995
+Data Berlin,2025-11-24,1074
+Data Istanbul,2026-02-23,3932
+Data Istanbul,2026-03-08,3933
+Data Lille,2026-02-23,1671
+Data Lille,2026-03-08,1686
+Data Residents,2026-02-23,53
+Data Residents,2026-03-08,53
+Data Science & Artificial Intelligence/AI South East London,2026-02-23,180
+Data Science & Artificial Intelligence/AI South East London,2026-03-08,180
+Data Science Academy,2026-02-23,568780
+Data Science Academy,2026-03-08,570358
+Data Science Berlin,2025-11-24,34
+Data Science Club at UTDallas,2026-02-23,2350
+Data Science Club at UTDallas,2026-03-08,2357
+Data Science Club of UWA,2026-02-23,891
+Data Science Club of UWA,2026-03-08,895
+Data Science Dojo,2026-02-23,308764
+Data Science Dojo,2026-03-08,308540
+Data Science Festival,2025-11-24,7258
+Data Science Ghent,2026-02-23,300
+Data Science Ghent,2026-03-08,300
+Data Science Indonesia,2026-02-23,11888
+Data Science Indonesia,2026-03-08,11909
+Data Science Institute,2026-02-23,20047
+Data Science Institute,2026-03-08,20060
+Data Science Meetup,2026-02-23,145
+Data Science Meetup,2026-03-08,145
+Data Science Milan,2026-02-23,1835
+Data Science Milan,2026-03-08,1839
+Data Science Research Arab Team,2026-02-23,301
+Data Science Research Arab Team,2026-03-08,302
+Data Science Research Perú,2026-02-23,38612
+Data Science Research Perú,2026-03-08,38890
+Data Science Society,2026-02-23,2123
+Data Science Society,2026-02-23,301
+Data Science Society,2026-03-08,2133
+Data Science Society,2026-03-08,301
+Data Science Society at Berkeley,2026-02-23,1527
+Data Science Society at Berkeley,2026-03-08,1529
+Data Science Student Society at UC San Diego,2026-02-23,1244
+Data Science Student Society at UC San Diego,2026-03-08,1256
+Data Science Student Society at UJ,2026-02-23,124
+Data Science Student Society at UJ,2026-03-08,123
+Data Science and AI Society - UTS,2026-02-23,393
+Data Science and AI Society - UTS,2026-03-08,393
+Data Science and Ai Association of Australia | DSAi,2026-02-23,7189
+Data Science and Ai Association of Australia | DSAi,2026-03-08,7202
+Data Visualization Society,2026-02-23,153045
+DataCamp,2026-02-23,554989
+DataKind UK,2025-11-24,5618
+DataSoc,2026-02-23,906
+DataSoc,2026-03-08,906
+DataTalksClub,2026-02-23,30123
+DataTalksClub,2026-03-08,30250
+DataVerseAfrica,2026-01-26,4359
+DecisionBrain,2026-02-23,4565
+DecisionBrain,2026-03-08,4583
+DeepLearning.AI,2026-02-23,1324459
+Defence Forces of Ireland,2022-03-20,4218
+Defence Forces of Ireland,2022-03-29,4227
+Defence Forces of Ireland,2022-04-09,4229
+Defence Forces of Ireland,2022-04-11,4231
+Defence Forces of Ireland,2022-04-13,4230
+Defence Forces of Ireland,2022-04-19,4238
+Defence Forces of Ireland,2022-04-25,4241
+Defence Forces of Ireland,2022-04-29,4248
+Defence Forces of Ireland,2022-05-05,4251
+Defence Forces of Ireland,2022-05-22,4269
+Defence Forces of Ireland,2022-05-23,4269
+Defence Forces of Ireland,2022-05-27,4274
+Defence Forces of Ireland,2022-05-30,4275
+Defence Forces of Ireland,2022-06-01,4276
+Defence Forces of Ireland,2022-06-03,4278
+Defence Forces of Ireland,2022-06-11,4282
+Defence Forces of Ireland,2022-06-13,4282
+Defence Forces of Ireland,2022-06-15,4281
+Defence Forces of Ireland,2022-06-20,4284
+Defence Forces of Ireland,2022-06-22,4286
+Defence Forces of Ireland,2022-06-23,4286
+Defence Forces of Ireland,2022-06-26,4289
+Defence Forces of Ireland,2022-06-30,4289
+Defence Forces of Ireland,2022-07-01,4289
+Defence Forces of Ireland,2022-07-02,4291
+Defence Forces of Ireland,2022-07-04,4291
+Defence Forces of Ireland,2022-07-05,4293
+Defence Forces of Ireland,2022-07-09,4292
+Defence Forces of Ireland,2022-07-12,4295
+Defence Forces of Ireland,2022-07-18,4298
+Defence Forces of Ireland,2022-07-21,4303
+Defence Forces of Ireland,2022-07-23,4308
+Defence Forces of Ireland,2022-07-25,4311
+Defence Forces of Ireland,2022-08-01,4326
+Defense Advanced Research Projects Agency (DARPA),2023-01-21,170852
+Defense Advanced Research Projects Agency (DARPA),2023-02-10,173969
+Defense Advanced Research Projects Agency (DARPA),2023-02-25,175832
+Defense Advanced Research Projects Agency (DARPA),2023-03-13,177508
+Defense Advanced Research Projects Agency (DARPA),2023-03-29,179236
+Defense Advanced Research Projects Agency (DARPA),2023-04-10,180455
+Defense Advanced Research Projects Agency (DARPA),2023-04-23,181597
+Defense Advanced Research Projects Agency (DARPA),2023-06-05,186831
+Defense Advanced Research Projects Agency (DARPA),2023-06-11,187660
+Defense Advanced Research Projects Agency (DARPA),2023-06-23,189267
+Defense Advanced Research Projects Agency (DARPA),2023-07-06,191077
+Defense Advanced Research Projects Agency (DARPA),2023-07-23,193075
+Defense Advanced Research Projects Agency (DARPA),2023-08-05,194921
+Defense Advanced Research Projects Agency (DARPA),2023-08-29,198304
+Defense Advanced Research Projects Agency (DARPA),2023-10-18,203972
+Defense Advanced Research Projects Agency (DARPA),2023-12-14,203569
+Defense Advanced Research Projects Agency (DARPA),2023-12-17,203946
+Defense Advanced Research Projects Agency (DARPA),2023-12-18,204026
+Defense Advanced Research Projects Agency (DARPA),2024-04-08,215128
+Defense Advanced Research Projects Agency (DARPA),2024-06-28,230700
+Defense Advanced Research Projects Agency (DARPA),2024-08-06,233736
+Defense Advanced Research Projects Agency (DARPA),2024-09-02,236603
+Defense Advanced Research Projects Agency (DARPA),2024-09-16,238011
+Defense Advanced Research Projects Agency (DARPA),2024-09-27,238991
+Defense Advanced Research Projects Agency (DARPA),2025-01-09,245476
+Defense Advanced Research Projects Agency (DARPA),2025-01-19,246119
+Defense Advanced Research Projects Agency (DARPA),2025-01-27,246764
+Defense Advanced Research Projects Agency (DARPA),2025-03-15,252223
+Defense Advanced Research Projects Agency (DARPA),2025-03-16,252292
+Defense Advanced Research Projects Agency (DARPA),2025-04-28,257715
+Defense Advanced Research Projects Agency (DARPA),2025-05-27,260529
+Defense Advanced Research Projects Agency (DARPA),2025-06-07,261728
+Defense Advanced Research Projects Agency (DARPA),2025-07-27,268728
+Defense Advanced Research Projects Agency (DARPA),2025-08-30,274211
+Defense Counterintelligence and Security Agency (DCSA),2023-01-21,68371
+Defense Counterintelligence and Security Agency (DCSA),2023-02-25,71233
+Defense Counterintelligence and Security Agency (DCSA),2023-03-13,73187
+Defense Counterintelligence and Security Agency (DCSA),2023-03-29,74337
+Defense Counterintelligence and Security Agency (DCSA),2023-04-10,75221
+Defense Counterintelligence and Security Agency (DCSA),2023-04-23,76095
+Defense Counterintelligence and Security Agency (DCSA),2023-06-05,78642
+Defense Counterintelligence and Security Agency (DCSA),2023-06-11,79010
+Defense Counterintelligence and Security Agency (DCSA),2023-06-23,79889
+Defense Counterintelligence and Security Agency (DCSA),2023-07-06,80575
+Defense Counterintelligence and Security Agency (DCSA),2023-07-23,81275
+Defense Counterintelligence and Security Agency (DCSA),2023-08-05,82228
