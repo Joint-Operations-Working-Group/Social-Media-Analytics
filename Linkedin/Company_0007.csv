@@ -1,93 +1,4 @@
 Company,Date,Followers
-Analog Devices,2023-04-23,303920
-Analog Devices,2023-06-05,312931
-Analog Devices,2023-06-11,314600
-Analog Devices,2023-06-23,317755
-Analog Devices,2023-07-06,321081
-Analog Devices,2023-07-23,324882
-Analog Devices,2023-08-05,328905
-Analog Devices,2023-08-29,335040
-Analog Devices,2023-10-18,346279
-Analog Devices,2023-12-14,347620
-Analog Devices,2023-12-17,348263
-Analog Devices,2023-12-18,348426
-Analog Devices,2024-04-08,369606
-Analog Devices,2024-05-04,374359
-Analog Devices,2024-05-28,378301
-Analog Devices,2024-06-24,382223
-Analog Devices,2024-06-28,382964
-Analog Devices,2024-07-20,387176
-Analog Devices,2024-08-06,389875
-Analog Devices,2024-09-02,394177
-Analog Devices,2024-09-16,396728
-Analog Devices,2024-09-27,399168
-Analog Devices,2025-01-09,415244
-Analog Devices,2025-01-19,417499
-Analog Devices,2025-01-27,419110
-Analog Devices,2025-03-15,427928
-Analog Devices,2025-03-16,428047
-Analog Devices,2025-04-28,435098
-Analog Devices,2025-05-27,439762
-Analog Devices,2025-06-07,441922
-Analog Devices,2025-07-27,454911
-Analog Devices,2025-08-30,464847
-Analog Devices,2025-10-10,476982
-Analytic Health,2023-01-22,449
-Analytic Partners,2020-10-20,7378
-Analytic Partners,2020-10-20,7377
-Analytic Partners,2020-10-21,7378
-Analytic Partners,2020-10-23,7383
-Analytic Partners,2020-10-25,7392
-Analytic Partners,2020-10-25,7388
-Analytic Partners,2020-10-28,7394
-Analytic Partners,2020-10-30,7396
-Analytic Partners,2020-11-03,7402
-Analytic Partners,2020-11-06,7410
-Analytic Partners,2020-11-10,7429
-Analytic Partners,2020-11-14,7448
-Analytic Partners,2020-11-18,7522
-Analytic Partners,2020-11-23,7548
-Analytic Partners,2020-11-28,7555
-Analytic Partners,2020-12-03,7558
-Analytic Partners,2020-12-05,7563
-Analytic Partners,2020-12-12,7578
-Analytic Partners,2020-12-15,7584
-Analytic Partners,2020-12-20,7591
-Analytic Partners,2020-12-25,7593
-Analytic Partners,2020-12-29,7598
-Analytic Partners,2021-01-03,7608
-Analytic Partners,2021-01-06,7613
-Analytic Partners,2021-01-11,7622
-Analytic Partners,2021-01-15,7635
-Analytic Partners,2021-01-19,7640
-Analytic Partners,2021-01-25,7657
-Analytic Partners,2021-01-30,7898
-Analytic Partners,2021-01-31,7942
-Analytic Partners,2021-02-03,7988
-Analytic Partners,2021-02-07,8022
-Analytic Partners,2021-02-12,8065
-Analytic Partners,2021-02-17,8089
-Analytic Partners,2021-02-21,8099
-Analytic Partners,2021-02-25,8112
-Analytic Partners,2021-03-01,8132
-Analytic Partners,2021-03-06,8157
-Analytic Partners,2021-03-10,8173
-Analytic Partners,2021-03-16,8186
-Analytic Partners,2021-03-20,8193
-Analytic Partners,2021-03-24,8201
-Analytic Partners,2021-03-30,8212
-Analytic Partners,2021-04-06,8236
-Analytic Partners,2021-04-10,8252
-Analytic Partners,2021-04-15,8267
-Analytic Partners,2021-04-20,8278
-Analytic Partners,2021-04-24,8290
-Analytic Partners,2021-04-28,8307
-Analytic Partners,2021-05-03,8338
-Analytic Partners,2021-05-07,8345
-Analytic Partners,2021-05-10,8356
-Analytic Partners,2021-05-14,8373
-Analytic Partners,2021-05-21,8405
-Analytic Partners,2021-05-26,8420
 Analytic Partners,2021-06-02,8439
 Analytic Partners,2021-06-09,8457
 Analytic Partners,2021-06-16,8470
@@ -452,6 +363,7 @@ Analytics Vidhya,2026-01-01,208652
 Analytics Vidhya,2026-01-01,208653
 Analytics Vidhya,2026-01-15,209176
 Analytics Vidhya,2026-03-17,211054
+Analytics Vidhya,2026-04-07,211899
 Analyticsfy,2023-01-28,309
 Anand Rathi Wealth Management,2021-02-19,1612
 Anand Rathi Wealth Management,2021-03-06,1648
@@ -807,6 +719,7 @@ Apache Sedona,2025-10-10,3357
 Apache Sedona,2025-10-17,3397
 Apache Sedona,2026-01-15,3871
 Apache Sedona,2026-03-17,4191
+Apache Sedona,2026-04-07,4230
 Apache Spark,2026-03-16,24671
 Apertu Capital,2026-03-16,311
 Apex Systems,2025-10-10,1965792
@@ -821,6 +734,7 @@ Applied Epi,2025-10-10,9267
 Applied Epi,2025-10-17,9281
 Applied Epi,2026-01-15,10255
 Applied Epi,2026-03-17,10506
+Applied Epi,2026-04-07,10566
 Applied Materials,2025-10-10,580661
 Appriss,2026-02-09,7083
 Appriss,2026-02-14,7085
@@ -835,11 +749,13 @@ Appsilon,2026-01-01,11117
 Appsilon,2026-01-01,11117
 Appsilon,2026-01-15,11146
 Appsilon,2026-03-17,11306
+Appsilon,2026-04-07,11371
 ArData,2025-10-10,358
 ArData,2025-10-17,359
 ArData,2026-01-01,361
 ArData,2026-01-15,361
 ArData,2026-03-17,362
+ArkeUp Academy,2026-04-07,2122
 ArkeUp Academy | Océan Indien,2025-10-10,2064
 ArkeUp Academy | Océan Indien,2025-10-17,2063
 ArkeUp Academy | Océan Indien,2025-10-26,2065
@@ -866,6 +782,7 @@ Artificial Intelligence in Medical Systems Society (AIMSS),2026-02-25,1474
 Artificial Intelligence in Medical Systems Society (AIMSS),2026-02-27,1476
 Artificial Intelligence in Medical Systems Society (AIMSS),2026-02-27,1475
 Artificial Intelligence in Medical Systems Society (AIMSS),2026-03-11,1476
+Ascential – Part of Informa,2026-04-07,68680
 Ascential – Part of the Informa Group,2025-10-10,68453
 Ascential – Part of the Informa Group,2025-10-17,68465
 Ascential – Part of the Informa Group,2025-10-26,68489
@@ -895,6 +812,7 @@ Ayiti Analytics,2025-10-10,2032
 Ayiti Analytics,2025-10-17,2033
 Ayiti Analytics,2026-01-15,2039
 Ayiti Analytics,2026-03-17,2051
+Ayiti Analytics,2026-04-07,2053
 BAE Systems Digital Intelligence,2025-10-10,139885
 "BAE Systems, Inc.",2025-10-10,463919
 BB&T,2025-10-10,126032
@@ -912,11 +830,13 @@ BCG X,2025-10-10,312687
 BCG X,2025-10-17,313780
 BCG X,2026-01-15,324459
 BCG X,2026-03-17,332482
+BCG X,2026-04-07,334556
 BERD@NFDI,2026-03-16,1265
 BIMS,2025-10-10,2987
 BIMS,2025-10-17,2994
 BIMS,2026-01-15,3064
 BIMS,2026-03-17,3245
+BIMS,2026-04-07,3254
 BNP Paribas,2025-10-10,1806528
 BRITCO,2026-03-16,794
 BSides Belfast,2026-03-16,1855
@@ -924,9 +844,11 @@ BSides Galway,2025-10-10,294
 BSides Galway,2025-10-17,296
 BSides Galway,2026-01-15,437
 BSides Galway,2026-03-17,567
+BSides Galway,2026-04-07,575
 BURKINA FASO Users R Community,2025-10-17,24
 BURKINA FASO Users R Community,2026-01-15,25
 BURKINA FASO Users R Community,2026-03-17,25
+BURKINA FASO Users R Community,2026-04-07,25
 BYU Career Services,2026-03-16,736
 Baidu Inc.,2025-11-16,289047
 Bain & Company,2025-10-10,2484280
@@ -950,6 +872,7 @@ Baruch Data Science & Analytics Society,2026-02-27,654
 Baruch Data Science & Analytics Society,2026-03-11,657
 Baseline Community + Fund,2026-01-15,1755
 Baseline Community + Fund,2026-03-17,2039
+Baseline Community + Fund,2026-04-07,2140
 Baseline Community + Workspace,2025-10-10,1339
 Baseline Community + Workspace,2025-10-17,1380
 Bauplan,2026-03-16,2580
@@ -960,6 +883,7 @@ BeZero Carbon,2025-10-10,37359
 BeZero Carbon,2025-10-17,37466
 BeZero Carbon,2026-01-15,38809
 BeZero Carbon,2026-03-17,39693
+BeZero Carbon,2026-04-07,40025
 Beacon IT Solutions Abu Dhabi,2026-02-09,273
 Beacon IT Solutions Abu Dhabi,2026-02-27,274
 Beacon IT Solutions Abu Dhabi,2026-03-11,275
@@ -967,6 +891,7 @@ Becht Foundation,2025-10-10,965
 Becht Foundation,2025-10-17,969
 Becht Foundation,2026-01-15,1021
 Becht Foundation,2026-03-17,1041
+Becht Foundation,2026-04-07,1044
 Benin ThinkLab,2025-10-10,93
 Benin ThinkLab,2025-10-17,93
 Benin ThinkLab,2025-10-26,93
@@ -974,12 +899,14 @@ Benin ThinkLab,2026-01-01,93
 Benin ThinkLab,2026-01-01,93
 Benin ThinkLab,2026-01-15,93
 Benin ThinkLab,2026-03-17,93
+Benin ThinkLab,2026-04-07,93
 Bhutan Data Scientists,2025-10-10,64
 Bhutan Data Scientists,2025-10-17,64
 Bhutan Data Scientists,2025-10-26,65
 Bhutan Data Scientists,2026-01-01,67
 Bhutan Data Scientists,2026-01-15,67
 Bhutan Data Scientists,2026-03-17,68
+Bhutan Data Scientists,2026-04-07,68
 Big Data LDN,2025-10-10,16498
 Big Data LDN,2025-10-17,16606
 Big Data LDN,2025-10-26,16686
@@ -987,6 +914,7 @@ Big Data LDN,2026-01-01,16790
 Big Data LDN,2026-01-01,16790
 Big Data LDN,2026-01-15,16831
 Big Data LDN,2026-03-17,16922
+Big Data LDN,2026-04-07,16980
 Big Data and Artificial Intelligence Club,2026-02-09,567
 Big Data and Artificial Intelligence Club,2026-02-14,567
 Big Data and Artificial Intelligence Club,2026-02-25,566
@@ -1014,6 +942,7 @@ Black in Data,2025-10-10,5054
 Black in Data,2025-10-17,5128
 Black in Data,2026-01-15,5365
 Black in Data,2026-03-17,5454
+Black in Data,2026-04-07,5491
 BlackRock,2025-10-10,2587120
 Blackstone,2025-10-10,1491037
 Blizzard Entertainment,2025-10-10,1110610
@@ -2805,6 +2734,7 @@ Business Data Laboratory Limited,2025-10-17,249
 Business Data Laboratory Limited,2026-01-01,247
 Business Data Laboratory Limited,2026-01-15,248
 Business Data Laboratory Limited,2026-03-17,248
+Business Data Laboratory Limited,2026-04-07,249
 Business Insider,2023-12-17,10908620
 Business Insider,2023-12-18,10909430
 Business Insider,2024-06-28,10950837
@@ -3054,6 +2984,7 @@ Business Science,2025-10-26,15226
 Business Science,2026-01-01,15218
 Business Science,2026-01-15,15223
 Business Science,2026-03-17,15214
+Business Science,2026-04-07,15215
 Business Travel Show,2025-01-19,9045
 Business Travel Show,2025-03-16,9299
 Business Travel Show,2025-04-28,9568
@@ -3232,6 +3163,7 @@ CARTO,2026-01-01,53623
 CARTO,2026-01-01,53623
 CARTO,2026-01-15,53778
 CARTO,2026-03-17,54482
+CARTO,2026-04-07,54731
 CAS,2023-01-28,26945
 CAST AI,2023-01-25,4372
 CAST AI,2023-01-29,4392
@@ -3438,6 +3370,7 @@ CIMS Global,2025-10-17,593
 CIMS Global,2026-01-01,763
 CIMS Global,2026-01-15,766
 CIMS Global,2026-03-17,786
+CIMS Global,2026-04-07,806
 CINECA,2023-03-13,14547
 CINECA,2023-03-29,14748
 CINECA,2023-04-10,14891
@@ -3747,6 +3680,7 @@ CRV,2025-07-27,17668
 CRV,2025-08-30,18049
 CS++,2026-01-15,501
 CS++,2026-03-17,545
+CS++,2026-04-07,545
 CSCS,2025-01-09,12457
 CSCS,2025-01-19,12507
 CSCS,2025-01-27,12543
@@ -3986,3 +3920,168 @@ CSO (Central Statistics Office Ireland),2024-09-07,12175
 CSO (Central Statistics Office Ireland),2024-09-10,12193
 CSO (Central Statistics Office Ireland),2024-09-16,12230
 CSO (Central Statistics Office Ireland),2024-09-24,12264
+CSO (Central Statistics Office Ireland),2024-10-02,12334
+CSO (Central Statistics Office Ireland),2024-11-15,12518
+CSO (Central Statistics Office Ireland),2024-11-24,12572
+CSO (Central Statistics Office Ireland),2024-12-07,12612
+CSO (Central Statistics Office Ireland),2025-01-08,12746
+CSO (Central Statistics Office Ireland),2025-01-18,12798
+CSO (Central Statistics Office Ireland),2025-01-27,12841
+CSO (Central Statistics Office Ireland),2025-02-04,12881
+CSO (Central Statistics Office Ireland),2025-02-20,12981
+CSO (Central Statistics Office Ireland),2025-02-28,13026
+CSO (Central Statistics Office Ireland),2025-03-03,13030
+CSO (Central Statistics Office Ireland),2025-03-16,13069
+CSO (Central Statistics Office Ireland),2025-04-13,13166
+CSO (Central Statistics Office Ireland),2025-04-22,13209
+CSO (Central Statistics Office Ireland),2025-04-27,13226
+CSO (Central Statistics Office Ireland),2025-04-28,13239
+CSO (Central Statistics Office Ireland),2025-05-06,13239
+CSO (Central Statistics Office Ireland),2025-05-20,13310
+CSO (Central Statistics Office Ireland),2025-05-25,13322
+CSO (Central Statistics Office Ireland),2025-05-27,13326
+CSO (Central Statistics Office Ireland),2025-06-01,13334
+CSO (Central Statistics Office Ireland),2025-06-07,13348
+CSO (Central Statistics Office Ireland),2025-06-08,13349
+CSO (Central Statistics Office Ireland),2025-06-09,13351
+CSO (Central Statistics Office Ireland),2025-06-10,13353
+CSO (Central Statistics Office Ireland),2025-06-22,13378
+CSO (Central Statistics Office Ireland),2025-07-01,13418
+CSO (Central Statistics Office Ireland),2025-07-04,13418
+CSO (Central Statistics Office Ireland),2025-07-08,13476
+CSO (Central Statistics Office Ireland),2025-07-15,13510
+CSO (Central Statistics Office Ireland),2025-07-27,13574
+CSO (Central Statistics Office Ireland),2025-08-11,13633
+CSO (Central Statistics Office Ireland),2025-08-15,13661
+CSO (Central Statistics Office Ireland),2025-08-18,13666
+CSO (Central Statistics Office Ireland),2025-08-21,13688
+CSO (Central Statistics Office Ireland),2025-08-26,13699
+CSO (Central Statistics Office Ireland),2025-08-30,13699
+CSO (Central Statistics Office Ireland),2025-09-17,13891
+CSO (Central Statistics Office Ireland),2025-10-10,14180
+CSO (Central Statistics Office Ireland),2025-10-17,14240
+CSO (Central Statistics Office Ireland),2025-10-26,14294
+CSO (Central Statistics Office Ireland),2025-11-05,14346
+CSO (Central Statistics Office Ireland),2026-01-01,14530
+CSO (Central Statistics Office Ireland),2026-01-01,14530
+CSO (Central Statistics Office Ireland),2026-01-15,14576
+CSO (Central Statistics Office Ireland),2026-02-04,14713
+CSO (Central Statistics Office Ireland),2026-03-17,14993
+CSO (Central Statistics Office),2020-10-15,4818
+CSO (Central Statistics Office),2020-10-20,4830
+CSO (Central Statistics Office),2020-10-21,4832
+CSO (Central Statistics Office),2020-10-23,4837
+CSO (Central Statistics Office),2020-10-25,4848
+CSO (Central Statistics Office),2020-10-25,4843
+CSO (Central Statistics Office),2020-10-28,4859
+CSO (Central Statistics Office),2020-10-30,4867
+CSO (Central Statistics Office),2020-11-03,4878
+CSO (Central Statistics Office),2020-11-06,4896
+CSO (Central Statistics Office),2020-11-10,4912
+CSO (Central Statistics Office),2020-11-14,4928
+CSO (Central Statistics Office),2020-11-18,4948
+CSO (Central Statistics Office),2020-11-23,4978
+CSO (Central Statistics Office),2020-11-28,4994
+CSO (Central Statistics Office),2020-12-03,5010
+CSO (Central Statistics Office),2020-12-05,5013
+CSO (Central Statistics Office),2020-12-12,5033
+CSO (Central Statistics Office),2020-12-15,5038
+CSO (Central Statistics Office),2020-12-20,5050
+CSO (Central Statistics Office),2020-12-25,5057
+CSO (Central Statistics Office),2020-12-29,5062
+CSO (Central Statistics Office),2021-01-03,5064
+CSO (Central Statistics Office),2021-01-06,5071
+CSO (Central Statistics Office),2021-01-11,5083
+CSO (Central Statistics Office),2021-01-15,5094
+CSO (Central Statistics Office),2021-01-19,5103
+CSO (Central Statistics Office),2021-01-25,5119
+CSO (Central Statistics Office),2021-01-30,5128
+CSO (Central Statistics Office),2021-01-31,5128
+CSP Daily News,2023-01-21,3959
+CSP Daily News,2023-02-25,4183
+CSP Daily News,2023-03-13,4314
+CSP Daily News,2023-03-29,4410
+CSP Daily News,2023-04-10,4475
+CSP Daily News,2023-04-23,4531
+CSP Daily News,2023-06-05,4763
+CSP Daily News,2023-06-11,4802
+CSP Daily News,2023-06-23,4860
+CSP Daily News,2023-07-06,4929
+CSP Daily News,2023-07-23,5005
+CSP Daily News,2023-08-05,5052
+CSP Daily News,2023-08-29,5164
+CSP Daily News,2023-10-18,5501
+CSP Daily News,2023-12-18,5675
+CSP Daily News,2025-05-27,9361
+CSR Europe,2020-10-16,10755
+CSR Europe,2020-10-21,10872
+CSR Europe,2020-10-22,10919
+CSR Europe,2020-11-02,11272
+CSR Europe,2020-11-07,11318
+CSR Europe,2020-11-21,11415
+CSR Europe,2020-12-15,11634
+CSR Europe,2021-02-19,12283
+CSR Europe,2021-03-26,12659
+CSUDH Finance Student Society,2021-03-28,51
+CSUDH Finance Student Society,2021-03-31,51
+CSUDH Finance Student Society,2021-04-06,51
+CSUDH Finance Student Society,2021-04-10,51
+CSUDH Finance Student Society,2021-04-15,51
+CSUDH Finance Student Society,2021-04-20,52
+CSUDH Finance Student Society,2021-04-24,52
+CSUDH Finance Student Society,2021-04-28,52
+CSUDH Finance Student Society,2021-05-07,52
+CSUDH Finance Student Society,2021-05-10,52
+CSUDH Finance Student Society,2021-05-14,52
+CSUDH Finance Student Society,2021-05-21,52
+CSUDH Finance Student Society,2021-05-26,52
+CSUDH Finance Student Society,2021-05-31,52
+CSUDH Finance Student Society,2021-06-06,52
+CSUDH Finance Student Society,2021-06-09,52
+CSUDH Finance Student Society,2021-06-16,52
+CSUDH Finance Student Society,2021-06-21,52
+CSUDH Finance Student Society,2021-06-29,52
+CSUDH Finance Student Society,2021-07-04,52
+CSUDH Finance Student Society,2021-07-09,52
+CSUDH Finance Student Society,2021-07-14,52
+CSUDH Finance Student Society,2021-07-22,52
+CSUDH Finance Student Society,2021-08-14,52
+CSUDH Finance Student Society,2021-08-26,52
+CSUDH Finance Student Society,2021-09-02,52
+CSUDH Finance Student Society,2021-09-09,51
+CSUDH Finance Student Society,2021-09-16,51
+CSUDH Finance Student Society,2021-10-17,51
+CSUDH Finance Student Society,2021-10-29,51
+CSUDH Finance Student Society,2021-11-20,53
+CSUDH Finance Student Society,2021-12-03,55
+CSUDH Finance Student Society,2021-12-20,56
+CSUDH Finance Student Society,2021-12-26,56
+CSUDH Finance Student Society,2021-12-31,56
+CSUDH Finance Student Society,2022-02-01,57
+CSUDH Finance Student Society,2022-02-07,57
+CSUDH Finance Student Society,2022-02-20,57
+CSUDH Finance Student Society,2022-02-23,57
+CSUDH Finance Student Society,2022-03-03,57
+CSUDH Finance Student Society,2022-03-15,57
+CSUDH Finance Student Society,2022-03-20,57
+CSUDH Finance Student Society,2022-03-29,58
+CSUDH Finance Student Society,2022-04-11,58
+CSUDH Finance Student Society,2022-04-13,58
+CSUDH Finance Student Society,2022-05-22,59
+CSUDH Finance Student Society,2022-05-27,59
+CSUDH Finance Student Society,2022-06-11,59
+CSUDH Finance Student Society,2022-06-16,59
+CSUDH Finance Student Society,2022-06-23,59
+CSUDH Finance Student Society,2022-06-24,59
+CSUDH Finance Student Society,2022-06-30,59
+CSUDH Finance Student Society,2022-07-02,59
+CSUDH Finance Student Society,2022-07-05,59
+CSUDH Finance Student Society,2022-07-13,59
+CSUDH Finance Student Society,2022-07-18,59
+CSUDH Finance Student Society,2022-07-23,59
+CSUDH Finance Student Society,2022-07-25,59
+CSUDH Finance Student Society,2022-08-02,59
+CSUDH Finance Student Society,2022-08-16,59
+CSUDH Finance Student Society,2022-08-20,59
+CSUDH Finance Student Society,2022-08-25,59
+CSUDH Finance Student Society,2022-08-28,59
