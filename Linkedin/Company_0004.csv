@@ -1,90 +1,107 @@
 Company,Date,Followers
-"Walton Family Foundation","2026-03-29",83507
-"The James Irvine Foundation","2026-03-29",27347
-"ORRECO","2026-03-29",7050
-"Ascential – Part of the Informa Group","2026-03-29",68686
-"Falkonry","2026-03-29",5842
-"The Kresge Foundation","2026-03-29",78938
-"NCX","2026-03-29",9906
-"storytelling with data","2026-03-29",164659
-"KIPP Foundation","2026-03-29",69541
-"Coding Black Females","2026-03-29",18043
-"GORODATA","2026-03-29",1572
-"Tata Consultancy Services","2026-03-29",18738473
-"General Assembly","2026-03-29",215976
-"Sentient Projects","2026-03-29",638
-"Software Insights Ireland","2026-03-29",1278
-"AI Ireland","2026-03-29",9119
-"PyLadies Dublin","2026-03-29",895
-"R-Ladies Tunis","2026-03-29",758
-"Plotly","2026-03-29",44283
-"Age Of Geeks","2026-03-29",148397
-"Elm Company","2026-03-29",860454
-"Women in Data®","2026-03-29",109003
-"DataIQ School of Analysis","2026-03-29",144
-"DataIQ","2026-03-29",25657
-"DataKind UK","2026-03-29",5931
-"CivicDataLab","2026-03-29",11870
-"Data for Good Foundation","2026-03-29",2497
-"Data & Society Research Institute","2026-03-29",27450
-"Statistics Without Borders","2026-03-29",2615
-"Data Science for Social Good Foundation","2026-03-29",8219
-"Data For Good","2026-03-29",33044
-"DataDotOrg","2026-03-29",15532
-"Data for Good","2026-03-29",16559
-"DataKind","2026-03-29",32170
-"NumFOCUS","2026-03-29",11777
-"ThinkR (FR)","2026-03-29",1045
-"Posit PBC","2026-03-29",114448
-"Zendesk AI agents (Ultimate)","2026-03-29",14387
-"Twenty Billion Neurons","2026-03-29",3321
-"The Julia Language","2026-03-29",16506
-"QuantStack","2026-03-29",2683
-"Quansight Initiate","2026-03-29",162
-"OpenTeams","2026-03-29",5053
-"Quansight","2026-03-29",5824
-"BCG Digital Ventures","2026-03-29",160084
-"Boston Consulting Group (BCG)","2026-03-29",5350018
-"McKinsey & Company","2026-03-29",7070972
-"QuantumBlack AI by McKinsey","2026-03-29",239856
-"IBM Hybrid Cloud and Infrastructure","2026-03-29",280204
-"IBM Data AI & Automation","2026-03-29",298712
-"Datalitics","2026-03-29",224
-"Globant","2026-03-29",1324602
-"Lovelytics LATAM","2026-03-29",41018
-"Brightwater Recruitment","2026-03-29",234504
-"Cpl","2026-03-29",432120
-"Amazon Science","2026-03-29",387793
-"AWS Databases & Analytics","2026-03-29",266767
-"Genpact","2026-03-29",5634011
-"Cognizant","2026-03-29",9126749
-"Newgen Software","2026-03-29",343325
-"Nagarro","2026-03-29",1719410
-"Appinventiv","2026-03-29",657725
-"Quovantis Technologies","2026-03-29",14919
-"GlobalLogic","2026-03-29",1315150
-"MachineX Intelligence","2026-03-29",1756
-"W.K. Kellogg Foundation","2026-03-29",118989
-"RWJF","2026-03-29",137741
-"Skoll Foundation","2026-03-29",114602
-"Gates Foundation","2026-03-29",1488381
-"The David and Lucile Packard Foundation","2026-03-29",70909
-"Gordon and Betty Moore Foundation","2026-03-29",23919
-"Dataquest.io","2026-03-29",46439
-"Rockefeller Philanthropy Advisors","2026-03-29",70271
-"The New York Community Trust","2026-03-29",10031
-"Bloomberg Philanthropies","2026-03-29",233816
-"William and Flora Hewlett Foundation","2026-03-29",71476
-"Mellon Foundation","2026-03-29",99674
-"Open Society Foundations","2026-03-29",278611
-"Doris Duke Foundation","2026-03-29",14005
-"MacArthur Foundation","2026-03-29",232994
-"Ford Foundation","2026-03-29",317833
-"The Rockefeller Foundation","2026-03-29",416027
-"Alfred P. Sloan Foundation","2026-03-29",10168
-"UCD Netsoc","2026-03-29",558
-"Domino Data Lab","2026-03-29",55985
-"SAS","2026-03-29",972980
+Above the Law,2023-07-06,48471
+Above the Law,2023-07-23,48869
+Above the Law,2023-08-05,49193
+Above the Law,2023-08-29,49866
+Above the Law,2023-10-18,49225
+Above the Law,2023-12-18,51187
+Above the Law,2025-03-16,58532
+Above the Law,2025-04-28,59307
+Above the Law,2025-05-27,59617
+Abramat,2020-10-16,620
+Abramat,2020-10-20,622
+Abramat,2020-10-22,625
+Abramat,2020-10-28,629
+Abramat,2020-11-07,636
+Abramat,2020-11-12,638
+Abramat,2020-11-21,651
+Absci,2023-01-25,6148
+Absci,2023-01-29,6176
+Academia.edu,2023-01-28,14386
+Academic Positions,2023-01-28,22062
+Academy for the Mathematical Sciences,2026-02-04,3349
+Academy for the Mathematical Sciences,2026-03-16,3568
+Accenture,2020-10-05,5931198
+Accenture,2020-10-13,5954070
+Accenture,2020-10-15,5961772
+Accenture,2020-10-16,5967348
+Accenture,2020-10-20,5980541
+Accenture,2020-10-20,5979889
+Accenture,2020-10-20,5979814
+Accenture,2020-10-20,5979542
+Accenture,2020-10-21,5983862
+Accenture,2020-10-21,5982981
+Accenture,2020-10-23,5989711
+Accenture,2020-10-24,5996365
+Accenture,2020-10-25,6000974
+Accenture,2020-10-25,5997968
+Accenture,2020-10-28,6010194
+Accenture,2020-10-28,6009056
+Accenture,2020-10-30,6027323
+Accenture,2020-11-03,6037823
+Accenture,2020-11-06,6049825
+Accenture,2020-11-10,6062500
+Accenture,2020-11-14,6075462
+Accenture,2020-11-18,6087362
+Accenture,2020-11-23,6107144
+Accenture,2020-11-28,6118907
+Accenture,2020-12-03,6131012
+Accenture,2020-12-05,6136905
+Accenture,2020-12-12,6152252
+Accenture,2020-12-15,6159536
+Accenture,2020-12-20,6173765
+Accenture,2020-12-25,6185076
+Accenture,2020-12-29,6194088
+Accenture,2021-01-03,6203859
+Accenture,2021-01-06,6212904
+Accenture,2021-01-11,6226640
+Accenture,2021-01-15,6240699
+Accenture,2021-01-19,6250828
+Accenture,2021-01-25,6270618
+Accenture,2021-01-30,6287651
+Accenture,2021-01-31,6288878
+Accenture,2021-02-03,6299505
+Accenture,2021-02-07,6314604
+Accenture,2021-02-12,6334315
+Accenture,2021-02-17,6348376
+Accenture,2021-02-21,6363975
+Accenture,2021-02-25,6378819
+Accenture,2021-03-01,6391390
+Accenture,2021-03-06,6411371
+Accenture,2021-03-10,6426861
+Accenture,2021-03-16,6446955
+Accenture,2021-03-20,6467961
+Accenture,2021-03-24,6482784
+Accenture,2021-03-30,6514001
+Accenture,2021-04-06,6543865
+Accenture,2021-04-10,6568756
+Accenture,2021-04-15,6588274
+Accenture,2021-04-20,6608845
+Accenture,2021-04-24,6624635
+Accenture,2021-04-28,6639898
+Accenture,2021-05-03,6661342
+Accenture,2021-05-07,6678250
+Accenture,2021-05-10,6687645
+Accenture,2021-05-14,6704967
+Accenture,2021-05-21,6728905
+Accenture,2021-05-26,6749584
+Accenture,2021-06-02,6782446
+Accenture,2021-06-09,6815295
+Accenture,2021-06-16,6852022
+Accenture,2021-06-21,6878808
+Accenture,2021-06-29,6924480
+Accenture,2021-07-02,6945902
+Accenture,2021-07-04,6954019
+Accenture,2021-07-09,6980789
+Accenture,2021-07-14,7003712
+Accenture,2021-07-18,7020186
+Accenture,2021-07-22,7042361
+Accenture,2021-08-14,7159533
+Accenture,2021-08-26,7232094
+Accenture,2021-09-02,7281224
+Accenture,2021-09-16,7380782
+Accenture,2021-10-17,7601395
+Accenture,2021-10-29,7676951
 Accenture,2021-11-06,7720473
 Accenture,2021-11-20,7802144
 Accenture,2021-12-04,7870430
@@ -453,6 +470,7 @@ Adessium Foundation,2026-02-19,5237
 Adessium Foundation,2026-02-25,5246
 Adessium Foundation,2026-03-04,5259
 Adessium Foundation,2026-03-11,5263
+Adessium Foundation,2026-03-24,5284
 Adobe,2026-03-08,5321775
 Africa in Science,2025-09-28,4888
 Africa in Science,2025-10-17,4883
@@ -471,11 +489,14 @@ Aga Khan Foundation USA,2026-02-19,29659
 Aga Khan Foundation USA,2026-02-25,29663
 Aga Khan Foundation USA,2026-03-04,29689
 Aga Khan Foundation USA,2026-03-11,29706
+Aga Khan Foundation USA,2026-03-24,29760
 Age Of Geeks,2025-09-28,148917
 Age Of Geeks,2025-10-17,148874
 Age Of Geeks,2026-01-01,148585
 Age Of Geeks,2026-03-08,148445
 Age Of Geeks,2026-03-11,148409
+Age Of Geeks,2026-03-29,148397
+Age Of Geeks,2026-04-05,148390
 Ahmedabad R Users Group,2025-09-28,498
 Ahmedabad R Users Group,2025-10-17,526
 Air Force Research Laboratory,2026-03-08,194491
@@ -760,6 +781,8 @@ Alfred P. Sloan Foundation,2025-09-28,7133
 Alfred P. Sloan Foundation,2025-10-17,7640
 Alfred P. Sloan Foundation,2026-01-01,8117
 Alfred P. Sloan Foundation,2026-03-08,9921
+Alfred P. Sloan Foundation,2026-03-29,10168
+Alfred P. Sloan Foundation,2026-04-05,10213
 Alice Insights Inc.,2021-03-28,235
 Alice Insights Inc.,2021-03-31,237
 Alice Insights Inc.,2021-04-06,241
@@ -1110,6 +1133,7 @@ Alldus,2025-09-28,128381
 Alldus,2025-10-17,129505
 Alldus,2026-01-01,132460
 Alldus,2026-03-08,135899
+Alldus,2026-04-05,136583
 Allen Institute,2023-01-25,23198
 Allen Institute,2023-01-29,23291
 Allen Institute for AI (AI2),2023-01-25,18340
@@ -1260,6 +1284,7 @@ Altair RapidMiner,2025-09-28,20873
 Altair RapidMiner,2025-10-17,20871
 Altair RapidMiner,2026-01-01,20893
 Altair RapidMiner,2026-03-08,20917
+Altair RapidMiner,2026-04-05,20919
 Alteryx,2020-10-20,128109
 Alteryx,2020-10-21,128210
 Alteryx,2020-10-23,128401
@@ -1524,6 +1549,7 @@ Alteryx,2025-09-28,349360
 Alteryx,2025-10-17,350483
 Alteryx,2026-01-01,355275
 Alteryx,2026-03-08,359562
+Alteryx,2026-04-05,361646
 Altinity Inc.,2023-01-21,1881
 Altinity Inc.,2023-02-25,1982
 Altinity Inc.,2023-03-13,2101
@@ -1881,6 +1907,8 @@ Amazon Science,2025-08-30,377754
 Amazon Science,2025-09-17,378820
 Amazon Science,2025-09-28,379397
 Amazon Science,2025-10-17,380339
+Amazon Science,2026-03-29,387793
+Amazon Science,2026-04-05,387974
 Amazon Web Services,2023-06-11,7096
 Amazon Web Services,2023-06-23,7205
 Amazon Web Services,2023-07-06,7311
@@ -2880,6 +2908,8 @@ Anaconda Inc.,2026-02-25,102320
 Anaconda Inc.,2026-03-04,102504
 Anaconda Inc.,2026-03-08,102592
 Anaconda Inc.,2026-03-11,102616
+Anaconda Inc.,2026-03-24,102842
+Anaconda Inc.,2026-04-05,103125
 "Anaconda, Inc.",2024-11-15,89335
 "Anaconda, Inc.",2024-11-24,89674
 "Anaconda, Inc.",2024-12-07,89964
@@ -3232,6 +3262,7 @@ Analytic Partners,2025-09-28,42483
 Analytic Partners,2025-10-17,43438
 Analytic Partners,2026-03-08,56123
 Analytic Partners,2026-03-08,56123
+Analytic Partners,2026-04-05,58414
 Analytic Recruiting Inc.,2023-01-28,92547
 Analytics Vidhya,2022-07-18,142337
 Analytics Vidhya,2022-07-21,142617
@@ -3606,6 +3637,7 @@ Ankara University Computer Society,2026-02-19,1081
 Ankara University Computer Society,2026-02-25,1081
 Ankara University Computer Society,2026-03-04,1092
 Ankara University Computer Society,2026-03-11,1088
+Ankara University Computer Society,2026-03-24,1092
 AnoobisHacking,2023-02-25,836
 AnoobisHacking,2023-03-13,852
 AnoobisHacking,2023-03-29,866
@@ -3919,208 +3951,3 @@ Aon Centre for Innovation and Analytics (ACIA),2025-08-26,17903
 Aon Centre for Innovation and Analytics (ACIA),2025-08-30,17903
 Aon Centre for Innovation and Analytics (ACIA),2025-09-17,17971
 Aon Centre for Innovation and Analytics (ACIA),2025-09-28,18026
-Aon Centre for Innovation and Analytics (ACIA),2025-10-17,18085
-Aon Centre for Innovation and Analytics (ACIA),2026-01-01,18302
-Aon Centre for Innovation and Analytics (ACIA),2026-03-08,18508
-Apache Arrow,2025-09-21,1478
-Apache Sedona,2025-07-27,2888
-Apache Sedona,2025-08-11,2913
-Apache Sedona,2025-08-15,2932
-Apache Sedona,2025-08-18,2936
-Apache Sedona,2025-08-21,2951
-Apache Sedona,2025-08-26,2957
-Apache Sedona,2025-08-30,2957
-Apache Sedona,2025-09-17,3075
-Apache Sedona,2025-09-28,3224
-Apache Sedona,2025-10-17,3397
-Apache Software Foundation,2020-10-14,43937
-Apache Software Foundation,2020-10-19,44020
-Apex Systems,2023-01-21,1079711
-Apex Systems,2023-02-10,1101927
-Apex Systems,2023-02-25,1116651
-Apex Systems,2023-03-13,1131139
-Apex Systems,2023-03-29,1145883
-Apex Systems,2023-04-10,1155534
-Apex Systems,2023-04-23,1169183
-Apex Systems,2023-06-05,1212015
-Apex Systems,2023-06-11,1218533
-Apex Systems,2023-06-23,1231923
-Apex Systems,2023-07-06,1244443
-Apex Systems,2023-07-23,1261813
-Apex Systems,2023-08-05,1279655
-Apex Systems,2023-08-29,1310026
-Apex Systems,2023-10-18,1371513
-Apex Systems,2023-12-14,1381076
-Apex Systems,2023-12-17,1384758
-Apex Systems,2023-12-18,1385849
-Apex Systems,2024-04-08,1506078
-Apex Systems,2024-05-04,1538382
-Apex Systems,2024-05-28,1570661
-Apex Systems,2024-06-24,1602949
-Apex Systems,2024-06-28,1608773
-Apex Systems,2024-07-20,1638079
-Apex Systems,2024-08-06,1657919
-Apex Systems,2024-09-02,1693127
-Apex Systems,2024-09-16,1711381
-Apex Systems,2024-09-27,1727848
-Apex Systems,2025-01-09,1840339
-Apex Systems,2025-01-19,1857135
-Apex Systems,2025-01-27,1872229
-Apex Systems,2025-03-15,1927416
-Apex Systems,2025-03-16,1927442
-Apex Systems,2025-04-28,1931274
-Apex Systems,2025-05-27,1933878
-Apex Systems,2025-06-07,1935097
-Apex Systems,2025-07-27,1945333
-Apex Systems,2025-08-30,1954752
-Apex Systems,2026-03-08,1999151
-AppRiver,2023-01-21,5194
-AppRiver,2023-02-10,5208
-AppRiver,2023-02-25,5213
-AppRiver,2023-03-13,5224
-AppRiver,2023-03-29,5236
-AppRiver,2023-04-10,5240
-AppRiver,2023-04-23,5240
-AppRiver,2023-06-05,5251
-AppRiver,2023-06-11,5256
-AppRiver,2023-06-23,5257
-AppRiver,2023-07-06,5260
-AppRiver,2023-07-23,5256
-AppRiver,2023-08-05,5263
-AppRiver,2023-08-29,5273
-AppRiver,2023-10-18,5297
-AppRiver,2023-12-14,5189
-AppRiver,2023-12-17,5188
-AppRiver,2023-12-18,5188
-AppRiver,2024-05-04,5232
-AppRiver,2024-05-28,5236
-AppRiver,2024-06-28,5233
-AppRiver,2024-08-06,5242
-AppRiver,2024-09-02,5242
-AppRiver,2024-09-16,5244
-AppRiver,2024-09-27,5246
-AppRiver,2025-01-09,5265
-AppRiver,2025-01-19,5266
-AppRiver,2025-01-27,5261
-AppRiver,2025-03-15,5266
-AppRiver,2025-03-16,5266
-AppRiver,2025-04-28,5271
-AppRiver,2025-05-27,5278
-AppRiver,2025-06-07,5277
-AppRiver,2025-07-27,5274
-AppRiver,2025-08-30,5268
-Appen,2023-01-28,901530
-Appinventiv,2020-10-25,43851
-Appinventiv,2020-10-28,43862
-Appinventiv,2020-10-30,43908
-Appinventiv,2020-11-03,43954
-Appinventiv,2020-11-06,43990
-Appinventiv,2020-11-10,44046
-Appinventiv,2020-11-14,44164
-Appinventiv,2020-11-18,44219
-Appinventiv,2020-11-23,44316
-Appinventiv,2020-11-28,44378
-Appinventiv,2020-12-03,44436
-Appinventiv,2020-12-05,44485
-Appinventiv,2020-12-12,44589
-Appinventiv,2020-12-15,44626
-Appinventiv,2020-12-20,44783
-Appinventiv,2020-12-25,44908
-Appinventiv,2020-12-29,45001
-Appinventiv,2021-01-03,45097
-Appinventiv,2021-01-06,45183
-Appinventiv,2021-01-11,45346
-Appinventiv,2021-01-15,45473
-Appinventiv,2021-01-19,45562
-Appinventiv,2021-01-25,45727
-Appinventiv,2021-01-30,45908
-Appinventiv,2021-01-31,45917
-Appinventiv,2021-02-03,45991
-Appinventiv,2021-02-07,46104
-Appinventiv,2021-02-12,46227
-Appinventiv,2021-02-17,46330
-Appinventiv,2021-02-21,46571
-Appinventiv,2021-02-25,46710
-Appinventiv,2021-03-01,46834
-Appinventiv,2021-03-06,47001
-Appinventiv,2021-03-10,47083
-Appinventiv,2021-03-16,47217
-Appinventiv,2021-03-20,47527
-Appinventiv,2021-03-24,47828
-Appinventiv,2021-03-30,48215
-Appinventiv,2021-04-06,48535
-Appinventiv,2021-04-10,48919
-Appinventiv,2021-04-15,49166
-Appinventiv,2021-04-20,49410
-Appinventiv,2021-04-24,49524
-Appinventiv,2021-04-28,49653
-Appinventiv,2021-05-03,49750
-Appinventiv,2021-05-07,49965
-Appinventiv,2021-05-10,50057
-Appinventiv,2021-05-14,50179
-Appinventiv,2021-05-21,50415
-Appinventiv,2021-05-26,50553
-Appinventiv,2021-06-02,50845
-Appinventiv,2021-06-09,51044
-Appinventiv,2021-06-16,51453
-Appinventiv,2021-06-21,51700
-Appinventiv,2021-06-29,52324
-Appinventiv,2021-07-02,52517
-Appinventiv,2021-07-04,52602
-Appinventiv,2021-07-09,52860
-Appinventiv,2021-07-14,53175
-Appinventiv,2021-07-18,53371
-Appinventiv,2021-07-22,53568
-Appinventiv,2021-08-14,54542
-Appinventiv,2021-08-26,55001
-Appinventiv,2021-09-02,55389
-Appinventiv,2021-09-16,56496
-Appinventiv,2021-10-17,58257
-Appinventiv,2021-10-29,59421
-Appinventiv,2021-11-06,60606
-Appinventiv,2021-11-20,61753
-Appinventiv,2021-12-07,62635
-Appinventiv,2021-12-14,63177
-Appinventiv,2021-12-20,63700
-Appinventiv,2021-12-26,64030
-Appinventiv,2021-12-30,64276
-Appinventiv,2021-12-31,64341
-Appinventiv,2022-01-03,64430
-Appinventiv,2022-01-04,64637
-Appinventiv,2022-01-06,64909
-Appinventiv,2022-01-07,65219
-Appinventiv,2022-01-10,65557
-Appinventiv,2022-01-14,66229
-Appinventiv,2022-01-18,66652
-Appinventiv,2022-01-27,67634
-Appinventiv,2022-02-01,68056
-Appinventiv,2022-02-07,68503
-Appinventiv,2022-02-10,69215
-Appinventiv,2022-02-12,69524
-Appinventiv,2022-02-16,70144
-Appinventiv,2022-02-20,70653
-Appinventiv,2022-02-23,71111
-Appinventiv,2022-02-26,71639
-Appinventiv,2022-03-03,72383
-Appinventiv,2022-03-15,74736
-Appinventiv,2022-03-20,77177
-Appinventiv,2022-03-29,80378
-Appinventiv,2022-03-31,80720
-Appinventiv,2022-04-11,83485
-Appinventiv,2022-04-13,84440
-Appinventiv,2022-05-05,71639
-Appinventiv,2022-05-12,90005
-Appinventiv,2022-05-25,91326
-Appinventiv,2022-05-27,91688
-Appinventiv,2022-05-30,92269
-Appinventiv,2022-06-01,92498
-Appinventiv,2022-06-03,92934
-Appinventiv,2022-06-07,94053
-Appinventiv,2022-06-08,94053
-Appinventiv,2022-06-11,94662
-Appinventiv,2022-06-13,94811
-Appinventiv,2022-06-15,95099
-Appinventiv,2022-06-16,95240
-Appinventiv,2022-06-20,95581
-Appinventiv,2022-06-22,95955
-Appinventiv,2022-06-23,96034

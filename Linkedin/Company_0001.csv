@@ -1,307 +1,4 @@
 Company,Date,Followers
-"R User Community","2026-04-04",22492
-"The R Foundation for Statistical Computing","2026-04-04",12978
-"R Consortium","2026-04-04",10841
-"Posit PBC","2026-04-04",114539
-"R-Ladies Global","2026-04-04",8949
-"R Programming 101","2026-04-04",2311
-"R User Community EMEA","2026-04-04",702
-"Kolkata R UseR group","2026-04-04",2076
-"R Studio","2026-04-04",505
-"R for the Rest of Us","2026-04-04",7147
-"Statistics Globe","2026-04-04",14694
-"Why R?","2026-04-04",5605
-"rOpenSci","2026-04-04",2372
-"Data for Good Roundtables","2026-04-04",253
-"rainbowR","2026-04-04",648
-"Envisagenics","2026-04-04",9822
-"Instytut Informatyki i Ekonomii Ilościowej UEP","2026-04-04",38
-"Lexero","2026-04-04",14
-"Finc Research","2026-04-04",50
-"R User Community Africa","2026-04-04",593
-"PyData London","2026-04-04",1228
-"PyData","2026-04-04",2191
-"InfluxData","2026-04-04",23190
-"PyData Global","2026-04-04",8249
-"PySport","2026-04-04",5018
-"Gradient Sports","2026-04-04",9013
-"Scalers | سكيلرز","2026-04-04",23665
-"PyData Eindhoven","2026-04-04",2178
-"Monzo Bank","2026-04-04",689311
-"Meta","2026-04-04",11890669
-"PyData Bradford","2026-04-04",254
-"AI Signals","2026-04-04",603
-"PyCon UK","2026-04-04",905
-"PyData Berlin","2026-04-04",2183
-"AI for Global Goals","2026-04-04",8654
-"PyData Amsterdam","2026-04-04",5772
-"Data Science Festival","2026-04-04",7548
-"DataKind UK","2026-04-04",5936
-"IMPECT","2026-04-04",4269
-"NumFOCUS","2026-04-04",11790
-Women in Data Science (WiDS) Dublin, 2026-03-24,953
-Women in AI Ireland, 2026-03-24,8331
-PyLadies Dublin, 2026-03-24,886
-United Nations Department of Economic and Social Affairs, 2026-03-24,27806
-KDnuggets, 2026-03-24,52938
-United Nations Office for Sustainable Development (UNOSD), 2026-03-24,23513
-RLadies Barranquilla, 2026-03-24,2
-R-Ladies D.C., 2026-03-24,176
-R-Ladies Gaborone, 2026-03-24,806
-rainbowR, 2026-03-24,643
-Rome R Users Group, 2026-03-24,620
-Ghana R Users Community, 2026-03-24,1563
-PyLadies Amsterdam, 2026-03-24,1707
-Women in AI Benelux, 2026-03-24,10713
-R Consortium, 2026-03-24,10806
-InfluxData, 2026-03-24,23131
-PySport, 2026-03-24,5000
-R User Community Africa, 2026-03-24,499
-Kemmy Business School, 2026-03-24,7098
-Space42, 2026-03-24,181586
-PyData La Paz, 2026-03-24,15
-PyData Slovakia, 2026-03-24,89
-PyData Sri Lanka, 2026-03-24,193
-PyData Melbourne, 2026-03-24,23
-PyData Ireland, 2026-03-24,415
-PyData Kaunas, 2026-03-24,41
-PyData Panamá, 2026-03-24,52
-PyData Boston, 2026-03-24,446
-PyData Singapore, 2026-03-24,24
-PyData Amaravati, 2026-03-24,27
-Pydata Nairobi, 2026-03-24,43
-PyData Raipur, 2026-03-24,52
-InternAge, 2026-03-24,111
-PyData POA, 2026-03-24,76
-PyData Kraków, 2026-03-24,123
-PyData Khobar, 2026-03-24,123
-PyData Bristol Meetup, 2026-03-24,115
-PyData Johannesburg Community, 2026-03-24,210
-PyData Padova, 2026-03-24,160
-PyData Ann Arbor, 2026-03-24,20
-PyData Southampton, 2026-03-24,245
-PyData GRX, 2026-03-24,426
-PyData Prague, 2026-03-24,422
-PyData Edinburgh, 2026-03-24,219
-PyData DC, 2026-03-24,51
-PyData Piraeus, 2026-03-24,262
-PyData Tunisia, 2026-03-24,581
-PyData Trojmiasto, 2026-03-24,515
-PyData Cluj-Napoca, 2026-03-24,302
-PyData Athens, 2026-03-24,254
-PyData Stockholm, 2026-03-24,311
-PyData SWFL, 2026-03-24,39
-PyData Brasília, 2026-03-24,269
-PyData Montréal, 2026-03-24,329
-PyData Cordoba, 2026-03-24,333
-PyData Cyprus, 2026-03-24,357
-PyData Hamburg, 2026-03-24,708
-PyData Tel Aviv, 2026-03-24,1010
-PyData Paris, 2026-03-24,2014
-PyData Charlotte, 2026-03-24,109
-PyData Copenhagen, 2026-03-24,885
-PyCon DE & PyData, 2026-03-24,4743
-PyData London, 2026-03-24,1224
-Software Lancaster Talks, 2026-03-24,872
-PyData Berlin, 2026-03-24,2173
-PyData Bydgoszcz, 2026-03-24,1070
-PyData Madrid, 2026-03-24,1835
-PyData Los Angeles, 2026-03-24,163
-PyData Yerevan, 2026-03-24,1537
-PyData Manaus, 2026-03-24,1252
-PyData Riyadh, 2026-03-24,1303
-PyData London, 2026-03-24,1993
-PyData São Paulo, 2026-03-24,1605
-PyData Delhi, 2026-03-24,1866
-PyData Amsterdam, 2026-03-24,5748
-PyData NYC, 2026-03-24,2009
-PyData Eindhoven, 2026-03-24,2174
-PyData Miami, 2026-03-24,585
-PyData Pittsburgh, 2026-03-24,572
-R Users Malawi, 2026-03-24,298
-R User Community EMEA, 2026-03-24,616
-NTT DATA Middle East and Africa, 2026-03-24,444195
-NTT DATA Inc., 2026-03-24,1302518
-R User Community, 2026-03-24,22412
-Softest Consulting Services Ltd, 2026-03-24,6063
-PyLadies Seattle, 2026-03-24,349
-Irish Human Rights and Equality Commission, 2026-03-24,18060
-SciML, 2026-03-24,4186
-PyData Warsaw, 2026-03-24,370
-PyData, 2026-03-24,2172
-Anaconda Inc., 2026-03-24,102842
-NumFOCUS, 2026-03-24,11774
-2K, 2026-03-24,359140
-scikit-learn, 2026-03-24,123182
-INCRYPT MINING LTD, 2026-03-24,202
-Google Summer of Code, 2026-03-24,120720
-PumasAI, 2026-03-24,6632
-SwissAI, 2026-03-24,479
-Keebo, 2026-03-24,4870
-DecisionBrain, 2026-03-24,4605
-GitHub, 2026-03-24,5991524
-MIT Technology Review, 2026-03-24,1508213
-Open Robotics, 2026-03-24,203194
-OpenAI, 2026-03-24,10440599
-Hackster.io, 2026-03-24,57343
-Google Cloud, 2026-03-24,3197042
-Stack Overflow, 2026-03-24,1597247
-AWS AI, 2026-03-24,454573
-PyTorch, 2026-03-24,312696
-NVIDIA AI, 2026-03-24,1694957
-Hugging Face, 2026-03-24,1195041
-OpenCV, 2026-03-24,338370
-IrishITJobs.ie, 2026-03-24,1062
-PyData Global, 2026-03-24,8221
-University of Limerick, 2026-03-24,143297
-Evolution AI, 2026-03-24,4290
-HEDS Data Science, 2026-03-24,563
-Centre for Sustainable Fashion, 2026-03-24,86732
-Fashion for Good, 2026-03-24,155309
-The LEGO Foundation, 2026-03-24,137674
-Adessium Foundation, 2026-03-24,5284
-Van Leer Foundation, 2026-03-24,29785
-Laudes Foundation, 2026-03-24,39702
-MAVA Foundation, 2026-03-24,8984
-Oak Foundation, 2026-03-24,47300
-Swiss Philanthropy Foundation, 2026-03-24,10186
-PHILANTHROPY ADVISORS, 2026-03-24,6646
-Rocky Mountain Elk Foundation, 2026-03-24,33669
-The Michael J. Fox Foundation for Parkinson's Research, 2026-03-24,58498
-Lumina Foundation, 2026-03-24,37825
-Wilder, 2026-03-24,10815
-Aga Khan Foundation USA, 2026-03-24,29760
-The Surfrider Foundation, 2026-03-24,43404
-Foundation for Economic Education, 2026-03-24,26478
-storytelling with data, 2026-03-24,164558
-Dimension Data, 2026-03-24,435316
-Open Data Science Conference (ODSC), 2026-03-24,144626
-Data Science Academy, 2026-03-24,572005
-Data Axle, 2026-03-24,155241
-Data Science Dojo, 2026-03-24,308901
-X-Europe Data Science, 2026-03-24,93
-simpl.study, 2026-03-24,67
-AI Ireland, 2026-03-24,9081
-Why R?, 2026-03-24,5596
-useR! - The R User Conference, 2026-03-24,7955
-The Machine Learning Institute Certificate in Finance (MLI), 2026-03-24,1642
-Data Science Institute, 2026-03-24,20062
-Data Istanbul, 2026-03-24,3928
-The Data Lab - Innovation Centre, 2026-03-24,18232
-Data Science and Ai Association of Australia | DSAi, 2026-03-24,7241
-Data Science Indonesia, 2026-03-24,11922
-DSN - Data Science Nigeria, 2026-03-24,26523
-Data Science Research Perú, 2026-03-24,39236
-DSPT - Data Science Portugal, 2026-03-24,11203
-Toronto Machine Learning Summit (TMLS), 2026-03-24,15213
-Machine Learning and Data Analytics Lab at NTU EEE, 2026-03-24,3083
-Machine Learning Society, 2026-03-24,21325
-Machine Learning at Berkeley, 2026-03-24,5396
-McMaster Artificial Intelligence Society, 2026-03-24,1249
-Nordic.AI, 2026-03-24,683
-AI Copenhagen, 2026-03-24,341
-Sydney Machine Learning Group, 2026-03-24,200
-JerusML, 2026-03-24,717
-Data Science Milan, 2026-03-24,1846
-Data Lille, 2026-03-24,1721
-Los Angeles Machine Learning Meetup, 2026-03-24,10
-Meetup Machine Learning Québec, 2026-03-24,114
-Artificial Intelligence Hong Kong, 2026-03-24,2123
-Hong Kong Machine Learning, 2026-03-24,3271
-MLT, 2026-03-24,8962
-meetup.ai, 2026-03-24,549
-Cologne AI and Machine Learning Meetup, 2026-03-24,1055
-Machine Learning Porto Alegre, 2026-03-24,502
-Machine Learning in Healthcare, 2026-03-24,1034
-Erlangen Artificial Intelligence & Machine Learning Meetup, 2026-03-24,567
-Paris Machine Learning Meetup, 2026-03-24,485
-Toronto Machine Learning Meetup, 2026-03-24,311
-Data Residents, 2026-03-24,53
-Data Science & Artificial Intelligence/AI South East London, 2026-03-24,181
-Data Science Ghent, 2026-03-24,299
-Machine Learning & Data Science Meetup Roma, 2026-03-24,319
-The Data Pub, 2026-03-24,3601
-Data Science Meetup, 2026-03-24,145
-University College Dublin, 2026-03-24,361532
-Data Science Research Arab Team, 2026-03-24,306
-Thalesians Ltd, 2026-03-24,5729
-CONNECT Centre, 2026-03-24,5708
-UoM AI and Machine Learning Society, 2026-03-24,97
-LSESU Machine Learning Society, 2026-03-24,133
-Machine Learning Society at MIM UW, 2026-03-24,400
-Nottingham Economics & Finance Society, 2026-03-24,5716
-Finance Society at the University of Connecticut, 2026-03-24,828
-CSUDH Finance Student Society, 2026-03-24,89
-AUB Computer Science Student Society, 2026-03-24,174
-Western Computer Science Undergraduate Society, 2026-03-24,267
-UST Computer Science Society, 2026-03-24,157
-University Of Sheffield Computer Science Society, 2026-03-24,108
-UBC Computer Science Student Society, 2026-03-24,834
-Otago Computing Students Society, 2026-03-24,64
-Sheffield Women in Computer Science Society, 2026-03-24,159
-Queen Mary Electronic Engineering & Computer Science Society, 2026-03-24,54
-Lancaster University Computer Science Society, 2026-03-24,112
-Dalhousie Computer Science Society, 2026-03-24,198
-Computer Science & Engineering Society at UC San Diego, 2026-03-24,431
-McMaster Computer Science Society, 2026-03-24,88
-UNSW Computer Science and Engineering Society (CSESoc), 2026-03-24,2777
-McMaster Computer Science Society, 2026-03-24,257
-Dublin University Computer Science Society, 2026-03-24,213
-University of Bristol Computer Science Society, 2026-03-24,362
-Computer Science Society (CSS) - University of Birmingham, 2026-03-24,493
-The Data Science & Statistics Society, 2026-03-24,596
-LSESU Data Science Society, 2026-03-24,12
-Hertie School Data Science Society, 2026-03-24,346
-The Manchester AI Society, 2026-03-24,1122
-Exeter Artificial Intelligence and Data Science Society (X-AI), 2026-03-24,94
-DSCS George Mason University, 2026-03-24,120
-Data Science and AI Society - UTS, 2026-03-24,393
-Bristol Data Science Society, 2026-03-24,456
-Cambridge University Data Science Society, 2026-03-24,280
-Baruch Data Science & Analytics Society, 2026-03-24,659
-Ryerson University Data Science Society, 2026-03-24,221
-LSESU Data Science Society, 2026-03-24,658
-Leeds Data Science Society, 2026-03-24,369
-Monash Data & AI Society, 2026-03-24,1525
-ITU Data Science Society, 2026-03-24,2171
-Hong Kong Data Science Society, 2026-03-24,272
-Warwick Data Science Society, 2026-03-24,1659
-Columbia Data Science Society, 2026-03-24,1139
-Data Science Society, 2026-03-24,2146
-Research Ireland Centre for Research Training in Artificial Intelligence, 2026-03-24,2552
-AaltoAI, 2026-03-24,1765
-SAIS Sheffield Artificial Intelligence Society, 2026-03-24,38
-KCL Data Science Society, 2026-03-24,69
-Ankara University Computer Society, 2026-03-24,1092
-Artificial Intelligence & Robotics Society University of Portsmouth, 2026-03-24,387
-Artificial Intelligence in Medical Systems Society (AIMSS), 2026-03-24,1480
-AI Hack 2021, 2026-03-24,116
-Data Science Student Society at UJ, 2026-03-24,124
-Big Data and Artificial Intelligence Club, 2026-03-24,566
-Data Science Society, 2026-03-24,302
-Data Science Club of UWA, 2026-03-24,899
-ICL Machine Learning Society, 2026-03-24,103
-Carleton Artificial Intelligence Society, 2026-03-24,365
-Kharagpur Data Analytics Group, 2026-03-24,4071
-USC Center for AI in Society's Student Branch (CAIS++), 2026-03-24,401
-LUMS Data Science Society, 2026-03-24,1005
-Imperial College Data Science Society, 2026-03-24,1116
-UNSW Data Science Society (DataSoc), 2026-03-24,1419
-Data Science Student Society at UC San Diego, 2026-03-24,1266
-UCL Data Science Society, 2026-03-24,2044
-Data Science Society at Berkeley, 2026-03-24,1537
-Data Science Club at UTDallas, 2026-03-24,2362
-UCD Investors and Entrepreneurs Society, 2026-03-24,4682
-UCD Netsoc – UCD's Internet and Computer Science Society, 2026-03-24,557
-UCD I&E Student Managed Fund, 2026-03-24,2828
-Irish Student Consulting Group (ISCG), 2026-03-24,6473
-DataSoc, 2026-03-24,905
-MLOps, 2026-03-24,3151
-MLOps community, 2026-03-24,45035
-DataTalksClub, 2026-03-24,30519
-Latvia Artificial Intelligence Club, 2026-03-24,1974
-AMD Silo AI, 2026-03-24,28321
-DAIN Studios, 2026-03-24,5129
 &Open,2024-06-24,8512
 &effect data solutions GmbH,2023-01-25,647
 (CLOSED) Duree Center for Entrepreneurship (CLOSED),2025-04-28,1126
@@ -594,6 +291,7 @@ DAIN Studios, 2026-03-24,5129
 (WiMLDS) Women in Machine Learning & Data Science,2026-01-15,18828
 (WiMLDS) Women in Machine Learning & Data Science,2026-03-08,18928
 (WiMLDS) Women in Machine Learning & Data Science,2026-03-17,18946
+(WiMLDS) Women in Machine Learning & Data Science,2026-04-05,18980
 (Woowa Bros.),2021-02-19,17149
 1 Million Cups Pensacola,2023-02-25,181
 1 Million Cups Pensacola,2023-03-13,182
@@ -721,6 +419,7 @@ DAIN Studios, 2026-03-24,5129
 2K,2026-03-11,358247
 2K,2026-03-11,358247
 2K,2026-03-16,358242
+2K,2026-03-24,359140
 2into3,2024-06-24,4981
 2into3,2025-09-21,6027
 30% Club Ireland,2024-06-24,9767
@@ -1513,6 +1212,7 @@ ADAPT Centre,2026-01-01,9368
 ADAPT Centre,2026-01-15,9483
 ADAPT Centre,2026-03-08,9754
 ADAPT Centre,2026-03-17,9797
+ADAPT Centre,2026-04-05,10045
 ADF Haiti,2021-06-02,326
 ADF Haiti,2021-06-09,327
 ADF Haiti,2021-06-16,327
@@ -2230,6 +1930,7 @@ AI Copenhagen,2026-03-11,340
 AI Copenhagen,2026-03-11,340
 AI Copenhagen,2026-03-16,341
 AI Copenhagen,2026-03-17,341
+AI Copenhagen,2026-03-24,341
 AI Hack 2021,2021-03-28,84
 AI Hack 2021,2021-03-31,85
 AI Hack 2021,2021-04-06,86
@@ -2382,6 +2083,7 @@ AI Hack 2021,2026-03-11,116
 AI Hack 2021,2026-03-11,116
 AI Hack 2021,2026-03-16,116
 AI Hack 2021,2026-03-17,116
+AI Hack 2021,2026-03-24,116
 AI Inclusive,2020-10-20,359
 AI Inclusive,2020-10-21,365
 AI Inclusive,2020-10-23,376
@@ -2651,6 +2353,7 @@ AI Inclusive,2026-01-15,4193
 AI Inclusive,2026-01-26,4195
 AI Inclusive,2026-03-08,4207
 AI Inclusive,2026-03-17,4206
+AI Inclusive,2026-04-05,4222
 AI Innovation Center,2023-02-25,1770
 AI Innovation Center,2023-03-13,1811
 AI Innovation Center,2023-03-29,1846
@@ -2708,6 +2411,9 @@ AI Ireland,2026-03-11,9041
 AI Ireland,2026-03-16,9055
 AI Ireland,2026-03-17,9069
 AI Ireland,2026-03-17,9071
+AI Ireland,2026-03-24,9081
+AI Ireland,2026-03-29,9119
+AI Ireland,2026-04-05,9149
 AI Safety Poland,2026-03-16,407
 AI Signals,2025-07-15,469
 AI Signals,2025-07-27,482
@@ -2726,7 +2432,9 @@ AI Signals,2025-10-17,527
 AI Signals,2026-01-15,542
 AI Signals,2026-03-16,580
 AI Signals,2026-03-17,583
+AI Signals,2026-04-04,603
 AI at Meta,2023-10-18,608801
+AI for Global Goals,2026-04-04,8654
 AI for Good,2024-01-22,13370
 AI for Good,2024-04-09,14316
 AI for Good,2024-04-17,14419
@@ -3038,6 +2746,7 @@ AMD Silo AI,2026-03-11,28155
 AMD Silo AI,2026-03-11,28155
 AMD Silo AI,2026-03-16,28174
 AMD Silo AI,2026-03-17,28209
+AMD Silo AI,2026-03-24,28321
 AMOTION Games,2023-01-25,128
 AMS Staffing Inc.,2023-01-21,26845
 AMS Staffing Inc.,2023-02-25,26982
@@ -3534,6 +3243,7 @@ AUB Computer Science Student Society,2026-03-11,174
 AUB Computer Science Student Society,2026-03-11,174
 AUB Computer Science Student Society,2026-03-16,174
 AUB Computer Science Student Society,2026-03-17,174
+AUB Computer Science Student Society,2026-03-24,174
 AUB Computer Science Students Society,2021-03-28,105
 AUB Computer Science Students Society,2021-03-31,105
 AUB Computer Science Students Society,2021-04-06,105
@@ -3621,6 +3331,7 @@ AWS AI,2026-03-11,454303
 AWS AI,2026-03-11,454303
 AWS AI,2026-03-16,453945
 AWS AI,2026-03-17,454397
+AWS AI,2026-03-24,454573
 AWS Careers,2023-01-21,327189
 AWS Careers,2023-02-25,335135
 AWS Careers,2023-03-13,338075
@@ -3903,6 +3614,8 @@ AWS Databases & Analytics,2026-01-01,266658
 AWS Databases & Analytics,2026-01-15,266661
 AWS Databases & Analytics,2026-03-08,266797
 AWS Databases & Analytics,2026-03-17,266754
+AWS Databases & Analytics,2026-03-29,266767
+AWS Databases & Analytics,2026-04-05,266795
 AWS Machine Learning,2022-02-01,82105
 AWS Machine Learning,2022-02-07,84773
 AWS Machine Learning,2022-02-12,86999
@@ -4195,6 +3908,7 @@ AaltoAI,2026-03-11,1697
 AaltoAI,2026-03-11,1697
 AaltoAI,2026-03-16,1713
 AaltoAI,2026-03-17,1715
+AaltoAI,2026-03-24,1765
 Aardman,2024-06-24,93289
 Aardman,2025-09-05,115056
 Aardman,2025-09-21,115604
@@ -4238,106 +3952,3 @@ Above the Law,2023-04-23,46169
 Above the Law,2023-06-05,47482
 Above the Law,2023-06-11,47707
 Above the Law,2023-06-23,48116
-Above the Law,2023-07-06,48471
-Above the Law,2023-07-23,48869
-Above the Law,2023-08-05,49193
-Above the Law,2023-08-29,49866
-Above the Law,2023-10-18,49225
-Above the Law,2023-12-18,51187
-Above the Law,2025-03-16,58532
-Above the Law,2025-04-28,59307
-Above the Law,2025-05-27,59617
-Abramat,2020-10-16,620
-Abramat,2020-10-20,622
-Abramat,2020-10-22,625
-Abramat,2020-10-28,629
-Abramat,2020-11-07,636
-Abramat,2020-11-12,638
-Abramat,2020-11-21,651
-Absci,2023-01-25,6148
-Absci,2023-01-29,6176
-Academia.edu,2023-01-28,14386
-Academic Positions,2023-01-28,22062
-Academy for the Mathematical Sciences,2026-02-04,3349
-Academy for the Mathematical Sciences,2026-03-16,3568
-Accenture,2020-10-05,5931198
-Accenture,2020-10-13,5954070
-Accenture,2020-10-15,5961772
-Accenture,2020-10-16,5967348
-Accenture,2020-10-20,5980541
-Accenture,2020-10-20,5979889
-Accenture,2020-10-20,5979814
-Accenture,2020-10-20,5979542
-Accenture,2020-10-21,5983862
-Accenture,2020-10-21,5982981
-Accenture,2020-10-23,5989711
-Accenture,2020-10-24,5996365
-Accenture,2020-10-25,6000974
-Accenture,2020-10-25,5997968
-Accenture,2020-10-28,6010194
-Accenture,2020-10-28,6009056
-Accenture,2020-10-30,6027323
-Accenture,2020-11-03,6037823
-Accenture,2020-11-06,6049825
-Accenture,2020-11-10,6062500
-Accenture,2020-11-14,6075462
-Accenture,2020-11-18,6087362
-Accenture,2020-11-23,6107144
-Accenture,2020-11-28,6118907
-Accenture,2020-12-03,6131012
-Accenture,2020-12-05,6136905
-Accenture,2020-12-12,6152252
-Accenture,2020-12-15,6159536
-Accenture,2020-12-20,6173765
-Accenture,2020-12-25,6185076
-Accenture,2020-12-29,6194088
-Accenture,2021-01-03,6203859
-Accenture,2021-01-06,6212904
-Accenture,2021-01-11,6226640
-Accenture,2021-01-15,6240699
-Accenture,2021-01-19,6250828
-Accenture,2021-01-25,6270618
-Accenture,2021-01-30,6287651
-Accenture,2021-01-31,6288878
-Accenture,2021-02-03,6299505
-Accenture,2021-02-07,6314604
-Accenture,2021-02-12,6334315
-Accenture,2021-02-17,6348376
-Accenture,2021-02-21,6363975
-Accenture,2021-02-25,6378819
-Accenture,2021-03-01,6391390
-Accenture,2021-03-06,6411371
-Accenture,2021-03-10,6426861
-Accenture,2021-03-16,6446955
-Accenture,2021-03-20,6467961
-Accenture,2021-03-24,6482784
-Accenture,2021-03-30,6514001
-Accenture,2021-04-06,6543865
-Accenture,2021-04-10,6568756
-Accenture,2021-04-15,6588274
-Accenture,2021-04-20,6608845
-Accenture,2021-04-24,6624635
-Accenture,2021-04-28,6639898
-Accenture,2021-05-03,6661342
-Accenture,2021-05-07,6678250
-Accenture,2021-05-10,6687645
-Accenture,2021-05-14,6704967
-Accenture,2021-05-21,6728905
-Accenture,2021-05-26,6749584
-Accenture,2021-06-02,6782446
-Accenture,2021-06-09,6815295
-Accenture,2021-06-16,6852022
-Accenture,2021-06-21,6878808
-Accenture,2021-06-29,6924480
-Accenture,2021-07-02,6945902
-Accenture,2021-07-04,6954019
-Accenture,2021-07-09,6980789
-Accenture,2021-07-14,7003712
-Accenture,2021-07-18,7020186
-Accenture,2021-07-22,7042361
-Accenture,2021-08-14,7159533
-Accenture,2021-08-26,7232094
-Accenture,2021-09-02,7281224
-Accenture,2021-09-16,7380782
-Accenture,2021-10-17,7601395
-Accenture,2021-10-29,7676951
