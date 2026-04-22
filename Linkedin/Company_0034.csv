@@ -1,88 +1,620 @@
 Company,Date,Followers,Year
-2K,2026-03-17,358687,2026
-AI Copenhagen,2026-03-17,341,2026
-AI Ireland,2026-03-17,9071,2026
-AUB Computer Science Student Society,2026-03-17,174,2026
-AWS AI,2026-03-17,454397,2026
-Adessium Foundation,2026-03-17,5271,2026
-Aga Khan Foundation USA,2026-03-17,29740,2026
-Anaconda  Inc.,2026-03-17,102716,2026
-Artificial Intelligence Hong Kong,2026-03-17,2119,2026
-CONNECT Centre,2026-03-17,5691,2026
-CSUDH Finance Student Society,2026-03-17,90,2026
-Centre for Sustainable Fashion,2026-03-17,86705,2026
-Cologne AI and Machine Learning Meetup,2026-03-17,1040,2026
-DSN - Data Science Nigeria,2026-03-17,26432,2026
-DSPT - Data Science Portugal,2026-03-17,11184,2026
-Data Axle,2026-03-17,155165,2026
-Data Istanbul,2026-03-17,3929,2026
-Data Lille,2026-03-17,1703,2026
-Data Residents,2026-03-17,53,2026
-Data Science & Artificial Intelligence/AI South East London,2026-03-17,180,2026
-Data Science Academy,2026-03-17,571328,2026
-Data Science Dojo,2026-03-17,308663,2026
-Data Science Ghent,2026-03-17,299,2026
-Data Science Indonesia,2026-03-17,11915,2026
-Data Science Institute,2026-03-17,20062,2026
-Data Science Meetup,2026-03-17,145,2026
-Data Science Milan,2026-03-17,1842,2026
-Data Science Research Arab Team,2026-03-17,305,2026
-Data Science Research Perú,2026-03-17,39065,2026
-Data Science and Ai Association of Australia | DSAi,2026-03-17,7226,2026
-DecisionBrain,2026-03-17,4585,2026
-Dimension Data,2026-03-17,435255,2026
-Erlangen Artificial Intelligence & Machine Learning Meetup,2026-03-17,567,2026
-Evolution AI,2026-03-17,4285,2026
-Fashion for Good,2026-03-17,154849,2026
-Finance Society at the University of Connecticut,2026-03-17,826,2026
-Foundation for Economic Education,2026-03-17,26463,2026
-Ghana R Users Community,2026-03-17,1523,2026
-GitHub,2026-03-17,5966624,2026
-Google Cloud,2026-03-17,3190221,2026
-Google Summer of Code,2026-03-17,120231,2026
-HEDS Data Science,2026-03-17,563,2026
-Hackster.io,2026-03-17,57245,2026
-Hong Kong Machine Learning,2026-03-17,3272,2026
-Hugging Face,2026-03-17,1191054,2026
-INCRYPT MINING LTD,2026-03-17,202,2026
-InfluxData,2026-03-17,23112,2026
-InternAge,2026-03-17,111,2026
-Irish Human Rights and Equality Commission,2026-03-17,17957,2026
-IrishITJobs.ie,2026-03-17,1062,2026
-JerusML,2026-03-17,717,2026
-KDnuggets,2026-03-17,52915,2026
-Keebo,2026-03-17,4863,2026
-Kemmy Business School,2026-03-17,7050,2026
-LSESU Machine Learning Society,2026-03-17,133,2026
-Laudes Foundation,2026-03-17,39556,2026
-Los Angeles Machine Learning Meetup,2026-03-17,10,2026
-Lumina Foundation,2026-03-17,37703,2026
-MAVA Foundation,2026-03-17,8974,2026
-MIT Technology Review,2026-03-17,1506258,2026
-MLT,2026-03-17,8962,2026
-Machine Learning & Data Science Meetup Roma,2026-03-17,319,2026
-Machine Learning Porto Alegre,2026-03-17,500,2026
-Machine Learning Society,2026-03-17,21323,2026
-Machine Learning Society at MIM UW,2026-03-17,399,2026
-Machine Learning and Data Analytics Lab at NTU EEE,2026-03-17,3079,2026
-Machine Learning at Berkeley,2026-03-17,5382,2026
-Machine Learning in Healthcare,2026-03-17,1033,2026
-McMaster Artificial Intelligence Society,2026-03-17,1241,2026
-Meetup Machine Learning Québec,2026-03-17,114,2026
-NTT DATA  Inc.,2026-03-17,1298382,2026
-NTT DATA Middle East and Africa,2026-03-17,444009,2026
-NVIDIA AI,2026-03-17,1679580,2026
-Nordic.AI,2026-03-17,683,2026
-Nottingham Economics & Finance Society,2026-03-17,5704,2026
-NumFOCUS,2026-03-17,11756,2026
-Oak Foundation,2026-03-17,47166,2026
-Open Data Science Conference (ODSC),2026-03-17,144574,2026
-Open Robotics,2026-03-17,202510,2026
-OpenAI,2026-03-17,10383135,2026
-OpenCV,2026-03-17,337873,2026
-Otago Computing Students Society,2026-03-17,64,2026
-PHILANTHROPY ADVISORS,2026-03-17,6632,2026
-Paris Machine Learning Meetup,2026-03-17,485,2026
+PeopleCert,2025-07-27,188472,NA
+PeopleCert,2025-08-18,190911,NA
+PeopleCert,2025-08-30,192180,NA
+Peptone,2023-01-25,2224,NA
+Peptone,2023-01-29,2233,NA
+PeripherAi,2023-01-25,106,NA
+Permanently Closed,2023-06-05,477,NA
+Permanently Closed,2023-06-11,476,NA
+Permanently Closed,2023-06-23,478,NA
+Permanently Closed,2023-07-06,478,NA
+Permanently Closed,2023-07-23,478,NA
+Permanently Closed,2023-08-05,478,NA
+Permanently Closed,2023-08-29,478,NA
+Permion,2023-06-05,32,NA
+Permion,2023-06-11,49,NA
+Permion,2023-06-23,58,NA
+Permion,2023-07-06,60,NA
+Permion,2023-07-23,66,NA
+Permion,2023-08-05,72,NA
+Permion,2023-08-29,87,NA
+Perplexity,2026-04-08,1522976,NA
+Persistent Systems,2020-10-16,228832,NA
+Persistent Systems,2020-10-20,229404,NA
+Persistent Systems,2020-10-22,229828,NA
+Persistent Systems,2020-10-28,230779,NA
+Persistent Systems,2020-11-07,232405,NA
+Persistent Systems,2020-11-12,233204,NA
+Persistent Systems,2020-11-21,234404,NA
+Persistent Systems,2025-01-09,1424866,NA
+Persistent Systems,2025-01-19,1431644,NA
+Persistent Systems,2025-01-27,1436939,NA
+Persistent Systems,2025-02-21,1456958,NA
+Persistent Systems,2025-02-28,1463547,NA
+Persistent Systems,2025-03-15,1475348,NA
+Persistent Systems,2025-03-16,1475790,NA
+Persistent Systems,2025-04-28,1520766,NA
+Persistent Systems,2025-05-27,1546434,NA
+Persistent Systems,2025-06-07,1554766,NA
+Persistent Systems,2025-07-27,1597965,NA
+Persistent Systems,2025-08-30,1633372,NA
+Personalis Inc.,2023-01-25,15801,NA
+Personalis Inc.,2023-01-29,15830,NA
+Pewter Games Studios,2024-06-24,721,NA
+Pfizer,2023-01-21,5128671,NA
+Pfizer,2023-01-25,5135127,NA
+Pfizer,2023-01-29,5141467,NA
+Pfizer,2023-02-10,5162547,NA
+Pfizer,2023-02-25,5188656,NA
+Pfizer,2023-03-13,5219181,NA
+Pfizer,2023-03-29,5252853,NA
+Pfizer,2023-04-10,5272301,NA
+Pfizer,2023-04-23,5294753,NA
+Pfizer,2023-06-05,5371511,NA
+Pfizer,2023-06-11,5384062,NA
+Pfizer,2023-06-23,5409919,NA
+Pfizer,2023-07-06,5438882,NA
+Pfizer,2023-07-23,5472627,NA
+Pfizer,2023-08-05,5503792,NA
+Pfizer,2023-08-29,5555608,NA
+Pfizer,2023-10-18,5709469,NA
+Pfizer,2023-12-14,5574339,NA
+Pfizer,2023-12-17,5581816,NA
+Pfizer,2023-12-18,5583802,NA
+Pfizer,2024-04-08,5779948,NA
+Pfizer,2024-05-04,5813560,NA
+Pfizer,2024-05-28,5848081,NA
+Pfizer,2024-06-24,5878989,NA
+Pfizer,2024-06-28,5884091,NA
+Pfizer,2024-07-20,5909664,NA
+Pfizer,2024-08-06,5929052,NA
+Pfizer,2024-09-02,5961844,NA
+Pfizer,2024-09-16,5982449,NA
+Pfizer,2024-09-27,5999411,NA
+Pfizer,2025-01-09,6104915,NA
+Pfizer,2025-01-19,6118375,NA
+Pfizer,2025-01-27,6128480,NA
+Pfizer,2025-02-21,6163916,NA
+Pfizer,2025-02-28,6175175,NA
+Pfizer,2025-03-15,6194653,NA
+Pfizer,2025-03-16,6195578,NA
+Pfizer,2025-04-28,6246003,NA
+Pfizer,2025-05-27,6277801,NA
+Pfizer,2025-06-07,6288934,NA
+Pfizer,2025-07-27,6393361,NA
+Pfizer,2025-08-30,6477876,NA
+Pfizer,2026-04-08,6928846,NA
+Phantasma Labs,2023-01-25,1093,NA
+Phantom Space,2023-01-21,6190,NA
+Phantom Space,2023-02-25,6856,NA
+Phantom Space,2023-03-13,7121,NA
+Phantom Space,2023-03-29,7437,NA
+Phantom Space,2023-04-10,7694,NA
+Phantom Space,2023-04-23,7948,NA
+Phantom Space,2023-06-05,8579,NA
+Phantom Space,2023-06-11,8699,NA
+Phantom Space,2023-06-23,8853,NA
+Phantom Space,2023-07-06,8968,NA
+Phantom Space,2023-07-23,9071,NA
+Phantom Space,2023-08-05,9173,NA
+Phantom Space,2023-08-29,9082,NA
+Phantom Space,2023-10-18,9393,NA
+Pharma Job ( Pharma Growth Portal ),2021-02-19,170687,NA
+Pharma Job ( Pharma Growth Portal ),2021-03-06,180120,NA
+Pharma Job ( Pharma Growth Portal ),2021-03-26,191321,NA
+PharmaBiome AG,2023-01-25,1725,NA
+PharmaBiome AG,2023-01-29,1729,NA
+Pharos Platforms Inc.,2021-05-31,257,NA
+Pharos Platforms Inc.,2021-06-06,258,NA
+Pharos Platforms Inc.,2021-06-09,258,NA
+Pharos Platforms Inc.,2021-06-16,259,NA
+Pharos Platforms Inc.,2021-06-21,259,NA
+Pharos Platforms Inc.,2021-06-29,259,NA
+Pharos Platforms Inc.,2021-07-04,259,NA
+Pharos Platforms Inc.,2021-07-09,259,NA
+Pharos Platforms Inc.,2021-07-14,260,NA
+Pharos Platforms Inc.,2021-07-22,260,NA
+Pharos Platforms Inc.,2021-08-14,262,NA
+Pharos Platforms Inc.,2021-08-26,265,NA
+Pharos Platforms Inc.,2021-09-02,264,NA
+Pharos Platforms Inc.,2021-09-09,264,NA
+Pharos Platforms Inc.,2021-09-16,266,NA
+Pharos Platforms Inc.,2021-10-17,266,NA
+Pharos Platforms Inc.,2021-10-29,267,NA
+Pharos Platforms Inc.,2021-11-20,269,NA
+Pharos Platforms Inc.,2021-12-14,269,NA
+Pharos Platforms Inc.,2021-12-20,269,NA
+Pharos Platforms Inc.,2022-01-12,272,NA
+Pharos Platforms Inc.,2022-02-07,275,NA
+Pharos Platforms Inc.,2022-02-16,277,NA
+Pharos Platforms Inc.,2022-02-20,276,NA
+Pharos Platforms Inc.,2022-02-23,276,NA
+Pharos Platforms Inc.,2022-02-26,276,NA
+Pharos Platforms Inc.,2022-03-03,277,NA
+Pharos Platforms Inc.,2022-03-15,278,NA
+Pharos Platforms Inc.,2022-03-20,279,NA
+Pharos Platforms Inc.,2022-03-29,280,NA
+Pharos Platforms Inc.,2022-04-11,281,NA
+Pharos Platforms Inc.,2022-04-13,281,NA
+Pharos Platforms Inc.,2022-05-01,279,NA
+Pharos Platforms Inc.,2022-05-05,276,NA
+Pharos Platforms Inc.,2022-05-22,293,NA
+Pharos Platforms Inc.,2022-05-27,295,NA
+Pharos Platforms Inc.,2022-05-30,295,NA
+Pharos Platforms Inc.,2022-06-07,297,NA
+Pharos Platforms Inc.,2022-06-08,297,NA
+Pharos Platforms Inc.,2022-06-11,298,NA
+Pharos Platforms Inc.,2022-06-23,299,NA
+Pharos Platforms Inc.,2022-06-24,299,NA
+Pharos Platforms Inc.,2022-06-30,301,NA
+Pharos Platforms Inc.,2022-07-02,301,NA
+Pharos Platforms Inc.,2022-07-05,301,NA
+Pharos Platforms Inc.,2022-07-13,301,NA
+Pharos Platforms Inc.,2022-07-18,302,NA
+Pharos Platforms Inc.,2022-07-23,302,NA
+Pharos Platforms Inc.,2022-07-25,302,NA
+Pharos Platforms Inc.,2022-08-02,302,NA
+Pharos Platforms Inc.,2022-08-16,303,NA
+Pharos Platforms Inc.,2022-08-20,303,NA
+Pharos Platforms Inc.,2022-08-25,303,NA
+Pharos Platforms Inc.,2022-08-28,303,NA
+Pharos Platforms Inc.,2022-09-07,306,NA
+Pharos Platforms Inc.,2022-09-10,338,NA
+Pharos Platforms Inc.,2022-09-16,373,NA
+Pharos Platforms Inc.,2022-09-22,387,NA
+Pharos Platforms Inc.,2022-09-29,400,NA
+Pharos Platforms Inc.,2022-10-03,399,NA
+Pharos Platforms Inc.,2022-10-09,413,NA
+Pharos Platforms Inc.,2022-10-16,421,NA
+Pharos Platforms Inc.,2022-10-22,422,NA
+Pharos Platforms Inc.,2022-10-28,425,NA
+Pharos Platforms Inc.,2022-11-03,427,NA
+Pharos Platforms Inc.,2022-11-06,431,NA
+Pharos Platforms Inc.,2022-11-14,434,NA
+Pharos Platforms Inc.,2022-11-20,436,NA
+Pharos Platforms Inc.,2022-11-24,437,NA
+Pharos Platforms Inc.,2022-12-01,440,NA
+Pharos Platforms Inc.,2022-12-08,443,NA
+Pharos Platforms Inc.,2022-12-14,448,NA
+Pharos Platforms Inc.,2022-12-27,464,NA
+Pharos Platforms Inc.,2023-01-01,464,NA
+Pharos Platforms Inc.,2023-01-05,465,NA
+Pharos Platforms Inc.,2023-01-09,466,NA
+Pharos Platforms Inc.,2023-01-22,470,NA
+Pharos Platforms Inc.,2023-01-29,470,NA
+Pharos Platforms Inc.,2023-02-04,471,NA
+Pharos Platforms Inc.,2023-02-25,480,NA
+Pharos Platforms Inc.,2023-03-18,516,NA
+Pharos Platforms Inc.,2023-03-21,516,NA
+Pharos Platforms Inc.,2023-03-25,535,NA
+Pharos Platforms Inc.,2023-04-10,646,NA
+Pharos Platforms Inc.,2023-04-13,649,NA
+Pharos Platforms Inc.,2023-04-21,651,NA
+Pharos Platforms Inc.,2023-04-29,654,NA
+Pharos Platforms Inc.,2023-05-19,658,NA
+Pharos Platforms Inc.,2023-05-29,659,NA
+Pharos Platforms Inc.,2023-06-05,660,NA
+Pharos Platforms Inc.,2023-06-14,660,NA
+Pharos Platforms Inc.,2023-06-17,660,NA
+Pharos Platforms Inc.,2023-06-27,661,NA
+Pharos Platforms Inc.,2023-07-06,662,NA
+Pharos Platforms Inc.,2023-07-23,668,NA
+Pharos Platforms Inc.,2023-08-08,671,NA
+Pharos Platforms Inc.,2023-08-10,673,NA
+Pharos Platforms Inc.,2023-09-15,676,NA
+Pharos Platforms Inc.,2023-10-18,676,NA
+Pharos Platforms Inc.,2023-12-17,674,NA
+Pharos Platforms Inc.,2023-12-18,674,NA
+Pharos Platforms Inc.,2024-01-22,671,NA
+Pharos Platforms Inc.,2024-04-10,673,NA
+Pharos Platforms Inc.,2024-05-28,673,NA
+Pharos Platforms Inc.,2024-08-02,675,NA
+Pharos Platforms Inc.,2024-08-09,675,NA
+Pharos Platforms Inc.,2024-09-02,674,NA
+Pharos Platforms Inc.,2024-09-17,675,NA
+Pharos Platforms Inc.,2024-09-24,675,NA
+Pharos Platforms Inc.,2024-10-02,675,NA
+Pharos Platforms Inc.,2024-11-15,672,NA
+Pharos Platforms Inc.,2025-01-09,672,NA
+Pharos Platforms Inc.,2025-01-18,673,NA
+Pharos Platforms Inc.,2025-01-28,672,NA
+Pharos Platforms Inc.,2025-02-21,674,NA
+Pharos Platforms Inc.,2025-03-03,673,NA
+Pharos Platforms Inc.,2025-03-10,673,NA
+Pharos Platforms Inc.,2025-03-15,674,NA
+Pharos Platforms Inc.,2025-04-13,672,NA
+Pharos Platforms Inc.,2025-04-22,673,NA
+Pharos Platforms Inc.,2025-05-20,673,NA
+Pharos Platforms Inc.,2025-05-25,673,NA
+Pharos Platforms Inc.,2025-06-07,673,NA
+Pharos Platforms Inc.,2025-06-09,673,NA
+Pharos Platforms Inc.,2025-06-22,674,NA
+Pharos Platforms Inc.,2025-07-15,672,NA
+Pharos Platforms Inc.,2025-07-27,674,NA
+Pharos Platforms Inc.,2025-08-18,675,NA
+Pharos Platforms Inc.,2025-08-21,675,NA
+Pharos Platforms Inc.,2025-09-21,674,NA
+Phase Four,2023-01-21,4299,NA
+Phase Four,2023-02-25,4341,NA
+Phase Four,2023-03-13,4375,NA
+Phase Four,2023-03-29,4409,NA
+Phase Four,2023-04-10,4435,NA
+Phase Four,2023-04-23,4452,NA
+Phase Four,2023-06-05,4534,NA
+Phase Four,2023-06-11,4554,NA
+Phase Four,2023-06-23,4600,NA
+Phase Four,2023-07-06,4648,NA
+Phase Four,2023-07-23,4759,NA
+Phase Four,2023-08-05,4799,NA
+Phase Four,2023-08-29,4862,NA
+Phase Four,2023-10-18,5014,NA
+Phase Four,2023-12-18,5102,NA
+Phase Four,2025-03-16,6677,NA
+Phase Four,2025-05-27,6903,NA
+Phenom-World,2023-02-10,1921,NA
+Phi Theta Kappa Honor Society International,2023-01-25,27230,NA
+Philkoei International Inc.,2023-01-28,1322,NA
+PhishFirewall,2023-01-21,14803,NA
+PhishFirewall,2023-02-25,14800,NA
+PhishFirewall,2023-03-13,14796,NA
+PhishFirewall,2023-03-29,14779,NA
+PhishFirewall,2023-04-10,14773,NA
+PhishFirewall,2023-04-23,14767,NA
+PhishFirewall,2023-06-05,14770,NA
+PhishFirewall,2023-06-11,14772,NA
+PhishFirewall,2023-06-23,14769,NA
+PhishFirewall,2023-07-06,14762,NA
+PhishFirewall,2023-07-23,14747,NA
+PhishFirewall,2023-08-05,14736,NA
+PhishFirewall,2023-08-29,14729,NA
+PhishFirewall,2023-10-18,14713,NA
+Phishing for Answers,2023-01-21,119,NA
+Phishing for Answers,2023-02-25,121,NA
+Phishing for Answers,2023-03-13,121,NA
+Phishing for Answers,2023-03-29,121,NA
+Phishing for Answers,2023-04-10,121,NA
+Phishing for Answers,2023-04-23,122,NA
+Phishing for Answers,2023-06-05,122,NA
+Phishing for Answers,2023-06-11,122,NA
+Phishing for Answers,2023-06-23,122,NA
+Phishing for Answers,2023-07-06,123,NA
+Phishing for Answers,2023-07-23,123,NA
+Phishing for Answers,2023-08-05,124,NA
+Phishing for Answers,2023-08-29,125,NA
+Phorest Software,2025-09-05,10585,NA
+Phorest Software,2025-09-21,10700,NA
+Pieces for Developers,2025-05-27,6612,NA
+Pinecone,2023-06-05,11319,NA
+Pinecone,2023-06-11,11689,NA
+Pinecone,2023-06-23,12621,NA
+Pinecone,2023-07-06,13357,NA
+Pinecone,2023-07-23,14820,NA
+Pinecone,2023-08-05,16982,NA
+Pinecone,2023-08-29,20842,NA
+Pinecone,2023-10-18,29220,NA
+Pinecone,2023-12-18,34643,NA
+Pink Programming,2024-06-24,9645,NA
+Pinnacle Infotech,2023-01-28,60456,NA
+Pinterest,2023-01-25,685640,NA
+Pinterest,2023-01-29,687124,NA
+Pinterest,2025-01-09,968332,NA
+Pinterest,2025-01-19,972742,NA
+Pinterest,2025-01-27,976784,NA
+Pinterest,2025-02-21,989509,NA
+Pinterest,2025-02-28,993103,NA
+Pinterest,2025-03-16,999962,NA
+Pinterest,2025-04-28,1022755,NA
+Pinterest,2025-05-27,1041287,NA
+Pinterest,2025-06-07,1046526,NA
+Pinterest,2025-07-27,1083607,NA
+Pinterest,2025-08-18,1102204,NA
+Pinterest,2025-08-30,1112353,NA
+Pioneers of Tomorrow,2023-02-25,418,NA
+Pioneers of Tomorrow,2023-03-13,422,NA
+Pioneers of Tomorrow,2023-03-29,424,NA
+Pioneers of Tomorrow,2023-04-10,424,NA
+Pioneers of Tomorrow,2023-04-23,428,NA
+Pioneers of Tomorrow,2023-06-05,432,NA
+Pioneers of Tomorrow,2023-06-11,434,NA
+Pioneers of Tomorrow,2023-06-23,436,NA
+Pioneers of Tomorrow,2023-07-06,436,NA
+Pioneers of Tomorrow,2023-07-23,436,NA
+Pioneers of Tomorrow,2023-08-05,436,NA
+Pioneers of Tomorrow,2023-08-29,436,NA
+Pirelli,2020-10-16,499184,NA
+Pirelli,2020-10-21,500046,NA
+Pirelli,2020-10-22,500326,NA
+Pirelli,2020-11-02,502261,NA
+Pirelli,2020-11-07,503193,NA
+Pirelli,2020-11-21,505745,NA
+Pirelli,2020-12-15,508768,NA
+Pitchify,2024-06-24,71,NA
+Pivotal Software Inc.,2023-01-25,85164,NA
+Pivotal Ventures,2023-01-25,41563,NA
+Pivotal Ventures,2023-04-10,44390,NA
+Pivotal Ventures,2023-04-23,44621,NA
+Pivotal Ventures,2023-06-05,45441,NA
+Pivotal Ventures,2023-06-11,45593,NA
+Pivotal Ventures,2023-06-23,45945,NA
+Pivotal Ventures,2023-07-06,46284,NA
+Pivotal Ventures,2023-07-23,46649,NA
+Pivotal Ventures,2023-08-05,47522,NA
+Pivotal Ventures,2023-08-29,48720,NA
+Pivotal Ventures,2023-10-18,48815,NA
+Pivotal Ventures,2023-12-18,51363,NA
+Pixelgen Technologies,2023-01-25,1307,NA
+Pixelgen Technologies,2023-01-29,1316,NA
+Planet,2023-01-21,77034,NA
+Planet,2023-01-25,77326,NA
+Planet,2023-01-28,77593,NA
+Planet,2023-02-25,79658,NA
+Planet,2023-03-13,81028,NA
+Planet,2023-03-29,82289,NA
+Planet,2023-04-10,83166,NA
+Planet,2023-04-23,84282,NA
+Planet,2023-06-05,86950,NA
+Planet,2023-06-11,87395,NA
+Planet,2023-06-23,88065,NA
+Planet,2023-07-06,88747,NA
+Planet,2023-07-23,89795,NA
+Planet,2023-08-05,90978,NA
+Planet,2023-08-29,92707,NA
+Planet,2023-10-18,96037,NA
+Planet,2023-12-17,98884,NA
+Planet,2023-12-18,98957,NA
+Planet,2025-02-21,128883,NA
+Planet,2025-03-16,130115,NA
+Planet,2025-04-28,132749,NA
+Planet,2025-05-27,134067,NA
+Planet,2025-08-30,140256,NA
+Planet Forward,2023-01-21,177035,NA
+Planet Forward,2023-02-10,178525,NA
+Planet Forward,2023-02-25,179510,NA
+Planet Forward,2023-03-13,180109,NA
+Planet Forward,2023-03-29,180630,NA
+Planet Forward,2023-04-10,180949,NA
+Planet Forward,2023-04-23,181353,NA
+Planet Forward,2023-06-05,183060,NA
+Planet Forward,2023-06-11,183595,NA
+Planet Forward,2023-06-23,184199,NA
+Planet Forward,2023-07-06,184756,NA
+Planet Forward,2023-07-23,185568,NA
+Planet Forward,2023-08-05,186458,NA
+Planet Forward,2023-08-29,187847,NA
+Planet Forward,2023-10-18,190291,NA
+Planet Forward,2023-12-14,188986,NA
+Planet Forward,2023-12-17,189124,NA
+Planet Forward,2023-12-18,189215,NA
+Planet Forward,2024-05-04,193922,NA
+Planet Forward,2024-06-28,195949,NA
+Planet Forward,2024-08-06,197478,NA
+Planet Forward,2024-09-02,198888,NA
+Planet Forward,2024-09-27,199908,NA
+Planet Forward,2025-01-09,204823,NA
+Planet Forward,2025-01-19,205741,NA
+Planet Forward,2025-01-27,206250,NA
+Planet Forward,2025-02-21,208162,NA
+Planet Forward,2025-02-28,208737,NA
+Planet Forward,2025-03-15,209603,NA
+Planet Forward,2025-03-16,209616,NA
+Planet Forward,2025-04-28,212988,NA
+Planetary Transportation Systems GmbH,2023-01-25,4651,NA
+Planetly by OneTrust,2023-01-25,23302,NA
+PlantingSpace,2023-04-10,606,NA
+PlantingSpace,2023-04-23,611,NA
+PlantingSpace,2023-06-05,661,NA
+PlantingSpace,2023-06-11,662,NA
+PlantingSpace,2023-06-23,662,NA
+PlantingSpace,2023-07-06,667,NA
+PlantingSpace,2023-07-23,678,NA
+PlantingSpace,2023-08-02,693,NA
+PlantingSpace,2023-08-05,697,NA
+PlantingSpace,2023-08-08,699,NA
+PlantingSpace,2023-08-10,710,NA
+PlantingSpace,2023-08-29,732,NA
+PlantingSpace,2023-09-15,774,NA
+PlantingSpace,2023-10-18,845,NA
+PlantingSpace,2023-12-14,907,NA
+PlantingSpace,2023-12-16,909,NA
+PlantingSpace,2023-12-18,910,NA
+PlantingSpace,2024-01-22,938,NA
+PlantingSpace,2024-04-09,1035,NA
+PlantingSpace,2024-04-17,1044,NA
+PlantingSpace,2024-04-19,1044,NA
+PlantingSpace,2024-04-28,1058,NA
+PlantingSpace,2024-05-03,1124,NA
+PlantingSpace,2024-05-19,1161,NA
+PlantingSpace,2024-06-08,1199,NA
+PlantingSpace,2024-06-24,1225,NA
+PlantingSpace,2024-06-28,1227,NA
+PlantingSpace,2024-07-17,1270,NA
+PlantingSpace,2024-07-20,1276,NA
+PlantingSpace,2024-07-23,1282,NA
+PlantingSpace,2024-08-02,1324,NA
+PlantingSpace,2024-08-06,1331,NA
+PlantingSpace,2024-08-09,1340,NA
+PlantingSpace,2024-08-20,1372,NA
+PlantingSpace,2024-09-02,1457,NA
+PlantingSpace,2024-09-07,1477,NA
+PlantingSpace,2024-09-10,1481,NA
+PlantingSpace,2024-09-16,1503,NA
+PlantingSpace,2024-09-24,1517,NA
+PlantingSpace,2024-10-02,1525,NA
+PlantingSpace,2024-11-15,1555,NA
+PlantingSpace,2024-11-24,1559,NA
+PlantingSpace,2024-11-26,1563,NA
+PlantingSpace,2024-12-07,1567,NA
+PlantingSpace,2025-01-08,1577,NA
+PlantingSpace,2025-01-18,1605,NA
+PlantingSpace,2025-01-27,1613,NA
+PlantingSpace,2025-02-04,1618,NA
+PlantingSpace,2025-02-20,1642,NA
+PlantingSpace,2025-02-28,1650,NA
+PlantingSpace,2025-03-03,1651,NA
+PlantingSpace,2025-03-09,1651,NA
+PlantingSpace,2025-03-16,1654,NA
+PlantingSpace,2025-04-13,1658,NA
+PlantingSpace,2025-04-22,1658,NA
+PlantingSpace,2025-04-27,1659,NA
+PlantingSpace,2025-04-28,1660,NA
+PlantingSpace,2025-05-06,1660,NA
+PlantingSpace,2025-05-20,1670,NA
+PlantingSpace,2025-05-25,1677,NA
+PlantingSpace,2025-05-27,1679,NA
+PlantingSpace,2025-06-01,1681,NA
+PlantingSpace,2025-06-07,1686,NA
+PlantingSpace,2025-06-08,1687,NA
+PlantingSpace,2025-06-09,1687,NA
+PlantingSpace,2025-06-10,1690,NA
+PlantingSpace,2025-06-22,1697,NA
+PlantingSpace,2025-07-01,1708,NA
+PlantingSpace,2025-07-04,1708,NA
+PlantingSpace,2025-07-08,1714,NA
+PlantingSpace,2025-07-15,1723,NA
+PlantingSpace,2025-07-27,1736,NA
+PlantingSpace,2025-08-11,1748,NA
+PlantingSpace,2025-08-15,1754,NA
+PlantingSpace,2025-08-18,1754,NA
+PlantingSpace,2025-08-21,1755,NA
+PlantingSpace,2025-08-26,1758,NA
+PlantingSpace,2025-08-30,1758,NA
+PlantingSpace,2025-09-17,1770,NA
+Plantix,2023-01-25,8993,NA
+Plastic Bank,2023-01-28,28270,NA
+Plastic Soup Foundation,2023-01-28,22233,NA
+Plastic Whale,2023-01-28,11554,NA
+Playco,2023-01-25,2428,NA
+Pleo,2023-01-25,47800,NA
+Plotly,2020-10-08,6326,NA
+Plotly,2020-10-13,6349,NA
+Plotly,2020-10-14,6364,NA
+Plotly,2020-10-16,6380,NA
+Plotly,2020-10-18,6394,NA
+Plotly,2020-10-19,6400,NA
+Plotly,2020-10-19,6399,NA
+Plotly,2020-10-20,6401,NA
+Plotly,2020-10-28,6464,NA
+Plotly,2020-11-06,6521,NA
+Plotly,2020-11-07,6527,NA
+Plotly,2020-11-10,6553,NA
+Plotly,2020-11-14,6587,NA
+Plotly,2020-11-18,6604,NA
+Plotly,2020-11-21,6622,NA
+Plotly,2020-11-23,6665,NA
+Plotly,2020-11-28,6689,NA
+Plotly,2020-11-30,6697,NA
+Plotly,2020-12-03,6718,NA
+Plotly,2020-12-05,6736,NA
+Plotly,2020-12-08,6752,NA
+Plotly,2020-12-12,6788,NA
+Plotly,2020-12-15,6860,NA
+Plotly,2020-12-20,6907,NA
+Plotly,2020-12-25,6929,NA
+Plotly,2020-12-27,6934,NA
+Plotly,2020-12-29,6950,NA
+Plotly,2021-01-03,6970,NA
+Plotly,2021-01-06,6991,NA
+Plotly,2021-01-11,7031,NA
+Plotly,2021-01-15,7042,NA
+Plotly,2021-01-19,7057,NA
+Plotly,2021-01-25,7093,NA
+Plotly,2021-01-30,7121,NA
+Plotly,2021-01-31,7125,NA
+Plotly,2021-02-03,7152,NA
+Plotly,2021-02-07,7190,NA
+Plotly,2021-02-12,7239,NA
+Plotly,2021-02-17,7303,NA
+Plotly,2021-02-19,7330,NA
+Plotly,2021-02-21,7345,NA
+Plotly,2021-02-25,7390,NA
+Plotly,2021-03-01,7435,NA
+Plotly,2021-03-06,7497,NA
+Plotly,2021-03-06,7496,NA
+Plotly,2021-03-10,7523,NA
+Plotly,2021-03-16,7558,NA
+Plotly,2021-03-20,7579,NA
+Plotly,2021-03-24,7616,NA
+Plotly,2021-03-26,7630,NA
+Plotly,2021-03-30,7655,NA
+Plotly,2021-04-06,7693,NA
+Plotly,2021-04-10,7740,NA
+Plotly,2021-04-15,7764,NA
+Plotly,2021-04-20,7814,NA
+Plotly,2021-04-24,7858,NA
+Plotly,2021-04-28,7897,NA
+Plotly,2021-05-03,7969,NA
+Plotly,2021-05-07,8004,NA
+Plotly,2021-05-10,8025,NA
+Plotly,2021-05-14,8064,NA
+Plotly,2021-05-21,8109,NA
+Plotly,2021-05-26,8133,NA
+Plotly,2021-06-02,8185,NA
+Plotly,2021-06-09,8225,NA
+Plotly,2021-06-16,8263,NA
+Plotly,2021-06-21,8312,NA
+Plotly,2021-06-29,8447,NA
+Plotly,2021-07-02,8473,NA
+Plotly,2021-07-04,8486,NA
+Plotly,2021-07-09,8515,NA
+Plotly,2021-07-14,8560,NA
+Plotly,2021-07-18,8600,NA
+Plotly,2021-07-22,8617,NA
+Plotly,2021-08-14,8777,NA
+Plotly,2021-08-26,8892,NA
+Plotly,2021-09-02,8951,NA
+Plotly,2021-09-16,9071,NA
+Plotly,2021-10-17,9357,NA
+Plotly,2021-10-29,9582,NA
+Plotly,2021-11-06,9684,NA
+Plotly,2021-11-20,9840,NA
+Plotly,2021-12-07,10410,NA
+Plotly,2021-12-14,10544,NA
+Plotly,2021-12-20,10626,NA
+Plotly,2021-12-26,10701,NA
+Plotly,2021-12-30,10753,NA
+Plotly,2021-12-31,10768,NA
+Plotly,2022-01-03,10909,NA
+Plotly,2022-01-04,11085,NA
+Plotly,2022-01-06,11149,NA
+Plotly,2022-01-07,11188,NA
+Plotly,2022-01-10,11223,NA
+Plotly,2022-01-14,11341,NA
+Plotly,2022-01-18,11407,NA
+Plotly,2022-01-27,11614,NA
+Plotly,2022-02-01,11795,NA
+Plotly,2022-02-07,11913,NA
+Plotly,2022-02-10,12026,NA
+Plotly,2022-02-12,12101,NA
+Plotly,2022-02-16,12200,NA
+Plotly,2022-02-26,12410,NA
+Plotly,2022-03-03,12534,NA
+Plotly,2022-03-15,12766,NA
+Plotly,2022-03-20,12851,NA
+Plotly,2022-03-29,13024,NA
+Plotly,2022-03-31,13061,NA
+Plotly,2022-04-09,13309,NA
+Plotly,2022-04-11,13355,NA
+Plotly,2022-04-13,13402,NA
+Plotly,2022-04-19,13552,NA
+Plotly,2022-04-25,13750,NA
+Plotly,2022-04-29,13860,NA
+Plotly,2022-05-05,14076,NA
+Plotly,2022-05-22,14795,NA
+Plotly,2022-05-23,14825,NA
+Plotly,2022-05-30,15040,NA
+Plotly,2022-06-01,15083,NA
+Plotly,2022-06-03,15189,NA
+Plotly,2022-06-11,15425,NA
+Plotly,2022-06-13,15458,NA
+Plotly,2022-06-15,15540,NA
+Plotly,2026-04-07,44300,NA
+Plotly,2026-04-08,44286,NA
+Polars,2026-04-08,24508,NA
+Posit PBC,2026-04-07,114535,NA
+Posit PBC,2026-04-08,114533,NA
+Posner Center,2026-04-08,3017,NA
+Programming,2026-04-08,780134,NA
 PumasAI,2026-03-17,6619,2026
 PyCon DE & PyData,2026-03-17,4709,2026
 PyData,2026-03-17,2159,2026
@@ -91,6 +623,7 @@ PyData Amsterdam,2026-03-17,5728,2026
 PyData Ann Arbor,2026-03-17,19,2026
 PyData Athens,2026-03-17,253,2026
 PyData Berlin,2026-03-17,2164,2026
+PyData Berlin,2026-04-08,2182,NA
 PyData Boston,2026-03-17,444,2026
 PyData Brasília,2026-03-17,268,2026
 PyData Bristol Meetup,2026-03-17,114,2026
@@ -145,6 +678,7 @@ PyData Warsaw,2026-03-17,370,2026
 PyData Yerevan,2026-03-17,1532,2026
 PyLadies Amsterdam,2026-03-17,1708,2026
 PyLadies Dublin,2026-03-17,887,2026
+PyLadies Dublin,2026-04-07,903,NA
 PyLadies Seattle,2026-03-17,347,2026
 PySport,2026-03-17,4989,2026
 PyTorch,2026-03-17,311501,2026
@@ -168056,6 +168590,8 @@ Quansight,2025-08-30,5322,2025
 Quansight,2025-09-16,5401,2025
 Quansight,2025-09-17,5402,2025
 Quansight,2025-09-21,5400,2025
+Quansight,2026-04-07,5849,NA
+Quansight,2026-04-08,5852,NA
 Quansight Initiate,2021-03-30,86,2021
 Quansight Initiate,2021-04-06,86,2021
 Quansight Initiate,2021-04-10,86,2021
@@ -168277,6 +168813,7 @@ Quansight Initiate,2025-08-21,153,2025
 Quansight Initiate,2025-08-26,153,2025
 Quansight Initiate,2025-08-30,153,2025
 Quansight Initiate,2025-09-17,154,2025
+Quansight Initiate,2026-04-07,161,NA
 QuantEcon,2023-03-10,259,2023
 QuantEcon,2023-03-14,260,2023
 QuantEcon,2023-03-18,261,2023
@@ -168623,6 +169160,7 @@ QuantStack,2025-08-21,2361,2025
 QuantStack,2025-08-26,2365,2025
 QuantStack,2025-08-30,2365,2025
 QuantStack,2025-09-17,2433,2025
+QuantStack,2026-04-07,2701,NA
 Quantiful,2020-10-16,737,2020
 Quantiful,2020-10-20,758,2020
 Quantiful,2020-10-22,767,2020
@@ -168630,6 +169168,7 @@ Quantiful,2020-10-28,773,2020
 Quantiful,2020-11-07,802,2020
 Quantiful,2020-11-12,804,2020
 Quantiful,2020-11-21,804,2020
+Quantitative Analytics,2026-04-08,151799,NA
 Quantopian Inc.,2020-10-16,9484,2020
 Quantopian Inc.,2020-10-20,9502,2020
 Quantopian Inc.,2020-10-21,9505,2020
@@ -168737,53 +169276,124 @@ QuantumBlack AI by McKinsey,2022-07-02,170368,2022
 QuantumBlack AI by McKinsey,2022-07-04,170484,2022
 QuantumBlack AI by McKinsey,2022-07-05,170588,2022
 QuantumBlack AI by McKinsey,2022-07-09,170846,2022
+"QuantumBlack, AI by McKinsey",2026-04-07,240297,NA
+Queens by LinkedIn,2026-04-08,8808664,NA
+Quovantis Technologies,2026-04-07,14921,NA
 R Consortium,2026-03-17,10762,2026
+R Consortium,2026-04-08,10854,NA
 R User Community,2026-03-17,22358,2026
 R User Community Africa,2026-03-17,479,2026
 R User Community EMEA,2026-03-17,616,2026
 R Users Malawi,2026-03-17,297,2026
+R for the Rest of Us,2026-04-08,7187,NA
 R-Ladies D.C.,2026-03-17,176,2026
 R-Ladies Gaborone,2026-03-17,806,2026
+R-Ladies Global,2026-04-08,8958,NA
+R-Ladies Tunis,2026-04-07,759,NA
 RLadies Barranquilla,2026-03-17,2,2026
+RWJF,2026-04-07,138085,NA
+Raytheon,2026-04-08,1369314,NA
+Recast,2026-04-08,8150,NA
+Remix Therapeutics,2026-04-08,9047,NA
+RoSE Network,2026-04-08,370,NA
+Rockefeller Philanthropy Advisors,2026-04-07,70530,NA
 Rocky Mountain Elk Foundation,2026-03-17,33638,2026
 Rome R Users Group,2026-03-17,619,2026
+SAS,2026-04-07,973769,NA
+Salesforce,2026-04-08,6432567,NA
+Salesforce.org,2026-04-08,150922,NA
 SciML,2026-03-17,4180,2026
+Shoutt,2026-04-08,2285,NA
+Skoll Foundation,2026-04-07,115734,NA
+Slack,2026-04-08,1743621,NA
+Snowflake,2026-04-08,1258863,NA
 Softest Consulting Services Ltd,2026-03-17,6053,2026
+Software Insights Ireland,2026-04-07,1279,NA
 Software Lancaster Talks,2026-03-17,871,2026
 Space42,2026-03-17,179772,2026
 Stack Overflow,2026-03-17,1596812,2026
+State of Colorado,2026-04-08,89860,NA
+Statistics Globe,2026-04-08,14766,NA
+Statistics Without Borders,2026-04-07,2625,NA
 Swiss Philanthropy Foundation,2026-03-17,10178,2026
 SwissAI,2026-03-17,480,2026
+Switched on Pop,2026-04-08,183,NA
 Sydney Machine Learning Group,2026-03-17,197,2026
+Tableau,2026-04-08,1135210,NA
+Tango by LinkedIn,2026-04-08,9931684,NA
 Thalesians Ltd,2026-03-17,5715,2026
 The Data Lab - Innovation Centre,2026-03-17,18140,2026
 The Data Pub,2026-03-17,3588,2026
+The David and Lucile Packard Foundation,2026-04-07,71276,NA
+The Information Lab Deutschland,2026-04-08,2801,NA
+The Julia Language,2026-04-07,16507,NA
 The LEGO Foundation,2026-03-17,137452,2026
 The Machine Learning Institute Certificate in Finance (MLI),2026-03-17,1639,2026
 The Michael J. Fox Foundation for Parkinson's Research,2026-03-17,58235,2026
+The New York Community Trust,2026-04-07,10065,NA
+The Nobel Prize,2026-04-08,1165734,NA
+The R Foundation for Statistical Computing,2026-04-08,12978,NA
+The RP Group,2026-04-08,1210,NA
+The Rockefeller Foundation,2026-04-07,417492,NA
+The Rockefeller Foundation,2026-04-08,417582,NA
 The Surfrider Foundation,2026-03-17,43330,2026
+ThinkR (FR),2026-04-07,1047,NA
+Thinking About Thinking,2026-04-08,4355,NA
+Toastmasters International,2026-04-08,316077,NA
 Toronto Machine Learning Meetup,2026-03-17,311,2026
 Toronto Machine Learning Summit (TMLS),2026-03-17,15205,2026
+Twenty Billion Neurons,2026-04-07,3321,NA
+U.S. Department of Commerce,2026-04-08,110822,NA
 UBC Computer Science Student Society,2026-03-17,829,2026
+UCD Netsoc,2026-04-07,558,NA
+UCHealth,2026-04-08,98622,NA
+UF Health,2026-04-08,45660,NA
+UK Statistics Authority,2026-04-07,5650,NA
+US Research Software Engineer Association,2026-04-08,1171,NA
+USMA at West Point,2026-04-08,96826,NA
 UST Computer Science Society,2026-03-17,157,2026
 United Nations Department of Economic and Social Affairs,2026-03-17,27653,2026
 United Nations Office for Sustainable Development (UNOSD),2026-03-17,23036,2026
 University College Dublin,2026-03-17,361014,2026
 University Of Sheffield Computer Science Society,2026-03-17,108,2026
+University of Colorado Boulder,2026-04-08,400277,NA
+University of Denver,2026-04-08,149402,NA
+University of Florida Research,2026-04-08,10961,NA
+University of Illinois Urbana-Champaign,2026-04-08,630815,NA
 University of Limerick,2026-03-17,143024,2026
 UoM AI and Machine Learning Society,2026-03-17,97,2026
 Van Leer Foundation,2026-03-17,29745,2026
+Voltron Data,2026-04-08,27101,NA
+W.K. Kellogg Foundation,2026-04-07,119785,NA
 Western Computer Science Undergraduate Society,2026-03-17,269,2026
 Why R?,2026-03-17,5585,2026
+Why R?,2026-04-08,5627,NA
 Wilder,2026-03-17,10804,2026
+Wiley,2026-04-08,401177,NA
+William and Flora Hewlett Foundation,2026-04-07,71908,NA
+Women In Data™️,2026-04-08,73341,NA
 Women in AI Benelux,2026-03-17,10679,2026
 Women in AI Ireland,2026-03-17,8301,2026
 Women in Data Science (WiDS) Dublin,2026-03-17,939,2026
+Women in Data®,2026-04-07,109816,NA
+WorldDenver,2026-04-08,2460,NA
 X-Europe Data Science,2026-03-17,93,2026
 "Your company""",2020-11-21,663,2020
+Zendesk AI agents (Ultimate),2026-04-07,14398,NA
+Zip by LinkedIn,2026-04-08,38408725,NA
+alfred,2026-04-08,2194,NA
+aramco,2026-04-08,7355344,NA
+cynkra,2026-04-08,1063,NA
+insight2impact,2026-04-07,1381,NA
+marimo,2026-04-08,6586,NA
 meetup.ai,2026-03-17,549,2026
+napari,2026-04-08,725,NA
+rOpenSci,2026-04-08,2376,NA
 rainbowR,2026-03-17,639,2026
 scikit-learn,2026-03-17,123151,2026
 simpl.study,2026-03-17,67,2026
 storytelling with data,2026-03-17,164516,2026
+storytelling with data,2026-04-08,164653,NA
 useR! - The R User Conference,2026-03-17,7922,2026
+useR! - The R User Conference,2026-04-08,8041,NA
+zyBooks: A Wiley Brand,2026-04-08,4978,NA
