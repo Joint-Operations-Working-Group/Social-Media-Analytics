@@ -293,6 +293,7 @@ Company,Date,Followers
 (WiMLDS) Women in Machine Learning & Data Science,2026-03-17,18946
 (WiMLDS) Women in Machine Learning & Data Science,2026-04-05,18980
 (WiMLDS) Women in Machine Learning & Data Science,2026-04-07,18979
+(WiMLDS) Women in Machine Learning & Data Science,2026-04-22,19010
 (Woowa Bros.),2021-02-19,17149
 1 Million Cups Pensacola,2023-02-25,181
 1 Million Cups Pensacola,2023-03-13,182
@@ -647,6 +648,7 @@ Company,Date,Followers
 365 Data Science,2026-01-15,180066
 365 Data Science,2026-03-08,180793
 365 Data Science,2026-03-17,180947
+365 Data Science,2026-04-22,181737
 37signals,2023-01-25,42470
 3Brain AG,2023-01-25,4502
 3Brain AG,2023-01-29,4509
@@ -1215,6 +1217,7 @@ ADAPT Centre,2026-03-08,9754
 ADAPT Centre,2026-03-17,9797
 ADAPT Centre,2026-04-05,10045
 ADAPT Centre,2026-04-07,10045
+ADAPT Centre,2026-04-22,10204
 ADF Haiti,2021-06-02,326
 ADF Haiti,2021-06-09,327
 ADF Haiti,2021-06-16,327
@@ -1423,6 +1426,7 @@ ADF Haiti,2026-01-01,754
 ADF Haiti,2026-01-15,753
 ADF Haiti,2026-03-08,752
 ADF Haiti,2026-03-17,752
+ADF Haiti,2026-04-22,753
 ADP,2023-06-05,1373430
 ADP,2023-06-11,1379368
 ADP,2023-06-23,1391105
@@ -2357,6 +2361,7 @@ AI Inclusive,2026-03-08,4207
 AI Inclusive,2026-03-17,4206
 AI Inclusive,2026-04-05,4222
 AI Inclusive,2026-04-07,4221
+AI Inclusive,2026-04-22,4222
 AI Innovation Center,2023-02-25,1770
 AI Innovation Center,2023-03-13,1811
 AI Innovation Center,2023-03-29,1846
@@ -2417,6 +2422,7 @@ AI Ireland,2026-03-17,9071
 AI Ireland,2026-03-24,9081
 AI Ireland,2026-03-29,9119
 AI Ireland,2026-04-05,9149
+AI Ireland,2026-04-22,9291
 AI Safety Poland,2026-03-16,407
 AI Signals,2025-07-15,469
 AI Signals,2025-07-27,482
@@ -2437,6 +2443,7 @@ AI Signals,2026-03-16,580
 AI Signals,2026-03-17,583
 AI Signals,2026-03-29,602
 AI Signals,2026-04-04,603
+AI Signals,2026-04-22,615
 AI at Meta,2023-10-18,608801
 AI for Global Goals,2026-04-04,8654
 AI for Good,2024-01-22,13370
@@ -2510,6 +2517,7 @@ AI for Good,2026-01-15,40142
 AI for Good,2026-03-08,41820
 AI for Good,2026-03-17,42059
 AI for Good,2026-03-29,42369
+AI for Good,2026-04-22,42952
 AI for Nonprofits Sprint,2026-03-16,772
 AI in Business Initiative at Columbia Business School,2026-03-16,1313
 AI4Diversity,2023-01-21,397955
@@ -2656,6 +2664,7 @@ AIR Centre - Atlantic International Research Centre,2026-01-01,6771
 AIR Centre - Atlantic International Research Centre,2026-01-01,6771
 AIR Centre - Atlantic International Research Centre,2026-01-01,6771
 AIR Centre - Atlantic International Research Centre,2026-03-17,6963
+AIR Centre - Atlantic International Research Centre,2026-04-22,7270
 ALFYMA,2020-12-15,811
 ALFYMA,2021-02-19,860
 ALFYMA,2021-03-26,888
@@ -3622,6 +3631,7 @@ AWS Databases & Analytics,2026-03-08,266797
 AWS Databases & Analytics,2026-03-17,266754
 AWS Databases & Analytics,2026-03-29,266767
 AWS Databases & Analytics,2026-04-05,266795
+AWS Databases & Analytics,2026-04-22,266659
 AWS Machine Learning,2022-02-01,82105
 AWS Machine Learning,2022-02-07,84773
 AWS Machine Learning,2022-02-12,86999
@@ -3882,6 +3892,7 @@ AaltoAI,2024-08-02,635
 AaltoAI,2024-08-09,641
 AaltoAI,2024-09-02,651
 AaltoAI,2024-09-17,659
+Accenture,2026-04-22,14601962
 Accenture Technology,2022-04-29,295652
 Accenture Technology,2022-05-05,297248
 Accenture Technology,2022-05-22,305360
@@ -4057,3 +4068,188 @@ Accenture The Dock,2023-03-25,8890
 Accenture The Dock,2023-04-01,8900
 Accenture The Dock,2023-04-10,8912
 Accenture The Dock,2023-04-13,8924
+Accenture The Dock,2023-04-21,8939
+Accenture The Dock,2023-04-29,8952
+Accenture The Dock,2023-05-12,8971
+Accenture The Dock,2023-05-19,8982
+Accenture The Dock,2023-05-29,9001
+Accenture The Dock,2023-06-05,9010
+Accenture The Dock,2023-06-11,9027
+Accenture The Dock,2023-06-14,9040
+Accenture The Dock,2023-06-17,9056
+Accenture The Dock,2023-06-23,9066
+Accenture The Dock,2023-06-27,9072
+Accenture The Dock,2023-07-06,9087
+Accenture The Dock,2023-07-23,9114
+Accenture The Dock,2023-08-02,9130
+Accenture The Dock,2023-08-08,9132
+Accenture The Dock,2023-08-10,9135
+Accenture The Dock,2023-08-29,9183
+Accenture The Dock,2023-09-15,9206
+Accenture The Dock,2023-10-18,9302
+Accenture The Dock,2023-12-16,9195
+Accenture The Dock,2023-12-18,9196
+Accenture The Dock,2024-01-22,9232
+Accenture The Dock,2024-04-09,9461
+Accenture The Dock,2024-04-17,9489
+Accenture The Dock,2024-04-19,9491
+Accenture The Dock,2024-04-28,9493
+Accenture The Dock,2024-05-03,9496
+Accenture6,2021-02-07,314604
+AccessCyber,2023-10-18,3976
+AccessCyber,2023-12-18,4224
+Accion Systems,2023-01-21,4204
+Accion Systems,2023-02-25,4239
+Accion Systems,2023-03-13,4276
+Accion Systems,2023-03-29,4294
+Accion Systems,2023-04-10,4303
+Accion Systems,2023-04-23,4313
+Accion Systems,2023-06-05,4344
+Accion Systems,2023-06-11,4349
+Accion Systems,2023-06-23,4355
+Accion Systems,2023-07-06,4369
+Accion Systems,2023-07-23,4384
+Accion Systems,2023-08-05,4400
+Accion Systems,2023-08-29,4423
+Accion Systems,2023-10-18,4493
+Accion Systems,2023-12-18,4446
+AccuStaff,2023-01-21,1272
+AccuStaff,2023-02-10,1274
+AccuStaff,2023-02-25,1277
+AccuStaff,2023-03-13,1277
+AccuStaff,2023-03-29,1280
+AccuStaff,2023-04-10,1282
+AccuStaff,2023-04-23,1282
+AccuStaff,2023-06-05,1287
+AccuStaff,2023-06-11,1289
+AccuStaff,2023-06-23,1296
+AccuStaff,2023-07-06,1297
+AccuStaff,2023-07-23,1299
+AccuStaff,2023-08-05,1301
+AccuStaff,2023-08-29,1310
+AccuStaff,2023-10-18,1318
+AccuStaff,2023-12-14,1284
+AccuStaff,2023-12-17,1283
+AccuStaff,2023-12-18,1283
+AccuStaff,2024-04-08,1295
+AccuStaff,2024-05-04,1296
+AccuStaff,2024-05-28,1298
+AccuStaff,2024-06-24,1305
+AccuStaff,2024-06-28,1306
+AccuStaff,2024-07-20,1309
+AccuStaff,2024-08-06,1316
+AccuStaff,2024-09-02,1325
+AccuStaff,2024-09-16,1325
+AccuStaff,2024-09-27,1329
+AccuStaff,2025-01-09,1331
+AccuStaff,2025-01-19,1333
+AccuStaff,2025-01-27,1336
+AccuStaff,2025-03-15,1345
+AccuStaff,2025-03-16,1344
+AccuStaff,2025-04-28,1351
+AccuStaff,2025-05-27,1348
+AccuStaff,2025-06-07,1348
+AccuStaff,2025-07-27,1353
+AccuStaff,2025-08-30,1358
+Acrolinx,2025-01-19,8502
+Acrolinx,2025-01-27,8519
+Acrolinx,2025-03-16,8563
+Acrolinx,2025-04-28,8639
+Acrolinx,2025-05-27,8675
+Acrolinx,2025-06-07,8692
+Acrolinx,2025-07-27,8821
+Acrolinx,2025-08-18,8849
+Acrolinx,2025-08-30,8861
+Acropolis,2023-01-22,1541
+Acryl Data,2023-01-25,1101
+Acryl Data,2023-01-29,1109
+Actelion (now Janssen Pulmonary Hypertension),2021-02-19,50536
+Actelion (now Janssen Pulmonary Hypertension),2021-03-26,50658
+ActiGraph,2023-01-21,2834
+ActiGraph,2023-02-10,2881
+ActiGraph,2023-02-25,2928
+ActiGraph,2023-03-13,2967
+ActiGraph,2023-03-29,3021
+ActiGraph,2023-04-10,3059
+ActiGraph,2023-04-23,3101
+ActiGraph,2023-06-05,3290
+ActiGraph,2023-06-11,3307
+ActiGraph,2023-06-23,3342
+ActiGraph,2023-07-06,3376
+ActiGraph,2023-07-23,3409
+ActiGraph,2023-08-05,3460
+ActiGraph,2023-08-29,3574
+ActiGraph,2023-10-18,3722
+ActiGraph,2023-12-14,3938
+ActiGraph,2023-12-17,3945
+ActiGraph,2023-12-18,3948
+ActiGraph,2024-05-04,4576
+ActiGraph,2024-06-28,4856
+ActiGraph,2024-08-06,4909
+ActiGraph,2024-09-02,4989
+ActiGraph,2025-01-09,5376
+ActiGraph,2025-01-19,5445
+ActiGraph,2025-01-27,5466
+ActiGraph,2025-03-16,5664
+ActiGraph,2025-04-28,5760
+ActiGraph,2025-05-27,5827
+ActiGraph,2025-06-07,5842
+Actinvision,2020-12-15,1946
+Active Motif,2023-01-25,5863
+Active Motif,2023-01-29,5861
+ActiveFence,2023-04-23,15421
+ActiveFence,2023-06-05,16502
+ActiveFence,2023-06-11,16605
+ActiveFence,2023-06-23,16831
+ActiveFence,2023-07-06,17275
+ActiveFence,2023-07-23,17618
+ActiveFence,2023-08-05,17996
+ActiveFence,2023-08-29,18668
+ActiveFence,2023-10-18,20020
+ActiveFence,2023-12-18,20627
+ActiveViam,2021-01-19,2730
+ActiveViam,2021-02-19,2782
+ActiveViam,2021-03-06,2825
+ActiveViam,2021-03-26,2890
+Activision Blizzard,2023-01-25,229227
+Actuators Educational Institute,2021-02-19,4093
+Actuators Educational Institute,2021-03-06,4149
+Actuators Educational Institute,2021-03-26,4243
+Acumatica,2024-05-04,61930
+Acumatica,2024-06-28,65943
+Acumatica,2024-08-06,69238
+Acumatica,2024-09-02,70464
+Acumatica,2025-01-09,76680
+Acumatica,2025-01-19,77282
+Acumatica,2025-01-27,77854
+Acumatica,2025-03-16,81366
+Acumatica,2025-04-28,85764
+Acumatica,2025-05-27,88610
+Acumatica,2025-06-07,89882
+Acumatica,2025-07-27,93177
+Acumatica,2025-08-18,94119
+Acumatica,2025-08-30,94653
+Ad Age,2023-01-21,1084374
+Ad Age,2023-02-10,1087119
+Ad Age,2023-02-25,1089064
+Ad Age,2023-03-13,1090901
+Ad Age,2023-03-29,1093766
+Ad Age,2023-04-10,1095449
+Ad Age,2023-04-23,1097567
+Ad Age,2023-06-05,1103407
+Ad Age,2023-06-11,1104275
+Ad Age,2023-06-23,1106094
+Ad Age,2023-07-06,1107830
+Ad Age,2023-07-23,1109813
+Ad Age,2023-08-05,1111992
+Ad Age,2023-08-29,1115739
+Ad Age,2023-10-18,1126319
+Ad Age,2023-12-14,1094768
+Ad Age,2023-12-17,1095384
+Ad Age,2023-12-18,1095544
+Ad Age,2024-04-08,1116693
+Ad Age,2024-05-04,1122787
+Ad Age,2024-05-28,1126532
+Ad Age,2024-06-24,1129903
+Ad Age,2024-06-28,1130440
+Ad Age,2024-07-20,1132497
