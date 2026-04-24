@@ -1,4 +1,451 @@
-Company,Date,Followers
+"Company","Date","Followers"
+"Rladies Madrid",2026-04-24,114
+"R-Ladies Zürich",2026-04-24,358
+"FastAPI",2026-04-24,82474
+"Psych #rstats Club",2026-04-24,742
+"Hugging Face",2026-04-24,1217293
+"Evolution AI",2026-04-24,4293
+"cynkra",2026-04-24,1064
+"eoda GmbH",2026-04-24,1353
+"thaink²",2026-04-24,1423
+"Rbanism",2026-04-24,63
+"R-Ladies Salzburg",2026-04-24,111
+"data.table Community",2026-04-24,335
+"Women in Data Science (WiDS) Dublin",2026-04-24,1034
+"Datacove",2026-04-24,1537
+"R for the Rest of Us",2026-04-24,7230
+"Polars",2026-04-24,24625
+"R-Ladies Urmia",2026-04-24,584
+"Spare Cores",2026-04-24,408
+"Réalta Technologies",2026-04-24,9203
+"Kolkata R UseR group",2026-04-24,2134
+"R-Ladies São Paulo",2026-04-24,1267
+"Warsaw RUG Meetup - Spotkania Entuzjastów R",2026-04-24,49
+"SustainOSS",2026-04-24,713
+"R-Forwards",2026-04-24,125
+"We R Madagascar",2026-04-24,232
+"R-Ladies Vienna",2026-04-24,131
+"Bioconductor",2026-04-24,4630
+"R-Ladies Cologne",2026-04-24,370
+"R-Ladies Amsterdam",2026-04-24,732
+"R User Community EMEA",2026-04-24,741
+"Johannesburg R User Group Community",2026-04-24,203
+"R community Cameroon",2026-04-24,415
+"Nivishe Foundation",2026-04-24,13605
+"Segal Family Foundation",2026-04-24,31470
+"Safi App",2026-04-24,223
+"The Linux Foundation",2026-04-24,399385
+"NawiriTech",2026-04-24,1781
+"R-Ladies NYC",2026-04-24,158
+"DuckDB",2026-04-24,48924
+"rOpenSci",2026-04-24,2458
+"AI for Good",2026-04-24,43001
+"Spatial Data Science Conference",2026-04-24,5076
+"Women in AI Benelux",2026-04-24,10799
+"R-Ladies St. Louis",2026-04-24,214
+"R-Ladies Global",2026-04-24,8973
+"UN SDG:Learn",2026-04-24,55051
+"WebsiteNI",2026-04-24,2111
+"Bike Library",2026-04-24,1495
+"Cloud-Native Geospatial Forum (CNG)",2026-04-24,8972
+"useR! - The R User Conference",2026-04-24,8108
+"LatinR",2026-04-24,3050
+"Innovate Limerick",2026-04-24,1160
+"OpenAI",2026-04-24,10743044
+"ArData",2026-04-24,362
+"R-Ladies Rome",2026-04-24,1022
+"R-Ladies D.C.",2026-04-24,176
+"Health Data Research UK (HDR UK)",2026-04-24,35736
+"The Carpentries",2026-04-24,3990
+"FemAnalytica",2026-04-24,1827
+"Seasalt.ai",2026-04-24,1059
+"NASA International Space Apps Challenge Dublin",2026-04-24,1011
+"JuliaLang Eindhoven",2026-04-24,624
+"SaLLy • Statistical Learning Laboratory",2026-04-24,3257
+"Comunidad R Hispano",2026-04-24,1200
+"Canadian Institute of Actuaries l Institut canadien des actuaires",2026-04-24,13055
+"TrialAssure",2026-04-24,4374
+"Makie",2026-04-24,89
+"Nature Globe",2026-04-24,285
+"Cascadia R Conference",2026-04-24,1132
+"PlantingSpace",2026-04-24,1935
+"AIR Centre - Atlantic International Research Centre",2026-04-24,7285
+"PackagingCon",2026-04-24,159
+"Global Collaboration Partners Limited",2026-04-24,290
+"Women in Data Science (WiDS) Kenya",2026-04-24,1975
+"Business Data Laboratory Limited",2026-04-24,249
+"Qatar Foundation",2026-04-24,709189
+"Becht Foundation",2026-04-24,1049
+"Spark",2026-04-24,7696
+"PLACE",2026-04-24,2030
+"Statistical Models for Social Sciences Consultant",2026-04-24,10181
+"RSS Real World Data Science",2026-04-24,1275
+"datatraining.io",2026-04-24,51190
+"BIMS",2026-04-24,3254
+"Microsoft Research",2026-04-24,395495
+"Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)",2026-04-24,91929
+"Sylvera",2026-04-24,45458
+"BeZero Carbon",2026-04-24,40249
+"Jupiter Asset Management",2026-04-24,56845
+"EnableD",2026-04-24,337
+"PyData London",2026-04-24,2018
+"Oceana",2026-04-24,86775
+"FishWise",2026-04-24,6536
+"QTA Tech",2026-04-24,1925
+"NumPy",2026-04-24,4660
+"Pandas",2026-04-24,5657
+"SkyTruth",2026-04-24,5591
+"Center for International Environmental Law (CIEL)",2026-04-24,32995
+"Midlands Ireland",2026-04-24,6914
+"United Nations Satellite Centre (UNOSAT)",2026-04-24,9608
+"Ghana R Users Community",2026-04-24,1666
+"GapData Institute",2026-04-24,182
+"Data Science Zimbabwe",2026-04-24,10499
+"QuantEcon",2026-04-24,669
+"PumasAI",2026-04-24,6685
+"SciML",2026-04-24,4197
+"PyLadies Seattle",2026-04-24,371
+"Carelon Global Solutions Ireland",2026-04-24,29503
+"CellClar CIC",2026-04-24,2863
+"BCG X",2026-04-24,334896
+"R User Community Africa",2026-04-24,693
+"PyData Amsterdam",2026-04-24,5883
+"Applied Epi",2026-04-24,10581
+"PyData",2026-04-24,2220
+"Expertise Data Vision (EDaVi)",2026-04-24,90
+"Rx Studio™",2026-04-24,1047
+"Geosaber",2026-04-24,15288
+"VISO Cyber Security",2026-04-24,1500
+"The Organization for Women in Science for the Developing World (OWSD)",2026-04-24,10323
+"SatVu",2026-04-24,13912
+"Remote Sensing and Photogrammetry Society (RSPSoc)",2026-04-24,37673
+"Geospatial World",2026-04-24,61188
+"Esri",2026-04-24,521832
+"Women+ in Geospatial",2026-04-24,43240
+"Space4Good",2026-04-24,14814
+"Geoscience Australia",2026-04-24,51079
+"Development Seed",2026-04-24,10305
+"Digital Earth Africa",2026-04-24,13003
+"Group on Earth Observations (GEO)",2026-04-24,22404
+"Radiant Earth",2026-04-24,11316
+"R-Ladies Paris",2026-04-24,1601
+"Analytics Vidhya",2026-04-24,212262
+"Machine Learning Mastery",2026-04-24,286058
+"Open Knowledge Foundation",2026-04-24,14642
+"Julius Technologies",2026-04-24,273
+"CeADAR Ireland",2026-04-24,8010
+"Girls In ICT Niger",2026-04-24,421
+"Accenture",2026-04-24,14604177
+"The Catalyst",2026-04-24,1969
+"Inspire Walworth",2026-04-24,101
+"Edmonton R User Group",2026-04-24,77
+"discoverkerry.com",2026-04-24,3953
+"Big Data LDN",2026-04-24,17009
+"scikit-learn",2026-04-24,123264
+"Gestion et Administration des Entreprises- INP-HB",2026-04-24,691
+"Compylo",2026-04-24,1237
+"R-Ladies Saudi Arabia (Dammam)",2026-04-24,434
+"Sister Analyst",2026-04-24,568
+"getINNOtized GmbH",2026-04-24,8778
+"R-Ladies Miami",2026-04-24,195
+"UCL Data Science Society",2026-04-24,2064
+"Legato Health Technologies Ireland",2026-04-24,9711
+"DSN - Data Science Nigeria",2026-04-24,27038
+"Netcelero",2026-04-24,1874
+"R User Community",2026-04-24,22576
+"LSBU Business School",2026-04-24,3043
+"Appsilon",2026-04-24,11433
+"Derilinx",2026-04-24,1332
+"Source Cooperative",2026-04-24,4991
+"Snowflake",2026-04-24,1271610
+"Omdena",2026-04-24,53508
+"R-Ladies Gaborone",2026-04-24,806
+"NannyML (acq. by Soda Data Quality)",2026-04-24,8114
+"InsideAIML",2026-04-24,20338
+"HackHills",2026-04-24,429
+"SCALEWORK",2026-04-24,1646
+"UNICEF Innocenti",2026-04-24,77004
+"The Alan Turing Institute",2026-04-24,112197
+"Weights & Biases",2026-04-24,91686
+"McKinsey Africa",2026-04-24,60270
+"United Nations Institute for Training and Research (UNITAR)",2026-04-24,482835
+"Black in Data",2026-04-24,5502
+"Machine Learning Prague conference",2026-04-24,1087
+"DeepVidhya",2026-04-24,399
+"Africa in Science",2026-04-24,4899
+"JuliaActuary",2026-04-24,3298
+"SDG Academy",2026-04-24,33064
+"PyCaret",2026-04-24,19531
+"SDGs",2026-04-24,7455
+"African Drone & Data Academy Powered By UNICEF",2026-04-24,3404
+"Flowminder",2026-04-24,3010
+"Qatar Computing Research Institute",2026-04-24,24422
+"Ishango.ai",2026-04-24,3925
+"Packt",2026-04-24,136050
+"United Nations Foundation",2026-04-24,225532
+"UN Sustainable Development Group",2026-04-24,267739
+"Sustainable Development Solutions Network",2026-04-24,89016
+"Data2X",2026-04-24,6794
+"Global Partnership for Sustainable Development Data",2026-04-24,17599
+"Tunis R User Group",2026-04-24,728
+"The Global Academy",2026-04-24,526
+"R User Group Nepal",2026-04-24,175
+"PyData Global",2026-04-24,8303
+"PyData Delhi",2026-04-24,1867
+"NumericMind",2026-04-24,1863
+"365 Data Science",2026-04-24,181724
+"SuperDataScience",2026-04-24,94231
+"Statistics Globe",2026-04-24,14854
+"Invenia Labs",2026-04-24,2635
+"African Institute for Mathematical Sciences Ghana (AIMS Ghana)",2026-04-24,4809
+"African Institute for Mathematical Sciences (AIMS)",2026-04-24,28294
+"NVIDIA AI",2026-04-24,1758180
+"Business Science",2026-04-24,15228
+"Government of Ireland",2026-04-24,126375
+"EcoAngola",2026-04-24,35102
+"Outreachy",2026-04-24,23485
+"Google Summer of Code",2026-04-24,122707
+"Code for Cause",2026-04-24,21233
+"Major League Hacking",2026-04-24,50784
+"Global Fishing Watch",2026-04-24,27369
+"Innovative Hub for Research in Africa",2026-04-24,561
+"IHM",2026-04-24,5997
+"East Africa Research &Data Analysis",2026-04-24,31
+"Open Cadastre",2026-04-24,29
+"Ayiti Analytics",2026-04-24,2054
+"Global Shapers Community - Thimphu Hub",2026-04-24,649
+"Make Every Woman Count",2026-04-24,1464
+"Observatoire du Numérique en Haïti (ObNH)",2026-04-24,130
+"Dragon Coders Private Limited",2026-04-24,1102
+"Thimphu TechPark",2026-04-24,1305
+"ADF Haiti",2026-04-24,753
+"NIMBADATA",2026-04-24,4
+"VERDE",2026-04-24,267
+"ArkeUp Academy | Océan Indien",2026-04-24,2135
+"Oman Data Science Organization",2026-04-24,150
+"Bhutan Data Scientists",2026-04-24,67
+"Women in Machine Learning and Data Science MAURITIUS",2026-04-24,121
+"Benin ThinkLab",2026-04-24,92
+"Fisheries Transparency Initiative (FiTI)",2026-04-24,3999
+"FreeLocalMappers",2026-04-24,1168
+"EwaData",2026-04-24,1040
+"DATA MANSA",2026-04-24,194
+"The Collective Impact Group For Guinea",2026-04-24,156
+"UNDP Guinea-Bissau",2026-04-24,4064
+"X-Europe Data Science",2026-04-24,95
+"Microsoft Power BI Mastery",2026-04-24,86709
+"DATA CENTRIC AFRICA",2026-04-24,1358
+"Tag Ng",2026-04-24,3213
+"Conrad N. Hilton Foundation",2026-04-24,36305
+"Obama Foundation",2026-04-24,512002
+"Walton Family Foundation",2026-04-24,84614
+"The James Irvine Foundation",2026-04-24,27868
+"ORRECO",2026-04-24,7146
+"Ascential – Part of the Informa Group",2026-04-24,68694
+"Falkonry",2026-04-24,5862
+"The Kresge Foundation",2026-04-24,80342
+"NCX",2026-04-24,9926
+"storytelling with data",2026-04-24,164796
+"KIPP Foundation",2026-04-24,70866
+"Coding Black Females",2026-04-24,18110
+"GORODATA",2026-04-24,1566
+"Tata Consultancy Services",2026-04-24,18843479
+"General Assembly",2026-04-24,216227
+"Sentient Projects",2026-04-24,637
+"Software Insights Ireland",2026-04-24,1278
+"AI Ireland",2026-04-24,9321
+"PyLadies Dublin",2026-04-24,911
+"R-Ladies Tunis",2026-04-24,758
+"Plotly",2026-04-24,44364
+"Age Of Geeks",2026-04-24,148313
+"Elm Company",2026-04-24,864434
+"Women in Data®",2026-04-24,110776
+"DataIQ School of Analysis",2026-04-24,144
+"DataIQ",2026-04-24,25807
+"DataKind UK",2026-04-24,5963
+"CivicDataLab",2026-04-24,12228
+"Data for Good Foundation",2026-04-24,2500
+"Data & Society Research Institute",2026-04-24,27863
+"Statistics Without Borders",2026-04-24,2635
+"Data Science for Social Good Foundation",2026-04-24,8286
+"Data For Good",2026-04-24,33727
+"DataDotOrg",2026-04-24,15684
+"Data for Good",2026-04-24,16703
+"DataKind",2026-04-24,32587
+"NumFOCUS",2026-04-24,11815
+"ThinkR (FR)",2026-04-24,1049
+"Posit PBC",2026-04-24,114702
+"Zendesk AI agents (Ultimate)",2026-04-24,14417
+"Twenty Billion Neurons",2026-04-24,3322
+"The Julia Language",2026-04-24,16512
+"QuantStack",2026-04-24,2729
+"Quansight Initiate",2026-04-24,160
+"OpenTeams",2026-04-24,5156
+"Quansight",2026-04-24,5913
+"BCG Digital Ventures",2026-04-24,160128
+"Boston Consulting Group (BCG)",2026-04-24,5382728
+"McKinsey & Company",2026-04-24,7122627
+"QuantumBlack AI by McKinsey",2026-04-24,241826
+"IBM Hybrid Cloud and Infrastructure",2026-04-24,281058
+"IBM Data AI & Automation",2026-04-24,299510
+"Datalitics",2026-04-24,225
+"Globant",2026-04-24,1331738
+"Lovelytics LATAM",2026-04-24,41162
+"Brightwater Recruitment",2026-04-24,237010
+"Cpl",2026-04-24,434967
+"Amazon Science",2026-04-24,388468
+"AWS Databases & Analytics",2026-04-24,266601
+"Genpact",2026-04-24,5681047
+"Cognizant",2026-04-24,9178172
+"Newgen Software",2026-04-24,350460
+"Nagarro",2026-04-24,1726152
+"Appinventiv",2026-04-24,659601
+"Quovantis Technologies",2026-04-24,14926
+"GlobalLogic",2026-04-24,1323118
+"MachineX Intelligence",2026-04-24,1759
+"W.K. Kellogg Foundation",2026-04-24,121303
+"RWJF",2026-04-24,138837
+"Skoll Foundation",2026-04-24,122246
+"Gates Foundation",2026-04-24,1495363
+"The David and Lucile Packard Foundation",2026-04-24,72094
+"Gordon and Betty Moore Foundation",2026-04-24,24275
+"Dataquest.io",2026-04-24,46444
+"Rockefeller Philanthropy Advisors",2026-04-24,71127
+"The New York Community Trust",2026-04-24,10149
+"Bloomberg Philanthropies",2026-04-24,236639
+"William and Flora Hewlett Foundation",2026-04-24,72981
+"Mellon Foundation",2026-04-24,102408
+"Open Society Foundations",2026-04-24,280295
+"Doris Duke Foundation",2026-04-24,14275
+"MacArthur Foundation",2026-04-24,237991
+"Ford Foundation",2026-04-24,326225
+"The Rockefeller Foundation",2026-04-24,421312
+"Alfred P. Sloan Foundation",2026-04-24,10502
+"UCD Netsoc – UCD's Internet and Computer Science Society",2026-04-24,560
+"Domino Data Lab",2026-04-24,56220
+"SAS",2026-04-24,975611
+"KNIME",2026-04-24,67744
+"Altair RapidMiner",2026-04-24,20907
+"insight2impact",2026-04-24,1379
+"Ixio Analytics",2026-04-24,757
+"ClusterAI",2026-04-24,464
+"UK Statistics Authority",2026-04-24,5692
+"Office for National Statistics",2026-04-24,90688
+"Government Statistical Service",2026-04-24,12018
+"Institute of Mathematics and its Applications",2026-04-24,34411
+"Daybreak",2026-04-24,34766
+"Senseforth.ai",2026-04-24,42851
+"Tiger Analytics",2026-04-24,630169
+"Towards AI Inc.",2026-04-24,270626
+"Dataiku",2026-04-24,232682
+"H2O.ai",2026-04-24,154124
+"Decision Inc.",2026-04-24,39216
+"Canvas Intelligence",2026-04-24,15864
+"Fathom Data",2026-04-24,832
+"Women in Technology (WIT)",2026-04-24,346531
+"Women Who Code",2026-04-24,180348
+"Black Girls Code",2026-04-24,61407
+"Data Visualization Society",2026-04-24,153866
+"DataScientist.Ca",2026-04-24,17420
+"Data Science Institute",2026-04-24,20067
+"Data Science Dojo",2026-04-24,309883
+"Data Science Academy",2026-04-24,574429
+"Data Science Council of America",2026-04-24,60933
+"WorldQuant",2026-04-24,155416
+"The Apache Software Foundation",2026-04-24,81408
+"Ursa Labs",2026-04-24,450
+"Tekkare",2026-04-24,1880
+"RegioData Research GmbH",2026-04-24,507
+"ViennaR",2026-04-24,384
+"Klue",2026-04-24,32066
+"R Consortium",2026-04-24,10907
+"ProCogia",2026-04-24,11439
+"Lander Analytics",2026-04-24,908
+"Jumping Rivers Ltd",2026-04-24,4173
+"Lucid Software",2026-04-24,144800
+"Qualtrics",2026-04-24,325933
+"Pluralsight",2026-04-24,233416
+"Open Data Science Conference (ODSC)",2026-04-24,144963
+"Film Analytics",2026-04-24,216
+"Gower Street Analytics",2026-04-24,2436
+"Stack Overflow",2026-04-24,1597487
+"GitLab",2026-04-24,1133113
+"GitHub",2026-04-24,6102015
+"Project Jupyter",2026-04-24,19178
+"Idiro Analytics",2026-04-24,6841
+"Women in AI Ireland",2026-04-24,8517
+"r-programming.org",2026-04-24,2327
+"Collibra",2026-04-24,102202
+"DataRobot",2026-04-24,154339
+"Informatica",2026-04-24,375618
+"Python Software Foundation",2026-04-24,154210
+"Alteryx",2026-04-24,362686
+"Fivetran",2026-04-24,148904
+"Tableau",2026-04-24,1146438
+"Databricks",2026-04-24,1195435
+"Jump Trading",2026-04-24,122709
+"Squarepoint",2026-04-24,80545
+"Jane Street",2026-04-24,421197
+"Two Sigma",2026-04-24,280131
+"G-Research",2026-04-24,71919
+"Data Science Central",2026-04-24,274748
+"DeepLearning.AI",2026-04-24,1344372
+"Sololearn",2026-04-24,171885
+"Towards Data Science",2026-04-24,646288
+"IBM",2026-04-24,19405838
+"Kaggle",2026-04-24,507482
+"Coursera",2026-04-24,2687353
+"Udemy",2026-04-24,1669302
+"DataCamp",2026-04-24,560560
+"PyData Ireland",2026-04-24,428
+"DataSoc",2026-04-24,904
+"The R Foundation for Statistical Computing",2026-04-24,13176
+"OpenStreetMap Ireland",2026-04-24,305
+"Rose Data Studio LLC",2026-04-24,354
+"EuroPython",2026-04-24,7064
+"R Users Group - Ecuador",2026-04-24,300
+"AI Inclusive",2026-04-24,4219
+"Roche",2026-04-24,4364681
+"Why R?",2026-04-24,5640
+"Irish Air Corps",2026-04-24,2796
+"Alldus",2026-04-24,137446
+"Conning",2026-04-24,18736
+"Zindi",2026-04-24,20750
+"Irish Defence Forces",2026-04-24,20734
+"Xuntos - Let's Get Together",2026-04-24,833
+"(WiMLDS) Women in Machine Learning & Data Science",2026-04-24,19016
+"Treemetrics Ltd",2026-04-24,2097
+"Aon Centre for Innovation and Analytics (ACIA)",2026-04-24,18674
+"Kitman Labs",2026-04-24,17409
+"Python Ireland",2026-04-24,4797
+"Remsoft",2026-04-24,5965
+"RSS Data Science and AI Section",2026-04-24,3058
+"STATSports",2026-04-24,58307
+"The Analytics Institute",2026-04-24,10475
+"Anaconda Inc.",2026-04-24,103380
+"Coillte",2026-04-24,20937
+"ADAPT Centre",2026-04-24,10222
+"CSO (Central Statistics Office Ireland)",2026-04-24,15176
+"dotConferences – AI JS & Tech Events",2026-04-24,1845
+"PyData Berlin",2026-04-24,2208
+"Royal Statistical Society",2026-04-24,23883
+"JuliaHub",2026-04-24,34743
+"Asystec (Now Ergo)",2026-04-24,2510
+"Xanadu Consultancy",2026-04-24,3233
+"KatRisk",2026-04-24,6051
+"Economic and Social Research Institute (ESRI)",2026-04-24,33554
+"i2 Inc.",2026-04-24,996
+"IUCN",2026-04-24,269510
+"Datahug (acquired by CallidusCloud)",2026-04-24,2643
+"WellClever",2026-04-24,119
+"FutureLearn",2026-04-24,137883
+"Open Data Institute",2026-04-24,23262
+"ICHEC (Irish Centre for High-End Computing)",2026-04-24,2308
+"Pacific Whale Foundation",2026-04-24,3776
+"Susquehanna International Group",2026-04-24,237129
+"Gapminder Foundation",2026-04-24,21083
+"Xava",2026-04-24,332
+"Analytic Partners",2026-04-24,59893
 Hopsworks,2025-08-21,6524
 Hopsworks,2025-08-26,6533
 Hopsworks,2025-08-30,6533
