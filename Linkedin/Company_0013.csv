@@ -1,146 +1,747 @@
-"Company","Date","Followers"
-"Datamotus",2026-04-24,1821
-"TSRL Inc",2026-04-24,984
-"Rust Foundation",2026-04-24,21596
-"Copernicus ECMWF",2026-04-24,54895
-"Visualising Climate",2026-04-24,2698
-"LinkedIn Guide to Creating",2026-04-24,3929095
-"Sovereign Tech Agency",2026-04-24,9885
-"Google® Ad Grant AI",2026-04-24,696
-"Geometric",2026-04-24,245
-"FAO",2026-04-24,1865145
-"PyData Switzerland",2026-04-24,103
-"Futuclass",2026-04-24,4506
-"Grupo de usuari@s de R Santiago",2026-04-24,438
-"PyData Mumbai",2026-04-24,93
-"R USER GROUP LAGOS",2026-04-24,14
-"R User Group at the University of St. Gallen",2026-04-24,100
-"African Data Science Conference",2026-04-24,3174
-"Catawiki",2026-04-24,42958
-"Liberia R Users Community",2026-04-24,14
-"Dromcollogher '26",2026-04-24,34
-"R-Ladies Tirana",2026-04-24,344
-"Pune R UseR Group",2026-04-24,156
-"CS++",2026-04-24,573
-"Eraneos",2026-04-24,43932
-"Swiss Federal Institute for Forest Snow and Landscape Research WSL",2026-04-24,18147
-"BURKINA FASO Users R Community",2026-04-24,25
-"Lendiscore",2026-04-24,138
-"GeoAI Analytics Ltd",2026-04-24,45
-"Enterprise Ireland",2026-04-24,209195
-"TechIreland",2026-04-24,9953
-"Data Engineers London",2026-04-24,867
-"Zürich R User Group",2026-04-24,273
-"Exasol",2026-04-24,20442
-"Somalens AI Health App",2026-04-24,559
-"Variantyx",2026-04-24,23354
-"Indiastat",2026-04-24,2815
-"Lotas",2026-04-24,246
-"ixpantia",2026-04-24,3035
-"R Community Mali",2026-04-24,132
-"Apache Sedona",2026-04-24,4271
-"rainbowR",2026-04-24,651
-"AI Signals",2026-04-24,615
-"PyDataMCR",2026-04-24,411
-"SACHA 1989 ltd",2026-04-24,213
-"The Use of R in Official Statistics - uRos",2026-04-24,955
-"HyperAI",2026-04-24,3102
-"PyData Slovakia",2026-04-24,89
-"Menlo Ventures",2026-04-24,66552
-"R useR Group",2026-04-24,38
-"Castellanos Global",2026-04-24,688
-"TxMQ",2026-04-24,3886
-"Rome R Users Group",2026-04-24,630
-"Karachi R User Group",2026-04-24,81
-"Cliniphai",2026-04-24,613
-"Overture Maps Foundation",2026-04-24,11969
-"CIMS Global",2026-04-24,813
-"Limerick IT Summit",2026-04-24,992
-"Smart Data Foundry",2026-04-24,6901
-"PyCon Greece",2026-04-24,1673
-"Baseline Community + Fund",2026-04-24,2302
-"Prefect",2026-04-24,29659
-"Palomar",2026-04-24,7640
-"VSN International",2026-04-24,4873
-"PyCon Italia",2026-04-24,3742
-"PyData Pittsburgh",2026-04-24,578
-"WebExpo Conference",2026-04-24,5105
-"Huawei IT Products & Solutions",2026-04-24,35649
-"IRESSEF - Institute for Health Research Epidemiological Surveillance and Training",2026-04-24,4248
-"PyData Bradford",2026-04-24,259
-"Dark Peak Analytics",2026-04-24,2262
-"PyData Prague",2026-04-24,425
-"Midlands ICT Network",2026-04-24,1272
-"Field of Play",2026-04-24,1529
-"PySport",2026-04-24,5032
-"BSides Galway",2026-04-24,578
-"Hopsworks",2026-04-24,7068
-"RVA Data Science Community",2026-04-24,419
-"R en Buenos Aires",2026-04-24,869
-"Developer Relations Foundation",2026-04-24,1062
-"Xomnia",2026-04-24,10192
-"The Currency",2026-04-24,29040
-"R x TH",2026-04-24,13
-"ICP",2026-04-24,1306
-"MMS",2026-04-24,65982
-"PyData Toronto",2026-04-24,118
-"Healix",2026-04-24,49
-"Spatial Thoughts",2026-04-24,49390
-"Oxford Dynamic Robot Systems",2026-04-24,1224
-"Learning Bayesian Statistics",2026-04-24,4113
-"PyData London",2026-04-24,1235
-"PyData Eindhoven",2026-04-24,2187
-"PyCon DE & PyData",2026-04-24,5694
-"GRB",2026-04-24,13597
-"La Villette",2026-04-24,29119
-"Compute! Paris",2026-04-24,2143
-"Cité des sciences et de l'industrie",2026-04-24,23701
-"UNICEF",2026-04-24,5512323
-"United Nations Volunteers",2026-04-24,3241146
-"InciSioN-UGANDA",2026-04-24,279
-"InciSioN - International Student Surgical Network",2026-04-24,7069
-"Julia Gender Inclusive",2026-04-24,27
-"ZIMSA - Zimbabwean Statistical Association",2026-04-24,2137
-"CARTO",2026-04-24,54917
-"PyData Southampton",2026-04-24,252
-"Ahmedabad R Users Group",2026-04-24,543
-"Projet Mobilier National",2026-04-24,297
-"Estación R",2026-04-24,7830
-"PyData Boston",2026-04-24,456
-"RCollab",2026-04-24,585
-"IndabaX Chad 2026",2026-04-24,1810
-"Thraets",2026-04-24,414
-"PyData NYC",2026-04-24,2013
-"RLadies Vancouver",2026-04-24,67
-"R-Ladies Oslo",2026-04-24,35
-"R Ladies Niterói",2026-04-24,50
-"R-Ladies Montpellier",2026-04-24,37
-"R-Ladies Charlottesville",2026-04-24,20
-"R-Ladies Manchester",2026-04-24,120
-"R Ladies Curitiba",2026-04-24,92
-"R-Ladies Montevideo",2026-04-24,133
-"R-Ladies Goiânia",2026-04-24,219
-"R-Ladies Lancaster",2026-04-24,191
-"R-Ladies Tbilisi",2026-04-24,197
-"R-Ladies Cairo",2026-04-24,226
-"R-Ladies Melbourne Inc",2026-04-24,358
-"R LADIES LA PAZ",2026-04-24,255
-"R-Ladies Italy",2026-04-24,649
-"R-Ladies Belo Horizonte",2026-04-24,2175
-"Health and medical sciences programme | The Alan Turing Institute",2026-04-24,2270
-"R-Ladies Santiago",2026-04-24,323
-"R-HTA in LMICs",2026-04-24,1279
-"The Navigation Fund",2026-04-24,1415
-"R Users Malawi",2026-04-24,401
-"Done With R",2026-04-24,22
-"Open Source in Pharma",2026-04-24,2808
-"Novartis",2026-04-24,4639408
-"Botswana R Users",2026-04-24,37
-"JuliaCon 2026",2026-04-24,5553
-"ViviFiy",2026-04-24,718
-"Colombia Diversa",2026-04-24,8244
-"R-Ladies Lima",2026-04-24,1623
-"Rladies Madrid",2026-04-24,114
+Company,Date,Followers
+Data Science Student Society at UJ,2022-10-09,91
+Data Science Student Society at UJ,2022-10-16,91
+Data Science Student Society at UJ,2022-10-22,93
+Data Science Student Society at UJ,2022-10-28,93
+Data Science Student Society at UJ,2022-11-03,94
+Data Science Student Society at UJ,2022-11-06,94
+Data Science Student Society at UJ,2022-11-14,95
+Data Science Student Society at UJ,2022-11-20,95
+Data Science Student Society at UJ,2022-11-24,96
+Data Science Student Society at UJ,2022-12-01,96
+Data Science Student Society at UJ,2022-12-08,96
+Data Science Student Society at UJ,2022-12-14,96
+Data Science Student Society at UJ,2022-12-27,97
+Data Science Student Society at UJ,2023-01-01,97
+Data Science Student Society at UJ,2023-01-05,97
+Data Science Student Society at UJ,2023-01-09,97
+Data Science Student Society at UJ,2023-01-22,97
+Data Science Student Society at UJ,2023-01-29,97
+Data Science Student Society at UJ,2023-02-04,97
+Data Science Student Society at UJ,2023-02-25,99
+Data Science Student Society at UJ,2023-03-18,100
+Data Science Student Society at UJ,2023-03-21,100
+Data Science Student Society at UJ,2023-03-25,100
+Data Science Student Society at UJ,2023-04-10,103
+Data Science Student Society at UJ,2023-04-13,103
+Data Science Student Society at UJ,2023-04-21,103
+Data Science Student Society at UJ,2023-04-29,104
+Data Science Student Society at UJ,2023-05-19,104
+Data Science Student Society at UJ,2023-05-29,104
+Data Science Student Society at UJ,2023-06-05,105
+Data Science Student Society at UJ,2023-06-14,105
+Data Science Student Society at UJ,2023-06-17,105
+Data Science Student Society at UJ,2023-06-27,106
+Data Science Student Society at UJ,2023-07-06,106
+Data Science Student Society at UJ,2023-07-23,107
+Data Science Student Society at UJ,2023-08-08,107
+Data Science Student Society at UJ,2023-08-10,107
+Data Science Student Society at UJ,2023-09-15,108
+Data Science Student Society at UJ,2023-10-18,108
+Data Science Student Society at UJ,2023-12-17,104
+Data Science Student Society at UJ,2023-12-18,104
+Data Science Student Society at UJ,2024-01-22,103
+Data Science Student Society at UJ,2024-04-10,108
+Data Science Student Society at UJ,2024-05-28,110
+Data Science Student Society at UJ,2024-08-02,116
+Data Science Student Society at UJ,2024-08-09,116
+Data Science Student Society at UJ,2024-09-02,119
+Data Science Student Society at UJ,2024-09-17,120
+Data Science Student Society at UJ,2024-09-24,120
+Data Science Student Society at UJ,2024-10-02,120
+Data Science Student Society at UJ,2025-01-09,124
+Data Science Student Society at UJ,2025-01-18,124
+Data Science Student Society at UJ,2025-01-28,124
+Data Science Student Society at UJ,2025-02-21,124
+Data Science Student Society at UJ,2025-03-03,124
+Data Science Student Society at UJ,2025-03-10,124
+Data Science Student Society at UJ,2025-03-15,124
+Data Science Student Society at UJ,2025-04-13,124
+Data Science Student Society at UJ,2025-04-22,125
+Data Science Student Society at UJ,2025-05-20,124
+Data Science Student Society at UJ,2025-05-25,124
+Data Science Student Society at UJ,2025-06-07,124
+Data Science Student Society at UJ,2025-06-09,124
+Data Science Student Society at UJ,2025-06-22,124
+Data Science Student Society at UJ,2025-07-15,124
+Data Science Student Society at UJ,2025-07-27,123
+Data Science Student Society at UJ,2025-08-18,124
+Data Science Student Society at UJ,2025-08-21,124
+Data Science Student Society at UJ,2025-09-21,123
+Data Science Student Society at UJ,2026-03-16,123
+Data Science Student Society at UJ,2026-03-17,123
+Data Science Zimbabwe,2023-03-14,5845
+Data Science Zimbabwe,2023-03-18,5910
+Data Science Zimbabwe,2023-03-21,5933
+Data Science Zimbabwe,2023-03-25,5976
+Data Science Zimbabwe,2023-04-01,6043
+Data Science Zimbabwe,2023-04-10,6118
+Data Science Zimbabwe,2023-04-10,6116
+Data Science Zimbabwe,2023-04-13,6148
+Data Science Zimbabwe,2023-04-21,6206
+Data Science Zimbabwe,2023-04-23,6221
+Data Science Zimbabwe,2023-04-29,6264
+Data Science Zimbabwe,2023-05-12,6356
+Data Science Zimbabwe,2023-05-19,6404
+Data Science Zimbabwe,2023-05-29,6463
+Data Science Zimbabwe,2023-06-05,6528
+Data Science Zimbabwe,2023-06-11,6613
+Data Science Zimbabwe,2023-06-11,6612
+Data Science Zimbabwe,2023-06-14,6667
+Data Science Zimbabwe,2023-06-17,6707
+Data Science Zimbabwe,2023-06-23,6793
+Data Science Zimbabwe,2023-06-27,6849
+Data Science Zimbabwe,2023-07-06,7039
+Data Science Zimbabwe,2023-07-23,7241
+Data Science Zimbabwe,2023-08-02,7388
+Data Science Zimbabwe,2023-08-05,7425
+Data Science Zimbabwe,2023-08-08,7451
+Data Science Zimbabwe,2023-08-10,7474
+Data Science Zimbabwe,2023-08-29,7689
+Data Science Zimbabwe,2023-09-15,7813
+Data Science Zimbabwe,2023-10-18,8011
+Data Science Zimbabwe,2023-12-16,8216
+Data Science Zimbabwe,2023-12-18,8224
+Data Science Zimbabwe,2024-01-22,8375
+Data Science Zimbabwe,2024-04-09,8667
+Data Science Zimbabwe,2024-04-17,8679
+Data Science Zimbabwe,2024-04-19,8688
+Data Science Zimbabwe,2024-04-28,8708
+Data Science Zimbabwe,2024-05-03,8725
+Data Science Zimbabwe,2024-05-19,8771
+Data Science Zimbabwe,2024-06-08,8921
+Data Science Zimbabwe,2024-06-24,9043
+Data Science Zimbabwe,2024-07-11,9181
+Data Science Zimbabwe,2024-07-17,9211
+Data Science Zimbabwe,2024-07-23,9243
+Data Science Zimbabwe,2024-08-02,9296
+Data Science Zimbabwe,2024-08-06,9306
+Data Science Zimbabwe,2024-08-09,9321
+Data Science Zimbabwe,2024-08-20,9346
+Data Science Zimbabwe,2024-09-02,9389
+Data Science Zimbabwe,2024-09-07,9407
+Data Science Zimbabwe,2024-09-10,9416
+Data Science Zimbabwe,2024-09-16,9430
+Data Science Zimbabwe,2024-09-24,9444
+Data Science Zimbabwe,2024-10-02,9456
+Data Science Zimbabwe,2024-11-15,9500
+Data Science Zimbabwe,2024-11-24,9506
+Data Science Zimbabwe,2024-12-07,9533
+Data Science Zimbabwe,2025-01-08,10092
+Data Science Zimbabwe,2025-01-18,10173
+Data Science Zimbabwe,2025-01-27,10213
+Data Science Zimbabwe,2025-02-04,10229
+Data Science Zimbabwe,2025-02-20,10263
+Data Science Zimbabwe,2025-02-28,10288
+Data Science Zimbabwe,2025-03-03,10291
+Data Science Zimbabwe,2025-03-16,10297
+Data Science Zimbabwe,2025-04-13,10325
+Data Science Zimbabwe,2026-04-07,10480
+Data Science Zimbabwe,2026-04-29,10501
+Data Science Zimbabwe,2026-05-12,10516
+Data Science Zimbabwe,2026-05-31,10538
+Data Science and AI Society - UTS,2021-03-28,91
+Data Science and AI Society - UTS,2021-03-31,91
+Data Science and AI Society - UTS,2021-04-06,91
+Data Science and AI Society - UTS,2021-04-10,91
+Data Science and AI Society - UTS,2021-04-15,91
+Data Science and AI Society - UTS,2021-04-20,91
+Data Science and AI Society - UTS,2021-04-24,91
+Data Science and AI Society - UTS,2021-04-28,91
+Data Science and AI Society - UTS,2021-05-07,92
+Data Science and AI Society - UTS,2021-05-10,93
+Data Science and AI Society - UTS,2021-05-14,94
+Data Science and AI Society - UTS,2021-05-21,94
+Data Science and AI Society - UTS,2021-05-26,94
+Data Science and AI Society - UTS,2021-05-31,95
+Data Science and AI Society - UTS,2021-06-06,95
+Data Science and AI Society - UTS,2021-06-09,96
+Data Science and AI Society - UTS,2021-06-16,98
+Data Science and AI Society - UTS,2021-06-21,99
+Data Science and AI Society - UTS,2021-06-29,100
+Data Science and AI Society - UTS,2021-07-04,101
+Data Science and AI Society - UTS,2021-07-09,101
+Data Science and AI Society - UTS,2021-07-14,102
+Data Science and AI Society - UTS,2021-07-22,103
+Data Science and AI Society - UTS,2021-08-14,108
+Data Science and AI Society - UTS,2021-08-26,108
+Data Science and AI Society - UTS,2021-09-02,109
+Data Science and AI Society - UTS,2021-09-09,109
+Data Science and AI Society - UTS,2021-09-16,110
+Data Science and AI Society - UTS,2021-10-17,111
+Data Science and AI Society - UTS,2021-10-29,111
+Data Science and AI Society - UTS,2021-11-20,111
+Data Science and AI Society - UTS,2021-12-03,114
+Data Science and AI Society - UTS,2021-12-20,121
+Data Science and AI Society - UTS,2021-12-26,121
+Data Science and AI Society - UTS,2021-12-31,121
+Data Science and AI Society - UTS,2022-02-07,124
+Data Science and AI Society - UTS,2022-02-12,125
+Data Science and AI Society - UTS,2022-02-16,128
+Data Science and AI Society - UTS,2022-02-20,128
+Data Science and AI Society - UTS,2022-02-23,130
+Data Science and AI Society - UTS,2022-02-26,130
+Data Science and AI Society - UTS,2022-03-15,134
+Data Science and AI Society - UTS,2022-03-20,135
+Data Science and AI Society - UTS,2022-03-29,138
+Data Science and AI Society - UTS,2022-05-01,169
+Data Science and AI Society - UTS,2022-05-05,130
+Data Science and AI Society - UTS,2022-05-27,176
+Data Science and AI Society - UTS,2022-05-30,177
+Data Science and AI Society - UTS,2022-06-11,177
+Data Science and AI Society - UTS,2022-06-16,178
+Data Science and AI Society - UTS,2022-06-23,189
+Data Science and AI Society - UTS,2022-06-24,189
+Data Science and AI Society - UTS,2022-06-30,192
+Data Science and AI Society - UTS,2022-07-02,194
+Data Science and AI Society - UTS,2022-07-05,195
+Data Science and AI Society - UTS,2022-07-13,195
+Data Science and AI Society - UTS,2022-07-18,196
+Data Science and AI Society - UTS,2022-07-23,198
+Data Science and AI Society - UTS,2022-07-25,199
+Data Science and AI Society - UTS,2022-08-02,208
+Data Science and AI Society - UTS,2022-08-16,224
+Data Science and AI Society - UTS,2022-08-20,227
+Data Science and AI Society - UTS,2022-08-25,229
+Data Science and AI Society - UTS,2022-08-28,229
+Data Science and AI Society - UTS,2022-09-07,234
+Data Science and AI Society - UTS,2022-09-10,234
+Data Science and AI Society - UTS,2022-09-16,235
+Data Science and AI Society - UTS,2022-09-22,235
+Data Science and AI Society - UTS,2022-09-29,236
+Data Science and AI Society - UTS,2022-10-03,236
+Data Science and AI Society - UTS,2022-10-09,248
+Data Science and AI Society - UTS,2022-10-16,252
+Data Science and AI Society - UTS,2022-10-22,259
+Data Science and AI Society - UTS,2022-10-28,268
+Data Science and AI Society - UTS,2022-11-03,269
+Data Science and AI Society - UTS,2022-11-06,271
+Data Science and AI Society - UTS,2022-11-14,272
+Data Science and AI Society - UTS,2022-11-20,272
+Data Science and AI Society - UTS,2022-11-24,272
+Data Science and AI Society - UTS,2022-12-01,272
+Data Science and AI Society - UTS,2022-12-08,272
+Data Science and AI Society - UTS,2022-12-14,272
+Data Science and AI Society - UTS,2022-12-27,273
+Data Science and AI Society - UTS,2023-01-01,274
+Data Science and AI Society - UTS,2023-01-05,275
+Data Science and AI Society - UTS,2023-01-09,276
+Data Science and AI Society - UTS,2023-01-22,276
+Data Science and AI Society - UTS,2023-01-29,276
+Data Science and AI Society - UTS,2023-02-04,276
+Data Science and AI Society - UTS,2023-02-25,286
+Data Science and AI Society - UTS,2023-03-18,295
+Data Science and AI Society - UTS,2023-03-21,296
+Data Science and AI Society - UTS,2023-03-25,298
+Data Science and AI Society - UTS,2023-04-10,299
+Data Science and AI Society - UTS,2023-04-13,299
+Data Science and AI Society - UTS,2023-04-21,299
+Data Science and AI Society - UTS,2023-04-29,300
+Data Science and AI Society - UTS,2023-05-19,301
+Data Science and AI Society - UTS,2023-05-29,302
+Data Science and AI Society - UTS,2023-06-05,302
+Data Science and AI Society - UTS,2023-06-14,304
+Data Science and AI Society - UTS,2023-06-17,304
+Data Science and AI Society - UTS,2023-06-27,309
+Data Science and AI Society - UTS,2023-07-06,312
+Data Science and AI Society - UTS,2023-07-23,318
+Data Science and AI Society - UTS,2023-08-08,328
+Data Science and AI Society - UTS,2023-08-10,329
+Data Science and AI Society - UTS,2023-09-15,336
+Data Science and AI Society - UTS,2023-10-18,336
+Data Science and AI Society - UTS,2023-12-17,337
+Data Science and AI Society - UTS,2023-12-18,337
+Data Science and AI Society - UTS,2024-01-22,342
+Data Science and AI Society - UTS,2024-04-10,353
+Data Science and AI Society - UTS,2024-05-28,362
+Data Science and AI Society - UTS,2024-08-02,370
+Data Science and AI Society - UTS,2024-08-09,369
+Data Science and AI Society - UTS,2024-09-02,373
+Data Science and AI Society - UTS,2024-09-17,375
+Data Science and AI Society - UTS,2024-09-24,375
+Data Science and AI Society - UTS,2024-10-02,376
+Data Science and AI Society - UTS,2025-01-09,385
+Data Science and AI Society - UTS,2025-01-18,386
+Data Science and AI Society - UTS,2025-01-28,385
+Data Science and AI Society - UTS,2025-02-21,387
+Data Science and AI Society - UTS,2025-03-03,384
+Data Science and AI Society - UTS,2025-03-10,385
+Data Science and AI Society - UTS,2025-03-15,388
+Data Science and AI Society - UTS,2025-04-13,391
+Data Science and AI Society - UTS,2025-04-22,391
+Data Science and AI Society - UTS,2025-05-20,391
+Data Science and AI Society - UTS,2025-05-25,392
+Data Science and AI Society - UTS,2025-06-07,389
+Data Science and AI Society - UTS,2025-06-09,389
+Data Science and AI Society - UTS,2025-06-22,390
+Data Science and AI Society - UTS,2025-07-15,389
+Data Science and AI Society - UTS,2025-07-27,388
+Data Science and AI Society - UTS,2025-08-18,388
+Data Science and AI Society - UTS,2025-08-21,388
+Data Science and AI Society - UTS,2026-03-16,392
+Data Science and AI Society - UTS,2026-03-17,392
+Data Science and AI Society - UTS,2026-03-17,392
+Data Science and Ai Association of Australia | DSAi,2021-01-25,2902
+Data Science and Ai Association of Australia | DSAi,2021-01-28,2909
+Data Science and Ai Association of Australia | DSAi,2021-01-31,2923
+Data Science and Ai Association of Australia | DSAi,2021-02-03,2942
+Data Science and Ai Association of Australia | DSAi,2021-02-07,2961
+Data Science and Ai Association of Australia | DSAi,2021-02-12,2984
+Data Science and Ai Association of Australia | DSAi,2021-02-16,3000
+Data Science and Ai Association of Australia | DSAi,2021-02-21,3024
+Data Science and Ai Association of Australia | DSAi,2021-02-25,3039
+Data Science and Ai Association of Australia | DSAi,2021-03-01,3049
+Data Science and Ai Association of Australia | DSAi,2021-03-06,3071
+Data Science and Ai Association of Australia | DSAi,2021-03-10,3082
+Data Science and Ai Association of Australia | DSAi,2021-03-13,3096
+Data Science and Ai Association of Australia | DSAi,2021-03-20,3134
+Data Science and Ai Association of Australia | DSAi,2021-03-28,3190
+Data Science and Ai Association of Australia | DSAi,2021-03-31,3219
+Data Science and Ai Association of Australia | DSAi,2021-04-06,3273
+Data Science and Ai Association of Australia | DSAi,2021-04-10,3289
+Data Science and Ai Association of Australia | DSAi,2021-04-15,3314
+Data Science and Ai Association of Australia | DSAi,2021-04-20,3331
+Data Science and Ai Association of Australia | DSAi,2021-04-24,3348
+Data Science and Ai Association of Australia | DSAi,2021-04-28,3364
+Data Science and Ai Association of Australia | DSAi,2021-05-07,3391
+Data Science and Ai Association of Australia | DSAi,2021-05-10,3396
+Data Science and Ai Association of Australia | DSAi,2021-05-14,3406
+Data Science and Ai Association of Australia | DSAi,2021-05-21,3418
+Data Science and Ai Association of Australia | DSAi,2021-05-26,3429
+Data Science and Ai Association of Australia | DSAi,2021-05-31,3444
+Data Science and Ai Association of Australia | DSAi,2021-06-06,3468
+Data Science and Ai Association of Australia | DSAi,2021-06-09,3476
+Data Science and Ai Association of Australia | DSAi,2021-06-16,3491
+Data Science and Ai Association of Australia | DSAi,2021-06-21,3525
+Data Science and Ai Association of Australia | DSAi,2021-06-29,3552
+Data Science and Ai Association of Australia | DSAi,2021-07-04,3568
+Data Science and Ai Association of Australia | DSAi,2021-07-09,3584
+Data Science and Ai Association of Australia | DSAi,2021-07-14,3592
+Data Science and Ai Association of Australia | DSAi,2021-07-22,3608
+Data Science and Ai Association of Australia | DSAi,2021-08-14,3666
+Data Science and Ai Association of Australia | DSAi,2021-08-26,3702
+Data Science and Ai Association of Australia | DSAi,2021-09-02,3718
+Data Science and Ai Association of Australia | DSAi,2021-09-09,3738
+Data Science and Ai Association of Australia | DSAi,2021-09-16,3757
+Data Science and Ai Association of Australia | DSAi,2021-10-17,3835
+Data Science and Ai Association of Australia | DSAi,2021-10-29,3861
+Data Science and Ai Association of Australia | DSAi,2021-11-20,3913
+Data Science and Ai Association of Australia | DSAi,2021-12-03,3951
+Data Science and Ai Association of Australia | DSAi,2021-12-14,3979
+Data Science and Ai Association of Australia | DSAi,2021-12-20,3989
+Data Science and Ai Association of Australia | DSAi,2021-12-26,3999
+Data Science and Ai Association of Australia | DSAi,2022-01-12,4039
+Data Science and Ai Association of Australia | DSAi,2022-02-01,4081
+Data Science and Ai Association of Australia | DSAi,2022-02-12,4119
+Data Science and Ai Association of Australia | DSAi,2022-02-20,4139
+Data Science and Ai Association of Australia | DSAi,2022-02-23,4145
+Data Science and Ai Association of Australia | DSAi,2022-02-26,4155
+Data Science and Ai Association of Australia | DSAi,2022-03-03,4166
+Data Science and Ai Association of Australia | DSAi,2022-03-15,4194
+Data Science and Ai Association of Australia | DSAi,2022-03-20,4199
+Data Science and Ai Association of Australia | DSAi,2022-03-29,4207
+Data Science and Ai Association of Australia | DSAi,2022-04-13,4243
+Data Science and Ai Association of Australia | DSAi,2022-05-01,4295
+Data Science and Ai Association of Australia | DSAi,2022-05-05,4155
+Data Science and Ai Association of Australia | DSAi,2022-05-27,4350
+Data Science and Ai Association of Australia | DSAi,2022-05-30,4356
+Data Science and Ai Association of Australia | DSAi,2022-06-07,4372
+Data Science and Ai Association of Australia | DSAi,2022-06-08,4372
+Data Science and Ai Association of Australia | DSAi,2022-06-23,4408
+Data Science and Ai Association of Australia | DSAi,2022-06-30,4441
+Data Science and Ai Association of Australia | DSAi,2022-07-02,4443
+Data Science and Ai Association of Australia | DSAi,2022-07-05,4446
+Data Science and Ai Association of Australia | DSAi,2022-07-13,4465
+Data Science and Ai Association of Australia | DSAi,2022-07-18,4477
+Data Science and Ai Association of Australia | DSAi,2022-07-23,4488
+Data Science and Ai Association of Australia | DSAi,2022-07-25,4488
+Data Science and Ai Association of Australia | DSAi,2022-08-02,4502
+Data Science and Ai Association of Australia | DSAi,2022-08-16,4538
+Data Science and Ai Association of Australia | DSAi,2022-08-20,4552
+Data Science and Ai Association of Australia | DSAi,2022-08-25,4565
+Data Science and Ai Association of Australia | DSAi,2022-08-28,4566
+Data Science and Ai Association of Australia | DSAi,2022-09-07,4576
+Data Science and Ai Association of Australia | DSAi,2022-09-10,4580
+Data Science and Ai Association of Australia | DSAi,2022-09-16,4586
+Data Science and Ai Association of Australia | DSAi,2022-09-22,4600
+Data Science and Ai Association of Australia | DSAi,2022-09-29,4610
+Data Science and Ai Association of Australia | DSAi,2022-10-03,4616
+Data Science and Ai Association of Australia | DSAi,2022-10-09,4624
+Data Science and Ai Association of Australia | DSAi,2022-10-16,4633
+Data Science and Ai Association of Australia | DSAi,2022-10-22,4646
+Data Science and Ai Association of Australia | DSAi,2022-10-28,4662
+Data Science and Ai Association of Australia | DSAi,2022-11-03,4680
+Data Science and Ai Association of Australia | DSAi,2022-11-06,4684
+Data Science and Ai Association of Australia | DSAi,2022-11-14,4698
+Data Science and Ai Association of Australia | DSAi,2022-11-20,4720
+Data Science and Ai Association of Australia | DSAi,2022-11-24,4726
+Data Science and Ai Association of Australia | DSAi,2022-12-01,4739
+Data Science and Ai Association of Australia | DSAi,2022-12-08,4753
+Data Science and Ai Association of Australia | DSAi,2022-12-14,4760
+Data Science and Ai Association of Australia | DSAi,2022-12-27,4797
+Data Science and Ai Association of Australia | DSAi,2023-01-01,4797
+Data Science and Ai Association of Australia | DSAi,2023-01-05,4805
+Data Science and Ai Association of Australia | DSAi,2023-01-09,4809
+Data Science and Ai Association of Australia | DSAi,2023-01-22,4846
+Data Science and Ai Association of Australia | DSAi,2023-01-29,4864
+Data Science and Ai Association of Australia | DSAi,2023-02-04,4882
+Data Science and Ai Association of Australia | DSAi,2023-02-25,4952
+Data Science and Ai Association of Australia | DSAi,2023-03-18,5036
+Data Science and Ai Association of Australia | DSAi,2023-03-21,5041
+Data Science and Ai Association of Australia | DSAi,2023-03-25,5052
+Data Science and Ai Association of Australia | DSAi,2023-04-10,5111
+Data Science and Ai Association of Australia | DSAi,2023-04-13,5116
+Data Science and Ai Association of Australia | DSAi,2023-04-21,5140
+Data Science and Ai Association of Australia | DSAi,2023-04-29,5163
+Data Science and Ai Association of Australia | DSAi,2023-05-19,5333
+Data Science and Ai Association of Australia | DSAi,2023-05-29,5378
+Data Science and Ai Association of Australia | DSAi,2023-06-05,5412
+Data Science and Ai Association of Australia | DSAi,2023-06-14,5441
+Data Science and Ai Association of Australia | DSAi,2023-06-17,5462
+Data Science and Ai Association of Australia | DSAi,2023-06-27,5503
+Data Science and Ai Association of Australia | DSAi,2023-07-06,5524
+Data Science and Ai Association of Australia | DSAi,2023-07-23,5578
+Data Science and Ai Association of Australia | DSAi,2023-08-08,5613
+Data Science and Ai Association of Australia | DSAi,2023-08-10,5619
+Data Science and Ai Association of Australia | DSAi,2023-09-15,5748
+Data Science and Ai Association of Australia | DSAi,2023-10-18,5748
+Data Science and Ai Association of Australia | DSAi,2023-12-17,5752
+Data Science and Ai Association of Australia | DSAi,2023-12-18,5757
+Data Science and Ai Association of Australia | DSAi,2024-01-22,5808
+Data Science and Ai Association of Australia | DSAi,2024-04-10,5965
+Data Science and Ai Association of Australia | DSAi,2024-05-28,6068
+Data Science and Ai Association of Australia | DSAi,2024-08-02,6224
+Data Science and Ai Association of Australia | DSAi,2024-08-09,6270
+Data Science and Ai Association of Australia | DSAi,2024-09-02,6365
+Data Science and Ai Association of Australia | DSAi,2024-09-17,6405
+Data Science and Ai Association of Australia | DSAi,2024-09-24,6411
+Data Science and Ai Association of Australia | DSAi,2024-10-02,6425
+Data Science and Ai Association of Australia | DSAi,2025-01-09,6524
+Data Science and Ai Association of Australia | DSAi,2025-01-18,6537
+Data Science and Ai Association of Australia | DSAi,2025-01-28,6537
+Data Science and Ai Association of Australia | DSAi,2025-02-21,6592
+Data Science and Ai Association of Australia | DSAi,2025-03-03,6612
+Data Science and Ai Association of Australia | DSAi,2025-03-10,6626
+Data Science and Ai Association of Australia | DSAi,2025-03-15,6630
+Data Science and Ai Association of Australia | DSAi,2025-04-13,6666
+Data Science and Ai Association of Australia | DSAi,2025-04-22,6670
+Data Science and Ai Association of Australia | DSAi,2025-05-20,6687
+Data Science and Ai Association of Australia | DSAi,2025-05-25,6696
+Data Science and Ai Association of Australia | DSAi,2025-06-07,6710
+Data Science and Ai Association of Australia | DSAi,2025-06-09,6713
+Data Science and Ai Association of Australia | DSAi,2025-06-22,6741
+Data Science and Ai Association of Australia | DSAi,2025-07-15,6791
+Data Science and Ai Association of Australia | DSAi,2025-07-27,6808
+Data Science and Ai Association of Australia | DSAi,2025-08-18,6874
+Data Science and Ai Association of Australia | DSAi,2025-08-21,6889
+Data Science and Ai Association of Australia | DSAi,2025-09-21,6950
+Data Science and Ai Association of Australia | DSAi,2026-03-16,7216
+Data Science and Ai Association of Australia | DSAi,2026-03-17,7226
+Data Science and Ai Association of Australia | DSAi,2026-03-17,7226
+Data Science by Data Scientist Canada,2021-11-20,16548
+Data Science by Data Scientist Canada,2021-12-07,16573
+Data Science by Data Scientist Canada,2021-12-14,16576
+Data Science by Data Scientist Canada,2021-12-20,16592
+Data Science by Data Scientist Canada,2021-12-26,16600
+Data Science by Data Scientist Canada,2021-12-30,16607
+Data Science by Data Scientist Canada,2021-12-31,16609
+Data Science by Data Scientist Canada,2022-01-03,16607
+Data Science by Data Scientist Canada,2022-01-04,16610
+Data Science by Data Scientist Canada,2022-01-06,16612
+Data Science by Data Scientist Canada,2022-01-07,16611
+Data Science by Data Scientist Canada,2022-01-10,16618
+Data Science by Data Scientist Canada,2022-01-14,16634
+Data Science by Data Scientist Canada,2022-01-18,16642
+Data Science by Data Scientist Canada,2022-01-27,16666
+Data Science by Data Scientist Canada,2022-02-01,16672
+Data Science by Data Scientist Canada,2022-02-07,16684
+Data Science by Data Scientist Canada,2022-02-10,16693
+Data Science by Data Scientist Canada,2022-02-16,16700
+Data Science by Data Scientist Canada,2022-02-23,16720
+Data Science by Data Scientist Canada,2022-02-26,16722
+Data Science by Data Scientist Canada,2022-03-03,16740
+Data Science by Data Scientist Canada,2022-03-07,16747
+Data Science by Data Scientist Canada,2022-03-20,16785
+Data Science by Data Scientist Canada,2022-03-29,16802
+Data Science by Data Scientist Canada,2022-03-31,16800
+Data Science by Data Scientist Canada,2022-04-09,16817
+Data Science by Data Scientist Canada,2022-04-11,16821
+Data Science by Data Scientist Canada,2022-04-13,16828
+Data Science by Data Scientist Canada,2022-04-19,16840
+Data Science by Data Scientist Canada,2022-04-25,16852
+Data Science by Data Scientist Canada,2022-04-29,16863
+Data Science by Data Scientist Canada,2022-05-05,16876
+Data Science by Data Scientist Canada,2022-05-12,16890
+Data Science by Data Scientist Canada,2022-05-22,16928
+Data Science by Data Scientist Canada,2022-05-23,16928
+Data Science by Data Scientist Canada,2022-05-27,16934
+Data Science by Data Scientist Canada,2022-06-01,16942
+Data Science by Data Scientist Canada,2022-06-07,16942
+Data Science by Data Scientist Canada,2022-06-08,16942
+Data Science by Data Scientist Canada,2022-06-11,16950
+Data Science by Data Scientist Canada,2022-06-13,16956
+Data Science by Data Scientist Canada,2022-06-15,16965
+Data Science by Data Scientist Canada,2022-06-24,16998
+Data Science by Data Scientist Canada,2022-06-26,17003
+Data Science by Data Scientist Canada,2022-06-28,17010
+Data Science by Data Scientist Canada,2022-06-30,17021
+Data Science by Data Scientist Canada,2022-07-01,17022
+Data Science by Data Scientist Canada,2022-07-02,17021
+Data Science by Data Scientist Canada,2022-07-04,17024
+Data Science by Data Scientist Canada,2022-07-05,17028
+Data Science by Data Scientist Canada,2022-07-09,17034
+Data Science by Data Scientist Canada,2022-07-12,17040
+Data Science by Data Scientist Canada,2022-07-18,17060
+Data Science by Data Scientist Canada,2022-07-21,17067
+Data Science by Data Scientist Canada,2022-07-23,17078
+Data Science by Data Scientist Canada,2022-07-25,17086
+Data Science by Data Scientist Canada,2022-08-01,17109
+Data Science by Data Scientist Canada,2022-08-08,17126
+Data Science by Data Scientist Canada,2022-08-16,17146
+Data Science by Data Scientist Canada,2022-08-20,17168
+Data Science by Data Scientist Canada,2022-08-25,17191
+Data Science by Data Scientist Canada,2022-08-28,17204
+Data Science by Data Scientist Canada,2022-09-01,17230
+Data Science by Data Scientist Canada,2022-09-07,17248
+Data Science by Data Scientist Canada,2022-09-10,17260
+Data Science by Data Scientist Canada,2022-09-16,17283
+Data Science by Data Scientist Canada,2022-09-22,17318
+Data Science by Data Scientist Canada,2022-09-29,17341
+Data Science by Data Scientist Canada,2022-10-03,17352
+Data Science by Data Scientist Canada,2022-10-09,17362
+Data Science by Data Scientist Canada,2022-10-12,17376
+Data Science by Data Scientist Canada,2022-10-16,17388
+Data Science by Data Scientist Canada,2022-10-22,17417
+Data Science by Data Scientist Canada,2022-10-28,17436
+Data Science by Data Scientist Canada,2022-11-03,17454
+Data Science by Data Scientist Canada,2022-11-06,17461
+Data Science by Data Scientist Canada,2022-11-14,17488
+Data Science by Data Scientist Canada,2022-11-20,17508
+Data Science by Data Scientist Canada,2022-11-24,17528
+Data Science by Data Scientist Canada,2022-12-01,17562
+Data Science by Data Scientist Canada,2022-12-08,17588
+Data Science by Data Scientist Canada,2022-12-14,17612
+Data Science by Data Scientist Canada,2022-12-27,17645
+Data Science by Data Scientist Canada,2023-01-01,17667
+Data Science by Data Scientist Canada,2023-01-05,17687
+Data Science by Data Scientist Canada,2023-01-09,17699
+Data Science by Data Scientist Canada,2023-01-22,17733
+Data Science by Data Scientist Canada,2023-01-28,17746
+Data Science by Data Scientist Canada,2023-02-04,17763
+Data Science by Data Scientist Canada,2023-02-10,17781
+Data Science by Data Scientist Canada,2023-02-13,17783
+Data Science by Data Scientist Canada,2023-02-24,17810
+Data Science by Data Scientist Canada,2023-03-10,17852
+Data Science by Data Scientist Canada,2023-03-14,17868
+Data Science by Data Scientist Canada,2023-03-18,17873
+Data Science by Data Scientist Canada,2023-03-21,17876
+Data Science by Data Scientist Canada,2023-03-25,17878
+Data Science by Data Scientist Canada,2023-04-01,17894
+Data Science by Data Scientist Canada,2023-04-10,17916
+Data Science by Data Scientist Canada,2023-04-13,17931
+Data Science by Data Scientist Canada,2023-04-21,17940
+Data Science by Data Scientist Canada,2023-04-29,17955
+Data Science by Data Scientist Canada,2023-05-12,17991
+Data Science by Data Scientist Canada,2023-05-19,18009
+Data Science by Data Scientist Canada,2023-05-29,18031
+Data Science by Data Scientist Canada,2023-06-05,18049
+Data Science by Data Scientist Canada,2023-06-11,18058
+Data Science by Data Scientist Canada,2023-06-14,18071
+Data Science by Data Scientist Canada,2023-06-17,18075
+Data Science by Data Scientist Canada,2023-06-23,18091
+Data Science by Data Scientist Canada,2023-06-27,18100
+Data Science by DataScientist.ca,2020-10-16,16113
+Data Science by DataScientist.ca,2020-10-19,16181
+Data Science by DataScientist.ca,2020-10-20,16223
+Data Science by DataScientist.ca,2020-10-20,16211
+Data Science by DataScientist.ca,2020-10-21,16239
+Data Science by DataScientist.ca,2020-10-23,16281
+Data Science by DataScientist.ca,2020-10-25,16328
+Data Science by DataScientist.ca,2020-10-28,16447
+Data Science by DataScientist.ca,2020-10-28,16431
+Data Science by https://www.linkedin.com/redir/phishing-page?url=DataScientist%2eca,2020-10-25,16368
+Data Science by https://www.linkedin.com/redir/phishing-page?url=DataScientist%2eca,2020-10-30,16516
+Data Science for Social Good Foundation,2020-10-25,1404
+Data Science for Social Good Foundation,2020-10-28,1415
+Data Science for Social Good Foundation,2020-10-30,1422
+Data Science for Social Good Foundation,2020-11-03,1428
+Data Science for Social Good Foundation,2020-11-06,1430
+Data Science for Social Good Foundation,2020-11-10,1437
+Data Science for Social Good Foundation,2020-11-14,1441
+Data Science for Social Good Foundation,2020-11-18,1448
+Data Science for Social Good Foundation,2020-11-23,1463
+Data Science for Social Good Foundation,2020-11-28,1476
+Data Science for Social Good Foundation,2020-12-03,1486
+Data Science for Social Good Foundation,2020-12-05,1492
+Data Science for Social Good Foundation,2020-12-12,1505
+Data Science for Social Good Foundation,2020-12-15,1514
+Data Science for Social Good Foundation,2020-12-20,1528
+Data Science for Social Good Foundation,2020-12-25,1543
+Data Science for Social Good Foundation,2020-12-29,1552
+Data Science for Social Good Foundation,2021-01-03,1560
+Data Science for Social Good Foundation,2021-01-06,1564
+Data Science for Social Good Foundation,2021-01-11,1575
+Data Science for Social Good Foundation,2021-01-15,1579
+Data Science for Social Good Foundation,2021-01-19,1588
+Data Science for Social Good Foundation,2021-01-25,1622
+Data Science for Social Good Foundation,2021-01-30,1636
+Data Science for Social Good Foundation,2021-01-31,1640
+Data Science for Social Good Foundation,2021-02-03,1645
+Data Science for Social Good Foundation,2021-02-07,1652
+Data Science for Social Good Foundation,2021-02-12,1676
+Data Science for Social Good Foundation,2021-02-17,1695
+Data Science for Social Good Foundation,2021-02-21,1699
+Data Science for Social Good Foundation,2021-02-25,1709
+Data Science for Social Good Foundation,2021-03-01,1719
+Data Science for Social Good Foundation,2021-03-06,1739
+Data Science for Social Good Foundation,2021-03-10,1752
+Data Science for Social Good Foundation,2021-03-16,1765
+Data Science for Social Good Foundation,2021-03-20,1774
+Data Science for Social Good Foundation,2021-03-24,1786
+Data Science for Social Good Foundation,2021-03-30,1810
+Data Science for Social Good Foundation,2021-04-06,1827
+Data Science for Social Good Foundation,2021-04-10,1851
+Data Science for Social Good Foundation,2021-04-15,1868
+Data Science for Social Good Foundation,2021-04-20,1889
+Data Science for Social Good Foundation,2021-04-24,1907
+Data Science for Social Good Foundation,2021-04-28,1914
+Data Science for Social Good Foundation,2021-05-03,1932
+Data Science for Social Good Foundation,2021-05-07,1944
+Data Science for Social Good Foundation,2021-05-10,1957
+Data Science for Social Good Foundation,2021-05-14,1969
+Data Science for Social Good Foundation,2021-05-21,1999
+Data Science for Social Good Foundation,2021-05-26,2007
+Data Science for Social Good Foundation,2021-06-02,2030
+Data Science for Social Good Foundation,2021-06-09,2050
+Data Science for Social Good Foundation,2021-06-16,2065
+Data Science for Social Good Foundation,2021-06-21,2074
+Data Science for Social Good Foundation,2021-06-29,2095
+Data Science for Social Good Foundation,2021-07-02,2100
+Data Science for Social Good Foundation,2021-07-04,2104
+Data Science for Social Good Foundation,2021-07-09,2113
+Data Science for Social Good Foundation,2021-07-14,2126
+Data Science for Social Good Foundation,2021-07-18,2140
+Data Science for Social Good Foundation,2021-07-22,2148
+Data Science for Social Good Foundation,2021-08-14,2223
+Data Science for Social Good Foundation,2021-08-26,2274
+Data Science for Social Good Foundation,2021-09-02,2297
+Data Science for Social Good Foundation,2021-09-16,2346
+Data Science for Social Good Foundation,2021-10-17,2452
+Data Science for Social Good Foundation,2021-10-29,2506
+Data Science for Social Good Foundation,2021-11-06,2525
+Data Science for Social Good Foundation,2021-11-20,2567
+Data Science for Social Good Foundation,2021-12-07,2605
+Data Science for Social Good Foundation,2021-12-14,2629
+Data Science for Social Good Foundation,2021-12-20,2646
+Data Science for Social Good Foundation,2021-12-26,2659
+Data Science for Social Good Foundation,2021-12-30,2668
+Data Science for Social Good Foundation,2021-12-31,2669
+Data Science for Social Good Foundation,2022-01-03,2673
+Data Science for Social Good Foundation,2022-01-04,2674
+Data Science for Social Good Foundation,2022-01-06,2682
+Data Science for Social Good Foundation,2022-01-07,2691
+Data Science for Social Good Foundation,2022-01-10,2693
+Data Science for Social Good Foundation,2022-01-14,2709
+Data Science for Social Good Foundation,2022-01-18,2718
+Data Science for Social Good Foundation,2022-01-27,2756
+Data Science for Social Good Foundation,2022-02-01,2772
+Data Science for Social Good Foundation,2022-02-07,2794
+Data Science for Social Good Foundation,2022-02-10,2809
+Data Science for Social Good Foundation,2022-02-16,2832
+Data Science for Social Good Foundation,2022-02-23,2866
+Data Science for Social Good Foundation,2022-02-26,2880
+Data Science for Social Good Foundation,2022-03-03,2900
+Data Science for Social Good Foundation,2022-03-07,2913
+Data Science for Social Good Foundation,2022-03-29,2977
+Data Science for Social Good Foundation,2022-03-31,2981
+Data Science for Social Good Foundation,2022-04-09,3020
+Data Science for Social Good Foundation,2022-04-11,3024
+Data Science for Social Good Foundation,2022-04-13,3033
+Data Science for Social Good Foundation,2022-04-19,3049
+Data Science for Social Good Foundation,2022-04-25,3064
+Data Science for Social Good Foundation,2022-05-05,3092
+Data Science for Social Good Foundation,2022-05-22,3163
+Data Science for Social Good Foundation,2022-05-23,3167
+Data Science for Social Good Foundation,2022-05-30,3201
+Data Science for Social Good Foundation,2022-06-01,3205
+Data Science for Social Good Foundation,2022-06-07,3252
+Data Science for Social Good Foundation,2022-06-08,3252
+Data Science for Social Good Foundation,2022-06-11,3278
+Data Science for Social Good Foundation,2022-06-13,3289
+Data Science for Social Good Foundation,2022-06-15,3300
+Data Science for Social Good Foundation,2022-06-16,3310
+Data Science for Social Good Foundation,2022-06-24,3355
+Data Science for Social Good Foundation,2022-06-28,3369
+Data Science for Social Good Foundation,2022-06-30,3382
+Data Science for Social Good Foundation,2022-07-01,3386
+Data Science for Social Good Foundation,2022-07-02,3388
+Data Science for Social Good Foundation,2022-07-04,3395
+Data Science for Social Good Foundation,2022-07-05,3404
+Data Science for Social Good Foundation,2022-07-09,3421
+Data Science for Social Good Foundation,2022-07-12,3433
+Data Science for Social Good Foundation,2022-07-18,3457
+Data Science for Social Good Foundation,2022-07-21,3471
+Data Science for Social Good Foundation,2022-07-23,3475
+Data Science for Social Good Foundation,2022-07-25,3477
+Data Science for Social Good Foundation,2022-08-01,3496
+Data Science for Social Good Foundation,2022-08-08,3529
+Data Science for Social Good Foundation,2022-08-16,3566
+Data Science for Social Good Foundation,2022-08-20,3595
+Data Science for Social Good Foundation,2022-08-25,3614
+Data Science for Social Good Foundation,2022-08-28,3627
+Data Science for Social Good Foundation,2022-09-01,3644
+Data Science for Social Good Foundation,2022-09-07,3669
+Data Science for Social Good Foundation,2022-09-10,3682
+Data Science for Social Good Foundation,2022-09-16,3709
+Data Science for Social Good Foundation,2022-09-22,3742
+Data Science for Social Good Foundation,2022-09-29,3768
+Data Science for Social Good Foundation,2022-10-03,3784
+Data Science for Social Good Foundation,2022-10-09,3819
+Data Science for Social Good Foundation,2022-10-12,3834
+Data Science for Social Good Foundation,2022-10-16,3842
+Data Science for Social Good Foundation,2022-10-22,3864
+Data Science for Social Good Foundation,2022-10-28,3883
+Data Science for Social Good Foundation,2022-11-03,3901
+Data Science for Social Good Foundation,2022-11-06,3909
+Data Science for Social Good Foundation,2022-11-14,3948
+Data Science for Social Good Foundation,2022-11-20,3976
+Data Science for Social Good Foundation,2022-11-24,3995
+Data Science for Social Good Foundation,2022-12-01,4037
+Data Science for Social Good Foundation,2022-12-08,4075
+Data Science for Social Good Foundation,2022-12-14,4095
+Data Science for Social Good Foundation,2022-12-27,4125
+Data Science for Social Good Foundation,2023-01-01,4144
+Data Science for Social Good Foundation,2023-01-05,4164
+Data Science for Social Good Foundation,2023-01-09,4189
+Data Science for Social Good Foundation,2023-01-22,4252
+Data Science for Social Good Foundation,2023-01-28,4281
+Data Science for Social Good Foundation,2023-02-04,4312
+Data Science for Social Good Foundation,2023-02-10,4326
+Data Science for Social Good Foundation,2023-02-13,4339
+Data Science for Social Good Foundation,2023-02-24,4387
+Data Science for Social Good Foundation,2023-03-10,4436
+Data Science for Social Good Foundation,2023-03-14,4458
+Data Science for Social Good Foundation,2023-03-18,4466
+Data Science for Social Good Foundation,2023-03-21,4472
+Data Science for Social Good Foundation,2023-03-25,4487
+Data Science for Social Good Foundation,2023-04-01,4520
+Data Science for Social Good Foundation,2023-04-10,4557
+Data Science for Social Good Foundation,2023-04-13,4573
+Data Science for Social Good Foundation,2023-04-21,4594
+Data Science for Social Good Foundation,2023-04-29,4623
+Data Science for Social Good Foundation,2023-05-12,4675
+Data Science for Social Good Foundation,2023-05-19,4720
+Data Science for Social Good Foundation,2023-05-29,4751
+Data Science for Social Good Foundation,2023-06-05,4787
+Data Science for Social Good Foundation,2023-06-11,4809
+Data Science for Social Good Foundation,2023-06-14,4826
+Data Science for Social Good Foundation,2023-06-17,4841
+Data Science for Social Good Foundation,2023-06-23,4865
+Data Science for Social Good Foundation,2023-06-27,4882
+Data Science for Social Good Foundation,2023-07-06,4921
+Data Science for Social Good Foundation,2023-07-23,5008
+Data Science for Social Good Foundation,2023-08-02,5056
+Data Science for Social Good Foundation,2023-08-08,5080
 Data Science for Social Good Foundation,2023-08-10,5091
 Data Science for Social Good Foundation,2023-08-29,5193
 Data Science for Social Good Foundation,2023-09-15,5277
@@ -205,6 +806,9 @@ Data Science for Social Good Foundation,2025-08-21,7601
 Data Science for Social Good Foundation,2025-08-26,7611
 Data Science for Social Good Foundation,2025-08-30,7611
 Data Science for Social Good Foundation,2025-09-17,7664
+Data Science for Social Good Foundation,2026-04-07,8242
+Data Science for Social Good Foundation,2026-05-12,8308
+Data Science for Social Good Foundation,2026-05-31,8357
 Data Scientists Ltd,2021-06-02,12
 Data Scientists Ltd,2021-06-09,12
 Data Scientists Ltd,2021-06-16,12
@@ -738,6 +1342,10 @@ Data Visualization Society,2025-08-26,151022
 Data Visualization Society,2025-08-30,151022
 Data Visualization Society,2025-09-17,151654
 Data Visualization Society,2025-09-21,151701
+Data Visualization Society,2026-04-08,153478
+Data Visualization Society,2026-04-08,153483
+Data Visualization Society,2026-05-01,153888
+Data Visualization Society,2026-05-12,153942
 Data Works,2023-02-25,94111
 Data Works,2023-03-13,95464
 Data Works,2023-03-29,98026
@@ -1015,6 +1623,9 @@ Data for Good,2025-08-21,15317
 Data for Good,2025-08-26,15342
 Data for Good,2025-08-30,15342
 Data for Good,2025-09-17,15458
+Data for Good,2026-04-07,16615
+Data for Good,2026-05-12,16771
+Data for Good,2026-05-31,16883
 Data for Good Foundation,2020-10-25,1042
 Data for Good Foundation,2020-10-28,1045
 Data for Good Foundation,2020-10-30,1049
@@ -1261,10 +1872,16 @@ Data for Good Foundation,2025-08-21,2400
 Data for Good Foundation,2025-08-26,2402
 Data for Good Foundation,2025-08-30,2402
 Data for Good Foundation,2025-09-17,2408
+Data for Good Foundation,2026-04-07,2499
+Data for Good Foundation,2026-05-12,2501
+Data for Good Foundation,2026-05-31,2510
 Data2X,2025-08-21,6212
 Data2X,2025-08-26,6260
 Data2X,2025-08-30,6260
 Data2X,2025-09-17,6431
+Data2X,2026-04-07,6784
+Data2X,2026-05-12,6801
+Data2X,2026-05-31,6811
 Data2X United Nations Foundation,2021-07-14,2316
 Data2X United Nations Foundation,2021-07-18,2320
 Data2X United Nations Foundation,2021-07-22,2327
@@ -1824,6 +2441,9 @@ DataCamp,2025-08-30,526391
 DataCamp,2025-08-30,527280
 DataCamp,2025-09-17,530454
 DataCamp,2025-09-21,531080
+DataCamp,2026-04-08,558819
+DataCamp,2026-05-01,561476
+DataCamp,2026-05-12,562714
 DataDotOrg,2020-10-25,686
 DataDotOrg,2020-10-28,688
 DataDotOrg,2020-10-30,693
@@ -2073,6 +2693,9 @@ DataDotOrg,2025-08-21,13750
 DataDotOrg,2025-08-26,13785
 DataDotOrg,2025-08-30,13785
 DataDotOrg,2025-09-17,13972
+DataDotOrg,2026-04-07,15575
+DataDotOrg,2026-05-12,15784
+DataDotOrg,2026-05-31,15917
 DataIQ,2020-10-25,6917
 DataIQ,2020-10-28,6935
 DataIQ,2020-10-30,7031
@@ -2322,6 +2945,9 @@ DataIQ,2025-08-21,23885
 DataIQ,2025-08-26,23887
 DataIQ,2025-08-30,23887
 DataIQ,2025-09-17,24026
+DataIQ,2026-04-07,25741
+DataIQ,2026-05-12,26050
+DataIQ,2026-05-31,26142
 DataIQ School of Analysis,2021-03-30,123
 DataIQ School of Analysis,2021-04-06,124
 DataIQ School of Analysis,2021-04-10,125
@@ -2534,6 +3160,9 @@ DataIQ School of Analysis,2025-08-21,146
 DataIQ School of Analysis,2025-08-26,146
 DataIQ School of Analysis,2025-08-30,146
 DataIQ School of Analysis,2025-09-17,146
+DataIQ School of Analysis,2026-04-07,144
+DataIQ School of Analysis,2026-05-12,145
+DataIQ School of Analysis,2026-05-31,146
 DataKind,2020-10-08,10631
 DataKind,2020-10-13,10672
 DataKind,2020-10-16,10699
@@ -2787,550 +3416,3 @@ DataKind,2025-07-08,28915
 DataKind,2025-07-15,29015
 DataKind,2025-07-27,29147
 DataKind,2025-08-11,29308
-DataKind,2025-08-15,29367
-DataKind,2025-08-18,29385
-DataKind,2025-08-21,29428
-DataKind,2025-08-26,29487
-DataKind,2025-08-30,29487
-DataKind,2025-09-17,29712
-DataKind UK,2020-10-25,1568
-DataKind UK,2020-10-28,1571
-DataKind UK,2020-10-30,1575
-DataKind UK,2020-11-03,1583
-DataKind UK,2020-11-06,1586
-DataKind UK,2020-11-10,1604
-DataKind UK,2020-11-14,1610
-DataKind UK,2020-11-18,1618
-DataKind UK,2020-11-23,1631
-DataKind UK,2020-11-28,1635
-DataKind UK,2020-12-03,1647
-DataKind UK,2020-12-05,1651
-DataKind UK,2020-12-12,1664
-DataKind UK,2020-12-15,1666
-DataKind UK,2020-12-20,1671
-DataKind UK,2020-12-25,1676
-DataKind UK,2020-12-29,1682
-DataKind UK,2021-01-03,1683
-DataKind UK,2021-01-06,1687
-DataKind UK,2021-01-11,1694
-DataKind UK,2021-01-15,1704
-DataKind UK,2021-01-19,1708
-DataKind UK,2021-01-25,1714
-DataKind UK,2021-01-30,1721
-DataKind UK,2021-01-31,1721
-DataKind UK,2021-02-03,1726
-DataKind UK,2021-02-07,1728
-DataKind UK,2021-02-12,1735
-DataKind UK,2021-02-17,1746
-DataKind UK,2021-02-21,1754
-DataKind UK,2021-02-25,1757
-DataKind UK,2021-03-01,1761
-DataKind UK,2021-03-06,1769
-DataKind UK,2021-03-10,1775
-DataKind UK,2021-03-16,1795
-DataKind UK,2021-03-20,1807
-DataKind UK,2021-03-24,1811
-DataKind UK,2021-03-30,1823
-DataKind UK,2021-04-06,1833
-DataKind UK,2021-04-10,1843
-DataKind UK,2021-04-15,1850
-DataKind UK,2021-04-20,1858
-DataKind UK,2021-04-24,1867
-DataKind UK,2021-04-28,1876
-DataKind UK,2021-05-03,1884
-DataKind UK,2021-05-07,1908
-DataKind UK,2021-05-10,1917
-DataKind UK,2021-05-14,1937
-DataKind UK,2021-05-21,1958
-DataKind UK,2021-05-26,1966
-DataKind UK,2021-06-02,1969
-DataKind UK,2021-06-09,1977
-DataKind UK,2021-06-16,1984
-DataKind UK,2021-06-21,1990
-DataKind UK,2021-06-29,1999
-DataKind UK,2021-07-02,2003
-DataKind UK,2021-07-04,2008
-DataKind UK,2021-07-09,2022
-DataKind UK,2021-07-14,2039
-DataKind UK,2021-07-18,2043
-DataKind UK,2021-07-22,2049
-DataKind UK,2021-08-14,2081
-DataKind UK,2021-08-26,2089
-DataKind UK,2021-09-02,2100
-DataKind UK,2021-09-16,2119
-DataKind UK,2021-10-17,2157
-DataKind UK,2021-10-29,2176
-DataKind UK,2021-11-06,2179
-DataKind UK,2021-11-20,2204
-DataKind UK,2021-12-07,2232
-DataKind UK,2021-12-14,2238
-DataKind UK,2021-12-20,2253
-DataKind UK,2021-12-26,2264
-DataKind UK,2021-12-30,2266
-DataKind UK,2021-12-31,2269
-DataKind UK,2022-01-03,2271
-DataKind UK,2022-01-04,2271
-DataKind UK,2022-01-06,2277
-DataKind UK,2022-01-07,2281
-DataKind UK,2022-01-10,2282
-DataKind UK,2022-01-14,2285
-DataKind UK,2022-01-18,2292
-DataKind UK,2022-01-27,2297
-DataKind UK,2022-02-01,2306
-DataKind UK,2022-02-07,2315
-DataKind UK,2022-02-10,2321
-DataKind UK,2022-02-16,2332
-DataKind UK,2022-02-23,2340
-DataKind UK,2022-02-26,2343
-DataKind UK,2022-03-20,2374
-DataKind UK,2022-03-29,2390
-DataKind UK,2022-03-31,2394
-DataKind UK,2022-04-09,2404
-DataKind UK,2022-04-11,2406
-DataKind UK,2022-04-13,2409
-DataKind UK,2022-04-19,2413
-DataKind UK,2022-04-25,2418
-DataKind UK,2022-04-29,2422
-DataKind UK,2022-05-05,2428
-DataKind UK,2022-05-22,2469
-DataKind UK,2022-06-01,2482
-DataKind UK,2022-06-03,2484
-DataKind UK,2022-06-07,2495
-DataKind UK,2022-06-08,2495
-DataKind UK,2022-06-11,2501
-DataKind UK,2022-06-13,2502
-DataKind UK,2022-06-15,2511
-DataKind UK,2022-06-24,2527
-DataKind UK,2022-06-26,2527
-DataKind UK,2022-06-28,2535
-DataKind UK,2022-06-30,2537
-DataKind UK,2022-07-01,2538
-DataKind UK,2022-07-02,2540
-DataKind UK,2022-07-04,2545
-DataKind UK,2022-07-05,2547
-DataKind UK,2022-07-09,2555
-DataKind UK,2022-07-12,2559
-DataKind UK,2022-07-18,2575
-DataKind UK,2022-07-21,2588
-DataKind UK,2022-07-23,2600
-DataKind UK,2022-07-25,2606
-DataKind UK,2022-08-01,2623
-DataKind UK,2022-08-08,2629
-DataKind UK,2022-08-16,2656
-DataKind UK,2022-08-20,2669
-DataKind UK,2022-08-25,2677
-DataKind UK,2022-08-28,2679
-DataKind UK,2022-09-01,2684
-DataKind UK,2022-09-07,2696
-DataKind UK,2022-09-10,2696
-DataKind UK,2022-09-16,2710
-DataKind UK,2022-09-22,2726
-DataKind UK,2022-09-29,2738
-DataKind UK,2022-10-03,2747
-DataKind UK,2022-10-09,2759
-DataKind UK,2022-10-12,2765
-DataKind UK,2022-10-16,2768
-DataKind UK,2022-10-22,2775
-DataKind UK,2022-10-28,2786
-DataKind UK,2022-11-03,2793
-DataKind UK,2022-11-06,2799
-DataKind UK,2022-11-14,2809
-DataKind UK,2022-11-20,2821
-DataKind UK,2022-11-24,2839
-DataKind UK,2022-12-01,2851
-DataKind UK,2022-12-08,2860
-DataKind UK,2022-12-14,2867
-DataKind UK,2022-12-27,2880
-DataKind UK,2023-01-01,2885
-DataKind UK,2023-01-05,2890
-DataKind UK,2023-01-09,2896
-DataKind UK,2023-01-22,2916
-DataKind UK,2023-01-28,2929
-DataKind UK,2023-02-04,2941
-DataKind UK,2023-02-10,2947
-DataKind UK,2023-02-13,2951
-DataKind UK,2023-02-24,2986
-DataKind UK,2023-03-10,3028
-DataKind UK,2023-03-14,3039
-DataKind UK,2023-03-18,3066
-DataKind UK,2023-03-21,3074
-DataKind UK,2023-03-25,3083
-DataKind UK,2023-04-01,3096
-DataKind UK,2023-04-10,3130
-DataKind UK,2023-04-13,3139
-DataKind UK,2023-04-21,3160
-DataKind UK,2023-04-29,3168
-DataKind UK,2023-05-12,3190
-DataKind UK,2023-05-19,3198
-DataKind UK,2023-05-29,3208
-DataKind UK,2023-06-05,3231
-DataKind UK,2023-06-11,3245
-DataKind UK,2023-06-14,3254
-DataKind UK,2023-06-17,3263
-DataKind UK,2023-06-23,3275
-DataKind UK,2023-06-27,3281
-DataKind UK,2023-07-06,3301
-DataKind UK,2023-07-23,3328
-DataKind UK,2023-08-02,3345
-DataKind UK,2023-08-08,3351
-DataKind UK,2023-08-10,3352
-DataKind UK,2023-08-29,3376
-DataKind UK,2023-09-15,3401
-DataKind UK,2023-10-18,3483
-DataKind UK,2023-12-16,3699
-DataKind UK,2023-12-18,3701
-DataKind UK,2024-01-22,3738
-DataKind UK,2024-04-08,3990
-DataKind UK,2024-04-09,3994
-DataKind UK,2024-04-17,4014
-DataKind UK,2024-04-19,4017
-DataKind UK,2024-04-28,4033
-DataKind UK,2024-05-03,4048
-DataKind UK,2024-05-19,4093
-DataKind UK,2024-06-08,4127
-DataKind UK,2024-06-24,4158
-DataKind UK,2024-07-11,4192
-DataKind UK,2024-07-17,4212
-DataKind UK,2024-07-23,4225
-DataKind UK,2024-08-02,4239
-DataKind UK,2024-08-06,4239
-DataKind UK,2024-08-09,4246
-DataKind UK,2024-08-20,4254
-DataKind UK,2024-09-02,4276
-DataKind UK,2024-09-07,4275
-DataKind UK,2024-09-10,4276
-DataKind UK,2024-09-16,4281
-DataKind UK,2024-09-24,4295
-DataKind UK,2024-10-02,4312
-DataKind UK,2024-11-15,4465
-DataKind UK,2024-11-24,4480
-DataKind UK,2024-12-07,4503
-DataKind UK,2025-01-08,4566
-DataKind UK,2025-01-18,4582
-DataKind UK,2025-01-27,4590
-DataKind UK,2025-02-04,4603
-DataKind UK,2025-02-20,4659
-DataKind UK,2025-02-28,4684
-DataKind UK,2025-03-03,4690
-DataKind UK,2025-03-16,4727
-DataKind UK,2025-04-13,4786
-DataKind UK,2025-04-22,4821
-DataKind UK,2025-04-27,4850
-DataKind UK,2025-04-28,4870
-DataKind UK,2025-05-06,4870
-DataKind UK,2025-05-20,4984
-DataKind UK,2025-05-25,5003
-DataKind UK,2025-05-27,5007
-DataKind UK,2025-06-01,5033
-DataKind UK,2025-06-07,5081
-DataKind UK,2025-06-08,5092
-DataKind UK,2025-06-09,5103
-DataKind UK,2025-06-10,5126
-DataKind UK,2025-06-22,5179
-DataKind UK,2025-07-01,5210
-DataKind UK,2025-07-04,5210
-DataKind UK,2025-07-08,5241
-DataKind UK,2025-07-15,5279
-DataKind UK,2025-07-27,5334
-DataKind UK,2025-08-11,5377
-DataKind UK,2025-08-15,5388
-DataKind UK,2025-08-18,5393
-DataKind UK,2025-08-21,5399
-DataKind UK,2025-08-26,5409
-DataKind UK,2025-08-30,5409
-DataKind UK,2025-09-17,5444
-DataLab USA,2021-02-19,2507
-DataLab USA,2021-03-06,2535
-DataLab USA,2021-03-26,2640
-DataMuni,2021-01-22,347
-DataMuni,2021-01-25,353
-DataMuni,2021-01-28,358
-DataMuni,2021-01-31,360
-DataMuni,2021-02-03,364
-DataMuni,2021-02-07,371
-DataMuni,2021-02-12,380
-DataMuni,2021-02-16,390
-DataMuni,2021-02-21,402
-DataMuni,2021-02-25,407
-DataMuni,2021-03-01,414
-DataMuni,2021-03-06,426
-DataMuni,2021-03-10,432
-DataMuni,2021-03-13,449
-DataMuni,2021-03-20,487
-DataMuni,2021-03-28,505
-DataMuni,2021-03-31,507
-DataMuni,2021-04-06,517
-DataMuni,2021-04-10,524
-DataMuni,2021-04-15,529
-DataMuni,2021-04-20,539
-DataMuni,2021-04-24,548
-DataMuni,2021-04-28,558
-DataMuni,2021-05-07,566
-DataMuni,2021-05-10,567
-DataMuni,2021-05-14,579
-DataMuni,2021-05-21,585
-DataMuni,2021-05-26,591
-DataMuni,2021-05-31,597
-DataMuni,2021-06-06,599
-DataMuni,2021-06-09,604
-DataMuni,2021-06-16,618
-DataMuni,2021-06-21,625
-DataMuni,2021-06-29,631
-DataMuni,2021-07-04,634
-DataMuni,2021-07-09,644
-DataMuni,2021-07-14,656
-DataMuni,2021-07-22,677
-DataMuni,2021-08-14,711
-DataMuni,2021-08-26,723
-DataMuni,2021-09-02,737
-DataMuni,2021-09-09,745
-DataMuni,2021-09-16,755
-DataMuni,2021-10-17,797
-DataMuni,2021-10-29,827
-DataMuni,2021-11-20,867
-DataMuni,2021-12-03,881
-DataMuni,2021-12-20,901
-DataMuni,2021-12-26,911
-DataMuni,2021-12-31,913
-DataMuni,2022-02-01,982
-DataMuni,2022-02-07,992
-DataMuni,2022-02-16,1008
-DataMuni,2022-02-20,1015
-DataMuni,2022-02-23,1022
-DataMuni,2022-03-03,1037
-DataMuni,2022-03-15,1049
-DataMuni,2022-03-20,1058
-DataMuni,2022-03-29,1074
-DataMuni,2022-04-11,1096
-DataMuni,2022-04-13,1097
-DataMuni,2022-05-22,1194
-DataMuni,2022-05-27,1203
-DataRobot,2020-10-09,63823
-DataRobot,2020-10-11,63889
-DataRobot,2020-10-14,64059
-DataRobot,2020-10-19,64728
-DataRobot,2020-10-20,64371
-DataRobot,2020-10-21,64423
-DataRobot,2020-10-23,64551
-DataRobot,2020-10-25,64663
-DataRobot,2020-10-25,64637
-DataRobot,2020-10-28,64792
-DataRobot,2020-10-30,64925
-DataRobot,2020-11-03,65047
-DataRobot,2020-11-06,65191
-DataRobot,2020-11-10,65313
-DataRobot,2020-11-14,65558
-DataRobot,2020-11-18,65967
-DataRobot,2020-11-23,66517
-DataRobot,2020-11-28,66721
-DataRobot,2020-12-03,67020
-DataRobot,2020-12-05,67136
-DataRobot,2020-12-12,67579
-DataRobot,2020-12-15,67766
-DataRobot,2020-12-20,68113
-DataRobot,2020-12-25,68334
-DataRobot,2020-12-29,68500
-DataRobot,2021-01-03,68683
-DataRobot,2021-01-06,68843
-DataRobot,2021-01-11,69366
-DataRobot,2021-01-15,69649
-DataRobot,2021-01-19,69861
-DataRobot,2021-01-25,70245
-DataRobot,2021-01-30,70623
-DataRobot,2021-01-31,70670
-DataRobot,2021-02-03,70887
-DataRobot,2021-02-07,71179
-DataRobot,2021-02-12,71592
-DataRobot,2021-02-17,71849
-DataRobot,2021-02-21,72144
-DataRobot,2021-02-25,72450
-DataRobot,2021-03-01,72808
-DataRobot,2021-03-06,73165
-DataRobot,2021-03-10,73457
-DataRobot,2021-03-16,73778
-DataRobot,2021-03-20,74084
-DataRobot,2021-03-24,74272
-DataRobot,2021-03-30,74734
-DataRobot,2021-04-06,75103
-DataRobot,2021-04-10,75550
-DataRobot,2021-04-15,75894
-DataRobot,2021-04-20,76189
-DataRobot,2021-04-24,76468
-DataRobot,2021-04-28,76805
-DataRobot,2021-05-03,77127
-DataRobot,2021-05-07,77415
-DataRobot,2021-05-10,77570
-DataRobot,2021-05-14,77891
-DataRobot,2021-05-21,78343
-DataRobot,2021-05-26,78701
-DataRobot,2021-06-02,79257
-DataRobot,2021-06-09,79717
-DataRobot,2021-06-16,80203
-DataRobot,2021-06-21,80556
-DataRobot,2021-06-29,81207
-DataRobot,2021-07-02,81511
-DataRobot,2021-07-04,81620
-DataRobot,2021-07-09,81943
-DataRobot,2021-07-14,82275
-DataRobot,2021-07-18,82483
-DataRobot,2021-07-22,82773
-DataRobot,2021-08-14,84788
-DataRobot,2021-08-26,85726
-DataRobot,2021-09-02,86178
-DataRobot,2021-09-16,87208
-DataRobot,2021-10-17,89625
-DataRobot,2021-10-29,90594
-DataRobot,2021-11-06,91259
-DataRobot,2021-11-20,92493
-DataRobot,2021-12-07,93768
-DataRobot,2021-12-14,94227
-DataRobot,2021-12-20,94572
-DataRobot,2021-12-26,95346
-DataRobot,2021-12-30,95868
-DataRobot,2021-12-31,96022
-DataRobot,2022-01-03,96348
-DataRobot,2022-01-04,96591
-DataRobot,2022-01-06,97073
-DataRobot,2022-01-07,97399
-DataRobot,2022-01-10,97778
-DataRobot,2022-01-14,98748
-DataRobot,2022-01-18,99419
-DataRobot,2022-01-27,100301
-DataRobot,2022-02-01,100734
-DataRobot,2022-02-07,101278
-DataRobot,2022-02-10,101603
-DataRobot,2022-02-12,101753
-DataRobot,2022-02-23,102493
-DataRobot,2022-02-26,102822
-DataRobot,2022-03-03,103175
-DataRobot,2022-03-07,103499
-DataRobot,2022-03-15,104057
-DataRobot,2022-03-20,104397
-DataRobot,2022-03-29,104970
-DataRobot,2022-03-31,105114
-DataRobot,2022-04-09,105743
-DataRobot,2022-04-11,105819
-DataRobot,2022-04-13,105935
-DataRobot,2022-04-19,106305
-DataRobot,2022-04-25,106635
-DataRobot,2022-04-29,106909
-DataRobot,2022-05-05,107187
-DataRobot,2022-05-22,108257
-DataRobot,2022-05-25,108466
-DataRobot,2022-05-27,108638
-DataRobot,2022-06-07,109294
-DataRobot,2022-06-08,109294
-DataRobot,2022-06-11,109487
-DataRobot,2022-06-15,109694
-DataRobot,2022-06-20,109953
-DataRobot,2022-06-22,110117
-DataRobot,2022-06-23,110167
-DataRobot,2022-06-26,110297
-DataRobot,2022-06-28,110387
-DataRobot,2022-06-30,110493
-DataRobot,2022-07-01,110561
-DataRobot,2022-07-02,110587
-DataRobot,2022-07-04,110669
-DataRobot,2022-07-05,110729
-DataRobot,2022-07-09,110889
-DataRobot,2022-07-12,111035
-DataRobot,2022-07-18,111434
-DataRobot,2022-07-21,111734
-DataRobot,2022-07-23,112043
-DataRobot,2022-07-25,112185
-DataRobot,2022-08-01,112654
-DataRobot,2022-08-08,113021
-DataRobot,2022-08-16,113417
-DataRobot,2022-08-20,113669
-DataRobot,2022-08-25,113982
-DataRobot,2022-08-28,114116
-DataRobot,2022-09-01,114336
-DataRobot,2022-09-07,114533
-DataRobot,2022-09-10,114696
-DataRobot,2022-09-16,115035
-DataRobot,2022-09-22,115326
-DataRobot,2022-09-29,115650
-DataRobot,2022-10-03,115827
-DataRobot,2022-10-09,116127
-DataRobot,2022-10-12,116306
-DataRobot,2022-10-16,116511
-DataRobot,2022-10-22,116772
-DataRobot,2022-10-28,117032
-DataRobot,2022-11-03,117227
-DataRobot,2022-11-06,117371
-DataRobot,2022-11-14,117758
-DataRobot,2022-11-20,118016
-DataRobot,2022-11-24,118159
-DataRobot,2022-12-01,118428
-DataRobot,2022-12-08,118699
-DataRobot,2022-12-14,118862
-DataRobot,2022-12-27,119258
-DataRobot,2023-01-01,119453
-DataRobot,2023-01-05,119617
-DataRobot,2023-01-09,119750
-DataRobot,2023-01-22,120237
-DataRobot,2023-01-28,120492
-DataRobot,2023-02-04,120780
-DataRobot,2023-02-10,121015
-DataRobot,2023-02-13,121134
-DataRobot,2023-02-24,121585
-DataRobot,2023-03-10,122186
-DataRobot,2023-03-14,122342
-DataRobot,2023-03-18,122501
-DataRobot,2023-03-21,122598
-DataRobot,2023-03-25,122706
-DataRobot,2023-04-01,122938
-DataRobot,2023-04-10,123220
-DataRobot,2023-04-13,123379
-DataRobot,2023-04-21,123650
-DataRobot,2023-04-29,123910
-DataRobot,2023-05-12,124337
-DataRobot,2023-05-19,124624
-DataRobot,2023-05-29,125003
-DataRobot,2023-06-05,125197
-DataRobot,2023-06-11,125410
-DataRobot,2023-06-14,125545
-DataRobot,2023-06-17,125672
-DataRobot,2023-06-23,125901
-DataRobot,2023-06-27,126042
-DataRobot,2023-07-06,126341
-DataRobot,2023-07-23,126907
-DataRobot,2023-08-02,127299
-DataRobot,2023-08-08,127449
-DataRobot,2023-08-10,127554
-DataRobot,2023-08-29,128171
-DataRobot,2023-09-15,128777
-DataRobot,2023-10-18,129880
-DataRobot,2023-12-16,128600
-DataRobot,2023-12-18,128631
-DataRobot,2024-01-22,129279
-DataRobot,2024-04-08,131350
-DataRobot,2024-04-09,131414
-DataRobot,2024-04-17,131681
-DataRobot,2024-04-19,131771
-DataRobot,2024-04-28,132036
-DataRobot,2024-05-03,132161
-DataRobot,2024-05-19,132644
-DataRobot,2024-06-08,133301
-DataRobot,2024-06-24,133972
-DataRobot,2024-07-11,134771
-DataRobot,2024-07-17,134923
-DataRobot,2024-07-23,135160
-DataRobot,2024-08-02,135368
-DataRobot,2024-08-06,135447
-DataRobot,2024-08-09,135550
-DataRobot,2024-08-20,135774
-DataRobot,2024-09-02,136056
-DataRobot,2024-09-07,136174
-DataRobot,2024-09-10,136260
-DataRobot,2024-09-16,136425
-DataRobot,2024-09-24,136647
-DataRobot,2024-10-02,136851
-DataRobot,2024-11-15,138203
-DataRobot,2024-11-24,138466
-DataRobot,2024-12-07,138871
-DataRobot,2025-01-08,139648
-DataRobot,2025-01-18,140132
-DataRobot,2025-01-27,140511
-DataRobot,2025-02-04,140807
-DataRobot,2025-02-20,141358
