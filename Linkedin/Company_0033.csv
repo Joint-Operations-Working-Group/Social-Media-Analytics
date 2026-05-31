@@ -1,4 +1,438 @@
 Company,Date,Followers
+PyCon Italia,2025-09-17,3295
+PyCon Italia,2026-04-07,3677
+PyCon Italia,2026-04-24,3742
+PyCon Italia,2026-04-29,3751
+PyCon LT,2023-04-23,801
+PyCon LT,2023-06-05,1059
+PyCon LT,2023-06-11,1072
+PyCon LT,2023-06-23,1078
+PyCon LT,2023-07-06,1083
+PyCon LT,2023-07-23,1085
+PyCon LT,2023-08-05,1088
+PyCon LT,2023-08-29,1086
+PyCon LT,2023-10-18,1101
+PyCon Sweden,2023-01-21,999
+PyCon Sweden,2023-02-25,1007
+PyCon Sweden,2023-03-13,1007
+PyCon Sweden,2023-03-29,1008
+PyCon Sweden,2023-04-10,1008
+PyCon Sweden,2023-04-23,1014
+PyCon Sweden,2023-06-05,1033
+PyCon Sweden,2023-06-11,1036
+PyCon Sweden,2023-06-23,1048
+PyCon Sweden,2023-07-06,1057
+PyCon Sweden,2023-07-23,1066
+PyCon Sweden,2023-08-05,1077
+PyCon Sweden,2023-08-29,1163
+PyCon Sweden,2023-10-18,1206
+PyCon Sweden,2023-12-18,1415
+PyCon Sweden,2025-05-27,1806
+PyCon Taiwan,2023-01-21,259
+PyCon Taiwan,2023-02-10,261
+PyCon Taiwan,2023-02-25,262
+PyCon Taiwan,2023-03-13,262
+PyCon Taiwan,2023-03-29,261
+PyCon Taiwan,2023-04-10,261
+PyCon Taiwan,2023-04-23,261
+PyCon Taiwan,2023-06-05,267
+PyCon Taiwan,2023-06-11,267
+PyCon Taiwan,2023-06-23,268
+PyCon Taiwan,2023-07-06,267
+PyCon Taiwan,2023-07-23,270
+PyCon Taiwan,2023-08-05,281
+PyCon Taiwan,2023-08-29,287
+PyCon Taiwan,2023-10-18,298
+PyCon Taiwan,2023-12-17,295
+PyCon Taiwan,2023-12-18,295
+PyCon Taiwan,2025-02-21,455
+PyCon Taiwan,2025-03-16,473
+PyCon Taiwan,2025-04-28,493
+PyCon Taiwan,2025-05-27,583
+PyCon Taiwan,2025-08-30,668
+PyCon Taiwan,2025-09-16,697
+PyCon UK,2025-09-16,713
+PyCon UK,2026-04-29,940
+PyCon US Charlas,2023-02-25,135
+PyCon US Charlas,2023-03-13,136
+PyCon US Charlas,2023-03-29,138
+PyCon US Charlas,2023-04-10,139
+PyCon US Charlas,2023-04-23,142
+PyCon US Charlas,2023-06-05,182
+PyCon US Charlas,2023-06-11,186
+PyCon US Charlas,2023-06-23,186
+PyCon US Charlas,2023-07-06,187
+PyCon US Charlas,2023-07-23,189
+PyCon US Charlas,2023-08-05,189
+PyCon US Charlas,2023-08-29,191
+PyConDE & PyData,2024-12-07,2553
+PyConDE & PyData Berlin,2023-01-21,626
+PyConDE & PyData Berlin,2023-01-25,629
+PyConDE & PyData Berlin,2023-02-25,652
+PyConDE & PyData Berlin,2023-03-13,667
+PyConDE & PyData Berlin,2023-03-29,695
+PyConDE & PyData Berlin,2023-04-10,704
+PyConDE & PyData Berlin,2023-04-23,920
+PyConDE & PyData Berlin,2023-06-05,1036
+PyConDE & PyData Berlin,2023-06-11,1037
+PyConDE & PyData Berlin,2023-06-23,1107
+PyConDE & PyData Berlin,2023-07-06,1131
+PyConDE & PyData Berlin,2023-07-23,1145
+PyConDE & PyData Berlin,2023-08-05,1147
+PyConDE & PyData Berlin,2023-08-29,1165
+PyConDE & PyData Berlin,2023-10-18,1193
+PyConDE & PyData Berlin,2024-09-17,2234
+PyConDE & PyData Berlin,2024-09-24,2252
+PyConDE & PyData Berlin,2024-10-02,2365
+PyData,2020-10-16,303
+PyData,2020-10-24,304
+PyData,2022-10-16,52
+PyData,2022-10-22,69
+PyData,2022-10-22,70
+PyData,2022-10-28,75
+PyData,2022-11-03,81
+PyData,2022-11-06,82
+PyData,2022-11-14,90
+PyData,2022-11-20,94
+PyData,2022-11-24,94
+PyData,2022-12-01,99
+PyData,2022-12-08,103
+PyData,2022-12-14,106
+PyData,2022-12-27,110
+PyData,2023-01-01,110
+PyData,2023-01-05,112
+PyData,2023-01-09,113
+PyData,2023-01-21,639
+PyData,2023-01-21,116
+PyData,2023-01-22,116
+PyData,2023-01-25,118
+PyData,2023-01-28,118
+PyData,2023-01-29,118
+PyData,2023-02-04,119
+PyData,2023-02-10,121
+PyData,2023-02-13,121
+PyData,2023-02-24,130
+PyData,2023-02-25,647
+PyData,2023-02-25,133
+PyData,2023-03-10,146
+PyData,2023-03-13,651
+PyData,2023-03-13,147
+PyData,2023-03-14,150
+PyData,2023-03-18,153
+PyData,2023-03-21,153
+PyData,2023-03-25,163
+PyData,2023-03-29,652
+PyData,2023-03-29,168
+PyData,2023-04-01,171
+PyData,2023-04-10,181
+PyData,2023-04-10,660
+PyData,2023-04-13,189
+PyData,2023-04-21,201
+PyData,2023-04-23,662
+PyData,2023-04-23,203
+PyData,2023-04-29,209
+PyData,2023-05-12,221
+PyData,2023-05-19,229
+PyData,2023-05-29,236
+PyData,2023-06-05,248
+PyData,2023-06-05,673
+PyData,2023-06-11,256
+PyData,2023-06-11,673
+PyData,2023-06-14,257
+PyData,2023-06-17,258
+PyData,2023-06-23,261
+PyData,2023-06-23,675
+PyData,2023-06-27,262
+PyData,2023-07-06,268
+PyData,2023-07-06,676
+PyData,2023-07-23,273
+PyData,2023-07-23,677
+PyData,2023-08-02,275
+PyData,2023-08-05,680
+PyData,2023-08-05,278
+PyData,2023-08-08,281
+PyData,2023-08-10,283
+PyData,2023-08-29,296
+PyData,2023-08-29,682
+PyData,2023-09-15,322
+PyData,2023-10-18,367
+PyData,2023-10-18,690
+PyData,2023-10-18,322
+PyData,2023-12-14,463
+PyData,2023-12-16,466
+PyData,2023-12-17,467
+PyData,2023-12-18,469
+PyData,2023-12-18,692
+PyData,2024-01-22,531
+PyData,2024-04-09,710
+PyData,2024-04-10,712
+PyData,2024-04-17,721
+PyData,2024-04-19,740
+PyData,2024-04-28,763
+PyData,2024-05-03,777
+PyData,2024-05-19,814
+PyData,2024-05-28,827
+PyData,2024-06-08,844
+PyData,2024-06-24,884
+PyData,2024-06-28,892
+PyData,2024-07-17,909
+PyData,2024-07-20,908
+PyData,2024-07-23,913
+PyData,2024-08-02,923
+PyData,2024-08-06,926
+PyData,2024-08-09,932
+PyData,2024-08-20,942
+PyData,2024-09-02,955
+PyData,2024-09-07,961
+PyData,2024-09-10,969
+PyData,2024-09-16,981
+PyData,2024-09-17,985
+PyData,2024-09-24,1001
+PyData,2024-10-02,1022
+PyData,2024-11-15,1106
+PyData,2024-11-24,1127
+PyData,2024-11-26,1134
+PyData,2024-12-07,1151
+PyData,2025-01-08,1177
+PyData,2025-01-09,1178
+PyData,2025-01-18,1189
+PyData,2025-01-27,1198
+PyData,2025-01-28,1198
+PyData,2025-02-04,1210
+PyData,2025-02-20,1252
+PyData,2025-02-21,1253
+PyData,2025-02-28,1269
+PyData,2025-03-03,1278
+PyData,2025-03-09,1298
+PyData,2025-03-10,1299
+PyData,2025-03-15,1316
+PyData,2025-03-16,1316
+PyData,2025-04-13,1359
+PyData,2025-04-13,1360
+PyData,2025-04-22,1394
+PyData,2025-04-27,1420
+PyData,2025-04-28,1421
+PyData,2025-05-06,1421
+PyData,2025-05-20,1476
+PyData,2025-05-25,1488
+PyData,2025-05-27,1488
+PyData,2025-06-01,1495
+PyData,2025-06-07,1514
+PyData,2025-06-08,1520
+PyData,2025-06-09,1523
+PyData,2025-06-09,1524
+PyData,2025-06-10,1530
+PyData,2025-06-22,1557
+PyData,2025-07-01,1610
+PyData,2025-07-04,1610
+PyData,2025-07-08,1634
+PyData,2025-07-15,1646
+PyData,2025-07-27,1657
+PyData,2025-08-11,1678
+PyData,2025-08-15,1685
+PyData,2025-08-18,1686
+PyData,2025-08-21,1692
+PyData,2025-08-26,1701
+PyData,2025-08-30,1701
+PyData,2025-09-16,1769
+PyData,2025-09-17,1774
+PyData,2025-09-21,1786
+PyData,2026-04-07,2190
+PyData,2026-04-29,2226
+PyData Ahmedabad,2023-01-21,68
+PyData Ahmedabad,2023-02-25,67
+PyData Ahmedabad,2023-03-13,67
+PyData Ahmedabad,2023-03-29,67
+PyData Ahmedabad,2023-04-10,67
+PyData Ahmedabad,2023-04-23,68
+PyData Ahmedabad,2023-06-05,72
+PyData Ahmedabad,2023-06-11,72
+PyData Ahmedabad,2023-06-23,72
+PyData Ahmedabad,2023-07-06,72
+PyData Ahmedabad,2023-07-23,72
+PyData Ahmedabad,2023-08-05,72
+PyData Ahmedabad,2023-08-29,68
+PyData Ahmedabad,2023-10-18,66
+PyData Ahmedabad,2023-12-18,67
+PyData Amaravati,2023-01-21,24
+PyData Amaravati,2023-02-25,23
+PyData Amaravati,2023-03-13,23
+PyData Amaravati,2023-03-29,23
+PyData Amaravati,2023-04-10,23
+PyData Amaravati,2023-04-23,23
+PyData Amaravati,2023-06-05,23
+PyData Amaravati,2023-06-11,23
+PyData Amaravati,2023-06-23,23
+PyData Amaravati,2023-07-06,23
+PyData Amaravati,2023-07-23,23
+PyData Amaravati,2023-08-05,23
+PyData Amaravati,2023-08-29,21
+PyData Amaravati,2023-10-18,22
+PyData Amaravati,2023-12-18,23
+PyData Amaravati,2024-09-17,24
+PyData Amaravati,2024-09-24,24
+PyData Amaravati,2024-10-02,24
+PyData Amaravati,2024-11-15,25
+PyData Amaravati,2025-01-09,24
+PyData Amaravati,2025-01-18,24
+PyData Amaravati,2025-01-28,24
+PyData Amaravati,2025-02-21,24
+PyData Amaravati,2025-03-03,24
+PyData Amaravati,2025-03-10,24
+PyData Amaravati,2025-03-15,24
+PyData Amaravati,2025-04-13,24
+PyData Amaravati,2025-04-22,24
+PyData Amaravati,2025-05-20,24
+PyData Amaravati,2025-05-25,24
+PyData Amaravati,2025-06-07,24
+PyData Amaravati,2025-06-09,24
+PyData Amaravati,2025-06-22,24
+PyData Amaravati,2025-07-15,24
+PyData Amaravati,2025-07-27,24
+PyData Amaravati,2025-08-18,24
+PyData Amaravati,2025-08-21,24
+PyData Amaravati,2025-09-21,26
+PyData Amsterdam,2022-11-03,245
+PyData Amsterdam,2022-11-06,247
+PyData Amsterdam,2022-11-14,250
+PyData Amsterdam,2022-11-20,268
+PyData Amsterdam,2022-11-24,275
+PyData Amsterdam,2022-12-01,284
+PyData Amsterdam,2022-12-08,292
+PyData Amsterdam,2022-12-14,297
+PyData Amsterdam,2022-12-27,301
+PyData Amsterdam,2023-01-01,301
+PyData Amsterdam,2023-01-05,301
+PyData Amsterdam,2023-01-09,301
+PyData Amsterdam,2023-01-21,332
+PyData Amsterdam,2023-01-22,333
+PyData Amsterdam,2023-01-28,343
+PyData Amsterdam,2023-02-04,348
+PyData Amsterdam,2023-02-10,352
+PyData Amsterdam,2023-02-13,356
+PyData Amsterdam,2023-02-24,394
+PyData Amsterdam,2023-02-25,395
+PyData Amsterdam,2023-03-10,407
+PyData Amsterdam,2023-03-13,409
+PyData Amsterdam,2023-03-14,410
+PyData Amsterdam,2023-03-18,410
+PyData Amsterdam,2023-03-21,413
+PyData Amsterdam,2023-03-25,413
+PyData Amsterdam,2023-03-29,417
+PyData Amsterdam,2023-04-01,418
+PyData Amsterdam,2023-04-10,440
+PyData Amsterdam,2023-04-13,442
+PyData Amsterdam,2023-04-21,494
+PyData Amsterdam,2023-04-23,499
+PyData Amsterdam,2023-04-29,509
+PyData Amsterdam,2023-05-12,528
+PyData Amsterdam,2023-05-19,533
+PyData Amsterdam,2023-05-29,573
+PyData Amsterdam,2023-06-05,581
+PyData Amsterdam,2023-06-11,595
+PyData Amsterdam,2023-06-14,615
+PyData Amsterdam,2023-06-17,620
+PyData Amsterdam,2023-06-23,625
+PyData Amsterdam,2023-06-27,628
+PyData Amsterdam,2023-07-06,704
+PyData Amsterdam,2023-07-23,746
+PyData Amsterdam,2023-08-02,776
+PyData Amsterdam,2023-08-05,785
+PyData Amsterdam,2023-08-08,792
+PyData Amsterdam,2023-08-10,802
+PyData Amsterdam,2023-08-29,934
+PyData Amsterdam,2023-09-15,1283
+PyData Amsterdam,2023-10-18,1723
+PyData Amsterdam,2023-12-16,1924
+PyData Amsterdam,2023-12-18,1931
+PyData Amsterdam,2024-01-22,2009
+PyData Amsterdam,2024-04-09,2185
+PyData Amsterdam,2024-04-17,2209
+PyData Amsterdam,2024-04-19,2218
+PyData Amsterdam,2024-04-28,2235
+PyData Amsterdam,2024-05-03,2261
+PyData Amsterdam,2024-05-19,2346
+PyData Amsterdam,2024-06-08,2492
+PyData Amsterdam,2024-06-24,2548
+PyData Amsterdam,2024-06-28,2559
+PyData Amsterdam,2024-07-11,2631
+PyData Amsterdam,2024-07-17,2667
+PyData Amsterdam,2024-07-20,2691
+PyData Amsterdam,2024-07-23,2712
+PyData Amsterdam,2024-08-02,2750
+PyData Amsterdam,2024-08-06,2761
+PyData Amsterdam,2024-08-09,2797
+PyData Amsterdam,2024-08-20,2912
+PyData Amsterdam,2024-09-02,3149
+PyData Amsterdam,2024-09-07,3231
+PyData Amsterdam,2024-09-10,3252
+PyData Amsterdam,2024-09-16,3326
+PyData Amsterdam,2024-09-17,3355
+PyData Amsterdam,2024-09-24,3627
+PyData Amsterdam,2024-10-02,3728
+PyData Amsterdam,2024-11-15,3959
+PyData Amsterdam,2024-11-24,3964
+PyData Amsterdam,2024-11-26,3966
+PyData Amsterdam,2024-12-07,3985
+PyData Amsterdam,2025-01-08,4026
+PyData Amsterdam,2025-01-09,4030
+PyData Amsterdam,2025-01-18,4060
+PyData Amsterdam,2025-01-27,4101
+PyData Amsterdam,2025-01-28,4106
+PyData Amsterdam,2025-02-04,4120
+PyData Amsterdam,2025-02-20,4162
+PyData Amsterdam,2025-02-21,4168
+PyData Amsterdam,2025-02-28,4201
+PyData Amsterdam,2025-03-03,4202
+PyData Amsterdam,2025-03-09,4210
+PyData Amsterdam,2025-03-10,4212
+PyData Amsterdam,2025-03-15,4240
+PyData Amsterdam,2025-03-16,4242
+PyData Amsterdam,2025-04-13,4305
+PyData Amsterdam,2025-04-13,4307
+PyData Amsterdam,2025-04-22,4319
+PyData Amsterdam,2025-04-27,4384
+PyData Amsterdam,2025-04-28,4393
+PyData Amsterdam,2025-05-06,4393
+PyData Amsterdam,2025-05-20,4480
+PyData Amsterdam,2025-05-25,4490
+PyData Amsterdam,2025-05-27,4490
+PyData Amsterdam,2025-06-01,4508
+PyData Amsterdam,2025-06-07,4542
+PyData Amsterdam,2025-06-08,4547
+PyData Amsterdam,2025-06-09,4551
+PyData Amsterdam,2025-06-10,4552
+PyData Amsterdam,2025-06-22,4590
+PyData Amsterdam,2025-07-01,4638
+PyData Amsterdam,2025-07-04,4638
+PyData Amsterdam,2025-07-08,4651
+PyData Amsterdam,2025-07-15,4675
+PyData Amsterdam,2025-07-27,4722
+PyData Amsterdam,2025-08-11,4793
+PyData Amsterdam,2025-08-15,4831
+PyData Amsterdam,2025-08-18,4837
+PyData Amsterdam,2025-08-21,4862
+PyData Amsterdam,2025-08-26,4883
+PyData Amsterdam,2025-08-30,4883
+PyData Amsterdam,2025-09-04,4934
+PyData Amsterdam,2025-09-16,4971
+PyData Amsterdam,2025-09-17,4973
+PyData Amsterdam,2026-04-07,5773
+PyData Amsterdam,2026-04-29,5896
+PyData Ann Arbor,2023-01-21,15
+PyData Ann Arbor,2023-02-25,14
+PyData Ann Arbor,2023-03-13,14
+PyData Ann Arbor,2023-03-29,14
+PyData Ann Arbor,2023-04-10,14
+PyData Ann Arbor,2023-04-23,14
+PyData Ann Arbor,2023-06-05,14
+PyData Ann Arbor,2023-06-11,14
+PyData Ann Arbor,2023-06-23,14
+PyData Ann Arbor,2023-07-06,14
+PyData Ann Arbor,2023-07-23,14
+PyData Ann Arbor,2023-08-05,14
+PyData Ann Arbor,2023-08-29,12
+PyData Ann Arbor,2023-10-18,12
 PyData Ann Arbor,2024-09-17,18
 PyData Ann Arbor,2024-09-24,18
 PyData Ann Arbor,2024-10-02,18
@@ -440,6 +874,9 @@ PyData Boston,2025-08-21,164
 PyData Boston,2025-08-26,175
 PyData Boston,2025-08-30,175
 PyData Boston,2025-09-17,222
+PyData Boston,2026-04-07,455
+PyData Boston,2026-04-24,456
+PyData Boston,2026-04-29,456
 PyData Bradford,2025-02-04,13
 PyData Bradford,2025-02-20,15
 PyData Bradford,2025-02-28,15
@@ -473,6 +910,9 @@ PyData Bradford,2025-08-26,123
 PyData Bradford,2025-08-30,123
 PyData Bradford,2025-09-16,129
 PyData Bradford,2025-09-17,130
+PyData Bradford,2026-04-07,256
+PyData Bradford,2026-04-24,259
+PyData Bradford,2026-04-29,261
 PyData Bras<ed>lia,2023-01-21,208
 PyData Bras<ed>lia,2023-02-25,209
 PyData Bras<ed>lia,2023-03-13,211
@@ -1027,6 +1467,8 @@ PyData Delhi,2025-08-21,1837
 PyData Delhi,2025-08-26,1839
 PyData Delhi,2025-08-30,1839
 PyData Delhi,2025-09-17,1838
+PyData Delhi,2026-04-07,1866
+PyData Delhi,2026-04-29,1867
 PyData Edinburgh,2023-01-21,153
 PyData Edinburgh,2023-02-25,167
 PyData Edinburgh,2023-03-13,168
@@ -1128,6 +1570,9 @@ PyData Eindhoven,2025-08-21,1901
 PyData Eindhoven,2025-08-26,1905
 PyData Eindhoven,2025-08-30,1905
 PyData Eindhoven,2025-09-17,1923
+PyData Eindhoven,2026-04-07,2179
+PyData Eindhoven,2026-04-24,2187
+PyData Eindhoven,2026-04-29,2187
 PyData Exeter,2025-09-16,281
 PyData GRX,2024-09-17,175
 PyData GRX,2024-09-24,182
@@ -1381,6 +1826,8 @@ PyData Global,2025-09-09,7504
 PyData Global,2025-09-16,7527
 PyData Global,2025-09-17,7527
 PyData Global,2025-09-21,7550
+PyData Global,2026-04-07,8251
+PyData Global,2026-04-29,8311
 PyData Guayaquil,2023-01-21,38
 PyData Guayaquil,2023-02-25,39
 PyData Guayaquil,2023-03-13,40
@@ -1693,6 +2140,7 @@ PyData Ireland,2025-08-21,314
 PyData Ireland,2025-08-26,314
 PyData Ireland,2025-08-30,314
 PyData Ireland,2025-09-17,319
+PyData Ireland,2026-04-29,432
 PyData Jeddah,2023-01-21,38
 PyData Jeddah,2023-02-25,38
 PyData Jeddah,2023-03-13,38
@@ -2087,6 +2535,11 @@ PyData London,2025-09-16,1149
 PyData London,2025-09-17,1820
 PyData London,2025-09-17,1149
 PyData London,2025-09-21,1823
+PyData London,2026-04-07,1228
+PyData London,2026-04-07,2005
+PyData London,2026-04-24,1235
+PyData London,2026-04-29,1233
+PyData London,2026-04-29,2019
 PyData Los Angeles,2023-01-21,148
 PyData Los Angeles,2023-02-25,148
 PyData Los Angeles,2023-03-13,148
@@ -2316,6 +2769,9 @@ PyData Mumbai,2023-08-05,86
 PyData Mumbai,2023-08-29,82
 PyData Mumbai,2023-10-18,83
 PyData Mumbai,2023-12-18,83
+PyData Mumbai,2026-04-07,93
+PyData Mumbai,2026-04-24,93
+PyData Mumbai,2026-04-29,93
 PyData Mysore,2023-01-21,34
 PyData Mysore,2023-02-25,33
 PyData Mysore,2023-03-13,33
@@ -2400,6 +2856,9 @@ PyData NYC,2025-08-30,1848
 PyData NYC,2025-09-16,1883
 PyData NYC,2025-09-17,1885
 PyData NYC,2025-09-21,1895
+PyData NYC,2026-04-07,2011
+PyData NYC,2026-04-24,2013
+PyData NYC,2026-04-29,2014
 PyData POA,2023-01-21,75
 PyData POA,2023-02-25,74
 PyData POA,2023-03-13,74
@@ -2527,6 +2986,7 @@ PyData Paris,2025-08-21,1564
 PyData Paris,2025-08-26,1573
 PyData Paris,2025-08-30,1573
 PyData Paris,2025-09-17,1693
+PyData Paris,2026-04-07,2021
 PyData Piraeus,2023-01-21,222
 PyData Piraeus,2023-02-25,221
 PyData Piraeus,2023-03-13,221
@@ -2605,6 +3065,9 @@ PyData Pittsburgh,2025-08-21,531
 PyData Pittsburgh,2025-08-26,534
 PyData Pittsburgh,2025-08-30,534
 PyData Pittsburgh,2025-09-17,539
+PyData Pittsburgh,2026-04-07,575
+PyData Pittsburgh,2026-04-24,578
+PyData Pittsburgh,2026-04-29,583
 PyData Prague,2024-09-17,199
 PyData Prague,2024-09-24,200
 PyData Prague,2024-10-02,201
@@ -2649,6 +3112,9 @@ PyData Prague,2025-08-21,363
 PyData Prague,2025-08-26,364
 PyData Prague,2025-08-30,364
 PyData Prague,2025-09-17,370
+PyData Prague,2026-04-07,423
+PyData Prague,2026-04-24,425
+PyData Prague,2026-04-29,427
 PyData Raipur,2023-01-21,34
 PyData Raipur,2023-02-25,33
 PyData Raipur,2023-03-13,33
@@ -2877,6 +3343,9 @@ PyData Slovakia,2025-08-21,87
 PyData Slovakia,2025-08-26,87
 PyData Slovakia,2025-08-30,87
 PyData Slovakia,2025-09-17,87
+PyData Slovakia,2026-04-07,89
+PyData Slovakia,2026-04-24,89
+PyData Slovakia,2026-04-29,89
 PyData Southampton,2023-01-21,8
 PyData Southampton,2023-02-25,7
 PyData Southampton,2023-03-13,7
@@ -2940,6 +3409,9 @@ PyData Southampton,2025-08-26,208
 PyData Southampton,2025-08-30,208
 PyData Southampton,2025-09-16,213
 PyData Southampton,2025-09-17,213
+PyData Southampton,2026-04-07,245
+PyData Southampton,2026-04-24,252
+PyData Southampton,2026-04-29,253
 PyData Sri Lanka,2024-09-17,6
 PyData Sri Lanka,2024-09-24,6
 PyData Sri Lanka,2024-10-02,6
@@ -2984,6 +3456,9 @@ PyData Stockholm,2025-07-15,293
 PyData Stockholm,2025-07-27,293
 PyData Stockholm,2025-08-18,293
 PyData Stockholm,2025-08-21,295
+PyData Switzerland,2026-04-07,93
+PyData Switzerland,2026-04-24,103
+PyData Switzerland,2026-04-29,104
 PyData Sydney,2023-01-21,138
 PyData Sydney,2023-02-25,137
 PyData Sydney,2023-03-13,138
@@ -3069,126 +3544,3 @@ PyData Toronto,2023-03-29,45
 PyData Toronto,2023-04-10,46
 PyData Toronto,2023-04-23,46
 PyData Toronto,2023-06-05,46
-PyData Toronto,2023-06-11,46
-PyData Toronto,2023-06-23,46
-PyData Toronto,2023-07-06,46
-PyData Toronto,2023-07-23,46
-PyData Toronto,2023-08-05,46
-PyData Toronto,2023-08-29,45
-PyData Toronto,2023-10-18,47
-PyData Toronto,2023-12-18,49
-PyData Toronto,2024-11-15,97
-PyData Toronto,2024-11-24,97
-PyData Toronto,2024-11-26,97
-PyData Toronto,2024-12-07,97
-PyData Toronto,2025-01-08,97
-PyData Toronto,2025-01-18,98
-PyData Toronto,2025-01-27,98
-PyData Toronto,2025-02-04,98
-PyData Toronto,2025-02-20,98
-PyData Toronto,2025-02-28,99
-PyData Toronto,2025-03-03,98
-PyData Toronto,2025-03-09,99
-PyData Toronto,2025-03-16,99
-PyData Toronto,2025-04-13,99
-PyData Toronto,2025-04-22,99
-PyData Toronto,2025-04-27,99
-PyData Toronto,2025-04-28,99
-PyData Toronto,2025-05-06,99
-PyData Toronto,2025-05-20,100
-PyData Toronto,2025-05-25,101
-PyData Toronto,2025-05-27,101
-PyData Toronto,2025-06-01,101
-PyData Toronto,2025-06-07,101
-PyData Toronto,2025-06-08,101
-PyData Toronto,2025-06-09,101
-PyData Toronto,2025-06-10,101
-PyData Toronto,2025-06-22,102
-PyData Toronto,2025-07-01,102
-PyData Toronto,2025-07-04,102
-PyData Toronto,2025-07-08,102
-PyData Toronto,2025-07-15,102
-PyData Toronto,2025-07-27,102
-PyData Toronto,2025-08-11,103
-PyData Toronto,2025-08-15,103
-PyData Toronto,2025-08-18,103
-PyData Toronto,2025-08-21,103
-PyData Toronto,2025-08-26,103
-PyData Toronto,2025-08-30,103
-PyData Toronto,2025-09-17,106
-PyData Trojmiasto,2023-10-18,255
-PyData Trojmiasto,2024-09-17,388
-PyData Trojmiasto,2024-09-24,388
-PyData Trojmiasto,2024-10-02,390
-PyData Trojmiasto,2024-11-15,394
-PyData Trojmiasto,2025-01-09,403
-PyData Trojmiasto,2025-01-18,403
-PyData Trojmiasto,2025-01-28,404
-PyData Trojmiasto,2025-02-21,406
-PyData Trojmiasto,2025-03-03,407
-PyData Trojmiasto,2025-03-10,408
-PyData Trojmiasto,2025-03-15,410
-PyData Trojmiasto,2025-04-13,430
-PyData Trojmiasto,2025-04-22,429
-PyData Trojmiasto,2025-05-20,432
-PyData Trojmiasto,2025-05-25,431
-PyData Trojmiasto,2025-06-07,430
-PyData Trojmiasto,2025-06-09,430
-PyData Trojmiasto,2025-06-22,432
-PyData Trojmiasto,2025-07-15,436
-PyData Trojmiasto,2025-07-27,438
-PyData Trojmiasto,2025-08-18,441
-PyData Trojmiasto,2025-08-21,443
-PyData Tunisia,2023-01-21,431
-PyData Tunisia,2023-02-25,465
-PyData Tunisia,2023-03-13,469
-PyData Tunisia,2023-03-29,472
-PyData Tunisia,2023-04-10,474
-PyData Tunisia,2023-04-23,474
-PyData Tunisia,2023-06-05,482
-PyData Tunisia,2023-06-11,483
-PyData Tunisia,2023-06-23,483
-PyData Tunisia,2023-07-06,484
-PyData Tunisia,2023-07-23,489
-PyData Tunisia,2023-08-05,492
-PyData Tunisia,2023-08-29,497
-PyData Tunisia,2024-09-17,530
-PyData Tunisia,2024-09-24,531
-PyData Tunisia,2024-10-02,532
-PyData Tunisia,2024-11-15,531
-PyData Tunisia,2025-01-09,533
-PyData Tunisia,2025-01-18,535
-PyData Tunisia,2025-01-28,535
-PyData Tunisia,2025-02-21,535
-PyData Tunisia,2025-03-03,537
-PyData Tunisia,2025-03-10,537
-PyData Tunisia,2025-03-15,537
-PyData Tunisia,2025-04-13,535
-PyData Tunisia,2025-04-22,536
-PyData Tunisia,2025-05-20,536
-PyData Tunisia,2025-05-25,536
-PyData Tunisia,2025-06-07,534
-PyData Tunisia,2025-06-09,533
-PyData Tunisia,2025-06-22,535
-PyData Tunisia,2025-07-15,534
-PyData Tunisia,2025-07-27,535
-PyData Tunisia,2025-08-18,540
-PyData Tunisia,2025-08-21,540
-PyData Warsaw,2022-11-14,217
-PyData Warsaw,2022-11-20,218
-PyData Warsaw,2022-11-24,218
-PyData Warsaw,2022-12-01,220
-PyData Warsaw,2022-12-08,220
-PyData Warsaw,2022-12-14,221
-PyData Warsaw,2022-12-27,221
-PyData Warsaw,2023-01-01,221
-PyData Warsaw,2023-01-05,221
-PyData Warsaw,2023-01-09,221
-PyData Warsaw,2023-01-21,222
-PyData Warsaw,2023-01-22,222
-PyData Warsaw,2023-01-29,222
-PyData Warsaw,2023-02-04,221
-PyData Warsaw,2023-02-25,221
-PyData Warsaw,2023-03-13,222
-PyData Warsaw,2023-03-18,222
-PyData Warsaw,2023-03-21,223
