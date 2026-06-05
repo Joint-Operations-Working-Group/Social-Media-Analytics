@@ -1,4 +1,319 @@
-Company,Date,Followers
+"Company","Date","Followers"
+"LinkedIn Guide to Creating",2026-06-05,7124692
+"Women in Data Science (WiDS) Dublin",2026-06-05,1216
+"Women in AI Ireland",2026-06-05,9014
+"PyLadies Dublin",2026-06-05,951
+"United Nations Department of Economic and Social Affairs",2026-06-05,29942
+"KDnuggets",2026-06-05,52993
+"United Nations Office for Sustainable Development (UNOSD)",2026-06-05,23738
+"RLadies Barranquilla",2026-06-05,2
+"R-Ladies D.C.",2026-06-05,177
+"R-Ladies Gaborone",2026-06-05,806
+"rainbowR",2026-06-05,662
+"Rome R Users Group",2026-06-05,670
+"Ghana R Users Community",2026-06-05,1765
+"PyLadies Amsterdam",2026-06-05,1752
+"Women in AI Benelux",2026-06-05,10884
+"R Consortium",2026-06-05,11095
+"InfluxData",2026-06-05,23429
+"PySport",2026-06-05,5053
+"R User Community Africa",2026-06-05,859
+"Kemmy Business School",2026-06-05,7376
+"Space42",2026-06-05,203977
+"PyData La Paz",2026-06-05,15
+"PyData Slovakia",2026-06-05,89
+"PyData Sri Lanka",2026-06-05,196
+"PyData Melbourne",2026-06-05,23
+"PyData Ireland",2026-06-05,446
+"PyData Kaunas",2026-06-05,41
+"PyData Panamá",2026-06-05,52
+"PyData Boston",2026-06-05,469
+"PyData Singapore",2026-06-05,24
+"PyData Amaravati",2026-06-05,27
+"Pydata Nairobi",2026-06-05,45
+"PyData Raipur",2026-06-05,54
+"InternAge",2026-06-05,115
+"PyData POA",2026-06-05,76
+"PyData Kraków",2026-06-05,123
+"PyData Khobar",2026-06-05,122
+"PyData Bristol Meetup",2026-06-05,124
+"PyData Johannesburg Community",2026-06-05,212
+"PyData Padova",2026-06-05,161
+"PyData Ann Arbor",2026-06-05,21
+"PyData Southampton",2026-06-05,256
+"PyData GRX",2026-06-05,441
+"PyData Prague",2026-06-05,438
+"PyData Edinburgh",2026-06-05,220
+"PyData DC",2026-06-05,51
+"PyData Piraeus",2026-06-05,276
+"PyData Tunisia",2026-06-05,666
+"PyData Trojmiasto",2026-06-05,536
+"PyData Cluj-Napoca",2026-06-05,301
+"PyData Athens",2026-06-05,254
+"PyData Stockholm",2026-06-05,307
+"PyData SWFL",2026-06-05,39
+"PyData Brasília",2026-06-05,271
+"PyData Montréal",2026-06-05,327
+"PyData Cordoba",2026-06-05,334
+"PyData Cyprus",2026-06-05,367
+"PyData Hamburg",2026-06-05,706
+"PyData Tel Aviv",2026-06-05,1050
+"Compute! Paris",2026-06-05,2313
+"PyData Charlotte",2026-06-05,108
+"PyData Copenhagen",2026-06-05,885
+"PyCon DE & PyData",2026-06-05,6016
+"PyData London",2026-06-05,1277
+"Software Lancaster Talks",2026-06-05,905
+"PyData Berlin",2026-06-05,2237
+"PyData Bydgoszcz",2026-06-05,1079
+"PyData Madrid",2026-06-05,1898
+"PyData Los Angeles",2026-06-05,163
+"PyData Yerevan",2026-06-05,1618
+"PyData Manaus",2026-06-05,1250
+"PyData Riyadh",2026-06-05,1301
+"PyData London",2026-06-05,2178
+"PyData São Paulo",2026-06-05,1605
+"PyData Delhi",2026-06-05,1868
+"PyData Amsterdam",2026-06-05,6035
+"PyData NYC",2026-06-05,2010
+"PyData Eindhoven",2026-06-05,2196
+"PyData Miami",2026-06-05,586
+"PyData Pittsburgh",2026-06-05,589
+"R Users Malawi",2026-06-05,425
+"R User Community EMEA",2026-06-05,755
+"NTT DATA Middle East and Africa",2026-06-05,444531
+"NTT DATA Inc.",2026-06-05,1351728
+"R User Community",2026-06-05,22933
+"Softest Consulting Services Ltd",2026-06-05,6217
+"PyLadies Seattle",2026-06-05,373
+"Irish Human Rights and Equality Commission",2026-06-05,19082
+"SciML",2026-06-05,4211
+"PyData Warsaw",2026-06-05,384
+"PyData",2026-06-05,2272
+"Anaconda Inc.",2026-06-05,104096
+"NumFOCUS",2026-06-05,11961
+"2K",2026-06-05,362439
+"scikit-learn",2026-06-05,123211
+"INCRYPT MINING LTD",2026-06-05,201
+"Google Summer of Code",2026-06-05,130015
+"PumasAI",2026-06-05,6771
+"SwissAI",2026-06-05,481
+"Keebo",2026-06-05,4957
+"DecisionBrain",2026-06-05,4667
+"GitHub",2026-06-05,6217873
+"MIT Technology Review",2026-06-05,1519648
+"Open Robotics",2026-06-05,209460
+"OpenAI",2026-06-05,11027426
+"Hackster.io",2026-06-05,58020
+"Google Cloud",2026-06-05,3272666
+"Stack Overflow",2026-06-05,1598189
+"AWS AI",2026-06-05,457560
+"PyTorch",2026-06-05,321318
+"NVIDIA AI",2026-06-05,1850396
+"Hugging Face",2026-06-05,1242845
+"OpenCV",2026-06-05,340475
+"IrishITJobs.ie",2026-06-05,1059
+"PyData Global",2026-06-05,8434
+"University of Limerick",2026-06-05,145618
+"Evolution AI",2026-06-05,4304
+"HEDS Data Science",2026-06-05,559
+"Centre for Sustainable Fashion",2026-06-05,86999
+"Fashion for Good",2026-06-05,160002
+"The LEGO Foundation",2026-06-05,151214
+"Adessium Foundation",2026-06-05,5433
+"Van Leer Foundation",2026-06-05,32193
+"Laudes Foundation",2026-06-05,42042
+"MAVA Foundation",2026-06-05,9155
+"Oak Foundation",2026-06-05,49887
+"Swiss Philanthropy Foundation",2026-06-05,10655
+"PHILANTHROPY ADVISORS",2026-06-05,6753
+"Rocky Mountain Elk Foundation",2026-06-05,34015
+"The Michael J. Fox Foundation for Parkinson's Research",2026-06-05,61618
+"Lumina Foundation",2026-06-05,39189
+"Wilder",2026-06-05,11047
+"Aga Khan Foundation USA",2026-06-05,30330
+"The Surfrider Foundation",2026-06-05,44211
+"Foundation for Economic Education",2026-06-05,26700
+"storytelling with data",2026-06-05,165005
+"Dimension Data",2026-06-05,435165
+"Open Data Science Conference (ODSC)",2026-06-05,145376
+"Data Science Academy",2026-06-05,578559
+"Data Axle",2026-06-05,156248
+"Data Science Dojo",2026-06-05,310068
+"X-Europe Data Science",2026-06-05,95
+"simpl.study",2026-06-05,67
+"AI Ireland",2026-06-05,9812
+"Why R?",2026-06-05,5648
+"useR! - The R User Conference",2026-06-05,8212
+"The Machine Learning Institute Certificate in Finance (MLI)",2026-06-05,1659
+"Data Science Institute",2026-06-05,20054
+"Data Istanbul",2026-06-05,3931
+"The Data Lab - Innovation Centre",2026-06-05,18995
+"Data Science and Ai Association of Australia | DSAi",2026-06-05,7321
+"Data Science Indonesia",2026-06-05,11990
+"DSN - Data Science Nigeria",2026-06-05,27920
+"Data Science Research Perú",2026-06-05,40465
+"DSPT - Data Science Portugal",2026-06-05,11468
+"TMLS - Toronto Machine Learning Summit",2026-06-05,15714
+"Machine Learning and Data Analytics Lab at NTU EEE",2026-06-05,3118
+"Machine Learning Society",2026-06-05,21354
+"Machine Learning at Berkeley",2026-06-05,5449
+"McMaster Artificial Intelligence Society",2026-06-05,1267
+"Nordic.AI",2026-06-05,685
+"AI Copenhagen",2026-06-05,344
+"Sydney Machine Learning Group",2026-06-05,204
+"JerusML",2026-06-05,719
+"Data Science Milan",2026-06-05,1900
+"Data Lille",2026-06-05,1825
+"Los Angeles Machine Learning Meetup",2026-06-05,9
+"Meetup Machine Learning Québec",2026-06-05,114
+"Artificial Intelligence Hong Kong",2026-06-05,2126
+"Hong Kong Machine Learning",2026-06-05,3272
+"MLT",2026-06-05,8972
+"meetup.ai",2026-06-05,553
+"Cologne AI and Machine Learning Meetup",2026-06-05,1121
+"Machine Learning Porto Alegre",2026-06-05,502
+"Machine Learning in Healthcare",2026-06-05,1054
+"Erlangen Artificial Intelligence & Machine Learning Meetup",2026-06-05,566
+"Paris Machine Learning Meetup",2026-06-05,501
+"Toronto Machine Learning Meetup",2026-06-05,311
+"Data Residents",2026-06-05,53
+"Data Science & Artificial Intelligence/AI South East London",2026-06-05,181
+"Data Science Ghent",2026-06-05,299
+"Machine Learning & Data Science Meetup Roma",2026-06-05,322
+"The Data Pub",2026-06-05,3681
+"Data Science Meetup",2026-06-05,144
+"University College Dublin",2026-06-05,366356
+"Data Science Research Arab Team",2026-06-05,308
+"Thalesians Ltd",2026-06-05,5778
+"CONNECT Centre",2026-06-05,5859
+"UoM AI and Machine Learning Society",2026-06-05,97
+"LSESU Machine Learning Society",2026-06-05,136
+"Machine Learning Society at MIM UW",2026-06-05,433
+"Nottingham Economics & Finance Society",2026-06-05,5766
+"Finance Society at the University of Connecticut",2026-06-05,848
+"CSUDH Finance Student Society",2026-06-05,90
+"AUB Computer Science Student Society",2026-06-05,174
+"Western Computer Science Undergraduate Society",2026-06-05,269
+"UST Computer Science Society",2026-06-05,166
+"University Of Sheffield Computer Science Society",2026-06-05,111
+"UBC Computer Science Student Society",2026-06-05,837
+"Otago Computing Students Society",2026-06-05,65
+"Sheffield Women in Computer Science Society",2026-06-05,165
+"Queen Mary Electronic Engineering & Computer Science Society",2026-06-05,54
+"Lancaster University Computer Science Society",2026-06-05,113
+"Dalhousie Computer Science Society",2026-06-05,204
+"Computer Science & Engineering Society at UC San Diego",2026-06-05,444
+"McMaster Computer Science Society",2026-06-05,89
+"UNSW Computer Science and Engineering Society (CSESoc)",2026-06-05,2842
+"McMaster Computer Science Society",2026-06-05,258
+"Dublin University Computer Science Society",2026-06-05,212
+"University of Bristol Computer Science Society",2026-06-05,387
+"Computer Science Society (CSS) - University of Birmingham",2026-06-05,505
+"The Data Science & Statistics Society",2026-06-05,594
+"LSESU Data Science Society",2026-06-05,12
+"Hertie School Data Science Society",2026-06-05,359
+"The Manchester AI Society",2026-06-05,1170
+"Exeter Artificial Intelligence and Data Science Society (X-AI)",2026-06-05,96
+"DSCS George Mason University",2026-06-05,120
+"Data Science and AI Society - UTS",2026-06-05,412
+"Bristol Data Science and Artificial Intelligence Society",2026-06-05,471
+"Cambridge University Data Science Society",2026-06-05,283
+"Baruch Data Science & Analytics Society",2026-06-05,667
+"Ryerson University Data Science Society",2026-06-05,223
+"LSESU Data Science Society",2026-06-05,668
+"Monash Data & AI Society",2026-06-05,1610
+"ITU Data Science Society",2026-06-05,2398
+"Hong Kong Data Science Society",2026-06-05,276
+"Warwick Data Science Society",2026-06-05,1661
+"Columbia Data Science Society",2026-06-05,1146
+"Data Science Society",2026-06-05,2228
+"Research Ireland Centre for Research Training in Artificial Intelligence",2026-06-05,2626
+"AaltoAI",2026-06-05,2152
+"SAIS Sheffield Artificial Intelligence Society",2026-06-05,38
+"KCL Data Science Society",2026-06-05,69
+"Ankara University Computer Society",2026-06-05,1087
+"Artificial Intelligence & Robotics Society University of Portsmouth",2026-06-05,387
+"Artificial Intelligence in Medical Systems Society (AIMSS)",2026-06-05,1487
+"AI Hack 2021",2026-06-05,115
+"Data Science Student Society at UJ",2026-06-05,125
+"Big Data and Artificial Intelligence Club",2026-06-05,565
+"Data Science Society",2026-06-05,302
+"Data Science Club of UWA",2026-06-05,919
+"ICL Machine Learning Society",2026-06-05,104
+"Carleton Artificial Intelligence Society",2026-06-05,375
+"Kharagpur Data Analytics Group",2026-06-05,4145
+"USC Center for AI in Society's Student Branch (CAIS++)",2026-06-05,411
+"LUMS Data Science Society",2026-06-05,1008
+"Imperial College Data Science Society",2026-06-05,1118
+"UNSW Data Science Society (DataSoc)",2026-06-05,1448
+"Data Science Student Society at UC San Diego",2026-06-05,1325
+"UCL Data Science Society",2026-06-05,2073
+"Data Science Society at Berkeley",2026-06-05,1551
+"Data Science Club at UTDallas",2026-06-05,2389
+"UCD Investors and Entrepreneurs Society",2026-06-05,4803
+"UCD Netsoc – UCD's Internet and Computer Science Society",2026-06-05,561
+"UCD I&E Student Managed Fund",2026-06-05,2924
+"Irish Student Consulting Group (ISCG)",2026-06-05,6588
+"DataSoc",2026-06-05,905
+"MLOps",2026-06-05,3169
+"MLOps community",2026-06-05,46189
+"DataTalksClub",2026-06-05,31350
+"Latvia Artificial Intelligence Club",2026-06-05,1978
+"AMD Silo AI",2026-06-05,28950
+"DAIN Studios",2026-06-05,5218
+"Buffalo State Data Science & Analytics (DSA)",2026-06-05,702
+"TazWorks",2026-06-05,1512
+"TotalVerify",2026-06-05,3922
+"VINE",2026-06-05,1682
+"Appriss",2026-06-05,7093
+"Bamboo Health",2026-06-05,21655
+"Nième Conseil",2026-06-05,607
+"Capital Quant Agency",2026-06-05,2366
+"Prospect 33",2026-06-05,29519
+"DOF",2026-06-05,401615
+"Oceaneering",2026-06-05,674561
+"Subsea7",2026-06-05,1039702
+"Fugro",2026-06-05,415864
+"Neuralog",2026-06-05,2015
+"Neptune Energy",2026-06-05,100389
+"Erde Technologies Inc.",2026-06-05,22
+"Kadme AS - Knowledge and Data Management Expertise",2026-06-05,1854
+"SeismicZone",2026-06-05,715
+"Fujitsu",2026-06-05,1240381
+"Integra Data Systems",2026-06-05,184
+"Pharos Platforms Inc.",2026-06-05,671
+"Integra Data and Analytic Solutions",2026-06-05,1654
+"Geologic",2026-06-05,5048
+"Katalyst Data Management",2026-06-05,6603
+"GBS Technology Co.",2026-06-05,2799
+"GULF TRAINING AND CONSULTATION CENTER",2026-06-05,363
+"Beacon IT Solutions Abu Dhabi",2026-06-05,282
+"gistec",2026-06-05,18982
+"Bayanat Smart Solutions",2026-06-05,61585
+"vGIS Inc.",2026-06-05,28074
+"MicroMap IT & GIS Consultancy Abu Dhabi",2026-06-05,2976
+"ATRIBS GLOBAL TECHNOLOGY",2026-06-05,8393
+"Dubai Technology Entrepreneur Campus - Dtec",2026-06-05,17369
+"Dubai Technologies",2026-06-05,20288
+"DUBAI TECH",2026-06-05,171
+"Sololearn",2026-06-05,171964
+"DataCamp",2026-06-05,566076
+"DeepLearning.AI",2026-06-05,1353259
+"Age Of Geeks",2026-06-05,148113
+"Machine Learning",2026-06-05,221278
+"Posit PBC",2026-06-05,115157
+"Machine Learning Mastery",2026-06-05,286212
+"Kaggle",2026-06-05,513599
+"Towards Data Science",2026-06-05,646369
+"SuperDataScience",2026-06-05,94255
+"Data Visualization Society",2026-06-05,154138
+"Python Software Foundation",2026-06-05,155678
+"JuliaHub",2026-06-05,35145
+"JuliaCon 2026",2026-06-05,5588
+"The Julia Language",2026-06-05,16587
+"Python Ireland",2026-06-05,4883
+"publicjobs",2026-06-05,219458
 BCG Digital Ventures,2022-10-22,149896
 BCG Digital Ventures,2022-10-28,150222
 BCG Digital Ventures,2022-11-03,150477
