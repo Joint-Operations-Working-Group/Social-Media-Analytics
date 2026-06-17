@@ -1,370 +1,1011 @@
-"Company","Date","Followers"
-"ditact - IT summer studies",2026-05-31,32
-"Tax Debt Help Now",2026-05-31,2647
-"Deloitte",2026-05-31,21889803
-"Company.info Nederland",2026-05-31,6261
-"AWE",2026-05-31,28353
-"Legal Writing Institute",2026-05-31,595
-"Center for Integrated Earth System Information (CIESIN)",2026-05-31,579
-"Huawei",2026-05-31,5434483
-"eGovernment Podcast",2026-05-31,2949
-"SREday",2026-05-31,6541
-"cognee",2026-05-31,3896
-"National Open Research Forum",2026-05-31,1552
-"Story Changes Culture",2026-05-31,711
-"Idira by Palo Alto Networks",2026-05-31,323534
-"TIOBE Software",2026-05-31,2410
-"U.S. Army Transformation and Training Command",2026-05-31,86896
-"IBM Bob",2026-05-31,2232
-"The Capitol Forum",2026-05-31,3853
-"US Research Software Engineer Association",2026-05-31,1224
-"Slack",2026-05-31,1766273
-"Databricks for Startups",2026-05-31,1752
-"7ASecurity",2026-05-31,3516
-"Association of Registered Graphic Designers (RGD)",2026-05-31,26795
-"Government Technology",2026-05-31,22023
-"Beacon Bank",2026-05-31,22408
-"The Data Science Institute at Columbia University",2026-05-31,20038
-"Columbia Business School Executive Education & Wall Street Prep Certificate Programs",2026-05-31,408
-"Porsche Cars North America",2026-05-31,384778
-"NYS Office of Information Technology Services",2026-05-31,21132
-"Lenovo",2026-05-31,1319038
-"Write the Docs",2026-05-31,8753
-"DjangoCon US",2026-05-31,881
-"Pete & Gerry's Organics LLC",2026-05-31,45386
-"New York State Department of State",2026-05-31,13390
-"Astropy",2026-05-31,140
-"Columbia Public Health - Department of Health Policy & Management",2026-05-31,959
-"Columbia University Mailman School of Public Health",2026-05-31,35474
-"Visualising Climate",2026-05-31,3212
-"American Museum of Natural History",2026-05-31,84085
-"Children's Museum of Manhattan",2026-05-31,6934
-"CONFERS - The Consortium for Execution of Rendezvous and Servicing Operations",2026-05-31,2384
-"Museum of the City of New York",2026-05-31,26570
-"The Frick Collection",2026-05-31,36956
-"Museum of the Moving Image",2026-05-31,8302
-"IxDF Philadelphia",2026-05-31,72
-"FreeYa Mind Campus",2026-05-31,1188
-"Brooklyn Book Bodega",2026-05-31,1621
-"Web3 Enabler",2026-05-31,1124
-"The Morgan Library & Museum",2026-05-31,11699
-"Intrepid Museum",2026-05-31,6480
-"Data Vandals",2026-05-31,719
-"National Parks Conservation Association",2026-05-31,213424
-"Argonne National Laboratory",2026-05-31,134004
-"American Physical Society",2026-05-31,87162
-"Oak Ridge National Laboratory",2026-05-31,164950
-"Pew Research Center",2026-05-31,189055
-"MacArthur Foundation",2026-05-31,245581
-"AAAS",2026-05-31,55661
-"The National Academies of Sciences Engineering and Medicine",2026-05-31,40847
-"Ford Foundation",2026-05-31,333310
-"National Science Teaching Association",2026-05-31,15841
-"Smithsonian Institution",2026-05-31,307605
-"National Science Foundation (NSF)",2026-05-31,349875
-"Unitary Foundation",2026-05-31,6347
-"Association of German Municipal Statisticians",2026-05-31,287
-"CareerWise",2026-05-31,8710
-"Berlin Buzzwords",2026-05-31,2254
-"Computer Science at The University of Alabama",2026-05-31,880
-"PyCon UK",2026-05-31,971
-"Asper US",2026-05-31,745
-"NY Hardware Meetup",2026-05-31,2064
-"Open Source United",2026-05-31,1166
-"Trial Lawyers of Mass Torts",2026-05-31,924
-"QUEST Center for Responsible Research",2026-05-31,2117
-"Polish Bioinformatics Society",2026-05-31,673
-"Analyst1",2026-05-31,7805
-"The FAIR Elephant",2026-05-31,426
-"The New York Community Trust",2026-05-31,10415
-"University of Warwick",2026-05-31,305670
-"Rust Foundation",2026-05-31,22347
-"Positron",2026-05-31,1239
-"MiresBall",2026-05-31,3250
-"FREQUENCY",2026-05-31,629
-"Maha Rose Center for Healing",2026-05-31,86
-"Alpha-Omega",2026-05-31,778
-"AMD Embedded",2026-05-31,6129
-"MongoDB User Group Chennai",2026-05-31,881
-"American Journal of Medicine and Health Studies",2026-05-31,161
-"Pacific Northwest National Laboratory",2026-05-31,119231
-"RISC-V International",2026-05-31,71693
-"Center for Quantum Networks",2026-05-31,3729
-"NYMTC",2026-05-31,1953
-"Apple Developer",2026-05-31,28071
-"New York State Department of Civil Service",2026-05-31,18605
-"Centre for Research in Digital Education University of Edinburgh",2026-05-31,3462
-"Laboratory for Atmospheric and Space Physics",2026-05-31,7546
-"using std::cpp",2026-05-31,1946
-"C++Now",2026-05-31,12464
-"UBS",2026-05-31,2174298
-"National Bank of Egypt (NBE)",2026-05-31,947552
-"National Association of Tax Professionals",2026-05-31,12874
-"California Board of Accountancy",2026-05-31,10893
-"IRS Criminal Investigation",2026-05-31,40775
-"KPMG US Tax",2026-05-31,10693
-"PwC US Tax",2026-05-31,54641
-"The Accounting Podcast",2026-05-31,25408
-"Intuit Accountants",2026-05-31,64001
-"Mechanize Inc.",2026-05-31,21888
-"API - American Petroleum Institute",2026-05-31,132087
-"ConocoPhillips",2026-05-31,1196134
-"Marathon Petroleum Corporation",2026-05-31,379840
-"Murphy Oil Corporation",2026-05-31,192252
-"Phillips 66",2026-05-31,315268
-"Boston Scientific Vascular Therapies",2026-05-31,64942
-"Honeywell Aerospace Technologies",2026-05-31,659989
-"bpx energy",2026-05-31,15171
-"ExxonMobil Permian",2026-05-31,37472
-"GE HealthCare",2026-05-31,2886762
-"Abbott | Cardiovascular",2026-05-31,154022
-"Medtronic Surgical Innovations",2026-05-31,81951
-"Medtronic Cardiac and Vascular",2026-05-31,279521
-"ExxonMobil Pipeline",2026-05-31,49352
-"Johnson & Johnson Innovative Medicine",2026-05-31,1561908
-"LinkedIn Guide to Creating",2026-05-31,6845896
-"CERN",2026-05-31,584886
-"bp",2026-05-31,4227799
-"Shell",2026-05-31,7713901
-"Chevron",2026-05-31,5206008
-"HDFC Bank",2026-05-31,3691842
-"General Motors",2026-05-31,3592505
-"adidas",2026-05-31,4744135
-"FedEx",2026-05-31,2386453
-"Samsung Electronics",2026-05-31,5043359
-"Siemens Healthineers",2026-05-31,1780812
-"EY-Parthenon",2026-05-31,503385
-"Johnson & Johnson MedTech",2026-05-31,1215175
-"Target",2026-05-31,2471021
-"Teachers in Space Inc.",2026-05-31,1126
-"Agentic AI Foundation",2026-05-31,5726
-"The Data Inspiration Group",2026-05-31,4612
-"NYC Civic Engagement Commission",2026-05-31,2162
-"Salesforce News & Insights",2026-05-31,124690
-"ASA Survey Research Methods Section",2026-05-31,297
-"Astro",2026-05-31,1491
-"OSPOlogy Day Amsterdam",2026-05-31,108
-"Docling",2026-05-31,6762
-"Offshore Technology Conference (OTC)",2026-05-31,47852
-"RSE Argentina",2026-05-31,249
-"The Use of R in Official Statistics - uRos",2026-05-31,1077
-"Physical Sciences Data Infrastructure (PSDI)",2026-05-31,1167
-"Red Rock Data Science",2026-05-31,65
-"Women In NYC Government",2026-05-31,588
-"The Quantum Insider",2026-05-31,62184
-"NYU Center for Data Science",2026-05-31,15919
-"Bridge to Enter Advanced Mathematics (BEAM)",2026-05-31,2163
-"adaption",2026-05-31,8383
-"ASRC Federal",2026-05-31,49527
-"GitHub Security Lab",2026-05-31,6119
-"Child Mind Institute",2026-05-31,66509
-"Blue Marble Space",2026-05-31,8755
-"Datastrato",2026-05-31,1488
-"Tiger Data (creators of TimescaleDB)",2026-05-31,22484
-"Open Education Conference",2026-05-31,856
-"Society of Research Software Engineering",2026-05-31,1329
-"Database Tycoon LLC",2026-05-31,862
-"Penn State Research",2026-05-31,19414
-"FOSS United Lucknow",2026-05-31,453
-"PyData Kuwait",2026-05-31,126
-"PyData Munich",2026-05-31,149
-"PyData Cambridge",2026-05-31,168
-"PyData Sri Lanka",2026-05-31,194
-"PyData Johannesburg Community",2026-05-31,209
-"PyData Calgary",2026-05-31,253
-"Quant in Business Society",2026-05-31,67
-"UF Public Relations Department",2026-05-31,2028
-"UChicago Data Science Institute",2026-05-31,8459
-"Industry Events",2026-05-31,5358
-"FAO",2026-05-31,1882584
-"Measure of America",2026-05-31,544
-"African Data Science Conference",2026-05-31,4280
-"Vercel",2026-05-31,234007
-"Seattle Startup Summit",2026-05-31,373
-"Society for Brain Mapping & Therapeutics (SBMT)",2026-05-31,3094
-"Points of Light",2026-05-31,22023
-"Uniwersytet SWPS",2026-05-31,89868
-"Better Business Bureau Serving Metropolitan New York",2026-05-31,1113
-"Max Planck Information & Technology (MaxIT)",2026-05-31,2541
-"HER+Data MCR",2026-05-31,1734
-"Prime Analytics",2026-05-31,5737
-"napari",2026-05-31,752
-"SVA MPS Data Visualization and Communication",2026-05-31,551
-"Blackwing Space",2026-05-31,2612
-"NYU Center for Urban Science + Progress",2026-05-31,6301
-"ULI New York",2026-05-31,4545
-"DataKind",2026-05-31,33030
-"Superbloom",2026-05-31,1492
-"Helpful Places",2026-05-31,978
-"Gotham Data Clinic",2026-05-31,40
-"Thales Cybersecurity Products",2026-05-31,55096
-"Cloud-Native Geospatial Forum (CNG)",2026-05-31,9171
-"Geospatial Risk",2026-05-31,871
-"R-Ladies Melbourne Inc",2026-05-31,369
-"Siegel Family Endowment",2026-05-31,9158
-"Information is Beautiful",2026-05-31,15407
-"Trifork UK",2026-05-31,4396
-"Bayer",2026-05-31,6983018
-"Johnson & Johnson",2026-05-31,10231450
-"Novartis",2026-05-31,4674758
-"AstraZeneca",2026-05-31,3861136
-"Novo Nordisk",2026-05-31,2833492
-"Amgen",2026-05-31,1744864
-"AbbVie",2026-05-31,2026546
-"Sony Pictures Entertainment",2026-05-31,1843366
-"Thermo Fisher Scientific",2026-05-31,2314905
-"Open Data Manchester CIC",2026-05-31,1065
-"Black Duck",2026-05-31,74712
-"M.S. Program in Data Analysis and Visualization CUNY Graduate Center",2026-05-31,92
-"Indigenous Data Alliance",2026-05-31,1756
-"NFDI4Health",2026-05-31,1372
-"Systematica",2026-05-31,13686
-"Polish Academy of Sciences",2026-05-31,39184
-"Housing Works",2026-05-31,17869
-"The Bernstein Center for Leadership and Ethics",2026-05-31,1887
-"Warner Bros. Discovery",2026-05-31,1279890
-"Siemens Energy",2026-05-31,3027765
-"Airbnb",2026-05-31,3305396
-"LF Decentralized Trust",2026-05-31,53938
-"Atakama",2026-05-31,4606
-"OLS (Open Life Science Limited)",2026-05-31,2236
-"Claude",2026-05-31,2269930
-"ClickUp",2026-05-31,262212
-"Fair Chance Futures",2026-05-31,1837
-"Columbia AI Club",2026-05-31,1095
-"AI in Business Initiative at Columbia Business School",2026-05-31,1440
-"Tamer Consumer",2026-05-31,13094
-"Tamer Group",2026-05-31,188482
-"Soros Economic Development Fund",2026-05-31,4280
-"Lamont-Doherty Earth Observatory",2026-05-31,8216
-"Tamer Healthcare",2026-05-31,70530
-"The Hub at Columbia Business School",2026-05-31,2077
-"Columbia Center on Sustainable Investment",2026-05-31,15232
-"Tamer Institute for Social Enterprise and Climate Change at Columbia University",2026-05-31,5972
-"Open Source Endowment",2026-05-31,1021
-"PyData St. Louis",2026-05-31,49
-"Snowflake Public Sector",2026-05-31,9476
-"Pydantic",2026-05-31,32083
-"GW Open Source Program Office",2026-05-31,384
-"Foresight Institute",2026-05-31,11260
-"Maralex Electric Corp.",2026-05-31,16
-"RSE Asia Association",2026-05-31,274
-"Teradata",2026-05-31,549393
-"New York State Homes & Community Renewal",2026-05-31,9005
-"Labcorp",2026-05-31,795674
-"iTechInfoPro",2026-05-31,453
-"BusinessInfoPro",2026-05-31,521
-"Conda Community",2026-05-31,257
-"MongoDB User Group Cape Town",2026-05-31,139
-"404 Media",2026-05-31,7780
-"KODAQS",2026-05-31,505
-"Processing Foundation",2026-05-31,2445
-"The Nonprofit Show",2026-05-31,3454
-"Strong Floor No Ceiling",2026-05-31,153
-"prefix.dev",2026-05-31,2480
-"HTTP",2026-05-31,766
-"COOP",2026-05-31,33744
-"BSides Belfast",2026-05-31,1929
-"AI for Nonprofits Sprint",2026-05-31,1091
-"NYC Public Schools Career & Technical Education (CTE)",2026-05-31,1609
-"OpenAI for Government",2026-05-31,19923
-"OpenAI Global Affairs",2026-05-31,28049
-"OpenAI for Startups",2026-05-31,102502
-"OpenAI Developers",2026-05-31,107531
-"DISCO Network",2026-05-31,255
-"Sotheby's Institute of Art",2026-05-31,112374
-"All Things Fashion Tech",2026-05-31,2648
-"Vogue College of Fashion",2026-05-31,18077
-"The Business of Fashion",2026-05-31,1017512
-"Prada Group",2026-05-31,1885672
-"Vogue Business",2026-05-31,890921
-"BYU Career Services",2026-05-31,773
-"AMD Developer",2026-05-31,21384
-"Academy for the Mathematical Sciences",2026-05-31,3823
-"TraceLine Solutions",2026-05-31,488
-"Stripe",2026-05-31,1443580
-"U.S. Department of Health and Human Services (HHS)",2026-05-31,1203208
-"The Reality Crafters",2026-05-31,36
-"Obviously NYC",2026-05-31,541
-"DraftKings Inc.",2026-05-31,168283
-"DevOps Not Dead",2026-05-31,433
-"HRinfoPro",2026-05-31,494
-"PyData Wolverhampton",2026-05-31,126
-"Buffer",2026-05-31,174440
-"Decoded Futures at Tech:NYC",2026-05-31,718
-"Apache Spark",2026-05-31,27353
-"American Statistical Association - ASA",2026-05-31,24531
-"POSETTE: An Event for Postgres",2026-05-31,879
-"Payscale",2026-05-31,97641
-"PyData Hull",2026-05-31,232
-"FloodNet",2026-05-31,717
-"Ministry of Digital Development and Information",2026-05-31,24479
-"RE//verse",2026-05-31,2828
-"Swiss Reproducibility Network",2026-05-31,359
-"Align Impact",2026-05-31,8119
-"The Carpentries",2026-05-31,4067
-"LeadSkope",2026-05-31,465
-"AI Safety Poland",2026-05-31,586
-"PhoenixAI (formerly CelerData)",2026-05-31,23101
-"PEARC Conference Series",2026-05-31,845
-"GitHub LATAM",2026-05-31,59233
-"Punch Tape",2026-05-31,324
-"Kyiv School of Economics",2026-05-31,14153
-"Commons Hub Brussels",2026-05-31,1216
-"NIST Careers",2026-05-31,2296
-"National Association of Social Workers",2026-05-31,174246
-"Matplotlib",2026-05-31,1985
-"VCS IT Solutions - Managed IT & Cybersecurity Services | NJ & NY",2026-05-31,197
-"Brainfuse",2026-05-31,7365
-"Tower.dev",2026-05-31,3256
-"Kayla Williams Consulting",2026-05-31,288
-"SustainOSS",2026-05-31,730
-"Overview Energy",2026-05-31,4284
-"Langflow",2026-05-31,16458
-"UC Irvine's GPS-STEM",2026-05-31,102
-"CivicXSyllabus",2026-05-31,181
-"Good care children ministry",2026-05-31,66
-"NYC Hospitality Alliance",2026-05-31,5191
-"Built In NYC",2026-05-31,12828
-"NYC Ferry",2026-05-31,6069
-"NYC Office of Chief Medical Examiner",2026-05-31,6661
-"Fund for Public Health in NYC",2026-05-31,12966
-"NYC Health + Hospitals/Correctional Health Services",2026-05-31,9501
-"NYC Department of Cultural Affairs",2026-05-31,7854
-"NYC Board of Education",2026-05-31,6099
-"NYC Fintech Women",2026-05-31,18222
-"NYC Alliance",2026-05-31,48769
-"Public Interest Tech New York Regional Hub (PIT-NY)",2026-05-31,92
-"OpenAI for Business",2026-05-31,581395
-"NYABE - New York Association for Business Economics",2026-05-31,685
-"Renuity",2026-05-31,7088
-"Rendezvous Robotics",2026-05-31,3921
-"Flox",2026-05-31,4456
-"¿Que Lo Tech!?",2026-05-31,491
-"Polyguard",2026-05-31,1065
-"AI Cooperate",2026-05-31,191
-"Pluralsight",2026-05-31,234391
-"Weaviate Podcast",2026-05-31,245
-"Ada Developers Academy",2026-05-31,9931
-"Nerdearla",2026-05-31,37841
-"PyData Lagos",2026-05-31,153
-"Hightouch",2026-05-31,50319
-"PyData Norwich",2026-05-31,27
-"CUNY PIT Lab",2026-05-31,630
-"Algonect",2026-05-31,533
-"Bauplan",2026-05-31,3220
-"PyCon MY",2026-05-31,629
-"World Bank Development Economics",2026-05-31,81030
-"Cubit Tech Support",2026-05-31,87
-":probabl.",2026-05-31,14243
-"Munich Datageeks e.V.",2026-05-31,3859
-"PyLadies Hong Kong",2026-05-31,62
-"National Association for Business Economics (NABE)",2026-05-31,11414
-"AI By the Bay Conference",2026-05-31,2928
-"Center for Dairy Research",2026-05-31,11800
-"Vantor",2026-05-31,112251
-"rainbowR",2026-05-31,660
-"The New York Academy of Sciences",2026-05-31,29729
+Company,Date,Followers
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-05-06,11927
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-05-20,11980
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-05-25,11986
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-05-27,11987
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-06-01,12007
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-06-07,12034
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-06-08,12036
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-06-09,12035
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-06-10,12038
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-06-22,12087
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-07-01,12117
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-07-04,12117
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-07-08,12150
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-07-15,12178
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-07-27,12203
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-08-11,12231
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-08-15,12249
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-08-18,12251
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-08-21,12259
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-08-26,12279
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-08-30,12279
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-08-30,12276
+Canadian Institute of Actuaries l Institut canadien des actuaires,2025-10-26,12469
+Canadian Institute of Actuaries l Institut canadien des actuaires,2026-04-15,13016
+Canadian Institute of Actuaries l Institut canadien des actuaires,2026-06-17,13219
+Cancer Research Institute (CRI),2023-01-25,61620
+Cancer Research Institute (CRI),2023-01-29,61875
+Cancer Research UK (CRUK),2023-01-25,164548
+Cancer Research UK (CRUK),2023-01-29,164910
+Cannlytics,2023-01-21,225
+Cannlytics,2023-02-25,235
+Cannlytics,2023-03-13,235
+Cannlytics,2023-03-29,236
+Cannlytics,2023-04-10,237
+Cannlytics,2023-04-23,237
+Cannlytics,2023-06-05,244
+Cannlytics,2023-06-11,246
+Cannlytics,2023-06-23,248
+Cannlytics,2023-07-06,250
+Cannlytics,2023-07-23,256
+Cannlytics,2023-08-05,260
+Cannlytics,2023-08-29,275
+Canon Production Printing,2023-02-10,45337
+Canonical,2025-01-09,488951
+Canonical,2025-01-19,496103
+Canonical,2025-01-27,500957
+Canonical,2025-03-15,534731
+Canonical,2025-03-16,535234
+Canonical,2025-04-28,569642
+Canonical,2025-05-27,590912
+Canonical,2025-06-07,598174
+Canonical,2025-07-27,624545
+Canonical,2025-08-18,636567
+Canonical,2025-08-30,645825
+Cantor Fitzgerald,2023-01-29,80171
+Canva,2023-01-21,592446
+Canva,2023-01-25,596562
+Canva,2023-02-10,612518
+Canva,2023-02-25,629054
+Canva,2023-03-13,646684
+Canva,2023-03-29,669754
+Canva,2023-04-10,688031
+Canva,2023-04-23,708369
+Canva,2023-06-05,769571
+Canva,2023-06-11,778571
+Canva,2023-06-23,797475
+Canva,2023-07-06,817818
+Canva,2023-07-23,842959
+Canva,2023-08-05,865931
+Canva,2023-08-29,898871
+Canva,2023-10-18,970242
+Canva,2023-12-17,1012414
+Canva,2023-12-18,1013409
+Canva,2025-01-19,1723553
+Canva,2025-03-16,1828307
+Canva,2025-04-28,1920240
+Canva,2025-05-27,1979399
+Canva,2025-08-30,2173681
+Canvas Intelligence,2020-10-20,7663
+Canvas Intelligence,2020-10-21,7680
+Canvas Intelligence,2020-10-23,7693
+Canvas Intelligence,2020-10-25,7739
+Canvas Intelligence,2020-10-25,7720
+Canvas Intelligence,2020-10-28,7824
+Canvas Intelligence,2020-10-30,7839
+Canvas Intelligence,2020-11-03,7837
+Canvas Intelligence,2020-11-06,7836
+Canvas Intelligence,2020-11-10,7833
+Canvas Intelligence,2020-11-14,7831
+Canvas Intelligence,2020-11-18,7831
+Canvas Intelligence,2020-11-23,7830
+Canvas Intelligence,2020-11-28,7827
+Canvas Intelligence,2020-12-03,7825
+Canvas Intelligence,2020-12-05,7824
+Canvas Intelligence,2020-12-12,7922
+Canvas Intelligence,2020-12-15,7944
+Canvas Intelligence,2020-12-20,7959
+Canvas Intelligence,2020-12-25,7977
+Canvas Intelligence,2020-12-29,8015
+Canvas Intelligence,2021-01-03,8052
+Canvas Intelligence,2021-01-06,8093
+Canvas Intelligence,2021-01-11,8116
+Canvas Intelligence,2021-01-15,8145
+Canvas Intelligence,2021-01-19,8181
+Canvas Intelligence,2021-01-25,8235
+Canvas Intelligence,2021-01-30,8289
+Canvas Intelligence,2021-01-31,8291
+Canvas Intelligence,2021-02-03,8310
+Canvas Intelligence,2021-02-07,8332
+Canvas Intelligence,2021-02-12,8370
+Canvas Intelligence,2021-02-17,8399
+Canvas Intelligence,2021-02-21,8419
+Canvas Intelligence,2021-02-25,8435
+Canvas Intelligence,2021-03-01,8453
+Canvas Intelligence,2021-03-06,8484
+Canvas Intelligence,2021-03-10,8513
+Canvas Intelligence,2021-03-16,8526
+Canvas Intelligence,2021-03-20,8543
+Canvas Intelligence,2021-03-24,8562
+Canvas Intelligence,2021-03-30,8596
+Canvas Intelligence,2021-04-06,8617
+Canvas Intelligence,2021-04-10,8699
+Canvas Intelligence,2021-04-15,8768
+Canvas Intelligence,2021-04-20,8844
+Canvas Intelligence,2021-04-24,8872
+Canvas Intelligence,2021-04-28,8896
+Canvas Intelligence,2021-05-03,8938
+Canvas Intelligence,2021-05-07,8974
+Canvas Intelligence,2021-05-10,8984
+Canvas Intelligence,2021-05-14,9007
+Canvas Intelligence,2021-05-21,9021
+Canvas Intelligence,2021-05-26,9050
+Canvas Intelligence,2021-06-02,9083
+Canvas Intelligence,2021-06-09,9336
+Canvas Intelligence,2021-06-16,9448
+Canvas Intelligence,2021-06-21,9512
+Canvas Intelligence,2021-06-29,9610
+Canvas Intelligence,2021-07-02,9646
+Canvas Intelligence,2021-07-04,9656
+Canvas Intelligence,2021-07-09,9721
+Canvas Intelligence,2021-07-14,9760
+Canvas Intelligence,2021-07-18,9793
+Canvas Intelligence,2021-07-22,9837
+Canvas Intelligence,2021-08-14,10068
+Canvas Intelligence,2021-08-26,10191
+Canvas Intelligence,2021-09-02,10255
+Canvas Intelligence,2021-09-16,10384
+Canvas Intelligence,2021-10-17,10641
+Canvas Intelligence,2021-10-29,10782
+Canvas Intelligence,2021-11-06,10853
+Canvas Intelligence,2021-11-20,10963
+Canvas Intelligence,2021-12-07,11128
+Canvas Intelligence,2021-12-14,11161
+Canvas Intelligence,2021-12-20,11180
+Canvas Intelligence,2021-12-26,11199
+Canvas Intelligence,2021-12-30,11209
+Canvas Intelligence,2021-12-31,11209
+Canvas Intelligence,2022-01-03,11212
+Canvas Intelligence,2022-01-04,11222
+Canvas Intelligence,2022-01-06,11228
+Canvas Intelligence,2022-01-07,11238
+Canvas Intelligence,2022-01-10,11257
+Canvas Intelligence,2022-01-14,11281
+Canvas Intelligence,2022-01-18,11291
+Canvas Intelligence,2022-01-27,11308
+Canvas Intelligence,2022-02-01,11316
+Canvas Intelligence,2022-02-07,11318
+Canvas Intelligence,2022-02-10,11329
+Canvas Intelligence,2022-02-12,11324
+Canvas Intelligence,2022-02-16,11328
+Canvas Intelligence,2022-02-20,11328
+Canvas Intelligence,2022-02-23,11332
+Canvas Intelligence,2022-02-26,11341
+Canvas Intelligence,2022-03-03,11346
+Canvas Intelligence,2022-03-15,11358
+Canvas Intelligence,2022-03-20,11358
+Canvas Intelligence,2022-03-29,11366
+Canvas Intelligence,2022-03-31,11369
+Canvas Intelligence,2022-04-09,11362
+Canvas Intelligence,2022-04-11,11360
+Canvas Intelligence,2022-04-13,11358
+Canvas Intelligence,2022-04-19,11387
+Canvas Intelligence,2022-05-05,11341
+Canvas Intelligence,2022-05-12,11448
+Canvas Intelligence,2022-05-23,11470
+Canvas Intelligence,2022-05-25,11476
+Canvas Intelligence,2022-05-30,11487
+Canvas Intelligence,2022-06-01,11490
+Canvas Intelligence,2022-06-03,11492
+Canvas Intelligence,2022-06-07,11489
+Canvas Intelligence,2022-06-08,11489
+Canvas Intelligence,2022-06-11,11494
+Canvas Intelligence,2022-06-13,11499
+Canvas Intelligence,2022-06-15,11512
+Canvas Intelligence,2022-06-16,11514
+Canvas Intelligence,2022-06-20,11520
+Canvas Intelligence,2022-06-23,11543
+Canvas Intelligence,2022-06-24,11547
+Canvas Intelligence,2022-06-26,11549
+Canvas Intelligence,2022-06-30,11557
+Canvas Intelligence,2022-07-01,11564
+Canvas Intelligence,2022-07-02,11565
+Canvas Intelligence,2022-07-04,11569
+Canvas Intelligence,2022-07-05,11571
+Canvas Intelligence,2022-07-09,11579
+Canvas Intelligence,2022-07-12,11583
+Canvas Intelligence,2022-07-18,11594
+Canvas Intelligence,2022-07-21,11603
+Canvas Intelligence,2022-07-23,11610
+Canvas Intelligence,2022-07-25,11616
+Canvas Intelligence,2022-08-01,11627
+Canvas Intelligence,2022-08-08,11637
+Canvas Intelligence,2022-08-16,11658
+Canvas Intelligence,2022-08-20,11671
+Canvas Intelligence,2022-08-25,11686
+Canvas Intelligence,2022-08-28,11693
+Canvas Intelligence,2022-09-01,11710
+Canvas Intelligence,2022-09-07,11719
+Canvas Intelligence,2022-09-10,11721
+Canvas Intelligence,2022-09-16,11732
+Canvas Intelligence,2022-09-22,11749
+Canvas Intelligence,2022-09-29,11755
+Canvas Intelligence,2022-10-03,11761
+Canvas Intelligence,2022-10-09,11777
+Canvas Intelligence,2022-10-12,11783
+Canvas Intelligence,2022-10-16,11783
+Canvas Intelligence,2022-10-22,11793
+Canvas Intelligence,2022-10-28,11803
+Canvas Intelligence,2022-11-03,11812
+Canvas Intelligence,2022-11-06,11812
+Canvas Intelligence,2022-11-14,11827
+Canvas Intelligence,2022-11-20,11845
+Canvas Intelligence,2022-11-24,11859
+Canvas Intelligence,2022-12-01,11872
+Canvas Intelligence,2022-12-08,11887
+Canvas Intelligence,2022-12-14,11910
+Canvas Intelligence,2022-12-27,11930
+Canvas Intelligence,2023-01-01,11930
+Canvas Intelligence,2023-01-05,11931
+Canvas Intelligence,2023-01-09,11932
+Canvas Intelligence,2023-01-22,12042
+Canvas Intelligence,2023-01-28,12075
+Canvas Intelligence,2023-02-04,12101
+Canvas Intelligence,2023-02-10,12127
+Canvas Intelligence,2023-02-13,12155
+Canvas Intelligence,2023-02-24,12218
+Canvas Intelligence,2023-03-10,12297
+Canvas Intelligence,2023-03-14,12323
+Canvas Intelligence,2023-03-18,12345
+Canvas Intelligence,2023-03-21,12355
+Canvas Intelligence,2023-03-25,12384
+Canvas Intelligence,2023-04-01,12424
+Canvas Intelligence,2023-04-10,12429
+Canvas Intelligence,2023-04-13,12443
+Canvas Intelligence,2023-04-21,12449
+Canvas Intelligence,2023-04-29,12480
+Canvas Intelligence,2023-05-12,12534
+Canvas Intelligence,2023-05-19,12551
+Canvas Intelligence,2023-05-29,12556
+Canvas Intelligence,2023-06-05,12568
+Canvas Intelligence,2023-06-11,12586
+Canvas Intelligence,2023-06-14,12601
+Canvas Intelligence,2023-06-17,12606
+Canvas Intelligence,2023-06-23,12640
+Canvas Intelligence,2023-06-27,12651
+Canvas Intelligence,2023-07-06,12670
+Canvas Intelligence,2023-07-23,12734
+Canvas Intelligence,2023-08-02,12864
+Canvas Intelligence,2023-08-08,12958
+Canvas Intelligence,2023-08-10,13000
+Canvas Intelligence,2023-08-29,13247
+Canvas Intelligence,2023-09-15,13353
+Canvas Intelligence,2023-10-18,13517
+Canvas Intelligence,2023-12-16,13681
+Canvas Intelligence,2023-12-18,13695
+Canvas Intelligence,2024-01-22,13982
+Canvas Intelligence,2024-04-09,14246
+Canvas Intelligence,2024-04-17,14256
+Canvas Intelligence,2024-04-19,14253
+Canvas Intelligence,2024-04-28,14258
+Canvas Intelligence,2024-05-03,14264
+Canvas Intelligence,2024-05-19,14269
+Canvas Intelligence,2024-06-08,14242
+Canvas Intelligence,2024-06-24,14255
+Canvas Intelligence,2024-06-28,14250
+Canvas Intelligence,2024-07-11,14258
+Canvas Intelligence,2024-07-17,14260
+Canvas Intelligence,2024-07-20,14281
+Canvas Intelligence,2024-07-23,14308
+Canvas Intelligence,2024-08-02,14362
+Canvas Intelligence,2024-08-06,14375
+Canvas Intelligence,2024-08-09,14403
+Canvas Intelligence,2024-08-20,14456
+Canvas Intelligence,2024-09-02,14527
+Canvas Intelligence,2024-09-07,14562
+Canvas Intelligence,2024-09-10,14574
+Canvas Intelligence,2024-09-16,14611
+Canvas Intelligence,2024-09-24,14659
+Canvas Intelligence,2024-10-02,14707
+Canvas Intelligence,2024-11-15,14909
+Canvas Intelligence,2024-11-24,14938
+Canvas Intelligence,2024-12-07,14983
+Canvas Intelligence,2025-01-08,15072
+Canvas Intelligence,2025-01-18,15111
+Canvas Intelligence,2025-01-27,15110
+Canvas Intelligence,2025-02-04,15108
+Canvas Intelligence,2025-02-20,15097
+Canvas Intelligence,2025-02-28,15102
+Canvas Intelligence,2025-03-03,15101
+Canvas Intelligence,2025-03-16,15098
+Canvas Intelligence,2025-04-13,15089
+Canvas Intelligence,2025-04-22,15085
+Canvas Intelligence,2025-04-27,15081
+Canvas Intelligence,2025-04-28,15080
+Canvas Intelligence,2025-05-06,15080
+Canvas Intelligence,2025-05-20,15065
+Canvas Intelligence,2025-05-25,15062
+Canvas Intelligence,2025-05-27,15059
+Canvas Intelligence,2025-06-01,15057
+Canvas Intelligence,2025-06-07,15057
+Canvas Intelligence,2025-06-08,15052
+Canvas Intelligence,2025-06-09,15050
+Canvas Intelligence,2025-06-10,15053
+Canvas Intelligence,2025-06-22,15048
+Canvas Intelligence,2025-07-01,15047
+Canvas Intelligence,2025-07-04,15047
+Canvas Intelligence,2025-07-08,15045
+Canvas Intelligence,2025-07-15,15038
+Canvas Intelligence,2025-07-27,15028
+Canvas Intelligence,2025-08-11,15022
+Canvas Intelligence,2025-08-15,15024
+Canvas Intelligence,2025-08-18,15027
+Canvas Intelligence,2025-08-21,15099
+Canvas Intelligence,2025-08-26,15124
+Canvas Intelligence,2025-08-30,15124
+Canvas Intelligence,2025-09-17,15273
+Canvas Intelligence,2025-10-26,15453
+Canvas Intelligence,2026-02-04,15741
+Canvas Intelligence,2026-04-15,15850
+Canvas Intelligence,2026-04-29,15877
+Canvas Intelligence,2026-06-17,15958
+Capella Space,2023-01-21,31568
+Capella Space,2023-02-25,32585
+Capella Space,2023-03-13,33100
+Capella Space,2023-03-29,33942
+Capella Space,2023-04-10,34284
+Capella Space,2023-04-23,34637
+Capella Space,2023-06-05,35500
+Capella Space,2023-06-11,35676
+Capella Space,2023-06-23,35933
+Capella Space,2023-07-06,36168
+Capella Space,2023-07-23,36492
+Capella Space,2023-08-05,36948
+Capella Space,2023-08-29,37588
+Capella Space,2023-10-18,38970
+Capella Space,2023-12-18,39395
+Capella Space,2025-03-16,50674
+Capella Space,2025-05-27,52819
+Capgemini,2023-01-21,5376791
+Capgemini,2023-02-10,5451371
+Capgemini,2023-02-25,5507098
+Capgemini,2023-03-13,5574710
+Capgemini,2023-03-29,5635613
+Capgemini,2023-04-10,5674571
+Capgemini,2023-04-23,5718685
+Capgemini,2023-06-05,5848776
+Capgemini,2023-06-11,5867975
+Capgemini,2023-06-23,5909689
+Capgemini,2023-07-06,5958907
+Capgemini,2023-07-23,6014786
+Capgemini,2023-08-05,6073711
+Capgemini,2023-08-29,6167714
+Capgemini,2023-10-18,6357976
+Capgemini,2023-12-14,6238588
+Capgemini,2023-12-17,6249709
+Capgemini,2023-12-18,6253088
+Capgemini,2024-05-04,6643555
+Capgemini,2024-05-28,6711261
+Capgemini,2024-06-28,6792759
+Capgemini,2024-08-06,6892333
+Capgemini,2024-09-02,6962700
+Capgemini,2024-09-16,7002934
+Capgemini,2024-09-27,7038098
+Capgemini,2025-01-09,7290954
+Capgemini,2025-01-19,7317115
+Capgemini,2025-01-27,7342048
+Capgemini,2025-03-15,7482569
+Capgemini,2025-03-16,7484195
+Capgemini,2025-04-28,7606456
+Capgemini,2025-05-27,7687229
+Capgemini,2025-06-07,7717232
+Capgemini,2025-07-27,7941493
+Capgemini,2025-08-30,8103494
+Capital One,2023-01-21,610895
+Capital One,2023-02-10,614380
+Capital One,2023-02-25,617029
+Capital One,2023-03-13,619609
+Capital One,2023-03-29,622274
+Capital One,2023-04-10,624162
+Capital One,2023-04-23,626786
+Capital One,2023-06-05,635680
+Capital One,2023-06-11,637314
+Capital One,2023-06-23,640532
+Capital One,2023-07-06,644251
+Capital One,2023-07-23,649710
+Capital One,2023-08-05,654682
+Capital One,2023-08-29,662675
+Capital One,2023-10-18,687074
+Capital One,2023-12-14,654358
+Capital One,2023-12-17,655823
+Capital One,2023-12-18,656138
+Capital One,2024-04-08,694950
+Capital One,2024-05-04,706585
+Capital One,2024-05-28,715630
+Capital One,2024-06-24,726848
+Capital One,2024-06-28,728574
+Capital One,2024-07-20,737375
+Capital One,2024-08-06,745166
+Capital One,2024-09-02,759448
+Capital One,2024-09-16,766469
+Capital One,2024-09-27,773132
+Capital One,2025-01-09,811747
+Capital One,2025-01-19,818260
+Capital One,2025-01-27,822381
+Capital One,2025-03-15,848832
+Capital One,2025-03-16,849075
+Capital One,2025-04-28,875712
+Capital One,2025-05-27,894482
+Capital One,2025-06-07,903856
+Capital One,2025-07-27,942454
+Capital One,2025-08-30,969571
+Capital Quant Agency,2021-01-22,356
+Capital Quant Agency,2021-01-25,363
+Capital Quant Agency,2021-01-28,365
+Capital Quant Agency,2021-01-31,366
+Capital Quant Agency,2021-02-03,368
+Capital Quant Agency,2021-02-07,395
+Capital Quant Agency,2021-02-12,427
+Capital Quant Agency,2021-02-16,439
+Capital Quant Agency,2021-02-21,453
+Capital Quant Agency,2021-02-25,458
+Capital Quant Agency,2021-03-01,466
+Capital Quant Agency,2021-03-06,507
+Capital Quant Agency,2021-03-10,517
+Capital Quant Agency,2021-03-13,523
+Capital Quant Agency,2021-03-20,536
+Capital Quant Agency,2021-03-28,544
+Capital Quant Agency,2021-03-31,546
+Capital Quant Agency,2021-04-06,589
+Capital Quant Agency,2021-04-10,602
+Capital Quant Agency,2021-04-15,608
+Capital Quant Agency,2021-04-20,613
+Capital Quant Agency,2021-04-24,620
+Capital Quant Agency,2021-04-28,627
+Capital Quant Agency,2021-05-07,675
+Capital Quant Agency,2021-05-10,684
+Capital Quant Agency,2021-05-14,690
+Capital Quant Agency,2021-05-21,698
+Capital Quant Agency,2021-05-26,704
+Capital Quant Agency,2021-05-31,707
+Capital Quant Agency,2021-06-06,726
+Capital Quant Agency,2021-06-09,729
+Capital Quant Agency,2021-06-16,752
+Capital Quant Agency,2021-06-21,757
+Capital Quant Agency,2021-06-29,767
+Capital Quant Agency,2021-07-04,775
+Capital Quant Agency,2021-07-09,786
+Capital Quant Agency,2021-07-14,791
+Capital Quant Agency,2021-07-22,797
+Capital Quant Agency,2021-08-14,847
+Capital Quant Agency,2021-08-26,868
+Capital Quant Agency,2021-09-02,875
+Capital Quant Agency,2021-09-09,897
+Capital Quant Agency,2021-09-16,915
+Capital Quant Agency,2021-10-17,963
+Capital Quant Agency,2021-10-29,974
+Capital Quant Agency,2021-11-20,1030
+Capital Quant Agency,2021-12-03,1076
+Capital Quant Agency,2021-12-20,1105
+Capital Quant Agency,2021-12-26,1122
+Capital Quant Agency,2021-12-31,1139
+Capital Quant Agency,2022-02-20,1249
+Capital Quant Agency,2022-02-23,1252
+Capital Quant Agency,2022-02-26,1258
+Capital Quant Agency,2022-03-15,1294
+Capital Quant Agency,2022-03-20,1299
+Capital Quant Agency,2022-03-29,1306
+Capital Quant Agency,2022-04-11,1335
+Capital Quant Agency,2022-05-01,1360
+Capital Quant Agency,2022-05-05,1258
+Capital Quant Agency,2022-05-22,1391
+Capital Quant Agency,2022-05-27,1398
+Capital Quant Agency,2022-06-07,1431
+Capital Quant Agency,2022-06-08,1431
+Capital Quant Agency,2022-06-11,1440
+Capital Quant Agency,2022-06-16,1445
+Capital Quant Agency,2022-06-23,1453
+Capital Quant Agency,2022-06-24,1473
+Capital Quant Agency,2022-06-30,1514
+Capital Quant Agency,2022-07-02,1517
+Capital Quant Agency,2022-07-05,1534
+Capital Quant Agency,2022-07-13,1543
+Capital Quant Agency,2022-07-18,1546
+Capital Quant Agency,2022-07-23,1551
+Capital Quant Agency,2022-07-25,1553
+Capital Quant Agency,2022-08-02,1560
+Capital Quant Agency,2022-08-16,1570
+Capital Quant Agency,2022-08-20,1573
+Capital Quant Agency,2022-08-25,1574
+Capital Quant Agency,2022-08-28,1575
+Capital Quant Agency,2022-09-07,1614
+Capital Quant Agency,2022-09-10,1618
+Capital Quant Agency,2022-09-16,1621
+Capital Quant Agency,2022-09-22,1629
+Capital Quant Agency,2022-09-29,1630
+Capital Quant Agency,2022-10-03,1629
+Capital Quant Agency,2022-10-09,1649
+Capital Quant Agency,2022-10-16,1654
+Capital Quant Agency,2022-10-22,1662
+Capital Quant Agency,2022-10-28,1666
+Capital Quant Agency,2022-11-03,1678
+Capital Quant Agency,2022-11-06,1678
+Capital Quant Agency,2022-11-14,1683
+Capital Quant Agency,2022-11-20,1691
+Capital Quant Agency,2022-11-24,1694
+Capital Quant Agency,2022-12-01,1695
+Capital Quant Agency,2022-12-08,1698
+Capital Quant Agency,2022-12-14,1701
+Capital Quant Agency,2022-12-27,1733
+Capital Quant Agency,2023-01-01,1737
+Capital Quant Agency,2023-01-05,1742
+Capital Quant Agency,2023-01-09,1746
+Capital Quant Agency,2023-01-22,1752
+Capital Quant Agency,2023-01-29,1755
+Capital Quant Agency,2023-02-04,1761
+Capital Quant Agency,2023-02-25,1773
+Capital Quant Agency,2023-03-18,1824
+Capital Quant Agency,2023-03-21,1828
+Capital Quant Agency,2023-03-25,1834
+Capital Quant Agency,2023-04-10,1885
+Capital Quant Agency,2023-04-13,1889
+Capital Quant Agency,2023-04-21,1900
+Capital Quant Agency,2023-04-29,1900
+Capital Quant Agency,2023-05-19,1963
+Capital Quant Agency,2023-05-29,1968
+Capital Quant Agency,2023-06-05,1980
+Capital Quant Agency,2023-06-14,2003
+Capital Quant Agency,2023-06-17,2011
+Capital Quant Agency,2023-06-27,2033
+Capital Quant Agency,2023-07-06,2033
+Capital Quant Agency,2023-07-23,2071
+Capital Quant Agency,2023-08-08,2102
+Capital Quant Agency,2023-08-10,2103
+Capital Quant Agency,2023-09-15,2122
+Capital Quant Agency,2023-10-18,2122
+Capital Quant Agency,2023-12-17,2164
+Capital Quant Agency,2023-12-18,2165
+Capital Quant Agency,2024-01-22,2197
+Capital Quant Agency,2024-04-10,2239
+Capital Quant Agency,2024-05-28,2281
+Capital Quant Agency,2024-08-02,2317
+Capital Quant Agency,2024-08-09,2317
+Capital Quant Agency,2024-09-02,2314
+Capital Quant Agency,2024-09-17,2320
+Capital Quant Agency,2024-09-24,2318
+Capital Quant Agency,2024-10-02,2319
+Capital Quant Agency,2025-01-09,2323
+Capital Quant Agency,2025-01-18,2323
+Capital Quant Agency,2025-01-28,2324
+Capital Quant Agency,2025-02-21,2330
+Capital Quant Agency,2025-03-03,2333
+Capital Quant Agency,2025-03-10,2336
+Capital Quant Agency,2025-03-15,2335
+Capital Quant Agency,2025-04-13,2345
+Capital Quant Agency,2025-04-22,2343
+Capital Quant Agency,2025-05-20,2342
+Capital Quant Agency,2025-05-25,2343
+Capital Quant Agency,2025-06-07,2343
+Capital Quant Agency,2025-06-09,2344
+Capital Quant Agency,2025-06-22,2345
+Capital Quant Agency,2025-07-15,2346
+Capital Quant Agency,2025-07-27,2347
+Capital Quant Agency,2025-08-18,2348
+Capital Quant Agency,2025-08-21,2347
+Capital Quant Agency,2025-10-26,2359
+Capital Quant Agency <U+0001F1F2><U+0001F1E6>,2022-02-07,1237
+Capital Quant Agency <U+0001F1F2><U+0001F1E6>,2022-02-12,1241
+Capital Quant Agency <U+0001F1F2><U+0001F1E6>,2022-02-16,1244
+Cara Care,2023-01-25,7706
+Carboncopies Foundation,2023-01-25,508
+Cardno International Development,2023-01-28,50642
+CareerBuilder Vietnam,2023-01-28,176968
+CareerWise,2026-05-31,8710
+Careerflow,2023-01-21,103604
+Careerflow.ai,2023-02-25,106696
+Careerflow.ai,2023-03-13,107898
+Careerflow.ai,2023-03-29,109467
+Careerflow.ai (Techstars '23),2023-04-10,110442
+Careerflow.ai (Techstars '23),2023-04-23,111724
+Careerflow.ai (Techstars '23),2023-06-05,115335
+Careerflow.ai (Techstars '23),2023-06-11,115948
+Careerflow.ai (Techstars '23),2023-06-23,117268
+Careerflow.ai (Techstars '23),2023-07-06,124440
+Careerflow.ai (Techstars '23),2023-07-23,127808
+Careerflow.ai (Techstars '23),2023-08-05,131313
+Careerflow.ai (Techstars '23),2023-08-29,132414
+Careerflow.ai (Techstars '23),2023-10-18,141513
+Careers In Space,2023-01-21,58605
+Careers In Space,2023-02-25,59728
+Careers In Space,2023-03-13,60253
+Careers In Space,2023-03-29,60733
+Careers In Space,2023-04-10,61131
+Careers In Space,2023-04-23,61481
+Careers In Space,2023-06-05,62745
+Careers In Space,2023-06-11,62938
+Careers In Space,2023-06-23,63256
+Careers In Space,2023-07-06,63635
+Careers In Space,2023-07-23,63992
+Careers In Space,2023-08-05,64323
+Careers In Space,2023-08-29,64902
+Careers In Space,2023-10-18,66149
+Careers Service University of Oxford,2021-02-19,511
+Careers Service University of Oxford,2021-03-06,554
+Careerwise,2025-09-16,51411
+Carelon Global Solutions Ireland,2023-02-04,9365
+Carelon Global Solutions Ireland,2023-02-10,10783
+Carelon Global Solutions Ireland,2023-02-13,11159
+Carelon Global Solutions Ireland,2023-02-24,12239
+Carelon Global Solutions Ireland,2023-03-10,13149
+Carelon Global Solutions Ireland,2023-03-14,13207
+Carelon Global Solutions Ireland,2023-03-18,13314
+Carelon Global Solutions Ireland,2023-03-21,13373
+Carelon Global Solutions Ireland,2023-03-25,13564
+Carelon Global Solutions Ireland,2023-04-01,13785
+Carelon Global Solutions Ireland,2023-04-10,13959
+Carelon Global Solutions Ireland,2023-04-13,14049
+Carelon Global Solutions Ireland,2023-04-21,14272
+Carelon Global Solutions Ireland,2023-04-29,14433
+Carelon Global Solutions Ireland,2023-05-12,14808
+Carelon Global Solutions Ireland,2023-05-19,15000
+Carelon Global Solutions Ireland,2023-05-29,15423
+Carelon Global Solutions Ireland,2023-06-05,15614
+Carelon Global Solutions Ireland,2023-06-11,15780
+Carelon Global Solutions Ireland,2023-06-14,15920
+Carelon Global Solutions Ireland,2023-06-17,16065
+Carelon Global Solutions Ireland,2023-06-23,16246
+Carelon Global Solutions Ireland,2023-06-27,16331
+Carelon Global Solutions Ireland,2023-07-06,16577
+Carelon Global Solutions Ireland,2023-07-23,17153
+Carelon Global Solutions Ireland,2023-08-02,17360
+Carelon Global Solutions Ireland,2023-08-08,17464
+Carelon Global Solutions Ireland,2023-08-10,17531
+Carelon Global Solutions Ireland,2023-08-29,18035
+Carelon Global Solutions Ireland,2023-09-15,18058
+Carelon Global Solutions Ireland,2023-10-18,18904
+Carelon Global Solutions Ireland,2023-12-14,21160
+Carelon Global Solutions Ireland,2023-12-18,21265
+Carelon Global Solutions Ireland,2024-01-22,22090
+Carelon Global Solutions Ireland,2024-04-09,25751
+Carelon Global Solutions Ireland,2024-04-17,25846
+Carelon Global Solutions Ireland,2024-04-28,25992
+Carelon Global Solutions Ireland,2024-05-03,26078
+Carelon Global Solutions Ireland,2024-05-19,26286
+Carelon Global Solutions Ireland,2024-06-08,26627
+Carelon Global Solutions Ireland,2024-06-24,26861
+Carelon Global Solutions Ireland,2024-06-28,26904
+Carelon Global Solutions Ireland,2024-07-17,27058
+Carelon Global Solutions Ireland,2024-07-20,27072
+Carelon Global Solutions Ireland,2024-07-23,27105
+Carelon Global Solutions Ireland,2024-08-02,27209
+Carelon Global Solutions Ireland,2024-08-06,27237
+Carelon Global Solutions Ireland,2024-08-09,27277
+Carelon Global Solutions Ireland,2024-08-20,27405
+Carelon Global Solutions Ireland,2024-09-02,27520
+Carelon Global Solutions Ireland,2024-09-07,27565
+Carelon Global Solutions Ireland,2024-09-10,27604
+Carelon Global Solutions Ireland,2024-09-16,27647
+Carelon Global Solutions Ireland,2024-09-24,27732
+Carelon Global Solutions Ireland,2024-10-02,27864
+Carelon Global Solutions Ireland,2024-11-15,28241
+Carelon Global Solutions Ireland,2024-11-24,28296
+Carelon Global Solutions Ireland,2024-12-07,28341
+Carelon Global Solutions Ireland,2025-01-08,28405
+Carelon Global Solutions Ireland,2025-01-18,28413
+Carelon Global Solutions Ireland,2025-01-27,28445
+Carelon Global Solutions Ireland,2025-02-04,28469
+Carelon Global Solutions Ireland,2025-02-20,28538
+Carelon Global Solutions Ireland,2025-02-28,28579
+Carelon Global Solutions Ireland,2025-03-03,28596
+Carelon Global Solutions Ireland,2025-03-16,28666
+Carelon Global Solutions Ireland,2025-04-13,28793
+Carelon Global Solutions Ireland,2025-04-22,28811
+Carelon Global Solutions Ireland,2025-04-27,28835
+Carelon Global Solutions Ireland,2025-04-28,28835
+Carelon Global Solutions Ireland,2025-05-06,28835
+Carelon Global Solutions Ireland,2025-05-20,28928
+Carelon Global Solutions Ireland,2025-05-25,28933
+Carelon Global Solutions Ireland,2025-05-27,28939
+Carelon Global Solutions Ireland,2025-06-01,28960
+Carelon Global Solutions Ireland,2025-06-07,28946
+Carelon Global Solutions Ireland,2025-06-08,28949
+Carelon Global Solutions Ireland,2025-06-09,28951
+Carelon Global Solutions Ireland,2025-06-10,28958
+Carelon Global Solutions Ireland,2025-06-22,28971
+Carelon Global Solutions Ireland,2025-07-01,28980
+Carelon Global Solutions Ireland,2025-07-04,28980
+Carelon Global Solutions Ireland,2025-07-08,29018
+Carelon Global Solutions Ireland,2025-07-15,29048
+Carelon Global Solutions Ireland,2025-07-27,29073
+Carelon Global Solutions Ireland,2025-08-11,29150
+Carelon Global Solutions Ireland,2025-08-15,29159
+Carelon Global Solutions Ireland,2025-08-18,29158
+Carelon Global Solutions Ireland,2025-08-21,29174
+Carelon Global Solutions Ireland,2025-08-26,29182
+Carelon Global Solutions Ireland,2025-08-30,29182
+Carelon Global Solutions Ireland,2025-09-17,29216
+Carelon Global Solutions Ireland,2026-04-15,29502
+Carelon Global Solutions Ireland,2026-06-17,29476
+Caribou Biosciences,2023-01-25,17697
+Caribou Biosciences,2023-01-29,17784
+Carleton Artificial Intelligence Society,2021-03-28,214
+Carleton Artificial Intelligence Society,2021-03-31,216
+Carleton Artificial Intelligence Society,2021-04-06,217
+Carleton Artificial Intelligence Society,2021-04-10,218
+Carleton Artificial Intelligence Society,2021-04-15,218
+Carleton Artificial Intelligence Society,2021-04-20,219
+Carleton Artificial Intelligence Society,2021-04-24,219
+Carleton Artificial Intelligence Society,2021-04-28,220
+Carleton Artificial Intelligence Society,2021-05-07,219
+Carleton Artificial Intelligence Society,2021-05-10,219
+Carleton Artificial Intelligence Society,2021-05-14,219
+Carleton Artificial Intelligence Society,2021-05-21,219
+Carleton Artificial Intelligence Society,2021-05-26,219
+Carleton Artificial Intelligence Society,2021-05-31,219
+Carleton Artificial Intelligence Society,2021-06-06,220
+Carleton Artificial Intelligence Society,2021-06-09,219
+Carleton Artificial Intelligence Society,2021-06-16,222
+Carleton Artificial Intelligence Society,2021-06-21,222
+Carleton Artificial Intelligence Society,2021-06-29,225
+Carleton Artificial Intelligence Society,2021-07-04,225
+Carleton Artificial Intelligence Society,2021-07-09,225
+Carleton Artificial Intelligence Society,2021-07-14,225
+Carleton Artificial Intelligence Society,2021-07-22,227
+Carleton Artificial Intelligence Society,2021-08-14,227
+Carleton Artificial Intelligence Society,2021-08-26,228
+Carleton Artificial Intelligence Society,2021-09-02,233
+Carleton Artificial Intelligence Society,2021-09-09,235
+Carleton Artificial Intelligence Society,2021-09-16,236
+Carleton Artificial Intelligence Society,2021-10-17,237
+Carleton Artificial Intelligence Society,2021-10-29,238
+Carleton Artificial Intelligence Society,2021-11-20,238
+Carleton Artificial Intelligence Society,2021-12-03,239
+Carleton Artificial Intelligence Society,2021-12-20,241
+Carleton Artificial Intelligence Society,2021-12-26,241
+Carleton Artificial Intelligence Society,2021-12-31,241
+Carleton Artificial Intelligence Society,2022-02-01,244
+Carleton Artificial Intelligence Society,2022-02-07,244
+Carleton Artificial Intelligence Society,2022-02-16,245
+Carleton Artificial Intelligence Society,2022-02-20,245
+Carleton Artificial Intelligence Society,2022-02-23,245
+Carleton Artificial Intelligence Society,2022-03-03,246
+Carleton Artificial Intelligence Society,2022-03-15,246
+Carleton Artificial Intelligence Society,2022-03-20,246
+Carleton Artificial Intelligence Society,2022-03-29,247
+Carleton Artificial Intelligence Society,2022-04-11,248
+Carleton Artificial Intelligence Society,2022-04-13,248
+Carleton Artificial Intelligence Society,2022-05-22,250
+Carleton Artificial Intelligence Society,2022-05-27,251
+Carleton Artificial Intelligence Society,2022-06-11,252
+Carleton Artificial Intelligence Society,2022-06-16,252
+Carleton Artificial Intelligence Society,2022-06-23,253
+Carleton Artificial Intelligence Society,2022-06-24,253
+Carleton Artificial Intelligence Society,2022-06-30,253
+Carleton Artificial Intelligence Society,2022-07-02,253
+Carleton Artificial Intelligence Society,2022-07-05,254
+Carleton Artificial Intelligence Society,2022-07-13,255
+Carleton Artificial Intelligence Society,2022-07-18,255
+Carleton Artificial Intelligence Society,2022-07-23,256
+Carleton Artificial Intelligence Society,2022-07-25,255
+Carleton Artificial Intelligence Society,2022-08-02,254
+Carleton Artificial Intelligence Society,2022-08-16,256
+Carleton Artificial Intelligence Society,2022-08-20,257
+Carleton Artificial Intelligence Society,2022-08-25,259
+Carleton Artificial Intelligence Society,2022-08-28,259
+Carleton Artificial Intelligence Society,2022-09-07,261
+Carleton Artificial Intelligence Society,2022-09-10,261
+Carleton Artificial Intelligence Society,2022-09-16,264
+Carleton Artificial Intelligence Society,2022-09-22,264
+Carleton Artificial Intelligence Society,2022-09-29,267
+Carleton Artificial Intelligence Society,2022-10-03,267
+Carleton Artificial Intelligence Society,2022-10-09,269
+Carleton Artificial Intelligence Society,2022-10-16,270
+Carleton Artificial Intelligence Society,2022-10-22,272
+Carleton Artificial Intelligence Society,2022-10-28,273
+Carleton Artificial Intelligence Society,2022-11-03,273
+Carleton Artificial Intelligence Society,2022-11-06,273
+Carleton Artificial Intelligence Society,2022-11-14,275
+Carleton Artificial Intelligence Society,2022-11-20,275
+Carleton Artificial Intelligence Society,2022-11-24,275
+Carleton Artificial Intelligence Society,2022-12-01,275
+Carleton Artificial Intelligence Society,2022-12-08,275
+Carleton Artificial Intelligence Society,2022-12-14,275
+Carleton Artificial Intelligence Society,2022-12-27,279
+Carleton Artificial Intelligence Society,2023-01-01,280
+Carleton Artificial Intelligence Society,2023-01-05,280
+Carleton Artificial Intelligence Society,2023-01-09,281
+Carleton Artificial Intelligence Society,2023-01-22,285
+Carleton Artificial Intelligence Society,2023-01-29,287
+Carleton Artificial Intelligence Society,2023-02-04,287
+Carleton Artificial Intelligence Society,2023-02-25,289
+Carleton Artificial Intelligence Society,2023-03-18,288
+Carleton Artificial Intelligence Society,2023-03-21,289
+Carleton Artificial Intelligence Society,2023-03-25,290
+Carleton Artificial Intelligence Society,2023-04-10,290
+Carleton Artificial Intelligence Society,2023-04-13,292
+Carleton Artificial Intelligence Society,2023-04-21,292
+Carleton Artificial Intelligence Society,2023-04-29,292
+Carleton Artificial Intelligence Society,2023-05-19,294
+Carleton Artificial Intelligence Society,2023-05-29,294
+Carleton Artificial Intelligence Society,2023-06-05,297
+Carleton Artificial Intelligence Society,2023-06-14,297
+Carleton Artificial Intelligence Society,2023-06-17,297
+Carleton Artificial Intelligence Society,2023-06-27,296
+Carleton Artificial Intelligence Society,2023-07-06,296
+Carleton Artificial Intelligence Society,2023-07-23,297
+Carleton Artificial Intelligence Society,2023-08-08,301
+Carleton Artificial Intelligence Society,2023-08-10,301
+Carleton Artificial Intelligence Society,2023-09-15,305
+Carleton Artificial Intelligence Society,2023-10-18,305
+Carleton Artificial Intelligence Society,2023-12-17,314
+Carleton Artificial Intelligence Society,2023-12-18,317
+Carleton Artificial Intelligence Society,2024-01-22,320
+Carleton Artificial Intelligence Society,2024-04-10,321
+Carleton Artificial Intelligence Society,2024-05-28,320
+Carleton Artificial Intelligence Society,2024-08-02,320
+Carleton Artificial Intelligence Society,2024-08-09,318
+Carleton Artificial Intelligence Society,2024-09-02,318
+Carleton Artificial Intelligence Society,2024-09-17,319
+Carleton Artificial Intelligence Society,2024-09-24,320
+Carleton Artificial Intelligence Society,2024-10-02,320
+Carleton Artificial Intelligence Society,2025-01-09,331
+Carleton Artificial Intelligence Society,2025-01-18,332
+Carleton Artificial Intelligence Society,2025-01-28,334
+Carleton Artificial Intelligence Society,2025-02-21,334
+Carleton Artificial Intelligence Society,2025-03-03,335
+Carleton Artificial Intelligence Society,2025-03-10,338
+Carleton Artificial Intelligence Society,2025-03-15,336
+Carleton Artificial Intelligence Society,2025-04-13,338
+Carleton Artificial Intelligence Society,2025-04-22,338
+Carleton Artificial Intelligence Society,2025-05-20,338
+Carleton Artificial Intelligence Society,2025-05-25,338
+Carleton Artificial Intelligence Society,2025-06-07,338
+Carleton Artificial Intelligence Society,2025-06-09,338
+Carleton Artificial Intelligence Society,2025-06-22,339
+Carleton Artificial Intelligence Society,2025-07-15,343
+Carleton Artificial Intelligence Society,2025-07-27,344
+Carleton Artificial Intelligence Society,2025-08-18,345
+Carleton Artificial Intelligence Society,2025-08-21,347
+Carleton Artificial Intelligence Society,2025-09-21,352
+Carleton Artificial Intelligence Society,2025-10-26,352
+Carleton Artificial Intelligence Society,2026-03-16,364
+Carleton Artificial Intelligence Society,2026-03-17,363
+Carnegie Hall,2025-01-27,25410
+Carnegie Hall,2025-03-15,25740
+Carnegie Hall,2025-03-16,25743
+Carnegie Hall,2025-04-28,26209
+Carnegie Hall,2025-05-27,26440
+Carnegie Hall,2025-06-07,26499
+Carnegie Hall,2025-07-27,26768
+Carnegie Hall,2025-08-30,26942
+Carnegie Mellon University,2023-01-28,265927
+Carnegie Mellon University,2023-03-13,269030
+Carnegie Mellon University,2023-03-29,270232
+Carnegie Mellon University,2023-04-10,271254
+Carnegie Mellon University,2023-04-23,272292
+Carnegie Mellon University,2023-06-05,276106
+Carnegie Mellon University,2023-06-11,276692
+Carnegie Mellon University,2023-06-23,278000
+Carnegie Mellon University,2023-07-06,279648
+Carnegie Mellon University,2023-07-23,281786
+Carnegie Mellon University,2023-08-05,283660
+Carnegie Mellon University,2023-08-29,287423
+Carnegie Mellon University,2023-10-18,275988
+Carnegie Mellon University,2023-12-14,280667
+Carnegie Mellon University,2023-12-17,281036
+Carnegie Mellon University,2023-12-18,281141
+Carnegie Mellon University,2024-04-08,289932
+Carnegie Mellon University,2024-05-04,292415
+Carnegie Mellon University,2024-05-28,294702
+Carnegie Mellon University,2024-06-24,297295
+Carnegie Mellon University,2024-06-28,297696
+Carnegie Mellon University,2024-07-20,299601
+Carnegie Mellon University,2024-08-06,301315
+Carnegie Mellon University,2024-09-02,304680
+Carnegie Mellon University,2024-09-16,306438
+Carnegie Mellon University,2024-09-27,309513
+Carnegie Mellon University,2025-01-09,318506
+Carnegie Mellon University,2025-01-19,319531
+Carnegie Mellon University,2025-01-27,320112
+Carnegie Mellon University,2025-03-15,323841
+Carnegie Mellon University,2025-03-16,323923
+Carnegie Mellon University,2025-04-28,327569
+Carnegie Mellon University,2025-05-27,330779
+Carnegie Mellon University,2025-06-07,331860
+Carnegie Mellon University,2025-07-27,336052
+Carnegie Mellon University,2025-08-30,340481
+Carnegie Mellon University Africa,2023-10-18,17134
+Carnegie Mellon University Africa,2023-12-18,18703
+Carnegie Mellon University Silicon Valley,2023-01-25,2883
+Carrefour,2023-01-21,1112389
+Carrefour,2023-02-10,1120182
+Carrefour,2023-02-25,1125596
+Carrefour,2023-03-13,1131567
+Carrefour,2023-03-29,1137043
+Carrefour,2023-04-10,1141135
+Carrefour,2023-04-23,1145347
+Carrefour,2023-06-05,1160676
+Carrefour,2023-06-11,1163044
+Carrefour,2023-06-23,1168028
+Carrefour,2023-07-06,1173779
+Carrefour,2023-07-23,1179474
+Carrefour,2023-08-05,1184370
+Carrefour,2023-08-29,1191885
+Carrefour,2023-10-18,1212717
+Carrefour,2023-12-14,1121480
+Carrefour,2023-12-17,1122576
+Carrefour,2023-12-18,1122932
+Carrefour,2024-04-08,1162228
+Carrefour,2024-05-04,1168162
+Carrefour,2024-05-28,1176431
+Carrefour,2024-06-24,1184845
+Carrefour,2024-06-28,1186829
+Carrefour,2024-07-20,1194789
+Carrefour,2024-08-06,1199841
+Carrefour,2024-09-02,1208167
+Carrefour,2024-09-16,1215802
+Carrefour,2024-09-27,1221105
+Carrefour,2025-01-09,1249579
+Carrefour,2025-01-19,1253347
+Carrefour,2025-01-27,1256204
+Carrefour,2025-03-15,1271910
+Carrefour,2025-03-16,1272095
+Carrefour,2025-04-28,1285154
+Carrefour,2025-05-27,1290648
+Carrefour,2025-06-07,1293113
+Carrefour,2025-07-27,1309828
+Carrefour,2025-08-30,1322880
+Cartography Biosciences,2023-01-25,1269
+Cartography Biosciences,2023-01-29,1271
+Cascadia R Conference,2023-08-08,254
+Cascadia R Conference,2023-08-10,255
+Cascadia R Conference,2023-08-29,314
+Cascadia R Conference,2023-09-15,321
+Cascadia R Conference,2023-10-18,325
+Cascadia R Conference,2023-12-16,328
+Cascadia R Conference,2023-12-18,328
+Cascadia R Conference,2024-01-22,331
+Cascadia R Conference,2024-04-09,503
+Cascadia R Conference,2024-04-17,506
+Cascadia R Conference,2024-04-19,508
+Cascadia R Conference,2024-04-28,548
+Cascadia R Conference,2024-05-03,573
+Cascadia R Conference,2024-05-19,602
+Cascadia R Conference,2024-06-08,617
+Cascadia R Conference,2024-06-24,658
+Cascadia R Conference,2024-06-28,684
+Cascadia R Conference,2024-07-17,707
+Cascadia R Conference,2024-07-20,709
+Cascadia R Conference,2024-07-23,709
+Cascadia R Conference,2024-08-02,710
+Cascadia R Conference,2024-08-06,711
+Cascadia R Conference,2024-08-09,712
+Cascadia R Conference,2024-08-20,713
+Cascadia R Conference,2024-09-02,714
+Cascadia R Conference,2024-09-07,718
+Cascadia R Conference,2024-09-10,721
+Cascadia R Conference,2024-09-16,720
+Cascadia R Conference,2024-09-24,723
+Cascadia R Conference,2024-10-02,726
+Cascadia R Conference,2024-11-15,735
+Cascadia R Conference,2024-11-24,735
+Cascadia R Conference,2024-12-07,736
+Cascadia R Conference,2025-01-08,732
+Cascadia R Conference,2025-01-18,733
+Cascadia R Conference,2025-01-27,732
+Cascadia R Conference,2025-02-04,734
+Cascadia R Conference,2025-02-20,741
+Cascadia R Conference,2025-02-28,745
+Cascadia R Conference,2025-03-03,745
+Cascadia R Conference,2025-03-16,747
+Cascadia R Conference,2025-04-13,756
+Cascadia R Conference,2025-04-22,758
+Cascadia R Conference,2025-04-27,767
+Cascadia R Conference,2025-04-28,769
+Cascadia R Conference,2025-05-06,769
+Cascadia R Conference,2025-05-20,780
+Cascadia R Conference,2025-05-25,784
+Cascadia R Conference,2025-05-27,786
+Cascadia R Conference,2025-06-01,805
+Cascadia R Conference,2025-06-07,824
+Cascadia R Conference,2025-06-08,825
+Cascadia R Conference,2025-06-09,835
+Cascadia R Conference,2025-06-10,848
+Cascadia R Conference,2025-06-22,909
+Cascadia R Conference,2025-07-01,938
+Cascadia R Conference,2025-07-04,938
+Cascadia R Conference,2025-07-08,941
 Cascadia R Conference,2025-07-15,949
 Cascadia R Conference,2025-07-27,950
 Cascadia R Conference,2025-08-11,952
@@ -377,6 +1018,7 @@ Cascadia R Conference,2025-09-17,965
 Cascadia R Conference,2025-10-26,967
 Cascadia R Conference,2026-03-29,1096
 Cascadia R Conference,2026-04-15,1121
+Cascadia R Conference,2026-06-17,1159
 Castellanos Global,2025-04-27,208
 Castellanos Global,2025-04-28,212
 Castellanos Global,2025-05-06,212
@@ -403,6 +1045,7 @@ Castellanos Global,2025-08-30,424
 Castellanos Global,2025-09-17,462
 Castellanos Global,2026-03-29,685
 Castellanos Global,2026-04-15,687
+Castellanos Global,2026-06-17,710
 Castle,2023-01-25,2575
 Casual Space Podcast,2023-01-21,415
 Casual Space Podcast,2023-02-25,422
@@ -636,6 +1279,7 @@ Catalyst Seychelles,2025-02-28,231
 Catalyst Seychelles,2025-03-03,231
 Catawiki,2026-03-29,41917
 Catawiki,2026-04-15,42752
+Catawiki,2026-06-17,44232
 Caterpillar Inc.,2025-03-15,1918756
 Caterpillar Inc.,2025-03-16,1919100
 Caterpillar Inc.,2025-04-28,1948966
@@ -787,6 +1431,7 @@ CeADAR Ireland,2025-09-17,6285
 CeADAR Ireland,2025-10-26,6548
 CeADAR Ireland,2026-04-15,7945
 CeADAR Ireland,2026-04-29,8034
+CeADAR Ireland,2026-06-17,8356
 Cedo,2023-01-28,3816
 Cegedim e-business,2020-10-16,1961
 Cegedim e-business,2020-10-21,1969
@@ -860,6 +1505,7 @@ CellClar CIC,2025-08-26,2729
 CellClar CIC,2025-08-30,2729
 CellClar CIC,2025-09-17,2747
 CellClar CIC,2026-04-15,2857
+CellClar CIC,2026-06-17,2876
 Cellino,2023-01-25,5727
 Cellino,2023-01-29,5765
 Celonis,2025-09-16,294441
@@ -881,6 +1527,7 @@ Censius,2023-10-18,16676
 Centennial Parklands,2023-01-28,500
 Center for Breakthrough Medicines,2023-01-25,12143
 Center for Breakthrough Medicines,2023-01-29,12229
+Center for Dairy Research,2026-05-31,11800
 Center for Employment Opportunities,2025-03-15,16112
 Center for Employment Opportunities,2025-03-16,16112
 Center for Employment Opportunities,2025-04-28,16646
@@ -888,6 +1535,7 @@ Center for Employment Opportunities,2025-05-27,16829
 Center for Employment Opportunities,2025-06-07,16873
 Center for Employment Opportunities,2025-07-27,17170
 Center for Employment Opportunities,2025-08-30,17348
+Center for Integrated Earth System Information (CIESIN),2026-05-31,579
 Center for International Environmental Law (CIEL),2023-03-25,12465
 Center for International Environmental Law (CIEL),2023-04-01,12661
 Center for International Environmental Law (CIEL),2023-04-10,12888
@@ -979,6 +1627,7 @@ Center for International Environmental Law (CIEL),2025-08-30,29294
 Center for International Environmental Law (CIEL),2025-09-17,29620
 Center for International Environmental Law (CIEL),2025-10-26,30286
 Center for International Environmental Law (CIEL),2026-04-15,32921
+Center for International Environmental Law (CIEL),2026-06-17,33813
 Center for Internet Security,2023-01-21,95204
 Center for Internet Security,2023-02-10,96887
 Center for Internet Security,2023-02-25,98200
@@ -1018,6 +1667,7 @@ Center for Open Science,2025-03-16,6558
 Center for Open Science,2025-04-28,6788
 Center for Open Science,2025-05-27,6965
 Center for Open Science,2025-08-30,7552
+Center for Quantum Networks,2026-05-31,3729
 Center for Scientific Collaboration and Community Engagement,2023-01-25,814
 Center for Scientific Collaboration and Community Engagement,2023-10-18,1074
 Center for Systems Security and Information Assurance (CSSIA),2023-01-21,67
@@ -1130,6 +1780,7 @@ Central Park Conservancy,2025-06-07,15413
 Central Park Conservancy,2025-07-27,15818
 Central Park Conservancy,2025-08-30,16124
 Centre for Environment Education,2023-01-28,17456
+Centre for Research in Digital Education University of Edinburgh,2026-05-31,3462
 Centre for Science and Environment New Delhi,2023-01-28,45653
 Centre for Sustainable Fashion,2021-04-20,45157
 Centre for Sustainable Fashion,2021-04-24,45634
@@ -1442,7 +2093,10 @@ Chatterbug,2023-01-25,1855
 Checkmyfile,2025-09-16,1325
 Chem-Aqua Inc.,2023-01-28,32257
 Chevening Awards,2023-01-28,190324
+Chevron,2026-05-31,5206008
+Child Mind Institute,2026-05-31,66509
 Children's Health Foundation,2025-05-27,3357
+Children's Museum of Manhattan,2026-05-31,6934
 Children's National Hospital,2023-01-21,45361
 Children's National Hospital,2023-02-10,45787
 Children's National Hospital,2023-02-25,46083
@@ -1844,26 +2498,73 @@ City of Boston,2025-01-19,46208
 City of Boston,2025-01-27,46569
 City of Boston,2025-03-15,48570
 City of Boston,2025-03-16,48591
+Cité des sciences et de l'industrie,2026-06-17,24178
 CivicDataLab,2026-04-29,12369
+CivicDataLab,2026-06-17,13183
+CivicXSyllabus,2026-05-31,181
+Claude,2026-05-31,2269930
+ClickUp,2026-05-31,262212
+Cliniphai,2026-06-17,619
+Cloud-Native Geospatial Forum (CNG),2026-05-31,9171
+Cloud-Native Geospatial Forum (CNG),2026-06-17,9253
 ClusterAI,2026-04-29,465
+ClusterAI,2026-06-17,466
 Code for Cause,2026-04-29,21232
+Code for Cause,2026-06-17,21207
 Coding Black Females,2026-04-29,18109
+Coding Black Females,2026-06-17,18214
 Cognizant,2026-04-29,9186966
+Cognizant,2026-06-17,9307434
+Coillte,2026-06-17,21177
 Collibra,2026-04-29,102396
+Collibra,2026-06-17,105452
+Colombia Diversa,2026-06-17,8278
+Columbia AI Club,2026-05-31,1095
+Columbia Business School Executive Education & Wall Street Prep Certificate Programs,2026-05-31,408
+Columbia Center on Sustainable Investment,2026-05-31,15232
+Columbia Public Health - Department of Health Policy & Management,2026-05-31,959
+Columbia University Mailman School of Public Health,2026-05-31,35474
+Commons Hub Brussels,2026-05-31,1216
+Company.info Nederland,2026-05-31,6261
+Compute! Paris,2026-06-17,2336
+Computer Science at The University of Alabama,2026-05-31,880
 Compylo,2026-04-29,1235
+Compylo,2026-06-17,1232
+Comunidad R Hispano,2026-06-17,1203
+Conda Community,2026-05-31,257
+Conning,2026-06-17,18866
+ConocoPhillips,2026-05-31,1196134
 Conrad N. Hilton Foundation,2026-04-29,36441
+Conrad N. Hilton Foundation,2026-06-17,37347
+Copernicus ECMWF,2026-06-17,57509
 Coursera,2026-04-29,2689437
+Coursera,2026-06-17,2714761
 Cpl,2026-04-29,435529
+Cpl,2026-06-17,441472
+Cubit Tech Support,2026-05-31,87
 DATA CENTRIC AFRICA,2026-04-29,1358
+DATA CENTRIC AFRICA,2026-06-17,1357
 DATA MANSA,2026-04-29,194
+DATA MANSA,2026-06-17,196
+DISCO Network,2026-05-31,255
 DSN - Data Science Nigeria,2026-04-29,27218
+DSN - Data Science Nigeria,2026-06-17,28098
+Dark Peak Analytics,2026-06-17,2593
 Data & Society Research Institute,2026-04-29,27921
+Data & Society Research Institute,2026-06-17,28752
+Data Engineers London,2026-06-17,917
 Data For Good,2026-04-29,33784
+Data For Good,2026-06-17,34674
 Data Science Academy,2026-04-29,574808
+Data Science Academy,2026-06-17,579577
 Data Science Central,2026-04-29,274750
+Data Science Central,2026-06-17,274906
 Data Science Council of America,2026-04-29,60963
+Data Science Council of America,2026-06-17,61207
 Data Science Dojo,2026-04-29,309897
+Data Science Dojo,2026-06-17,310238
 Data Science Institute,2026-04-29,20066
+Data Science Institute,2026-06-17,20073
 Data Science Student Society at UJ,2022-10-09,91
 Data Science Student Society at UJ,2022-10-16,91
 Data Science Student Society at UJ,2022-10-22,93
@@ -2005,6 +2706,7 @@ Data Science Zimbabwe,2026-04-07,10480
 Data Science Zimbabwe,2026-04-29,10501
 Data Science Zimbabwe,2026-05-12,10516
 Data Science Zimbabwe,2026-05-31,10538
+Data Science Zimbabwe,2026-06-17,10569
 Data Science and AI Society - UTS,2021-03-28,91
 Data Science and AI Society - UTS,2021-03-31,91
 Data Science and AI Society - UTS,2021-04-06,91
@@ -2675,6 +3377,7 @@ Data Science for Social Good Foundation,2026-04-07,8242
 Data Science for Social Good Foundation,2026-04-29,8292
 Data Science for Social Good Foundation,2026-05-12,8308
 Data Science for Social Good Foundation,2026-05-31,8357
+Data Science for Social Good Foundation,2026-06-17,8396
 Data Scientists Ltd,2021-06-02,12
 Data Scientists Ltd,2021-06-09,12
 Data Scientists Ltd,2021-06-16,12
@@ -2868,6 +3571,7 @@ Data Umbrella,2023-07-23,2088
 Data Umbrella,2023-08-05,2107
 Data Umbrella,2023-08-29,2117
 Data Umbrella,2023-10-18,2229
+Data Vandals,2026-05-31,719
 Data Visualization,2025-09-16,616491
 Data Visualization Blog,2020-12-15,2127
 Data Visualization Blog,2020-12-27,2129
@@ -3007,906 +3711,3 @@ Data Visualization Society,2022-02-10,91909
 Data Visualization Society,2022-02-12,92101
 Data Visualization Society,2022-02-16,92561
 Data Visualization Society,2022-02-23,93379
-Data Visualization Society,2022-02-26,93631
-Data Visualization Society,2022-02-27,93664
-Data Visualization Society,2022-03-03,94030
-Data Visualization Society,2022-03-07,94350
-Data Visualization Society,2022-03-15,95075
-Data Visualization Society,2022-03-20,95533
-Data Visualization Society,2022-03-29,96307
-Data Visualization Society,2022-03-31,96524
-Data Visualization Society,2022-04-09,97237
-Data Visualization Society,2022-04-11,97339
-Data Visualization Society,2022-04-13,97478
-Data Visualization Society,2022-04-19,97910
-Data Visualization Society,2022-04-25,98434
-Data Visualization Society,2022-04-29,98893
-Data Visualization Society,2022-05-05,93631
-Data Visualization Society,2022-05-22,101500
-Data Visualization Society,2022-05-25,101823
-Data Visualization Society,2022-05-27,102108
-Data Visualization Society,2022-05-30,102401
-Data Visualization Society,2022-06-01,102594
-Data Visualization Society,2022-06-07,103315
-Data Visualization Society,2022-06-08,103315
-Data Visualization Society,2022-06-11,103658
-Data Visualization Society,2022-06-13,103871
-Data Visualization Society,2022-06-16,104394
-Data Visualization Society,2022-06-22,104985
-Data Visualization Society,2022-06-23,105070
-Data Visualization Society,2022-06-26,105447
-Data Visualization Society,2022-06-28,105636
-Data Visualization Society,2022-06-30,105824
-Data Visualization Society,2022-07-01,105951
-Data Visualization Society,2022-07-02,106002
-Data Visualization Society,2022-07-04,106231
-Data Visualization Society,2022-07-05,106395
-Data Visualization Society,2022-07-09,106862
-Data Visualization Society,2022-07-12,107300
-Data Visualization Society,2022-07-13,107417
-Data Visualization Society,2022-07-18,108101
-Data Visualization Society,2022-07-18,108061
-Data Visualization Society,2022-07-21,108598
-Data Visualization Society,2022-07-23,108937
-Data Visualization Society,2022-07-25,109273
-Data Visualization Society,2022-08-01,110329
-Data Visualization Society,2022-08-02,110427
-Data Visualization Society,2022-08-08,111295
-Data Visualization Society,2022-08-16,112487
-Data Visualization Society,2022-08-20,113167
-Data Visualization Society,2022-08-25,113697
-Data Visualization Society,2022-08-28,113983
-Data Visualization Society,2022-09-01,114446
-Data Visualization Society,2022-09-07,114889
-Data Visualization Society,2022-09-10,115147
-Data Visualization Society,2022-09-16,115822
-Data Visualization Society,2022-09-22,116473
-Data Visualization Society,2022-09-29,117153
-Data Visualization Society,2022-10-03,117495
-Data Visualization Society,2022-10-09,118219
-Data Visualization Society,2022-10-12,118576
-Data Visualization Society,2022-10-12,118575
-Data Visualization Society,2022-10-16,118971
-Data Visualization Society,2022-10-22,119743
-Data Visualization Society,2022-10-28,120475
-Data Visualization Society,2022-11-03,121030
-Data Visualization Society,2022-11-06,121327
-Data Visualization Society,2022-11-14,122242
-Data Visualization Society,2022-11-14,122241
-Data Visualization Society,2022-11-20,122910
-Data Visualization Society,2022-11-24,123268
-Data Visualization Society,2022-12-01,124033
-Data Visualization Society,2022-12-08,124919
-Data Visualization Society,2022-12-14,125482
-Data Visualization Society,2022-12-27,126649
-Data Visualization Society,2023-01-01,127142
-Data Visualization Society,2023-01-05,127426
-Data Visualization Society,2023-01-09,127722
-Data Visualization Society,2023-01-21,128684
-Data Visualization Society,2023-01-22,128721
-Data Visualization Society,2023-01-28,129261
-Data Visualization Society,2023-01-29,129293
-Data Visualization Society,2023-02-04,129731
-Data Visualization Society,2023-02-10,130169
-Data Visualization Society,2023-02-13,130386
-Data Visualization Society,2023-02-24,131059
-Data Visualization Society,2023-02-25,131103
-Data Visualization Society,2023-02-25,131102
-Data Visualization Society,2023-03-10,131955
-Data Visualization Society,2023-03-13,132117
-Data Visualization Society,2023-03-14,132235
-Data Visualization Society,2023-03-18,132473
-Data Visualization Society,2023-03-21,132647
-Data Visualization Society,2023-03-21,132646
-Data Visualization Society,2023-03-25,132870
-Data Visualization Society,2023-03-29,133160
-Data Visualization Society,2023-04-01,133352
-Data Visualization Society,2023-04-10,134121
-Data Visualization Society,2023-04-10,134115
-Data Visualization Society,2023-04-13,134315
-Data Visualization Society,2023-04-21,134908
-Data Visualization Society,2023-04-23,135037
-Data Visualization Society,2023-04-29,135709
-Data Visualization Society,2023-05-12,136798
-Data Visualization Society,2023-05-19,137317
-Data Visualization Society,2023-05-29,137859
-Data Visualization Society,2023-05-29,137857
-Data Visualization Society,2023-06-05,138272
-Data Visualization Society,2023-06-11,138537
-Data Visualization Society,2023-06-14,138682
-Data Visualization Society,2023-06-17,138806
-Data Visualization Society,2023-06-17,138805
-Data Visualization Society,2023-06-23,139085
-Data Visualization Society,2023-06-27,139229
-Data Visualization Society,2023-07-06,139511
-Data Visualization Society,2023-07-23,140035
-Data Visualization Society,2023-07-23,140034
-Data Visualization Society,2023-08-02,140477
-Data Visualization Society,2023-08-05,140603
-Data Visualization Society,2023-08-08,140704
-Data Visualization Society,2023-08-10,140795
-Data Visualization Society,2023-08-29,141425
-Data Visualization Society,2023-09-15,142286
-Data Visualization Society,2023-09-15,142285
-Data Visualization Society,2023-10-18,143914
-Data Visualization Society,2023-10-18,143913
-Data Visualization Society,2023-10-18,142286
-Data Visualization Society,2023-12-16,141900
-Data Visualization Society,2023-12-17,141927
-Data Visualization Society,2023-12-18,141971
-Data Visualization Society,2024-01-22,142655
-Data Visualization Society,2024-04-09,144549
-Data Visualization Society,2024-04-10,144584
-Data Visualization Society,2024-04-17,144755
-Data Visualization Society,2024-04-19,144823
-Data Visualization Society,2024-04-28,145000
-Data Visualization Society,2024-05-03,145242
-Data Visualization Society,2024-05-19,145638
-Data Visualization Society,2024-05-28,145797
-Data Visualization Society,2024-06-08,145933
-Data Visualization Society,2024-06-24,146310
-Data Visualization Society,2024-07-11,146606
-Data Visualization Society,2024-07-17,146680
-Data Visualization Society,2024-07-23,146717
-Data Visualization Society,2024-08-02,146819
-Data Visualization Society,2024-08-06,146836
-Data Visualization Society,2024-08-09,146922
-Data Visualization Society,2024-08-20,147100
-Data Visualization Society,2024-09-02,147187
-Data Visualization Society,2024-09-07,147252
-Data Visualization Society,2024-09-10,147271
-Data Visualization Society,2024-09-16,147352
-Data Visualization Society,2024-09-17,147388
-Data Visualization Society,2024-09-24,147479
-Data Visualization Society,2024-10-02,147580
-Data Visualization Society,2024-11-15,147946
-Data Visualization Society,2024-11-24,147990
-Data Visualization Society,2024-12-07,148036
-Data Visualization Society,2025-01-08,148224
-Data Visualization Society,2025-01-09,148245
-Data Visualization Society,2025-01-18,148463
-Data Visualization Society,2025-01-18,148461
-Data Visualization Society,2025-01-27,148671
-Data Visualization Society,2025-01-28,148680
-Data Visualization Society,2025-02-04,148820
-Data Visualization Society,2025-02-20,149085
-Data Visualization Society,2025-02-21,149086
-Data Visualization Society,2025-02-28,149147
-Data Visualization Society,2025-03-03,149154
-Data Visualization Society,2025-03-03,149152
-Data Visualization Society,2025-03-10,149264
-Data Visualization Society,2025-03-15,149434
-Data Visualization Society,2025-03-16,149454
-Data Visualization Society,2025-04-13,149774
-Data Visualization Society,2025-04-13,149780
-Data Visualization Society,2025-04-22,149818
-Data Visualization Society,2025-04-27,149881
-Data Visualization Society,2025-04-28,149879
-Data Visualization Society,2025-05-06,149879
-Data Visualization Society,2025-05-20,150051
-Data Visualization Society,2025-05-25,150098
-Data Visualization Society,2025-05-27,150122
-Data Visualization Society,2025-06-01,150181
-Data Visualization Society,2025-06-07,150264
-Data Visualization Society,2025-06-08,150285
-Data Visualization Society,2025-06-09,150294
-Data Visualization Society,2025-06-09,150296
-Data Visualization Society,2025-06-10,150309
-Data Visualization Society,2025-06-22,150512
-Data Visualization Society,2025-07-01,150651
-Data Visualization Society,2025-07-04,150651
-Data Visualization Society,2025-07-08,150658
-Data Visualization Society,2025-07-15,150785
-Data Visualization Society,2025-07-15,150782
-Data Visualization Society,2025-07-27,150869
-Data Visualization Society,2025-07-27,150868
-Data Visualization Society,2025-08-11,150972
-Data Visualization Society,2025-08-15,151007
-Data Visualization Society,2025-08-18,150989
-Data Visualization Society,2025-08-21,150995
-Data Visualization Society,2025-08-26,151022
-Data Visualization Society,2025-08-30,151022
-Data Visualization Society,2025-09-17,151654
-Data Visualization Society,2025-09-21,151701
-Data Visualization Society,2026-04-08,153478
-Data Visualization Society,2026-04-08,153483
-Data Visualization Society,2026-04-29,153876
-Data Visualization Society,2026-05-01,153888
-Data Visualization Society,2026-05-12,153942
-Data Works,2023-02-25,94111
-Data Works,2023-03-13,95464
-Data Works,2023-03-29,98026
-Data Works,2023-04-10,99602
-Data Works,2023-04-23,101449
-Data Works,2023-06-05,106103
-Data Works,2023-06-11,106500
-Data Works,2023-06-23,107238
-Data Works,2023-07-06,108350
-Data Works,2023-07-23,109658
-Data Works,2023-08-05,111031
-Data Works,2023-08-29,112294
-Data Works MD,2023-01-21,415
-Data Works MD,2023-02-25,420
-Data Works MD,2023-03-13,422
-Data Works MD,2023-03-29,430
-Data Works MD,2023-04-10,432
-Data Works MD,2023-04-23,434
-Data Works MD,2023-06-05,437
-Data Works MD,2023-06-11,440
-Data Works MD,2023-06-23,442
-Data Works MD,2023-07-06,444
-Data Works MD,2023-07-23,445
-Data Works MD,2023-08-05,449
-Data Works MD,2023-08-29,450
-Data Works MD,2023-10-18,453
-Data Works MD,2023-12-18,444
-Data for Good,2020-10-25,5074
-Data for Good,2020-10-28,5088
-Data for Good,2020-10-30,5103
-Data for Good,2020-11-03,5115
-Data for Good,2020-11-06,5130
-Data for Good,2020-11-10,5156
-Data for Good,2020-11-14,5191
-Data for Good,2020-11-18,5208
-Data for Good,2020-11-23,5249
-Data for Good,2020-11-28,5268
-Data for Good,2020-12-03,5293
-Data for Good,2020-12-05,5308
-Data for Good,2020-12-12,5340
-Data for Good,2020-12-15,5355
-Data for Good,2020-12-20,5393
-Data for Good,2020-12-25,5405
-Data for Good,2020-12-29,5417
-Data for Good,2021-01-03,5432
-Data for Good,2021-01-06,5446
-Data for Good,2021-01-11,5472
-Data for Good,2021-01-15,5490
-Data for Good,2021-01-19,5515
-Data for Good,2021-01-25,5560
-Data for Good,2021-01-30,5586
-Data for Good,2021-01-31,5589
-Data for Good,2021-02-03,5601
-Data for Good,2021-02-07,5630
-Data for Good,2021-02-12,5662
-Data for Good,2021-02-17,5695
-Data for Good,2021-02-21,5729
-Data for Good,2021-02-25,5762
-Data for Good,2021-03-01,5796
-Data for Good,2021-03-06,5835
-Data for Good,2021-03-10,5861
-Data for Good,2021-03-16,5896
-Data for Good,2021-03-20,5921
-Data for Good,2021-03-24,5936
-Data for Good,2021-03-30,5974
-Data for Good,2021-04-06,6017
-Data for Good,2021-04-10,6068
-Data for Good,2021-04-15,6102
-Data for Good,2021-04-20,6130
-Data for Good,2021-04-24,6162
-Data for Good,2021-04-28,6182
-Data for Good,2021-05-03,6216
-Data for Good,2021-05-07,6252
-Data for Good,2021-05-10,6274
-Data for Good,2021-05-14,6310
-Data for Good,2021-05-21,6348
-Data for Good,2021-05-26,6382
-Data for Good,2021-06-02,6409
-Data for Good,2021-06-09,6447
-Data for Good,2021-06-16,6488
-Data for Good,2021-06-21,6510
-Data for Good,2021-06-29,6545
-Data for Good,2021-07-02,6564
-Data for Good,2021-07-04,6577
-Data for Good,2021-07-09,6596
-Data for Good,2021-07-14,6621
-Data for Good,2021-07-18,6634
-Data for Good,2021-07-22,6647
-Data for Good,2021-08-14,6761
-Data for Good,2021-08-26,6806
-Data for Good,2021-09-02,6846
-Data for Good,2021-09-16,6912
-Data for Good,2021-10-17,7037
-Data for Good,2021-10-29,7088
-Data for Good,2021-11-06,7122
-Data for Good,2021-11-20,7214
-Data for Good,2021-12-07,7278
-Data for Good,2021-12-14,7316
-Data for Good,2021-12-20,7338
-Data for Good,2021-12-26,7356
-Data for Good,2021-12-30,7367
-Data for Good,2021-12-31,7370
-Data for Good,2022-01-03,7382
-Data for Good,2022-01-04,7385
-Data for Good,2022-01-06,7396
-Data for Good,2022-01-07,7408
-Data for Good,2022-01-10,7420
-Data for Good,2022-01-14,7446
-Data for Good,2022-01-18,7464
-Data for Good,2022-01-27,7515
-Data for Good,2022-02-01,7556
-Data for Good,2022-02-07,7589
-Data for Good,2022-02-10,7618
-Data for Good,2022-02-16,7644
-Data for Good,2022-02-20,7675
-Data for Good,2022-02-23,7701
-Data for Good,2022-02-26,7715
-Data for Good,2022-03-03,7751
-Data for Good,2022-03-07,7775
-Data for Good,2022-03-31,7955
-Data for Good,2022-04-09,7999
-Data for Good,2022-04-11,8003
-Data for Good,2022-04-13,8014
-Data for Good,2022-04-19,8053
-Data for Good,2022-04-25,8083
-Data for Good,2022-04-29,8134
-Data for Good,2022-05-05,8168
-Data for Good,2022-05-22,8290
-Data for Good,2022-05-27,8333
-Data for Good,2022-05-30,8342
-Data for Good,2022-06-03,8368
-Data for Good,2022-06-07,8400
-Data for Good,2022-06-08,8400
-Data for Good,2022-06-11,8433
-Data for Good,2022-06-15,8465
-Data for Good,2022-06-16,8475
-Data for Good,2022-06-20,8508
-Data for Good,2022-06-22,8531
-Data for Good,2022-06-24,8550
-Data for Good,2022-06-26,8556
-Data for Good,2022-06-28,8569
-Data for Good,2022-06-30,8591
-Data for Good,2022-07-01,8600
-Data for Good,2022-07-02,8601
-Data for Good,2022-07-04,8617
-Data for Good,2022-07-05,8629
-Data for Good,2022-07-09,8655
-Data for Good,2022-07-12,8672
-Data for Good,2022-07-18,8701
-Data for Good,2022-07-21,8724
-Data for Good,2022-07-23,8741
-Data for Good,2022-07-25,8748
-Data for Good,2022-08-01,8782
-Data for Good,2022-08-08,8827
-Data for Good,2022-08-16,8894
-Data for Good,2022-08-20,8928
-Data for Good,2022-08-25,8961
-Data for Good,2022-08-28,8978
-Data for Good,2022-09-01,9006
-Data for Good,2022-09-07,9039
-Data for Good,2022-09-10,9058
-Data for Good,2022-09-16,9116
-Data for Good,2022-09-22,9183
-Data for Good,2022-09-29,9249
-Data for Good,2022-10-03,9276
-Data for Good,2022-10-09,9326
-Data for Good,2022-10-12,9342
-Data for Good,2022-10-16,9356
-Data for Good,2022-10-22,9390
-Data for Good,2022-10-28,9433
-Data for Good,2022-11-03,9459
-Data for Good,2022-11-06,9468
-Data for Good,2022-11-14,9532
-Data for Good,2022-11-20,9564
-Data for Good,2022-11-24,9596
-Data for Good,2022-12-01,9667
-Data for Good,2022-12-08,9723
-Data for Good,2022-12-14,9758
-Data for Good,2022-12-27,9835
-Data for Good,2023-01-01,9861
-Data for Good,2023-01-05,9898
-Data for Good,2023-01-09,9936
-Data for Good,2023-01-22,10064
-Data for Good,2023-01-28,10123
-Data for Good,2023-02-04,10193
-Data for Good,2023-02-10,10226
-Data for Good,2023-02-13,10254
-Data for Good,2023-02-24,10384
-Data for Good,2023-03-10,10494
-Data for Good,2023-03-14,10528
-Data for Good,2023-03-18,10554
-Data for Good,2023-03-21,10582
-Data for Good,2023-03-25,10617
-Data for Good,2023-04-01,10678
-Data for Good,2023-04-10,10734
-Data for Good,2023-04-13,10761
-Data for Good,2023-04-21,10801
-Data for Good,2023-04-29,10868
-Data for Good,2023-05-12,10959
-Data for Good,2023-05-19,11012
-Data for Good,2023-05-29,11067
-Data for Good,2023-06-05,11113
-Data for Good,2023-06-11,11147
-Data for Good,2023-06-14,11175
-Data for Good,2023-06-17,11190
-Data for Good,2023-06-23,11227
-Data for Good,2023-06-27,11252
-Data for Good,2023-07-06,11310
-Data for Good,2023-07-23,11409
-Data for Good,2023-08-02,11496
-Data for Good,2023-08-08,11539
-Data for Good,2023-08-10,11552
-Data for Good,2023-08-29,11697
-Data for Good,2023-09-15,11788
-Data for Good,2023-10-18,12010
-Data for Good,2023-12-16,12190
-Data for Good,2023-12-18,12199
-Data for Good,2024-01-22,12327
-Data for Good,2024-04-08,12747
-Data for Good,2024-04-09,12757
-Data for Good,2024-04-17,12792
-Data for Good,2024-04-19,12805
-Data for Good,2024-04-28,12850
-Data for Good,2024-05-03,12884
-Data for Good,2024-05-19,12949
-Data for Good,2024-06-08,13028
-Data for Good,2024-06-24,13118
-Data for Good,2024-07-11,13188
-Data for Good,2024-07-17,13220
-Data for Good,2024-07-23,13241
-Data for Good,2024-08-02,13272
-Data for Good,2024-08-06,13277
-Data for Good,2024-08-09,13288
-Data for Good,2024-08-20,13324
-Data for Good,2024-09-02,13363
-Data for Good,2024-09-07,13386
-Data for Good,2024-09-10,13396
-Data for Good,2024-09-16,13418
-Data for Good,2024-09-24,13461
-Data for Good,2024-10-02,13508
-Data for Good,2024-11-15,13669
-Data for Good,2024-11-24,13699
-Data for Good,2024-12-07,13751
-Data for Good,2025-01-08,13877
-Data for Good,2025-01-18,13923
-Data for Good,2025-01-27,13987
-Data for Good,2025-02-04,14034
-Data for Good,2025-02-20,14102
-Data for Good,2025-02-28,14169
-Data for Good,2025-03-03,14199
-Data for Good,2025-03-16,14274
-Data for Good,2025-04-13,14471
-Data for Good,2025-04-22,14525
-Data for Good,2025-04-27,14572
-Data for Good,2025-04-28,14584
-Data for Good,2025-05-06,14584
-Data for Good,2025-05-20,14742
-Data for Good,2025-05-25,14786
-Data for Good,2025-05-27,14792
-Data for Good,2025-06-01,14821
-Data for Good,2025-06-07,14860
-Data for Good,2025-06-08,14859
-Data for Good,2025-06-09,14875
-Data for Good,2025-06-10,14896
-Data for Good,2025-06-22,14950
-Data for Good,2025-07-01,15008
-Data for Good,2025-07-04,15008
-Data for Good,2025-07-08,15068
-Data for Good,2025-07-15,15113
-Data for Good,2025-07-27,15170
-Data for Good,2025-08-11,15260
-Data for Good,2025-08-15,15294
-Data for Good,2025-08-18,15301
-Data for Good,2025-08-21,15317
-Data for Good,2025-08-26,15342
-Data for Good,2025-08-30,15342
-Data for Good,2025-09-17,15458
-Data for Good,2026-04-07,16615
-Data for Good,2026-04-29,16720
-Data for Good,2026-05-12,16771
-Data for Good,2026-05-31,16883
-Data for Good Foundation,2020-10-25,1042
-Data for Good Foundation,2020-10-28,1045
-Data for Good Foundation,2020-10-30,1049
-Data for Good Foundation,2020-11-03,1051
-Data for Good Foundation,2020-11-06,1054
-Data for Good Foundation,2020-11-10,1056
-Data for Good Foundation,2020-11-14,1063
-Data for Good Foundation,2020-11-18,1066
-Data for Good Foundation,2020-11-23,1080
-Data for Good Foundation,2020-11-28,1085
-Data for Good Foundation,2020-12-03,1092
-Data for Good Foundation,2020-12-05,1093
-Data for Good Foundation,2020-12-12,1100
-Data for Good Foundation,2020-12-15,1103
-Data for Good Foundation,2020-12-20,1109
-Data for Good Foundation,2020-12-25,1112
-Data for Good Foundation,2020-12-29,1113
-Data for Good Foundation,2021-01-03,1119
-Data for Good Foundation,2021-01-06,1124
-Data for Good Foundation,2021-01-11,1129
-Data for Good Foundation,2021-01-15,1144
-Data for Good Foundation,2021-01-19,1147
-Data for Good Foundation,2021-01-25,1159
-Data for Good Foundation,2021-01-30,1168
-Data for Good Foundation,2021-01-31,1168
-Data for Good Foundation,2021-02-03,1175
-Data for Good Foundation,2021-02-07,1178
-Data for Good Foundation,2021-02-12,1185
-Data for Good Foundation,2021-02-17,1190
-Data for Good Foundation,2021-02-21,1193
-Data for Good Foundation,2021-02-25,1195
-Data for Good Foundation,2021-03-01,1199
-Data for Good Foundation,2021-03-06,1205
-Data for Good Foundation,2021-03-10,1207
-Data for Good Foundation,2021-03-16,1216
-Data for Good Foundation,2021-03-20,1223
-Data for Good Foundation,2021-03-24,1223
-Data for Good Foundation,2021-03-30,1232
-Data for Good Foundation,2021-04-06,1244
-Data for Good Foundation,2021-04-10,1251
-Data for Good Foundation,2021-04-15,1255
-Data for Good Foundation,2021-04-20,1260
-Data for Good Foundation,2021-04-24,1265
-Data for Good Foundation,2021-04-28,1266
-Data for Good Foundation,2021-05-03,1279
-Data for Good Foundation,2021-05-07,1285
-Data for Good Foundation,2021-05-10,1288
-Data for Good Foundation,2021-05-14,1295
-Data for Good Foundation,2021-05-21,1302
-Data for Good Foundation,2021-05-26,1306
-Data for Good Foundation,2021-06-02,1312
-Data for Good Foundation,2021-06-09,1315
-Data for Good Foundation,2021-06-16,1316
-Data for Good Foundation,2021-06-21,1319
-Data for Good Foundation,2021-06-29,1323
-Data for Good Foundation,2021-07-02,1328
-Data for Good Foundation,2021-07-04,1330
-Data for Good Foundation,2021-07-09,1333
-Data for Good Foundation,2021-07-14,1337
-Data for Good Foundation,2021-07-18,1340
-Data for Good Foundation,2021-07-22,1342
-Data for Good Foundation,2021-08-14,1361
-Data for Good Foundation,2021-08-26,1374
-Data for Good Foundation,2021-09-02,1384
-Data for Good Foundation,2021-09-16,1399
-Data for Good Foundation,2021-10-17,1423
-Data for Good Foundation,2021-10-29,1429
-Data for Good Foundation,2021-11-06,1436
-Data for Good Foundation,2021-11-20,1447
-Data for Good Foundation,2021-12-07,1462
-Data for Good Foundation,2021-12-14,1471
-Data for Good Foundation,2021-12-20,1477
-Data for Good Foundation,2021-12-26,1480
-Data for Good Foundation,2021-12-30,1483
-Data for Good Foundation,2021-12-31,1484
-Data for Good Foundation,2022-01-03,1488
-Data for Good Foundation,2022-01-04,1489
-Data for Good Foundation,2022-01-06,1490
-Data for Good Foundation,2022-01-07,1492
-Data for Good Foundation,2022-01-10,1493
-Data for Good Foundation,2022-01-14,1495
-Data for Good Foundation,2022-01-18,1497
-Data for Good Foundation,2022-01-27,1507
-Data for Good Foundation,2022-02-01,1511
-Data for Good Foundation,2022-02-07,1527
-Data for Good Foundation,2022-02-10,1539
-Data for Good Foundation,2022-02-12,1549
-Data for Good Foundation,2022-02-16,1555
-Data for Good Foundation,2022-03-07,1582
-Data for Good Foundation,2022-03-15,1594
-Data for Good Foundation,2022-03-20,1600
-Data for Good Foundation,2022-03-31,1616
-Data for Good Foundation,2022-04-09,1622
-Data for Good Foundation,2022-04-11,1622
-Data for Good Foundation,2022-04-19,1631
-Data for Good Foundation,2022-05-22,1664
-Data for Good Foundation,2022-05-23,1667
-Data for Good Foundation,2022-05-25,1671
-Data for Good Foundation,2022-05-27,1674
-Data for Good Foundation,2022-05-30,1674
-Data for Good Foundation,2022-06-07,1688
-Data for Good Foundation,2022-06-08,1688
-Data for Good Foundation,2022-06-11,1691
-Data for Good Foundation,2022-06-13,1692
-Data for Good Foundation,2022-06-15,1697
-Data for Good Foundation,2022-06-20,1701
-Data for Good Foundation,2022-06-22,1704
-Data for Good Foundation,2022-06-23,1705
-Data for Good Foundation,2022-06-24,1705
-Data for Good Foundation,2022-06-26,1706
-Data for Good Foundation,2022-06-28,1708
-Data for Good Foundation,2022-06-30,1715
-Data for Good Foundation,2022-07-01,1720
-Data for Good Foundation,2022-07-02,1721
-Data for Good Foundation,2022-07-04,1725
-Data for Good Foundation,2022-07-05,1728
-Data for Good Foundation,2022-07-09,1733
-Data for Good Foundation,2022-07-12,1738
-Data for Good Foundation,2022-07-18,1740
-Data for Good Foundation,2022-07-21,1745
-Data for Good Foundation,2022-07-23,1747
-Data for Good Foundation,2022-07-25,1749
-Data for Good Foundation,2022-08-01,1761
-Data for Good Foundation,2022-08-08,1780
-Data for Good Foundation,2022-08-16,1799
-Data for Good Foundation,2022-08-20,1806
-Data for Good Foundation,2022-08-25,1816
-Data for Good Foundation,2022-08-28,1823
-Data for Good Foundation,2022-09-01,1830
-Data for Good Foundation,2022-09-07,1847
-Data for Good Foundation,2022-09-10,1851
-Data for Good Foundation,2022-09-16,1860
-Data for Good Foundation,2022-09-22,1872
-Data for Good Foundation,2022-09-29,1880
-Data for Good Foundation,2022-10-03,1889
-Data for Good Foundation,2022-10-09,1918
-Data for Good Foundation,2022-10-12,1934
-Data for Good Foundation,2022-10-16,1945
-Data for Good Foundation,2022-10-22,1954
-Data for Good Foundation,2022-10-28,1983
-Data for Good Foundation,2022-11-03,1990
-Data for Good Foundation,2022-11-06,1989
-Data for Good Foundation,2022-11-14,1994
-Data for Good Foundation,2022-11-20,2003
-Data for Good Foundation,2022-11-24,2008
-Data for Good Foundation,2022-12-01,2023
-Data for Good Foundation,2022-12-08,2034
-Data for Good Foundation,2022-12-14,2037
-Data for Good Foundation,2022-12-27,2053
-Data for Good Foundation,2023-01-01,2060
-Data for Good Foundation,2023-01-05,2068
-Data for Good Foundation,2023-01-09,2074
-Data for Good Foundation,2023-01-22,2102
-Data for Good Foundation,2023-01-28,2110
-Data for Good Foundation,2023-02-04,2122
-Data for Good Foundation,2023-02-10,2130
-Data for Good Foundation,2023-02-13,2134
-Data for Good Foundation,2023-02-24,2143
-Data for Good Foundation,2023-03-10,2162
-Data for Good Foundation,2023-03-14,2165
-Data for Good Foundation,2023-03-18,2171
-Data for Good Foundation,2023-03-21,2176
-Data for Good Foundation,2023-03-25,2181
-Data for Good Foundation,2023-04-01,2189
-Data for Good Foundation,2023-04-10,2199
-Data for Good Foundation,2023-04-13,2203
-Data for Good Foundation,2023-04-21,2206
-Data for Good Foundation,2023-04-29,2211
-Data for Good Foundation,2023-05-12,2220
-Data for Good Foundation,2023-05-19,2224
-Data for Good Foundation,2023-05-29,2228
-Data for Good Foundation,2023-06-05,2230
-Data for Good Foundation,2023-06-11,2231
-Data for Good Foundation,2023-06-14,2235
-Data for Good Foundation,2023-06-17,2237
-Data for Good Foundation,2023-06-23,2239
-Data for Good Foundation,2023-06-27,2241
-Data for Good Foundation,2023-07-06,2248
-Data for Good Foundation,2023-07-23,2261
-Data for Good Foundation,2023-08-02,2270
-Data for Good Foundation,2023-08-08,2272
-Data for Good Foundation,2023-08-10,2273
-Data for Good Foundation,2023-08-29,2276
-Data for Good Foundation,2023-09-15,2285
-Data for Good Foundation,2023-10-18,2295
-Data for Good Foundation,2023-12-16,2264
-Data for Good Foundation,2023-12-18,2264
-Data for Good Foundation,2024-01-22,2282
-Data for Good Foundation,2024-04-09,2306
-Data for Good Foundation,2024-04-17,2306
-Data for Good Foundation,2024-04-19,2306
-Data for Good Foundation,2024-04-28,2306
-Data for Good Foundation,2024-05-03,2310
-Data for Good Foundation,2024-05-19,2311
-Data for Good Foundation,2024-06-08,2315
-Data for Good Foundation,2024-06-24,2329
-Data for Good Foundation,2024-07-11,2335
-Data for Good Foundation,2024-07-17,2335
-Data for Good Foundation,2024-07-23,2334
-Data for Good Foundation,2024-08-02,2335
-Data for Good Foundation,2024-08-06,2334
-Data for Good Foundation,2024-08-09,2333
-Data for Good Foundation,2024-08-20,2335
-Data for Good Foundation,2024-09-02,2334
-Data for Good Foundation,2024-09-07,2335
-Data for Good Foundation,2024-09-10,2334
-Data for Good Foundation,2024-09-16,2334
-Data for Good Foundation,2024-09-24,2336
-Data for Good Foundation,2024-10-02,2339
-Data for Good Foundation,2024-11-15,2357
-Data for Good Foundation,2024-11-24,2359
-Data for Good Foundation,2024-12-07,2361
-Data for Good Foundation,2025-01-08,2368
-Data for Good Foundation,2025-01-18,2367
-Data for Good Foundation,2025-01-27,2372
-Data for Good Foundation,2025-02-04,2375
-Data for Good Foundation,2025-02-20,2383
-Data for Good Foundation,2025-02-28,2388
-Data for Good Foundation,2025-03-03,2388
-Data for Good Foundation,2025-03-16,2389
-Data for Good Foundation,2025-04-13,2391
-Data for Good Foundation,2025-04-22,2395
-Data for Good Foundation,2025-04-27,2395
-Data for Good Foundation,2025-04-28,2395
-Data for Good Foundation,2025-05-06,2395
-Data for Good Foundation,2025-05-20,2398
-Data for Good Foundation,2025-05-25,2399
-Data for Good Foundation,2025-05-27,2398
-Data for Good Foundation,2025-06-01,2397
-Data for Good Foundation,2025-06-07,2395
-Data for Good Foundation,2025-06-08,2394
-Data for Good Foundation,2025-06-09,2394
-Data for Good Foundation,2025-06-10,2393
-Data for Good Foundation,2025-06-22,2400
-Data for Good Foundation,2025-07-01,2401
-Data for Good Foundation,2025-07-04,2401
-Data for Good Foundation,2025-07-08,2401
-Data for Good Foundation,2025-07-15,2403
-Data for Good Foundation,2025-07-27,2403
-Data for Good Foundation,2025-08-11,2402
-Data for Good Foundation,2025-08-15,2401
-Data for Good Foundation,2025-08-18,2401
-Data for Good Foundation,2025-08-21,2400
-Data for Good Foundation,2025-08-26,2402
-Data for Good Foundation,2025-08-30,2402
-Data for Good Foundation,2025-09-17,2408
-Data for Good Foundation,2026-04-07,2499
-Data for Good Foundation,2026-04-29,2498
-Data for Good Foundation,2026-05-12,2501
-Data for Good Foundation,2026-05-31,2510
-Data2X,2025-08-21,6212
-Data2X,2025-08-26,6260
-Data2X,2025-08-30,6260
-Data2X,2025-09-17,6431
-Data2X,2026-04-07,6784
-Data2X,2026-04-29,6793
-Data2X,2026-05-12,6801
-Data2X,2026-05-31,6811
-Data2X United Nations Foundation,2021-07-14,2316
-Data2X United Nations Foundation,2021-07-18,2320
-Data2X United Nations Foundation,2021-07-22,2327
-Data2X United Nations Foundation,2021-08-14,2399
-Data2X United Nations Foundation,2021-08-26,2415
-Data2X United Nations Foundation,2021-09-02,2425
-Data2X United Nations Foundation,2021-09-16,2445
-Data2X United Nations Foundation,2021-10-17,2514
-Data2X United Nations Foundation,2021-10-29,2541
-Data2X United Nations Foundation,2021-11-06,2549
-Data2X United Nations Foundation,2021-11-20,2581
-Data2X United Nations Foundation,2021-12-07,2600
-Data2X United Nations Foundation,2021-12-14,2614
-Data2X United Nations Foundation,2021-12-20,2621
-Data2X United Nations Foundation,2021-12-26,2626
-Data2X United Nations Foundation,2021-12-30,2626
-Data2X United Nations Foundation,2021-12-31,2627
-Data2X United Nations Foundation,2022-01-03,2628
-Data2X United Nations Foundation,2022-01-04,2630
-Data2X United Nations Foundation,2022-01-06,2631
-Data2X United Nations Foundation,2022-01-07,2636
-Data2X United Nations Foundation,2022-01-10,2639
-Data2X United Nations Foundation,2022-01-14,2659
-Data2X United Nations Foundation,2022-01-18,2669
-Data2X United Nations Foundation,2022-01-27,2694
-Data2X United Nations Foundation,2022-02-01,2701
-Data2X United Nations Foundation,2022-02-10,2712
-Data2X United Nations Foundation,2022-02-16,2721
-Data2X United Nations Foundation,2022-02-20,2725
-Data2X United Nations Foundation,2022-02-23,2734
-Data2X United Nations Foundation,2022-02-26,2739
-Data2X United Nations Foundation,2022-03-03,2752
-Data2X United Nations Foundation,2022-03-07,2761
-Data2X United Nations Foundation,2022-03-31,2808
-Data2X United Nations Foundation,2022-04-09,2829
-Data2X United Nations Foundation,2022-04-11,2834
-Data2X United Nations Foundation,2022-04-13,2843
-Data2X United Nations Foundation,2022-04-19,2862
-Data2X United Nations Foundation,2022-04-25,2882
-Data2X United Nations Foundation,2022-04-29,2898
-Data2X United Nations Foundation,2022-05-05,2906
-Data2X United Nations Foundation,2022-05-22,2984
-Data2X United Nations Foundation,2022-05-25,2988
-Data2X United Nations Foundation,2022-05-27,2991
-Data2X United Nations Foundation,2022-05-30,2998
-Data2X United Nations Foundation,2022-06-07,3010
-Data2X United Nations Foundation,2022-06-08,3010
-Data2X United Nations Foundation,2022-06-11,3023
-Data2X United Nations Foundation,2022-06-15,3039
-Data2X United Nations Foundation,2022-06-16,3045
-Data2X United Nations Foundation,2022-06-22,3063
-Data2X United Nations Foundation,2022-06-24,3069
-Data2X United Nations Foundation,2022-06-26,3072
-Data2X United Nations Foundation,2022-06-28,3074
-Data2X United Nations Foundation,2022-06-30,3079
-Data2X United Nations Foundation,2022-07-01,3082
-Data2X United Nations Foundation,2022-07-02,3082
-Data2X United Nations Foundation,2022-07-04,3088
-Data2X United Nations Foundation,2022-07-05,3092
-Data2X United Nations Foundation,2022-07-09,3110
-Data2X United Nations Foundation,2022-07-12,3117
-Data2X United Nations Foundation,2022-07-18,3127
-Data2X United Nations Foundation,2022-07-21,3137
-Data2X United Nations Foundation,2022-07-23,3137
-Data2X United Nations Foundation,2022-07-25,3144
-Data2X United Nations Foundation,2022-08-01,3160
-Data2X United Nations Foundation,2022-08-08,3173
-Data2X United Nations Foundation,2022-08-16,3189
-Data2X United Nations Foundation,2022-08-20,3197
-Data2X United Nations Foundation,2022-08-25,3213
-Data2X United Nations Foundation,2022-08-28,3221
-Data2X United Nations Foundation,2022-09-01,3238
-Data2X United Nations Foundation,2022-09-07,3249
-Data2X United Nations Foundation,2022-09-10,3258
-Data2X United Nations Foundation,2022-09-16,3284
-Data2X United Nations Foundation,2022-09-22,3301
-Data2X United Nations Foundation,2022-09-29,3347
-Data2X United Nations Foundation,2022-10-03,3364
-Data2X United Nations Foundation,2022-10-09,3384
-Data2X United Nations Foundation,2022-10-12,3399
-Data2X United Nations Foundation,2022-10-16,3408
-Data2X United Nations Foundation,2022-10-22,3432
-Data2X United Nations Foundation,2022-10-28,3452
-Data2X United Nations Foundation,2022-11-03,3470
-Data2X United Nations Foundation,2022-11-06,3472
-Data2X United Nations Foundation,2022-11-14,3496
-Data2X United Nations Foundation,2022-11-20,3511
-Data2X United Nations Foundation,2022-11-24,3512
-Data2X United Nations Foundation,2022-12-01,3530
-Data2X United Nations Foundation,2022-12-08,3537
-Data2X United Nations Foundation,2022-12-14,3549
-Data2X United Nations Foundation,2022-12-27,3571
-Data2X United Nations Foundation,2023-01-01,3577
-Data2X United Nations Foundation,2023-01-05,3590
-Data2X United Nations Foundation,2023-01-09,3596
-Data2X United Nations Foundation,2023-01-22,3626
-Data2X United Nations Foundation,2023-01-28,3636
-Data2X United Nations Foundation,2023-02-04,3660
-Data2X United Nations Foundation,2023-02-10,3686
-Data2X United Nations Foundation,2023-02-13,3698
-Data2X United Nations Foundation,2023-02-24,3738
-Data2X United Nations Foundation,2023-03-10,3768
-Data2X United Nations Foundation,2023-03-14,3781
-Data2X United Nations Foundation,2023-03-18,3793
-Data2X United Nations Foundation,2023-03-21,3800
-Data2X United Nations Foundation,2023-03-25,3811
-Data2X United Nations Foundation,2023-04-01,3838
-Data2X United Nations Foundation,2023-04-10,3855
-Data2X United Nations Foundation,2023-04-13,3866
-Data2X United Nations Foundation,2023-04-21,3889
-Data2X United Nations Foundation,2023-04-29,3909
-Data2X United Nations Foundation,2023-05-12,3971
-Data2X United Nations Foundation,2023-05-19,3990
-Data2X United Nations Foundation,2023-05-29,4012
-Data2X United Nations Foundation,2023-06-05,4025
-Data2X United Nations Foundation,2023-06-11,4031
-Data2X United Nations Foundation,2023-06-14,4037
-Data2X United Nations Foundation,2023-06-17,4043
-Data2X United Nations Foundation,2023-06-23,4058
-Data2X United Nations Foundation,2023-06-27,4068
-Data2X United Nations Foundation,2023-07-06,4084
-Data2X United Nations Foundation,2023-07-23,4144
-Data2X United Nations Foundation,2023-08-02,4180
-Data2X United Nations Foundation,2023-08-08,4218
-Data2X United Nations Foundation,2023-08-10,4244
-Data2X United Nations Foundation,2023-08-29,4319
-Data2X United Nations Foundation,2023-09-15,4355
-Data2X United Nations Foundation,2023-10-18,4455
-Data2X United Nations Foundation,2023-12-16,4627
-Data2X United Nations Foundation,2023-12-18,4631
-Data2X United Nations Foundation,2024-01-22,4728
-Data2X United Nations Foundation,2024-04-09,5014
-Data2X United Nations Foundation,2024-04-17,5038
-Data2X United Nations Foundation,2024-04-19,5038
-Data2X United Nations Foundation,2024-04-28,5068
-Data2X United Nations Foundation,2024-05-03,5073
-Data2X United Nations Foundation,2024-05-19,5105
-Data2X United Nations Foundation,2024-06-08,5150
-Data2X United Nations Foundation,2024-06-24,5180
-Data2X United Nations Foundation,2024-07-17,5317
-Data2X United Nations Foundation,2024-07-23,5342
-Data2X United Nations Foundation,2024-08-02,5365
-Data2X United Nations Foundation,2024-08-06,5369
-Data2X United Nations Foundation,2024-08-09,5372
-Data2X United Nations Foundation,2024-08-20,5383
-Data2X United Nations Foundation,2024-09-02,5410
-Data2X United Nations Foundation,2024-09-07,5421
-Data2X United Nations Foundation,2024-09-10,5438
-Data2X United Nations Foundation,2024-09-16,5453
-Data2X United Nations Foundation,2024-09-24,5477
-Data2X United Nations Foundation,2024-10-02,5499
-"Data2X, United Nations Foundation",2024-11-15,5564
-"Data2X, United Nations Foundation",2024-11-24,5573
-"Data2X, United Nations Foundation",2024-12-07,5579
-"Data2X, United Nations Foundation",2025-01-08,5595
-"Data2X, United Nations Foundation",2025-01-18,5602
-"Data2X, United Nations Foundation",2025-01-27,5611
-"Data2X, United Nations Foundation",2025-02-04,5632

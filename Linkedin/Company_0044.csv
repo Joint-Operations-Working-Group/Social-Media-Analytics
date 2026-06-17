@@ -1,4 +1,107 @@
 Company,Date,Followers
+Safi App,2025-04-27,227
+Safi App,2025-04-28,227
+Safi App,2025-05-06,227
+Safi App,2025-05-20,226
+Safi App,2025-05-25,225
+Safi App,2025-05-27,226
+Safi App,2025-06-01,226
+Safi App,2025-06-07,226
+Safi App,2025-06-08,226
+Safi App,2025-06-09,226
+Safi App,2025-06-10,226
+Safi App,2025-06-22,226
+Safi App,2025-07-01,227
+Safi App,2025-07-04,227
+Safi App,2025-07-08,227
+Safi App,2025-07-15,226
+Safi App,2025-07-27,227
+Safi App,2025-08-11,228
+Safi App,2025-08-15,228
+Safi App,2025-08-18,228
+Safi App,2025-08-21,228
+Safi App,2025-08-26,228
+Safi App,2025-08-30,228
+Safi App,2025-09-17,227
+Safi App,2026-04-29,223
+Safi App,2026-06-17,224
+Sage Bionetworks,2023-01-25,6040
+Sage Bionetworks,2023-01-29,6048
+Sahel DataBank,2021-06-02,14
+Sahel DataBank,2021-06-09,14
+Sahel DataBank,2021-06-16,14
+Sahel DataBank,2021-06-21,14
+Sahel DataBank,2021-06-29,14
+Sahel DataBank,2021-07-02,14
+Sahel DataBank,2021-07-04,14
+Sahel DataBank,2021-07-09,14
+Sahel DataBank,2021-07-14,14
+Sahel DataBank,2021-07-18,14
+Sahel DataBank,2021-07-22,14
+Sahel DataBank,2021-08-14,14
+Sahel DataBank,2021-08-26,14
+Sahel DataBank,2021-09-02,14
+Sahel DataBank,2021-09-16,14
+Sahel DataBank,2021-10-17,14
+Sahel DataBank,2021-10-29,14
+Sahel DataBank,2021-11-06,14
+Sahel DataBank,2021-11-20,14
+Sahel DataBank,2021-12-07,14
+Sahel DataBank,2021-12-14,14
+Sahel DataBank,2021-12-20,14
+Sahel DataBank,2021-12-26,14
+Sahel DataBank,2021-12-30,14
+Sahel DataBank,2021-12-31,14
+Sahel DataBank,2022-01-03,14
+Sahel DataBank,2022-01-04,14
+Sahel DataBank,2022-01-06,14
+Sahel DataBank,2022-01-07,14
+Sahel DataBank,2022-01-10,14
+Sahel DataBank,2022-01-14,14
+Sahel DataBank,2022-01-18,14
+Sahel DataBank,2022-01-27,14
+Sahel DataBank,2022-02-01,14
+Sahel DataBank,2022-02-16,14
+Sahel DataBank,2022-02-20,14
+Sahel DataBank,2022-02-23,14
+Sahel DataBank,2022-02-26,14
+Sahel DataBank,2022-05-05,14
+Salesforce,2023-01-21,4231321
+Salesforce,2023-02-10,4272746
+Salesforce,2023-02-25,4298023
+Salesforce,2023-03-13,4327978
+Salesforce,2023-03-29,4360489
+Salesforce,2023-04-10,4386082
+Salesforce,2023-04-23,4415006
+Salesforce,2023-06-05,4510175
+Salesforce,2023-06-11,4527138
+Salesforce,2023-06-23,4563172
+Salesforce,2023-07-06,4605334
+Salesforce,2023-07-23,4657942
+Salesforce,2023-08-05,4699264
+Salesforce,2023-08-29,4762621
+Salesforce,2023-10-18,4940150
+Salesforce,2023-12-14,4756451
+Salesforce,2023-12-17,4765714
+Salesforce,2023-12-18,4768336
+Salesforce,2024-04-08,5049827
+Salesforce,2024-05-04,5119045
+Salesforce,2024-05-28,5174448
+Salesforce,2024-06-24,5228328
+Salesforce,2024-06-28,5237195
+Salesforce,2024-07-20,5288722
+Salesforce,2024-08-06,5325947
+Salesforce,2024-09-02,5367002
+Salesforce,2024-09-16,5394566
+Salesforce,2024-09-27,5424604
+Salesforce,2025-01-09,5579153
+Salesforce,2025-01-19,5601703
+Salesforce,2025-01-27,5622315
+Salesforce,2025-02-21,5674556
+Salesforce,2025-02-28,5686399
+Salesforce,2025-03-15,5714181
+Salesforce,2025-03-16,5715316
+Salesforce,2025-04-28,5796853
 Salesforce,2025-05-27,5851675
 Salesforce,2025-06-07,5871156
 Salesforce,2025-07-27,5966816
@@ -64,6 +167,7 @@ Salesforce Marketing Cloud,2025-06-07,150119
 Salesforce Marketing Cloud,2025-07-27,150499
 Salesforce Marketing Cloud,2025-08-18,150583
 Salesforce Marketing Cloud,2025-08-30,150648
+Salesforce News & Insights,2026-05-31,124690
 Salesforce Partners,2023-01-21,64327
 Salesforce Partners,2023-02-25,65486
 Salesforce Partners,2023-03-13,66048
@@ -141,6 +245,7 @@ Salk Institute for Biological Studies,2023-01-25,20884
 Salk Institute for Biological Studies,2023-01-29,20942
 Samsara Therapeutics,2023-01-25,968
 Samsara Therapeutics,2023-01-29,979
+Samsung Electronics,2026-05-31,5043359
 Samsung Electronics America,2023-01-22,390853
 Samsung Semiconductor,2023-03-13,78017
 Samsung Semiconductor,2023-03-29,82598
@@ -404,6 +509,7 @@ SatVu,2025-08-30,11789
 SatVu,2025-09-17,11864
 SatVu,2026-04-07,13751
 SatVu,2026-04-29,13928
+SatVu,2026-06-17,14326
 Satellite Evolution Group,2023-01-21,4727
 Satellite Evolution Group,2023-02-25,4839
 Satellite Evolution Group,2023-03-13,4905
@@ -479,67 +585,149 @@ Satellogic,2023-06-23,27712
 Satellogic,2023-07-06,27875
 SciML,2026-03-16,4179
 SciML,2026-04-07,4185
+SciML,2026-06-17,4219
+Seasalt.ai,2026-06-17,1066
+Seattle Startup Summit,2026-05-31,373
+Segal Family Foundation,2026-06-17,32686
 Senseforth.ai,2026-04-29,42861
+Senseforth.ai,2026-06-17,42888
 Sentient Projects,2026-04-07,638
 Sentient Projects,2026-04-29,637
+Sentient Projects,2026-06-17,635
 Sheffield Women in Computer Science Society,2026-03-16,157
 Sheffield Women in Computer Science Society,2026-03-17,157
 Sheffield Women in Computer Science Society,2026-03-17,157
+Shell,2026-05-31,7713901
+Siegel Family Endowment,2026-05-31,9158
+Siemens Energy,2026-05-31,3027765
+Siemens Healthineers,2026-05-31,1780812
 Sister Analyst,2026-04-07,568
 Sister Analyst,2026-04-29,567
+Sister Analyst,2026-06-17,567
 Skoll Foundation,2026-04-29,123873
+Skoll Foundation,2026-06-17,129937
 SkyTruth,2026-04-07,5524
+SkyTruth,2026-06-17,5707
+Slack,2026-05-31,1766273
 Smart Data Foundry,2026-04-07,6866
+Smart Data Foundry,2026-06-17,7001
+Smithsonian Institution,2026-05-31,307605
 Snowflake,2026-04-07,1258529
 Snowflake,2026-04-29,1275008
+Snowflake,2026-06-17,1321787
+Snowflake Public Sector,2026-05-31,9476
+Society for Brain Mapping & Therapeutics (SBMT),2026-05-31,3094
+Society of Research Software Engineering,2026-05-31,1329
 Softest Consulting Services Ltd,2026-03-16,6046
 Software Insights Ireland,2026-04-29,1278
+Software Insights Ireland,2026-06-17,1278
 Software Lancaster Talks,2026-03-16,870
 Sololearn,2026-04-29,171889
+Sololearn,2026-06-17,172058
 Somalens AI Health App,2026-04-07,559
+Somalens Health Assistant App,2026-06-17,568
+Sony Pictures Entertainment,2026-05-31,1843366
+Soros Economic Development Fund,2026-05-31,4280
+Sotheby's Institute of Art,2026-05-31,112374
 Source Cooperative,2026-04-07,4965
 Source Cooperative,2026-04-29,5015
+Source Cooperative,2026-06-17,5105
+Sovereign Tech Agency,2026-06-17,10670
 Space42,2026-03-16,179162
 Space4Good,2026-04-07,14738
+Space4Good,2026-06-17,15197
+Spare Cores,2026-06-17,422
 Spark,2026-04-07,7690
+Spark,2026-06-17,7732
+Spatial Data Science Conference,2026-06-17,5332
 Spatial Thoughts,2026-04-07,49261
+Spatial Thoughts,2026-06-17,49804
 Squarepoint,2026-04-29,80811
+Squarepoint,2026-06-17,83888
 Stack Overflow,2026-03-16,1595171
 Stack Overflow,2026-03-17,1596814
 Stack Overflow,2026-04-29,1597683
+Stack Overflow,2026-06-17,1599016
 Stanford Center for AIMI,2026-04-07,91849
+Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2026-06-17,92905
 Statistical Models for Social Sciences Consultant,2026-04-07,9851
+Statistical Models for Social Sciences Consultant,2026-06-17,11482
 Statistics Globe,2026-04-07,14715
 Statistics Globe,2026-04-29,14884
+Statistics Globe,2026-06-17,15102
 Statistics Without Borders,2026-04-29,2636
+Statistics Without Borders,2026-06-17,2652
+Story Changes Culture,2026-05-31,711
+Stripe,2026-05-31,1443580
+Strong Floor No Ceiling,2026-05-31,153
 SuperDataScience,2026-04-07,94244
 SuperDataScience,2026-04-29,94227
+SuperDataScience,2026-06-17,94267
+Superbloom,2026-05-31,1492
+Susquehanna International Group,2026-06-17,242538
+SustainOSS,2026-05-31,730
+SustainOSS,2026-06-17,737
 Sustainable Development Solutions Network,2026-04-07,88535
 Sustainable Development Solutions Network,2026-04-29,89125
+Sustainable Development Solutions Network,2026-06-17,90397
 Swiss Federal Institute WSL,2026-04-07,17797
+Swiss Federal Institute for Forest Snow and Landscape Research WSL,2026-06-17,19031
 Swiss Philanthropy Foundation,2026-03-16,10164
 Swiss Philanthropy Foundation,2026-03-17,10178
+Swiss Reproducibility Network,2026-05-31,359
 SwissAI,2026-03-16,479
 Sydney Machine Learning Group,2026-03-16,195
 Sydney Machine Learning Group,2026-03-17,197
 Sylvera,2026-04-07,44986
+Sylvera,2026-06-17,46728
+Systematica,2026-05-31,13686
+TIOBE Software,2026-05-31,2410
+TIOBE Software,2026-06-17,2418
+TSRL Inc,2026-06-17,1027
 Tableau,2026-04-29,1155276
+Tableau,2026-06-17,1174203
 Tag Ng,2026-04-07,3209
 Tag Ng,2026-04-29,3211
+Tag Ng,2026-06-17,3209
+Tamer Consumer,2026-05-31,13094
+Tamer Group,2026-05-31,188482
+Tamer Healthcare,2026-05-31,70530
+Tamer Institute for Social Enterprise and Climate Change at Columbia University,2026-05-31,5972
+Target,2026-05-31,2471021
 Tata Consultancy Services,2026-04-07,18768044
 Tata Consultancy Services,2026-04-29,18860933
+Tata Consultancy Services,2026-06-17,19049087
+Tax Debt Help Now,2026-05-31,2647
+Teachers in Space Inc.,2026-05-31,1126
 TechIreland,2026-04-07,9916
+TechIreland,2026-06-17,10132
 Tekkare,2026-04-29,1884
+Tekkare,2026-06-17,1901
+Teradata,2026-05-31,549393
+Thales Cybersecurity Products,2026-05-31,55096
 Thalesians Ltd,2026-03-16,5709
 Thalesians Ltd,2026-03-17,5715
+The Accounting Podcast,2026-05-31,25408
 The Alan Turing Institute,2026-04-07,111559
 The Alan Turing Institute,2026-04-29,112377
+The Alan Turing Institute,2026-06-17,114754
+The Analytics Institute,2026-06-17,10796
 The Apache Software Foundation,2026-04-29,81571
+The Apache Software Foundation,2026-06-17,82511
+The Bernstein Center for Leadership and Ethics,2026-05-31,1887
+The Business of Fashion,2026-05-31,1017512
+The Capitol Forum,2026-05-31,3853
+The Carpentries,2026-05-31,4067
+The Carpentries,2026-06-17,4092
 The Catalyst,2026-04-07,1936
 The Catalyst,2026-04-29,1979
+The Catalyst,2026-06-17,2056
 The Collective Impact Group For Guinea,2026-04-07,156
 The Collective Impact Group For Guinea,2026-04-29,157
+The Collective Impact Group For Guinea,2026-06-17,156
 The Currency,2026-04-07,28751
+The Currency,2026-06-17,29946
+The Data Inspiration Group,2026-05-31,4612
 The Data Lab - Innovation Centre,2026-03-16,18110
 The Data Lab - Innovation Centre,2026-03-17,18140
 The Data Pub,2026-03-16,3584
@@ -547,16 +735,26 @@ The Data Pub,2026-03-17,3588
 The Data Science & Statistics Society,2026-03-16,595
 The Data Science & Statistics Society,2026-03-17,597
 The Data Science & Statistics Society,2026-03-17,597
+The Data Science Institute at Columbia University,2026-05-31,20038
 The David and Lucile Packard Foundation,2026-04-29,72321
+The David and Lucile Packard Foundation,2026-06-17,74963
+The FAIR Elephant,2026-05-31,426
+The Frick Collection,2026-05-31,36956
 The Global Academy,2026-04-07,528
 The Global Academy,2026-04-29,526
+The Global Academy,2026-06-17,534
+The Hub at Columbia Business School,2026-05-31,2077
 The James Irvine Foundation,2026-04-07,27552
 The James Irvine Foundation,2026-04-29,27939
+The James Irvine Foundation,2026-06-17,28746
 The Julia Language,2026-04-29,16518
+The Julia Language,2026-06-17,16603
 The Kresge Foundation,2026-04-07,79308
 The Kresge Foundation,2026-04-29,80587
+The Kresge Foundation,2026-06-17,82913
 The LEGO Foundation,2026-03-16,137270
 The LEGO Foundation,2026-03-17,137452
+The Linux Foundation,2026-06-17,405897
 The Machine Learning Institute Certificate in Finance (MLI),2026-03-16,1634
 The Machine Learning Institute Certificate in Finance (MLI),2026-03-17,1639
 The Manchester AI Society,2026-03-16,1117
@@ -564,8 +762,20 @@ The Manchester AI Society,2026-03-17,1119
 The Manchester AI Society,2026-03-17,1119
 The Michael J. Fox Foundation for Parkinson's Research,2026-03-16,58151
 The Michael J. Fox Foundation for Parkinson's Research,2026-03-17,58236
+The Morgan Library & Museum,2026-05-31,11699
+The National Academies of Sciences Engineering and Medicine,2026-05-31,40847
+The Navigation Fund,2026-06-17,1451
+The New York Academy of Sciences,2026-05-31,29729
 The New York Community Trust,2026-04-29,10170
+The New York Community Trust,2026-05-31,10415
+The New York Community Trust,2026-06-17,10527
+The Nonprofit Show,2026-05-31,3454
+The Organization for Women in Science for the Developing World (OWSD),2026-06-17,10658
+The Quantum Insider,2026-05-31,62184
+The R Foundation for Statistical Computing,2026-06-17,13834
+The Reality Crafters,2026-05-31,36
 The Rockefeller Foundation,2026-04-29,422741
+The Rockefeller Foundation,2026-06-17,435173
 The Surfrider Foundation,2026-03-16,43290
 The Surfrider Foundation,2026-03-17,43330
 The University of Alabama in Huntsville,2024-09-02,54835
@@ -637,6 +847,8 @@ The Use of R in Official Statistics - uRos,2025-08-26,328
 The Use of R in Official Statistics - uRos,2025-08-30,328
 The Use of R in Official Statistics - uRos,2025-09-17,344
 The Use of R in Official Statistics - uRos,2026-04-07,868
+The Use of R in Official Statistics - uRos,2026-05-31,1077
+The Use of R in Official Statistics - uRos,2026-06-17,1091
 The Wall Street Journal,2023-01-21,9616348
 The Wall Street Journal,2023-02-10,9641158
 The Wall Street Journal,2023-02-25,9656890
@@ -1007,6 +1219,7 @@ The unbelievable Machine Company GmbH,2025-08-30,2780
 The unbelievable Machine Company GmbH,2025-09-17,2789
 Thermo Fisher Scientific,2023-01-25,1138075
 Thermo Fisher Scientific,2023-01-29,1140448
+Thermo Fisher Scientific,2026-05-31,2314905
 Thimphu TechPark,2021-06-02,83
 Thimphu TechPark,2021-06-09,83
 Thimphu TechPark,2021-06-16,84
@@ -1205,6 +1418,7 @@ Thimphu TechPark,2025-08-30,645
 Thimphu TechPark,2025-09-17,698
 Thimphu TechPark,2026-04-07,1275
 Thimphu TechPark,2026-04-29,1322
+Thimphu TechPark,2026-06-17,1413
 ThinkOrbital,2023-01-21,3600
 ThinkOrbital,2023-02-25,3820
 ThinkOrbital,2023-03-13,3867
@@ -1481,6 +1695,7 @@ ThinkR (FR),2025-08-26,997
 ThinkR (FR),2025-08-30,997
 ThinkR (FR),2025-09-17,1000
 ThinkR (FR),2026-04-29,1052
+ThinkR (FR),2026-06-17,1054
 Thraets,2024-08-20,129
 Thraets,2024-09-02,148
 Thraets,2024-09-07,151
@@ -1528,6 +1743,7 @@ Thraets,2025-08-26,343
 Thraets,2025-08-30,343
 Thraets,2025-09-17,346
 Thraets,2026-04-07,407
+Thraets,2026-06-17,431
 Threat Tec,2023-12-17,4604
 Threat Tec,2023-12-18,4607
 "Threat Tec, LLC",2025-02-21,5886
@@ -1859,6 +2075,8 @@ Tiger Analytics,2025-08-26,545123
 Tiger Analytics,2025-08-30,545123
 Tiger Analytics,2025-09-17,550901
 Tiger Analytics,2026-04-29,631166
+Tiger Analytics,2026-06-17,643828
+Tiger Data (creators of TimescaleDB),2026-05-31,22484
 TikTok,2023-01-21,2295166
 TikTok,2023-02-25,2352714
 TikTok,2023-03-13,2380387
@@ -2557,6 +2775,7 @@ Towards AI,2025-08-26,269581
 Towards AI,2025-08-30,269581
 Towards AI,2025-09-17,269620
 Towards AI Inc.,2026-04-29,270698
+Towards AI Inc.,2026-06-17,271385
 Towards Data Science,2020-10-06,248000
 Towards Data Science,2020-10-07,248701
 Towards Data Science,2020-10-13,251530
@@ -2881,6 +3100,9 @@ Towards Data Science,2025-08-30,642895
 Towards Data Science,2025-09-17,643253
 Towards Data Science,2025-09-21,643253
 Towards Data Science,2026-04-29,646339
+Towards Data Science,2026-06-17,646565
+Tower.dev,2026-05-31,3256
+TraceLine Solutions,2026-05-31,488
 Trade & Invest Wales,2025-03-16,14327
 Trade & Invest Wales,2025-04-28,14628
 Trade & Invest Wales,2025-05-27,14805
@@ -3185,6 +3407,8 @@ Treemetrics Ltd,2025-08-21,1788
 Treemetrics Ltd,2025-08-26,1793
 Treemetrics Ltd,2025-08-30,1793
 Treemetrics Ltd,2025-09-17,1795
+Treemetrics Ltd,2026-06-17,2154
+Trial Lawyers of Mass Torts,2026-05-31,924
 TrialAssure,2023-12-16,1554
 TrialAssure,2024-04-09,3928
 TrialAssure,2024-04-17,3926
@@ -3249,7 +3473,9 @@ TrialAssure,2025-08-26,4163
 TrialAssure,2025-08-30,4163
 TrialAssure,2025-09-17,4170
 TrialAssure,2026-04-07,4335
+TrialAssure,2026-06-17,4418
 Triband,2024-06-24,2060
+Trifork UK,2026-05-31,4396
 Trinity Walton Club,2024-06-24,236
 Trinity Women Graduates,2024-06-24,619
 Trint,2025-09-16,7769
@@ -3485,62 +3711,3 @@ Tunis R User Group,2025-06-01,724
 Tunis R User Group,2025-06-07,724
 Tunis R User Group,2025-06-08,724
 Tunis R User Group,2025-06-09,724
-Tunis R User Group,2025-06-10,724
-Tunis R User Group,2025-06-22,724
-Tunis R User Group,2025-07-01,727
-Tunis R User Group,2025-07-04,727
-Tunis R User Group,2025-07-08,725
-Tunis R User Group,2025-07-15,725
-Tunis R User Group,2025-07-27,727
-Tunis R User Group,2025-08-11,730
-Tunis R User Group,2025-08-15,727
-Tunis R User Group,2025-08-18,727
-Tunis R User Group,2025-08-21,728
-Tunis R User Group,2025-08-26,730
-Tunis R User Group,2025-08-30,730
-Tunis R User Group,2025-09-17,729
-Tunis R User Group,2026-04-07,727
-Tunis R User Group,2026-04-29,729
-Turbulent Hydro,2023-01-28,13436
-Turing Innovation Catalyst Manchester,2025-09-16,3089
-Turing Innovation Catalyst Manchester,2025-09-21,3105
-Turion Space,2023-01-21,2038
-Turion Space,2023-02-25,2150
-Turion Space,2023-03-13,2201
-Turion Space,2023-03-29,2323
-Turion Space,2023-04-10,2385
-Turion Space,2023-04-23,2423
-Turion Space,2023-06-05,2596
-Turion Space,2023-06-11,2648
-Turion Space,2023-06-23,2752
-Turion Space,2023-07-06,2801
-Turion Space,2023-07-23,2868
-Turion Space,2023-08-05,2962
-Turion Space,2023-08-29,3054
-Twenty Billion Neurons,2021-07-22,3176
-Twenty Billion Neurons,2021-08-14,3192
-Twenty Billion Neurons,2021-08-26,3195
-Twenty Billion Neurons,2021-09-02,3193
-Twenty Billion Neurons,2021-09-16,3193
-Twenty Billion Neurons,2021-10-17,3207
-Twenty Billion Neurons,2021-10-29,3214
-Twenty Billion Neurons,2021-11-06,3218
-Twenty Billion Neurons,2021-11-20,3216
-Twenty Billion Neurons,2021-12-07,3220
-Twenty Billion Neurons,2021-12-14,3224
-Twenty Billion Neurons,2021-12-20,3226
-Twenty Billion Neurons,2021-12-26,3229
-Twenty Billion Neurons,2021-12-30,3230
-Twenty Billion Neurons,2021-12-31,3231
-Twenty Billion Neurons,2022-01-03,3230
-Twenty Billion Neurons,2022-01-04,3229
-Twenty Billion Neurons,2022-01-06,3230
-Twenty Billion Neurons,2022-01-07,3230
-Twenty Billion Neurons,2022-01-10,3229
-Twenty Billion Neurons,2022-01-14,3228
-Twenty Billion Neurons,2022-01-18,3230
-Twenty Billion Neurons,2022-01-27,3231
-Twenty Billion Neurons,2022-02-01,3234
-Twenty Billion Neurons,2022-02-07,3237
-Twenty Billion Neurons,2022-02-10,3239
-Twenty Billion Neurons,2022-02-12,3238
