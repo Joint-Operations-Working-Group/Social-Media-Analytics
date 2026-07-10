@@ -1,4 +1,532 @@
-Company,Date,Followers
+"Company","Date","Followers"
+"ondatix Datenwerkstatt",2026-07-10,90
+"Liberty National Golf Club",2026-07-10,1006
+"Computing at ORNL",2026-07-10,6254
+"Vallourec",2026-07-10,374327
+"Greentown Labs",2026-07-10,56739
+"The Jerome A. Chazen Institute for Global Business",2026-07-10,7281
+"Zetta Venture Partners",2026-07-10,6327
+"Charge Ventures",2026-07-10,2000
+"Shadow Ventures",2026-07-10,6001
+"VoLo Earth Ventures",2026-07-10,4447
+"Energy Impact Partners",2026-07-10,87341
+"Prelude Ventures",2026-07-10,12945
+"Lowercarbon Capital",2026-07-10,53563
+"Congruent Ventures",2026-07-10,15793
+"API Conf Lagos",2026-07-10,1313
+"INBO (Research Institute for Nature and Forest - Instituut voor Natuur- en Bosonderzoek)",2026-07-10,10847
+"ASME (The American Society of Mechanical Engineers)",2026-07-10,367506
+"Tech Policy Press",2026-07-10,28906
+"goose",2026-07-10,5216
+"InnoVertex",2026-07-10,44
+"Diplomatic Council (UN reg.)",2026-07-10,2747
+"The International Astronomical Union",2026-07-10,6602
+"FutuRSI",2026-07-10,123
+"FEniCS Project",2026-07-10,3058
+"Columbia Engineering",2026-07-10,54232
+"OpenGov Africa",2026-07-10,953
+"Open Technology Research",2026-07-10,532
+"PayPath",2026-07-10,200
+"Zukunftsorte Berlin",2026-07-10,7192
+"United Nations Academic Impact",2026-07-10,91104
+"Cloudera",2026-07-10,298490
+"Artech International BVBA",2026-07-10,781
+"Beyond Bar Code",2026-07-10,467
+"n8n",2026-07-10,388474
+"Joomla!",2026-07-10,14928
+"UNDP Digital AI and Innovation Hub (Accelerator Labs)",2026-07-10,48490
+"NYPL Neighborhood Internet",2026-07-10,58
+"PORSESH POLICY RESEARCH INSTITUTE",2026-07-10,787
+"European Open Source Academy (EOSA)",2026-07-10,2810
+"UNICC",2026-07-10,27461
+"Asian Productivity Organization",2026-07-10,6971
+"GovStack",2026-07-10,10492
+"Eukarya Inc.",2026-07-10,487
+"Palantir.net",2026-07-10,1371
+"Aspen Ideas",2026-07-10,18037
+"Nextcloud",2026-07-10,31969
+"The Drop Times",2026-07-10,9614
+"Copenhagen Business School",2026-07-10,282793
+"UN80 Initiative",2026-07-10,11971
+"Datasketch",2026-07-10,3089
+"Hack the Hood",2026-07-10,5841
+"Women in Big Data Munich",2026-07-10,3877
+"FinOps Foundation",2026-07-10,50633
+"Tokenomics Foundation",2026-07-10,1536
+"Data Prep Kit",2026-07-10,41
+"Cloudera Developers",2026-07-10,938
+"LAIKA Studios",2026-07-10,238690
+"EU Digital & Tech",2026-07-10,86265
+"Quanscient",2026-07-10,8710
+"Qualcomm Developer",2026-07-10,3102
+"Stavros Niarchos Foundation (SNF)",2026-07-10,155118
+"Software Heritage",2026-07-10,2415
+"Sophia Space",2026-07-10,4794
+"ProgramEarth",2026-07-10,1524
+"Apache Foundation of America Inc.",2026-07-10,21
+"UWG Office of Human Resources",2026-07-10,166
+"FreeBSD Foundation",2026-07-10,9865
+"FreeBSD",2026-07-10,11787
+"Kids Enjoy Exercise Now - KEEN New York",2026-07-10,363
+"UK Reproducibility Network (UKRN)",2026-07-10,2022
+"World Labs",2026-07-10,57192
+"SC Johnson",2026-07-10,494353
+"The Zephyr Project",2026-07-10,30596
+"JSON Schema",2026-07-10,2078
+"The Rousseeuw Prize for Statistics",2026-07-10,889
+"React Summit",2026-07-10,3666
+"United Nations Office of Information and Communications Technology",2026-07-10,10765
+"Tenet Security",2026-07-10,996
+"Open Science Community Egypt",2026-07-10,3073
+"Centri",2026-07-10,260526
+"Hudson River Trading",2026-07-10,204086
+"System76",2026-07-10,19956
+"Campus Deep Tech",2026-07-10,766
+"New York Cares",2026-07-10,21204
+"Spacefaring Institute™ LLC",2026-07-10,202
+"Posit Open Source",2026-07-10,2458
+"Google Cloud Partners",2026-07-10,141559
+"Prepare 4 VC",2026-07-10,2566
+"Centre for Credible AI",2026-07-10,1694
+"RTI International",2026-07-10,362332
+"The Deep View",2026-07-10,3172
+"openRxiv",2026-07-10,2065
+"Mainix",2026-07-10,766
+"ditact - IT summer studies",2026-07-10,38
+"Tax Debt Help Now",2026-07-10,2676
+"Deloitte",2026-07-10,22201509
+"Company.info Nederland",2026-07-10,6332
+"AWE",2026-07-10,29138
+"Legal Writing Institute",2026-07-10,629
+"Center for Integrated Earth System Information (CIESIN)",2026-07-10,693
+"Huawei",2026-07-10,5461956
+"eGovernment Podcast",2026-07-10,3135
+"SREday",2026-07-10,7460
+"cognee",2026-07-10,5752
+"National Open Research Forum",2026-07-10,1572
+"Story Changes Culture",2026-07-10,708
+"Idira by Palo Alto Networks",2026-07-10,323216
+"TIOBE Software",2026-07-10,2451
+"U.S. Army Transformation and Training Command",2026-07-10,88014
+"IBM Bob",2026-07-10,3559
+"The Capitol Forum",2026-07-10,4014
+"US Research Software Engineer Association",2026-07-10,1249
+"Slack",2026-07-10,1785517
+"Databricks for Startups",2026-07-10,2075
+"7ASecurity",2026-07-10,3537
+"Association of Registered Graphic Designers (RGD)",2026-07-10,27259
+"Government Technology",2026-07-10,22606
+"Beacon Bank",2026-07-10,22653
+"The Data Science Institute at Columbia University",2026-07-10,20305
+"Columbia Business School Executive Education & Wall Street Prep Certificate Programs",2026-07-10,454
+"Porsche Cars North America",2026-07-10,389155
+"NYS Office of Information Technology Services",2026-07-10,21456
+"Lenovo",2026-07-10,1338729
+"Write the Docs",2026-07-10,8948
+"DjangoCon US",2026-07-10,934
+"Pete & Gerry's Organics LLC",2026-07-10,45397
+"New York State Department of State",2026-07-10,14077
+"Astropy",2026-07-10,146
+"Columbia Public Health - Department of Health Policy & Management",2026-07-10,1213
+"Columbia University Mailman School of Public Health",2026-07-10,35880
+"Visualising Climate",2026-07-10,3354
+"American Museum of Natural History",2026-07-10,86554
+"Children's Museum of Manhattan",2026-07-10,7075
+"CONFERS - The Consortium for Execution of Rendezvous and Servicing Operations",2026-07-10,2443
+"Museum of the City of New York",2026-07-10,27075
+"The Frick Collection",2026-07-10,38368
+"Museum of the Moving Image",2026-07-10,8448
+"IxDF Philadelphia",2026-07-10,82
+"FreeYa Mind Campus",2026-07-10,1204
+"Brooklyn Book Bodega",2026-07-10,1664
+"Web3 Enabler",2026-07-10,1169
+"The Morgan Library & Museum",2026-07-10,12229
+"Intrepid Museum",2026-07-10,6562
+"Data Vandals",2026-07-10,785
+"National Parks Conservation Association",2026-07-10,223447
+"Argonne National Laboratory",2026-07-10,136048
+"American Physical Society",2026-07-10,88838
+"Oak Ridge National Laboratory",2026-07-10,167581
+"Pew Research Center",2026-07-10,193432
+"MacArthur Foundation",2026-07-10,252987
+"AAAS",2026-07-10,56473
+"The National Academies of Sciences Engineering and Medicine",2026-07-10,41533
+"Ford Foundation",2026-07-10,340756
+"National Science Teaching Association",2026-07-10,16362
+"Smithsonian Institution",2026-07-10,317106
+"National Science Foundation (NSF)",2026-07-10,356721
+"Unitary Foundation",2026-07-10,6604
+"Association of German Municipal Statisticians",2026-07-10,311
+"CareerWise",2026-07-10,8868
+"Berlin Buzzwords",2026-07-10,2416
+"Computer Science at The University of Alabama",2026-07-10,929
+"PyCon UK",2026-07-10,984
+"Asper US",2026-07-10,781
+"NY Hardware Meetup",2026-07-10,2190
+"Open Source United",2026-07-10,1225
+"Trial Lawyers of Mass Torts",2026-07-10,941
+"QUEST Center for Responsible Research",2026-07-10,2254
+"Polish Bioinformatics Society",2026-07-10,813
+"Analyst1",2026-07-10,7919
+"The FAIR Elephant",2026-07-10,438
+"The New York Community Trust",2026-07-10,10617
+"University of Warwick",2026-07-10,308478
+"Rust Foundation",2026-07-10,23298
+"Positron",2026-07-10,1804
+"MiresBall",2026-07-10,3286
+"FREQUENCY",2026-07-10,629
+"Maha Rose Center for Healing",2026-07-10,85
+"Alpha-Omega",2026-07-10,894
+"AMD Embedded",2026-07-10,6829
+"MongoDB User Group Chennai",2026-07-10,911
+"American Journal of Medicine and Health Studies",2026-07-10,184
+"Pacific Northwest National Laboratory",2026-07-10,120876
+"RISC-V International",2026-07-10,72650
+"Center for Quantum Networks",2026-07-10,3818
+"NYMTC",2026-07-10,2017
+"Apple Developer",2026-07-10,34120
+"New York State Department of Civil Service",2026-07-10,18955
+"Centre for Research in Digital Education University of Edinburgh",2026-07-10,3532
+"Laboratory for Atmospheric and Space Physics",2026-07-10,7864
+"using std::cpp",2026-07-10,2002
+"C++Now",2026-07-10,12556
+"UBS",2026-07-10,2205558
+"National Bank of Egypt (NBE)",2026-07-10,966436
+"National Association of Tax Professionals",2026-07-10,13143
+"California Board of Accountancy",2026-07-10,11106
+"IRS Criminal Investigation",2026-07-10,41211
+"KPMG US Tax",2026-07-10,11570
+"PwC US Tax",2026-07-10,55503
+"The Accounting Podcast",2026-07-10,26480
+"Intuit Accountants",2026-07-10,66584
+"Mechanize Inc.",2026-07-10,23940
+"API - American Petroleum Institute",2026-07-10,134860
+"ConocoPhillips",2026-07-10,1203142
+"Marathon Petroleum Corporation",2026-07-10,384269
+"Murphy Oil Corporation",2026-07-10,194844
+"Phillips 66",2026-07-10,319844
+"Boston Scientific Vascular Therapies",2026-07-10,66796
+"Honeywell Aerospace",2026-07-10,682560
+"bpx energy",2026-07-10,17063
+"ExxonMobil Permian",2026-07-10,40105
+"GE HealthCare",2026-07-10,2930087
+"Abbott | Cardiovascular",2026-07-10,157247
+"Medtronic Surgical Innovations",2026-07-10,84185
+"Medtronic Cardiac and Vascular",2026-07-10,284787
+"ExxonMobil Pipeline",2026-07-10,51852
+"Johnson & Johnson Innovative Medicine",2026-07-10,1596520
+"LinkedIn Guide to Creating",2026-07-10,8281424
+"CERN",2026-07-10,594994
+"bp",2026-07-10,4270574
+"Shell",2026-07-10,7784133
+"Chevron",2026-07-10,5260339
+"HDFC Bank",2026-07-10,3748363
+"General Motors",2026-07-10,3611658
+"adidas",2026-07-10,4833826
+"FedEx",2026-07-10,2441306
+"Samsung Electronics",2026-07-10,5069824
+"Siemens Healthineers",2026-07-10,1998335
+"EY-Parthenon",2026-07-10,517012
+"Johnson & Johnson MedTech",2026-07-10,1282064
+"Target",2026-07-10,2511521
+"Teachers in Space Inc.",2026-07-10,1165
+"Agentic AI Foundation",2026-07-10,10141
+"The Data Inspiration Group",2026-07-10,4700
+"NYC Civic Engagement Commission",2026-07-10,2278
+"Salesforce News & Insights",2026-07-10,125579
+"ASA Survey Research Methods Section",2026-07-10,317
+"Astro",2026-07-10,1582
+"OSPOlogy Asia",2026-07-10,145
+"Docling",2026-07-10,7204
+"Offshore Technology Conference (OTC)",2026-07-10,48139
+"RSE Argentina",2026-07-10,286
+"The Use of R in Official Statistics - uRos",2026-07-10,1131
+"Physical Sciences Data Infrastructure (PSDI)",2026-07-10,1209
+"Red Rock Data Science",2026-07-10,68
+"Women In NYC Government",2026-07-10,594
+"The Quantum Insider",2026-07-10,63328
+"NYU Center for Data Science",2026-07-10,16148
+"Bridge to Enter Advanced Mathematics (BEAM)",2026-07-10,2203
+"adaption",2026-07-10,9757
+"ASRC Federal",2026-07-10,50206
+"GitHub Security Lab",2026-07-10,6585
+"Child Mind Institute",2026-07-10,68159
+"Blue Marble Space",2026-07-10,8894
+"Datastrato",2026-07-10,1537
+"Tiger Data (creators of TimescaleDB)",2026-07-10,23331
+"Open Education Conference",2026-07-10,862
+"Society of Research Software Engineering",2026-07-10,1373
+"Database Tycoon LLC",2026-07-10,872
+"Penn State Research",2026-07-10,19989
+"FOSS United Lucknow",2026-07-10,474
+"PyData Kuwait",2026-07-10,126
+"PyData Munich",2026-07-10,150
+"PyData Cambridge",2026-07-10,167
+"PyData Sri Lanka",2026-07-10,227
+"PyData Johannesburg Community",2026-07-10,214
+"PyData Calgary",2026-07-10,295
+"Quant in Business Society",2026-07-10,67
+"UF Public Relations Department",2026-07-10,2069
+"UChicago Data Science Institute",2026-07-10,9024
+"Industry Events",2026-07-10,5391
+"FAO",2026-07-10,1901249
+"Measure of America",2026-07-10,812
+"African Data Science Conference",2026-07-10,5614
+"Vercel",2026-07-10,243404
+"Seattle Startup Summit",2026-07-10,377
+"Society for Brain Mapping & Therapeutics (SBMT)",2026-07-10,3242
+"Points of Light",2026-07-10,22742
+"Uniwersytet SWPS",2026-07-10,90604
+"Better Business Bureau Serving Metropolitan New York",2026-07-10,1117
+"Max Planck Information & Technology (MaxIT)",2026-07-10,2619
+"HER+Data MCR",2026-07-10,1767
+"Prime Analytics",2026-07-10,5918
+"napari",2026-07-10,796
+"SVA MPS Data Visualization and Communication",2026-07-10,567
+"Blackwing Space",2026-07-10,3089
+"NYU Center for Urban Science + Progress",2026-07-10,6589
+"ULI New York",2026-07-10,4637
+"DataKind",2026-07-10,33553
+"Superbloom",2026-07-10,1560
+"Helpful Places",2026-07-10,1008
+"Gotham Data Clinic",2026-07-10,40
+"Thales Cybersecurity Products",2026-07-10,56173
+"Cloud-Native Geospatial Forum (CNG)",2026-07-10,9412
+"Geospatial Risk",2026-07-10,874
+"R-Ladies Melbourne Inc",2026-07-10,399
+"Siegel Family Endowment",2026-07-10,9456
+"Information is Beautiful",2026-07-10,15911
+"Trifork UK",2026-07-10,4415
+"Bayer",2026-07-10,7048620
+"Johnson & Johnson",2026-07-10,10308573
+"Novartis",2026-07-10,4720777
+"AstraZeneca",2026-07-10,3916908
+"Novo Nordisk",2026-07-10,2879720
+"Amgen",2026-07-10,1777926
+"AbbVie",2026-07-10,2064130
+"Sony Pictures Entertainment",2026-07-10,1859231
+"Thermo Fisher Scientific",2026-07-10,2365538
+"Open Data Manchester CIC",2026-07-10,1075
+"Black Duck",2026-07-10,83565
+"M.S. Program in Data Analysis and Visualization CUNY Graduate Center",2026-07-10,92
+"Indigenous Data Alliance",2026-07-10,2539
+"NFDI4Health",2026-07-10,1394
+"Systematica",2026-07-10,13771
+"Polish Academy of Sciences",2026-07-10,40369
+"Housing Works",2026-07-10,18190
+"The Bernstein Center for Leadership and Ethics",2026-07-10,1897
+"Warner Bros. Discovery",2026-07-10,1312793
+"Siemens Energy",2026-07-10,3130989
+"Airbnb",2026-07-10,3376946
+"LF Decentralized Trust",2026-07-10,54051
+"Atakama",2026-07-10,4807
+"OLS (Open Life Science Limited)",2026-07-10,2287
+"Claude",2026-07-10,2702288
+"ClickUp",2026-07-10,266083
+"Fair Chance Futures",2026-07-10,1940
+"Columbia AI Club | Columbia Business School",2026-07-10,1123
+"AI in Business Initiative at Columbia Business School",2026-07-10,1494
+"Tamer Consumer",2026-07-10,13207
+"Tamer Group",2026-07-10,192845
+"Soros Economic Development Fund",2026-07-10,4597
+"Lamont-Doherty Earth Observatory",2026-07-10,8429
+"Tamer Healthcare",2026-07-10,72217
+"The Hub at Columbia Business School",2026-07-10,2090
+"Columbia Center on Sustainable Investment",2026-07-10,15656
+"Tamer Institute for Social Enterprise and Climate Change at Columbia University",2026-07-10,6104
+"Open Source Endowment",2026-07-10,1030
+"PyData St. Louis",2026-07-10,58
+"Snowflake Public Sector",2026-07-10,9865
+"Pydantic",2026-07-10,33773
+"GW Open Source Program Office",2026-07-10,391
+"Foresight Institute",2026-07-10,12000
+"Maralex Electric Corp.",2026-07-10,17
+"RSE Asia Association",2026-07-10,294
+"Teradata",2026-07-10,571834
+"New York State Homes & Community Renewal",2026-07-10,9280
+"Labcorp",2026-07-10,805073
+"iTechInfoPro",2026-07-10,478
+"BusinessInfoPro",2026-07-10,539
+"Conda Community",2026-07-10,262
+"MongoDB User Group Cape Town",2026-07-10,165
+"404 Media",2026-07-10,8080
+"KODAQS",2026-07-10,524
+"Processing Foundation",2026-07-10,2517
+"The Nonprofit Show",2026-07-10,3626
+"Strong Floor No Ceiling",2026-07-10,162
+"prefix.dev",2026-07-10,2521
+"HTTP",2026-07-10,780
+"COOP",2026-07-10,33957
+"BSides Belfast",2026-07-10,1967
+"AI for Nonprofits Sprint",2026-07-10,1218
+"NYC Public Schools Career & Technical Education (CTE)",2026-07-10,1676
+"OpenAI for Government",2026-07-10,23056
+"OpenAI Global Affairs",2026-07-10,29969
+"OpenAI for Startups",2026-07-10,118167
+"OpenAI Developers",2026-07-10,137252
+"DISCO Network",2026-07-10,259
+"Sotheby's Institute of Art",2026-07-10,113840
+"All Things Fashion Tech",2026-07-10,3248
+"Vogue College of Fashion",2026-07-10,18656
+"The Business of Fashion",2026-07-10,1023175
+"Prada Group",2026-07-10,1919817
+"Vogue Business",2026-07-10,904981
+"BYU Career Services",2026-07-10,783
+"AMD Developer",2026-07-10,23139
+"Academy for the Mathematical Sciences",2026-07-10,4030
+"TraceLine Solutions",2026-07-10,554
+"Stripe",2026-07-10,1548512
+"U.S. Department of Health and Human Services (HHS)",2026-07-10,1225851
+"The Reality Crafters",2026-07-10,47
+"Obviously NYC",2026-07-10,583
+"DraftKings Inc.",2026-07-10,170591
+"DevOps Not Dead",2026-07-10,458
+"HRinfoPro",2026-07-10,324
+"PyData Wolverhampton",2026-07-10,130
+"Buffer",2026-07-10,176994
+"Decoded Futures at Tech:NYC",2026-07-10,959
+"Apache Spark",2026-07-10,28971
+"American Statistical Association - ASA",2026-07-10,25226
+"POSETTE: An Event for Postgres",2026-07-10,1042
+"Payscale",2026-07-10,98087
+"PyData Hull",2026-07-10,258
+"FloodNet",2026-07-10,768
+"Ministry of Digital Development and Information",2026-07-10,24838
+"RE//verse",2026-07-10,2849
+"Swiss Reproducibility Network",2026-07-10,375
+"Align Impact",2026-07-10,8162
+"The Carpentries",2026-07-10,4143
+"LeadSkope",2026-07-10,391
+"AI Safety Poland",2026-07-10,647
+"PhoenixAI (formerly CelerData)",2026-07-10,23130
+"PEARC Conference Series",2026-07-10,884
+"GitHub LATAM",2026-07-10,60921
+"Punch Tape",2026-07-10,328
+"Kyiv School of Economics",2026-07-10,14643
+"Commons Hub Brussels",2026-07-10,1276
+"NIST Careers",2026-07-10,2354
+"National Association of Social Workers",2026-07-10,177494
+"Matplotlib",2026-07-10,2037
+"VCS IT Solutions - Managed IT & Cybersecurity Services | NJ & NY",2026-07-10,199
+"Brainfuse",2026-07-10,7380
+"Tower.dev",2026-07-10,3301
+"Kayla Williams Consulting",2026-07-10,289
+"SustainOSS",2026-07-10,736
+"Overview Energy",2026-07-10,4522
+"Langflow",2026-07-10,16686
+"UC Irvine's GPS-STEM",2026-07-10,105
+"CivicXSyllabus",2026-07-10,180
+"Good care children ministry",2026-07-10,65
+"NYC Hospitality Alliance",2026-07-10,5291
+"Built In NYC",2026-07-10,12832
+"NYC Ferry",2026-07-10,6099
+"NYC Office of Chief Medical Examiner",2026-07-10,6867
+"Fund for Public Health in NYC",2026-07-10,13198
+"NYC Health + Hospitals/Correctional Health Services",2026-07-10,9916
+"NYC Department of Cultural Affairs",2026-07-10,8558
+"NYC Board of Education",2026-07-10,6115
+"NYC Fintech Women",2026-07-10,18313
+"NYC Alliance",2026-07-10,49625
+"Public Interest Tech New York Regional Hub (PIT-NY)",2026-07-10,92
+"OpenAI for Business",2026-07-10,657453
+"NYABE - New York Association for Business Economics",2026-07-10,697
+"Renuity",2026-07-10,7412
+"Rendezvous Robotics",2026-07-10,4253
+"Flox",2026-07-10,4588
+"¿Que Lo Tech!?",2026-07-10,490
+"Polyguard",2026-07-10,1123
+"AI Cooperate",2026-07-10,191
+"Pluralsight",2026-07-10,235646
+"Weaviate Podcast",2026-07-10,252
+"Ada Developers Academy",2026-07-10,9969
+"Nerdearla",2026-07-10,37994
+"PyData Lagos",2026-07-10,207
+"Hightouch",2026-07-10,53096
+"PyData Norwich",2026-07-10,33
+"CUNY PIT Lab",2026-07-10,680
+"Algonect",2026-07-10,541
+"Bauplan",2026-07-10,3387
+"PyCon MY",2026-07-10,630
+"World Bank Development Economics",2026-07-10,83253
+"Cubit Tech Support",2026-07-10,87
+"Probabl",2026-07-10,14662
+"Munich Datageeks e.V.",2026-07-10,3927
+"PyLadies Hong Kong",2026-07-10,62
+"National Association for Business Economics (NABE)",2026-07-10,11746
+"AI By the Bay Conference",2026-07-10,2948
+"Center for Dairy Research",2026-07-10,12042
+"Vantor",2026-07-10,113393
+"rainbowR",2026-07-10,684
+"The New York Academy of Sciences",2026-07-10,30241
+"BERD@NFDI",2026-07-10,1340
+"BBS - Basel Biometric Society",2026-07-10,965
+"EFSPI (European Federation of Statisticians in the Pharmaceutical Industry)",2026-07-10,4310
+"Hub Open Source Systematic",2026-07-10,800
+"Linux Professional Institute (LPI)",2026-07-10,99471
+"PyLadies SoFlo",2026-07-10,82
+"Digital Mining Solutions",2026-07-10,1982
+"ESA Operations Engineering & Space Safety",2026-07-10,34376
+"UN 2.0 | United Nations",2026-07-10,48014
+"Changelog",2026-07-10,2270
+"Blockchain NYC",2026-07-10,422
+"YouthMappers",2026-07-10,11149
+"Plural",2026-07-10,2623
+"Mergus Ventures",2026-07-10,4055
+"f02 labs",2026-07-10,619
+"Mayor's Office of Nonprofit Services (MONS)",2026-07-10,2206
+"BnM",2026-07-10,31271
+"Shuffll",2026-07-10,2490
+"I Edu Tales",2026-07-10,280
+"Digital Resilience Forum",2026-07-10,364
+"CoARA - Coalition for Advancing Research Assessment",2026-07-10,8124
+"Innovate Peace NYC",2026-07-10,250
+"PyData Bradford",2026-07-10,277
+"LMU Open Science Center",2026-07-10,1411
+"NYC Commission to Strengthen Local Democracy",2026-07-10,558
+"folk",2026-07-10,27580
+"PyLadies Boston",2026-07-10,271
+"Letta",2026-07-10,5769
+"The General Partnership",2026-07-10,5867
+"OpenSSL Foundation",2026-07-10,1940
+"The New Jewish Home",2026-07-10,5746
+"PyData Prague",2026-07-10,439
+"SunPy",2026-07-10,243
+"New York City Emergency Management Department",2026-07-10,18642
+"AI Signals",2026-07-10,639
+"SECUINFRA GmbH",2026-07-10,7587
+"SECUINFRA Falcon Team",2026-07-10,1307
+"DevRelCon",2026-07-10,1228
+"Morton Analytics LLC",2026-07-10,105
+"Athena Research Center",2026-07-10,21283
+"Common Good AI",2026-07-10,496
+"OSCARS project",2026-07-10,1633
+"Office of the New York State Attorney General",2026-07-10,19724
+"Open Mobile Hub",2026-07-10,189
+"Association for the Advancement of Artificial Intelligence (AAAI)",2026-07-10,20358
+"Lander Analytics",2026-07-10,975
+"PyCon Greece",2026-07-10,1817
+"Global Refining & Petrochemicals Congress",2026-07-10,13719
+"Rome R Users Group",2026-07-10,677
+"The Planet Group",2026-07-10,1109277
+"Finc Research",2026-07-10,50
+"MDS Fest by Secoda",2026-07-10,1331
+"The Albert and Mary Lasker Foundation",2026-07-10,2160
+"SEMAFOR",2026-07-10,29895
+"Newcastle University",2026-07-10,274286
+"Office of International Relations IIT Kanpur",2026-07-10,6382
+"LambdaVision Inc.",2026-07-10,2496
+"E2MC (Earth-to-Mars Capital)",2026-07-10,5736
+"Aurelia Foundry",2026-07-10,494
+"The Left Shift",2026-07-10,1285
+"R-Forwards",2026-07-10,193
+"R-Ladies Tirana",2026-07-10,358
+"Caucus for Women in Statistics and Data Science",2026-07-10,1301
+"Catalyst Studio",2026-07-10,52
+"Mozilla Ventures",2026-07-10,740
+"Apertu Capital",2026-07-10,366
+"Viam",2026-07-10,9793
+"Queens Public Library",2026-07-10,6926
+"Kingstown College",2026-07-10,5558
 Citizens Committee for New York City,2025-06-07,1971
 Citizens Committee for New York City,2025-07-27,2014
 Citizens Committee for New York City,2025-08-30,2035
