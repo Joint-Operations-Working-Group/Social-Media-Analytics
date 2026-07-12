@@ -1,4 +1,80 @@
 Company,Date,Followers
+EdinbR,2026-06-17,47
+EdinbR,2026-06-30,48
+EdinbR,2026-07-10,50
+Edison Energy LLC,2020-10-16,4314
+Edison Energy LLC,2020-10-20,4345
+Edison Energy LLC,2020-10-21,4361
+Edison Energy LLC,2020-10-28,4407
+Edison Energy LLC,2020-10-31,4432
+Edison Energy LLC,2020-11-02,4436
+Edison Energy LLC,2020-11-07,4456
+Edison Energy LLC,2020-11-12,4475
+Edison Energy LLC,2020-11-21,4513
+Edison Energy LLC,2020-11-30,4525
+Edison Energy LLC,2020-12-08,4569
+Edison Energy LLC,2020-12-15,4583
+Edison Energy LLC,2020-12-27,4627
+Edison SpA,2020-10-16,76192
+Edison SpA,2020-10-21,76431
+Edison SpA,2020-10-22,76518
+Edison SpA,2020-11-02,77123
+Edison SpA,2020-11-07,77362
+Edison SpA,2020-11-21,78177
+Edison SpA,2020-12-15,79425
+Editas Medicine,2023-01-25,31445
+Editas Medicine,2023-01-29,31509
+Edlitera,2023-01-21,76
+Edlitera,2023-02-25,77
+Edlitera,2023-03-13,83
+Edlitera,2023-03-29,86
+Edlitera,2023-04-10,86
+Edlitera,2023-04-23,85
+Edlitera,2023-06-05,88
+Edlitera,2023-06-11,88
+Edlitera,2023-06-23,88
+Edlitera,2023-07-06,88
+Edlitera,2023-07-23,90
+Edlitera,2023-08-05,93
+Edlitera,2023-08-29,96
+Edlitera,2023-10-18,94
+Edlitera,2023-12-18,93
+Edlitera,2025-05-27,162
+Edmonton R User Group,2022-05-22,5
+Edmonton R User Group,2022-05-25,6
+Edmonton R User Group,2022-05-27,6
+Edmonton R User Group,2022-05-30,6
+Edmonton R User Group,2022-06-01,6
+Edmonton R User Group,2022-06-03,6
+Edmonton R User Group,2022-06-07,6
+Edmonton R User Group,2022-06-08,6
+Edmonton R User Group,2022-06-11,6
+Edmonton R User Group,2022-06-13,6
+Edmonton R User Group,2022-06-15,6
+Edmonton R User Group,2022-06-16,6
+Edmonton R User Group,2022-06-22,6
+Edmonton R User Group,2022-06-23,6
+Edmonton R User Group,2022-06-24,6
+Edmonton R User Group,2022-06-26,6
+Edmonton R User Group,2022-06-28,6
+Edmonton R User Group,2022-06-30,6
+Edmonton R User Group,2022-07-01,6
+Edmonton R User Group,2022-07-02,6
+Edmonton R User Group,2022-07-04,6
+Edmonton R User Group,2022-07-05,6
+Edmonton R User Group,2022-07-09,6
+Edmonton R User Group,2022-07-12,6
+Edmonton R User Group,2022-07-18,7
+Edmonton R User Group,2022-07-21,7
+Edmonton R User Group,2022-07-23,7
+Edmonton R User Group,2022-07-25,7
+Edmonton R User Group,2022-08-01,8
+Edmonton R User Group,2022-08-08,8
+Edmonton R User Group,2022-08-16,9
+Edmonton R User Group,2022-08-20,9
+Edmonton R User Group,2022-08-25,9
+Edmonton R User Group,2022-08-28,10
+Edmonton R User Group,2022-09-01,10
 Edmonton R User Group,2022-09-07,10
 Edmonton R User Group,2022-09-10,10
 Edmonton R User Group,2022-09-16,10
@@ -124,6 +200,8 @@ Edmonton R User Group,2026-04-29,77
 Edmonton R User Group,2026-05-12,77
 Edmonton R User Group,2026-05-31,77
 Edmonton R User Group,2026-06-17,78
+Edmonton R User Group,2026-06-30,78
+Edmonton R User Group,2026-07-10,78
 Edudictive,2020-10-16,1981
 Edudictive,2020-10-21,1985
 Edudictive,2020-10-24,1991
@@ -294,6 +372,8 @@ Eli Lilly and Company,2026-04-08,2635142
 Elite Research and Data Science Institute,2026-01-26,2006
 Elm,2026-05-31,869079
 Elm,2026-06-17,871837
+Elm,2026-06-30,877858
+Elm,2026-07-10,882640
 Elm Company,2020-10-30,302172
 Elm Company,2020-11-03,302436
 Elm Company,2020-11-06,302653
@@ -698,6 +778,7 @@ EnduroSat,2023-08-29,10922
 EnduroSat,2023-10-18,11597
 EnduroSat,2023-12-18,13246
 EnduroSat,2025-05-27,26137
+Energy Impact Partners,2026-07-10,87341
 Engagez,2023-01-21,1089
 Engagez,2023-02-10,1129
 Engagez,2023-02-25,1140
@@ -851,6 +932,8 @@ Enterprise Ireland,2026-04-29,209504
 Enterprise Ireland,2026-05-12,210453
 Enterprise Ireland,2026-05-31,212062
 Enterprise Ireland,2026-06-17,213521
+Enterprise Ireland,2026-06-30,214265
+Enterprise Ireland,2026-07-10,214789
 Entrepreneur First,2023-01-25,105997
 Entrepreneur First,2023-01-29,106242
 Enviro Jobs Network,2023-01-28,122828
@@ -935,6 +1018,8 @@ Eraneos,2026-04-29,43976
 Eraneos,2026-05-12,44197
 Eraneos,2026-05-31,44831
 Eraneos,2026-06-17,45275
+Eraneos,2026-06-30,45571
+Eraneos,2026-07-10,45799
 Eraneos - powered by Ginkgo,2023-06-05,3450
 Eraneos - powered by Ginkgo,2023-06-11,3466
 Eraneos - powered by Ginkgo,2023-06-14,3472
@@ -1505,6 +1590,8 @@ Esri,2026-04-29,522969
 Esri,2026-05-12,527202
 Esri,2026-05-31,532636
 Esri,2026-06-17,537934
+Esri,2026-06-30,541404
+Esri,2026-07-10,544602
 Esri Australia,2024-04-08,19556
 Esri Australia,2024-06-28,20077
 Esri Australia,2024-08-06,20325
@@ -1574,6 +1661,8 @@ Estación R,2026-04-29,7852
 Estación R,2026-05-12,7896
 Estación R,2026-05-31,8099
 Estación R,2026-06-17,8178
+Estación R,2026-06-30,8211
+Estación R,2026-07-10,8238
 Ethical Hackers Academy,2023-01-21,347085
 Ethical Hackers Academy,2023-02-25,359141
 Ethical Hackers Academy,2023-03-13,365417
@@ -1593,6 +1682,7 @@ Ethiojobs.net,2023-01-28,163086
 Etsy,2023-01-25,231956
 Etsy,2023-01-25,231955
 Etsy,2023-01-29,232591
+Eukarya Inc.,2026-07-10,487
 Eurasia Group,2023-01-21,191152
 Eurasia Group,2023-02-10,191986
 Eurasia Group,2023-02-25,192570
@@ -1854,10 +1944,12 @@ EuroPython,2026-04-29,7096
 EuroPython,2026-05-12,7158
 EuroPython,2026-05-12,7096
 EuroPython,2026-06-17,7338
+EuroPython,2026-06-30,7420
 EuroPython Society,2020-10-07,351
 EuroPython Society,2020-10-13,351
 EuroPython Society,2020-10-19,353
 EuroPython Society,2022-02-27,455
+EuroSciPy,2026-07-10,1430
 Euroconsult,2023-01-21,9547
 Euroconsult,2023-02-10,9713
 Euroconsult,2023-02-25,9781
@@ -1948,6 +2040,7 @@ European Geosciences Union (EGU),2023-01-28,14527
 European Institute for Gender Equality,2025-09-05,77310
 European Institute for Gender Equality,2025-09-21,77572
 European Institute of Business Data Analytics & Decision Analysis,2023-01-28,3813
+European Open Source Academy (EOSA),2026-07-10,2810
 European Parliament,2023-01-21,699198
 European Parliament,2023-02-10,704481
 European Parliament,2023-02-25,708463
@@ -2293,6 +2386,8 @@ Evolution AI,2026-05-12,4295
 Evolution AI,2026-05-31,4302
 Evolution AI,2026-06-17,4311
 Evolution AI,2026-06-17,4311
+Evolution AI,2026-06-30,4315
+Evolution AI,2026-07-10,4316
 Evolution Travel,2023-01-28,10645
 EvolutionIQ,2020-10-18,319
 EvolutionIQ,2020-10-21,320
@@ -2410,6 +2505,8 @@ EwaData,2026-04-29,1042
 EwaData,2026-05-12,1043
 EwaData,2026-05-31,1056
 EwaData,2026-06-17,1068
+EwaData,2026-06-30,1068
+EwaData,2026-07-10,1068
 ExaTech Inc,2023-01-21,13119
 ExaTech Inc,2023-02-25,15860
 ExaTech Inc,2023-03-13,16847
@@ -2491,6 +2588,8 @@ Exasol,2026-04-29,20469
 Exasol,2026-05-12,20522
 Exasol,2026-05-31,20597
 Exasol,2026-06-17,20649
+Exasol,2026-06-30,20726
+Exasol,2026-07-10,20762
 Excel Geomatics Pvt. Ltd.,2023-01-28,1586
 Excel Travel Egypt,2024-09-02,7147
 Excel Travel Egypt,2025-01-09,7816
@@ -2960,6 +3059,8 @@ Expertise Data Vision (EDaVi),2026-04-29,90
 Expertise Data Vision (EDaVi),2026-05-12,90
 Expertise Data Vision (EDaVi),2026-05-31,91
 Expertise Data Vision (EDaVi),2026-06-17,91
+Expertise Data Vision (EDaVi),2026-06-30,91
+Expertise Data Vision (EDaVi),2026-07-10,91
 Expleo Group,2023-01-29,352767
 Exploratorium,2025-09-05,20384
 Exploratorium,2025-09-21,20639
@@ -3018,7 +3119,9 @@ ExxonMobil,2025-06-07,3337570
 ExxonMobil,2025-07-27,3400092
 ExxonMobil,2025-08-30,3451568
 ExxonMobil Permian,2026-05-31,37472
+ExxonMobil Permian,2026-07-10,40105
 ExxonMobil Pipeline,2026-05-31,49352
+ExxonMobil Pipeline,2026-07-10,51852
 Eyal & Asaf,2023-01-25,18
 Eyesec Cyber Security Solutions Private Limited,2023-06-05,1986
 Eyesec Cyber Security Solutions Private Limited,2023-06-11,1996
@@ -3074,6 +3177,9 @@ FAO,2026-05-12,1874086
 FAO,2026-05-31,1882584
 FAO,2026-05-31,1882551
 FAO,2026-06-17,1890031
+FAO,2026-06-30,1896418
+FAO,2026-07-10,1901228
+FAO,2026-07-10,1901249
 FATMAP,2023-01-25,3759
 FDA,2024-04-08,718866
 FDA,2024-06-28,744075
@@ -3107,6 +3213,7 @@ FEMA,2025-05-27,527311
 FEMA,2025-06-07,527743
 FEMA,2025-07-27,533530
 FEMA,2025-08-30,536798
+FEniCS Project,2026-07-10,3058
 FINRA,2024-09-02,172471
 FINRA,2025-01-09,179252
 FINRA,2025-01-19,179881
@@ -3118,16 +3225,20 @@ FINRA,2025-06-07,186983
 FINRA,2025-07-27,190370
 FINRA,2025-08-30,192853
 FOSS United Lucknow,2026-05-31,453
+FOSS United Lucknow,2026-07-10,474
 FPWA,2025-03-16,1961
 FPWA,2025-04-28,1972
 FPWA,2025-05-27,1981
 FPWA,2025-08-30,2038
 FREQUENCY,2026-05-31,629
+FREQUENCY,2026-07-10,629
 Fabric Genomics,2023-01-25,2962
 Fabric Genomics,2023-01-29,2967
 Faction,2023-01-25,9244
 Faction,2023-01-29,9246
+Faculty of Science University of Auckland,2026-07-10,4283
 Fair Chance Futures,2026-05-31,1837
+Fair Chance Futures,2026-07-10,1940
 Fair Trade USA,2023-01-21,22880
 Fair Trade USA,2023-02-10,23039
 Fair Trade USA,2023-02-25,23153
@@ -3449,6 +3560,8 @@ Falkonry,2026-04-29,5864
 Falkonry,2026-05-12,5871
 Falkonry,2026-05-31,5886
 Falkonry,2026-06-17,5971
+Falkonry,2026-06-30,5976
+Falkonry,2026-07-10,5988
 Far East Hospitality Management (S) Pte Ltd,2023-01-21,20885
 Far East Hospitality Management (S) Pte Ltd,2023-02-25,21326
 Far East Hospitality Management (S) Pte Ltd,2023-03-13,21391
@@ -3557,17 +3670,3 @@ Fashion for Good,2022-09-10,82979
 Fashion for Good,2022-09-16,83342
 Fashion for Good,2022-09-22,83639
 Fashion for Good,2022-09-29,84055
-Fashion for Good,2022-10-03,84246
-Fashion for Good,2022-10-09,84564
-Fashion for Good,2022-10-16,84918
-Fashion for Good,2022-10-22,85199
-Fashion for Good,2022-10-28,85477
-Fashion for Good,2022-11-03,85780
-Fashion for Good,2022-11-06,85907
-Fashion for Good,2022-11-14,86283
-Fashion for Good,2022-11-20,86631
-Fashion for Good,2022-11-24,86867
-Fashion for Good,2022-12-01,87262
-Fashion for Good,2022-12-08,87631
-Fashion for Good,2022-12-14,87847
-Fashion for Good,2022-12-27,88247
