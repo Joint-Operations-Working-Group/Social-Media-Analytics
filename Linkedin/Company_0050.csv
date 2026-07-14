@@ -1,72 +1,4 @@
 Company,Date,Followers
-eoda GmbH,2024-11-15,1032
-eoda GmbH,2024-11-24,1038
-eoda GmbH,2024-11-26,1041
-eoda GmbH,2024-12-07,1054
-eoda GmbH,2025-01-08,1081
-eoda GmbH,2025-01-18,1100
-eoda GmbH,2025-01-27,1108
-eoda GmbH,2025-02-04,1119
-eoda GmbH,2025-02-20,1127
-eoda GmbH,2025-02-28,1128
-eoda GmbH,2025-03-03,1129
-eoda GmbH,2025-03-09,1134
-eoda GmbH,2025-03-16,1143
-eoda GmbH,2025-04-13,1159
-eoda GmbH,2025-04-22,1165
-eoda GmbH,2025-04-27,1166
-eoda GmbH,2025-04-28,1168
-eoda GmbH,2025-05-06,1168
-eoda GmbH,2025-05-20,1182
-eoda GmbH,2025-05-25,1184
-eoda GmbH,2025-05-27,1186
-eoda GmbH,2025-06-01,1187
-eoda GmbH,2025-06-07,1191
-eoda GmbH,2025-06-08,1191
-eoda GmbH,2025-06-09,1192
-eoda GmbH,2025-06-10,1192
-eoda GmbH,2025-06-22,1204
-eoda GmbH,2025-07-01,1207
-eoda GmbH,2025-07-04,1207
-eoda GmbH,2025-07-08,1217
-eoda GmbH,2025-07-15,1224
-eoda GmbH,2025-07-27,1231
-eoda GmbH,2025-08-11,1241
-eoda GmbH,2025-08-15,1243
-eoda GmbH,2025-08-18,1243
-eoda GmbH,2025-08-21,1244
-eoda GmbH,2025-08-26,1245
-eoda GmbH,2025-08-30,1245
-eoda GmbH,2025-09-17,1250
-esanum,2023-01-25,1949
-exakt health,2023-01-25,1022
-expand.ai (YC S24),2025-09-16,161
-finmarie,2023-01-25,2653
-flowmoco,2025-09-16,281
-fourTheorem,2024-06-24,901
-freeCodeCamp,2023-01-21,1094745
-freeCodeCamp,2023-02-25,1122051
-freeCodeCamp,2023-03-13,1135937
-freeCodeCamp,2023-03-29,1153556
-freeCodeCamp,2023-04-10,1168958
-freeCodeCamp,2023-04-23,1182497
-freeCodeCamp,2023-06-05,1229545
-freeCodeCamp,2023-06-11,1236918
-freeCodeCamp,2023-06-23,1251770
-freeCodeCamp,2023-07-06,1265607
-freeCodeCamp,2023-07-23,1280998
-freeCodeCamp,2023-08-05,1292831
-freeCodeCamp,2023-08-29,1308674
-freeCodeCamp,2023-10-18,1373932
-freeCodeCamp,2023-12-17,1411017
-freeCodeCamp,2023-12-18,1412334
-freeCodeCamp,2024-06-24,1594004
-freeCodeCamp,2025-03-16,1908662
-freeCodeCamp,2025-04-28,1970370
-freeCodeCamp,2025-05-27,2011128
-freeCodeCamp,2025-08-30,2104638
-frog,2023-01-25,324982
-gener8tor,2023-01-21,21538
 gener8tor,2023-02-10,21967
 gener8tor,2023-02-25,22111
 gener8tor,2023-03-13,22271
@@ -248,6 +180,10 @@ geoLOGIC systems ltd.,2025-07-27,4507
 geoLOGIC systems ltd.,2025-08-18,4518
 geoLOGIC systems ltd.,2025-08-21,4519
 geoLOGIC systems ltd.,2025-09-21,4578
+geoLOGIC systems ltd.,2025-10-26,4659
+geoLOGIC systems ltd.,2026-02-09,4843
+geoLOGIC systems ltd.,2026-02-23,4851
+geoLOGIC systems ltd.,2026-02-27,4856
 getINNOtized GmbH,2022-03-15,3957
 getINNOtized GmbH,2022-03-31,4092
 getINNOtized GmbH,2022-04-09,4136
@@ -412,6 +348,27 @@ getINNOtized GmbH,2025-08-21,8689
 getINNOtized GmbH,2025-08-26,8689
 getINNOtized GmbH,2025-08-30,8689
 getINNOtized GmbH,2025-09-17,8688
+getINNOtized GmbH,2025-10-10,8691
+getINNOtized GmbH,2025-10-17,8693
+getINNOtized GmbH,2025-10-26,8697
+getINNOtized GmbH,2026-01-01,8708
+getINNOtized GmbH,2026-01-15,8706
+getINNOtized GmbH,2026-03-17,8731
+getINNOtized GmbH,2026-03-29,8728
+getINNOtized GmbH,2026-04-07,8742
+getINNOtized GmbH,2026-04-15,8772
+getINNOtized GmbH,2026-04-22,8776
+getINNOtized GmbH,2026-04-24,8778
+getINNOtized GmbH,2026-04-29,8782
+getINNOtized GmbH,2026-05-12,8812
+getINNOtized GmbH,2026-05-31,8822
+getINNOtized GmbH,2026-06-05,8819
+getINNOtized GmbH,2026-06-17,8818
+getINNOtized GmbH,2026-06-30,8825
+getINNOtized GmbH,2026-07-10,8820
+getINNOtized GmbH,2026-07-11,8820
+getINNOtized GmbH,2026-07-12,8822
+getINNOtized GmbH,2026-07-14,8823
 gistec,2021-01-22,6726
 gistec,2021-01-25,6738
 gistec,2021-01-28,6762
@@ -566,6 +523,18 @@ gistec,2025-07-27,16620
 gistec,2025-08-18,16829
 gistec,2025-08-21,16853
 gistec,2025-09-21,17090
+gistec,2025-10-26,17493
+gistec,2026-02-09,18221
+gistec,2026-02-23,18400
+gistec,2026-02-27,18485
+gistec,2026-03-11,18596
+gistec,2026-04-08,18774
+gistec,2026-05-01,18889
+gistec,2026-06-05,18982
+gistec,2026-06-17,19036
+gistec,2026-06-30,19120
+gistec,2026-07-10,19173
+gistec,2026-07-13,19187
 goDutch,2020-10-16,1071
 goDutch,2020-10-20,1091
 goDutch,2020-10-21,1099
@@ -579,6 +548,8 @@ goDutch,2020-11-30,1310
 goDutch,2020-12-08,1370
 goDutch,2020-12-15,1393
 goDutch,2020-12-27,1469
+goose,2026-07-10,5216
+goose,2026-07-12,5235
 hema.to GmbH,2023-01-25,564
 hema.to GmbH,2023-01-29,565
 hrQ,2023-01-21,22998
@@ -599,6 +570,7 @@ hrQ,2023-10-18,24194
 hrQ,2023-12-17,23696
 hrQ,2023-12-18,23700
 hrQ is becoming Landrum Talent Solutions,2024-06-28,24238
+h²lab,2026-07-13,110
 i-PRO Americas Inc.,2023-01-21,2922
 i-PRO Americas Inc.,2023-02-25,3245
 i-PRO Americas Inc.,2023-03-13,3360
@@ -834,6 +806,25 @@ i2 Inc.,2024-09-16,992
 i2 Inc.,2024-09-24,995
 i2 Inc.,2024-10-02,998
 i2 Inc.,2025-09-17,994
+i2 Inc.,2025-11-05,994
+i2 Inc.,2025-11-24,994
+i2 Inc.,2026-01-15,996
+i2 Inc.,2026-02-04,995
+i2 Inc.,2026-03-17,995
+i2 Inc.,2026-03-29,995
+i2 Inc.,2026-04-05,996
+i2 Inc.,2026-04-15,996
+i2 Inc.,2026-04-22,997
+i2 Inc.,2026-04-24,996
+i2 Inc.,2026-04-29,997
+i2 Inc.,2026-05-12,996
+i2 Inc.,2026-05-12,997
+i2 Inc.,2026-06-05,998
+i2 Inc.,2026-06-17,995
+i2 Inc.,2026-06-30,997
+i2 Inc.,2026-07-11,1000
+i2 Inc.,2026-07-12,1000
+i2 Inc.,2026-07-14,1000
 "i2, Inc.",2024-11-15,994
 "i2, Inc.",2024-11-24,994
 "i2, Inc.",2024-11-26,995
@@ -872,6 +863,11 @@ i2 Inc.,2025-09-17,994
 "i2, Inc.",2025-08-21,998
 "i2, Inc.",2025-08-26,998
 "i2, Inc.",2025-08-30,998
+"i2, Inc.",2025-10-10,992
+"i2, Inc.",2025-10-17,992
+"i2, Inc.",2025-10-26,992
+"i2, Inc.",2026-04-07,996
+i2Inc.,2026-01-01,995
 iMerit Technology,2023-01-28,26929
 iRelaunch,2023-01-21,10848
 iRelaunch,2023-02-25,11339
@@ -929,6 +925,10 @@ iSpace Inc.,2024-09-27,57404
 "iSpace, Inc.",2025-06-07,79837
 "iSpace, Inc.",2025-07-27,82252
 "iSpace, Inc.",2025-08-30,84007
+iTechInfoPro,2026-03-16,336
+iTechInfoPro,2026-05-31,453
+iTechInfoPro,2026-07-10,478
+iTechInfoPro,2026-07-12,478
 ibl.ai,2025-01-27,2929
 ibl.ai,2025-02-21,3022
 ibl.ai,2025-02-28,3049
@@ -938,6 +938,7 @@ ibl.ai,2025-05-27,3207
 ibl.ai,2025-06-07,3230
 ibl.ai,2025-07-27,3323
 ibl.ai,2025-08-30,3362
+ibl.ai,2026-07-12,4734
 iit guwahati,2023-01-28,11324
 imagi,2024-06-24,5355
 imaginAIre - AI art - Midjourney Art,2023-03-29,131
@@ -950,6 +951,7 @@ imaginAIre - AI art - Midjourney Art,2023-07-06,183
 imaginAIre - AI art - Midjourney Art,2023-07-23,188
 imaginAIre - AI art - Midjourney Art,2023-08-05,192
 imaginAIre - AI art - Midjourney Art,2023-08-29,199
+import-AI,2026-02-06,16
 infosec.live,2023-02-25,5968
 infosec.live,2023-03-13,6118
 infosec.live,2023-03-29,6218
@@ -1216,6 +1218,26 @@ insight2impact,2025-08-21,1375
 insight2impact,2025-08-26,1376
 insight2impact,2025-08-30,1376
 insight2impact,2025-09-17,1376
+insight2impact,2025-10-10,1377
+insight2impact,2025-10-17,1376
+insight2impact,2025-10-26,1377
+insight2impact,2026-01-01,1380
+insight2impact,2026-01-15,1379
+insight2impact,2026-03-17,1381
+insight2impact,2026-03-29,1380
+insight2impact,2026-04-05,1381
+insight2impact,2026-04-07,1381
+insight2impact,2026-04-15,1378
+insight2impact,2026-04-22,1379
+insight2impact,2026-04-24,1379
+insight2impact,2026-04-29,1379
+insight2impact,2026-05-12,1378
+insight2impact,2026-06-05,1379
+insight2impact,2026-06-17,1376
+insight2impact,2026-06-30,1376
+insight2impact,2026-07-11,1376
+insight2impact,2026-07-12,1376
+insight2impact,2026-07-14,1375
 insitro,2023-01-25,12273
 insitro,2023-01-29,12303
 intoDNA,2023-01-25,1312
@@ -1249,12 +1271,35 @@ ispace inc.,2023-10-18,24527
 ispace inc.,2023-12-18,26268
 "ispace, inc.",2025-05-27,46471
 itag & itag Skillnet,2024-06-24,2401
+iteREFINE,2025-11-16,507
 ixpantia,2025-08-15,2774
 ixpantia,2025-08-18,2775
 ixpantia,2025-08-21,2776
 ixpantia,2025-08-26,2778
 ixpantia,2025-08-30,2778
 ixpantia,2025-09-17,2792
+ixpantia,2025-10-10,2814
+ixpantia,2025-10-17,2816
+ixpantia,2025-10-26,2817
+ixpantia,2026-01-01,2847
+ixpantia,2026-01-15,2854
+ixpantia,2026-03-17,3008
+ixpantia,2026-03-29,3015
+ixpantia,2026-04-05,3018
+ixpantia,2026-04-07,3019
+ixpantia,2026-04-15,3019
+ixpantia,2026-04-22,3035
+ixpantia,2026-04-24,3035
+ixpantia,2026-04-29,3034
+ixpantia,2026-05-12,3037
+ixpantia,2026-05-31,3073
+ixpantia,2026-06-05,3081
+ixpantia,2026-06-17,3088
+ixpantia,2026-06-30,3090
+ixpantia,2026-07-10,3096
+ixpantia,2026-07-11,3096
+ixpantia,2026-07-12,3096
+ixpantia,2026-07-14,3097
 jamesrores.com,2024-09-02,934
 jamesrores.com,2025-01-09,926
 jamesrores.com,2025-01-19,928
@@ -1279,6 +1324,7 @@ jolin.io,2023-07-06,289
 jolin.io,2023-07-23,293
 jolin.io,2023-08-05,300
 jolin.io,2023-08-29,302
+jolin.io,2026-01-26,438
 jsDelivr,2023-01-25,83
 khipu,2020-10-22,659
 khipu,2020-10-28,664
@@ -1286,6 +1332,8 @@ khipu,2020-11-07,670
 khipu,2020-11-21,706
 m-ld.io,2023-01-25,128
 m-ld.io,2023-01-29,128
+mainanalytics GmbH,2026-07-12,1057
+marimo,2026-04-08,6586
 mayato,2023-01-25,4013
 meetup.ai,2021-01-25,271
 meetup.ai,2021-01-28,271
@@ -1445,6 +1493,24 @@ meetup.ai,2025-07-27,538
 meetup.ai,2025-08-18,536
 meetup.ai,2025-08-21,537
 meetup.ai,2025-09-21,538
+meetup.ai,2025-10-26,540
+meetup.ai,2026-02-09,546
+meetup.ai,2026-02-14,546
+meetup.ai,2026-02-23,548
+meetup.ai,2026-02-25,548
+meetup.ai,2026-02-27,548
+meetup.ai,2026-03-08,547
+meetup.ai,2026-03-11,547
+meetup.ai,2026-03-16,546
+meetup.ai,2026-03-17,549
+meetup.ai,2026-03-24,549
+meetup.ai,2026-04-08,549
+meetup.ai,2026-05-01,551
+meetup.ai,2026-06-05,553
+meetup.ai,2026-06-17,553
+meetup.ai,2026-06-30,553
+meetup.ai,2026-07-10,552
+meetup.ai,2026-07-13,552
 mobileX AG,2020-12-27,560
 mobileX AG,2021-02-19,563
 mobileX AG,2021-03-26,569
@@ -1466,12 +1532,23 @@ moinworld,2023-10-18,1274
 moinworld,2023-12-18,1255
 muds_ai,2025-08-18,994
 muds_ai,2025-08-21,996
+muds_ai,2025-10-26,1040
+muds_ai,2026-02-09,1080
+muds_ai,2026-02-14,1082
 myGwork - LGBTQ+ Business Community,2024-06-24,147642
 mydealz,2023-01-25,1183
 n.e.f Business Automation,2023-01-22,79
 n8n,2023-01-25,9733
+n8n,2026-07-10,388474
+n8n,2026-07-12,389541
+napari,2026-04-08,725
+napari,2026-05-31,752
+napari,2026-07-10,796
+napari,2026-07-12,797
 neuefische GmbH - School and Pool for Digital Talent,2023-01-25,3559
 neurobox,2025-09-21,7973
+nextNYC,2026-03-16,1783
+nextNYC,2026-07-12,1869
 nineDots.io,2024-06-24,60746
 null - The Open Security Community,2023-01-21,10415
 null - The Open Security Community,2023-02-10,10692
@@ -1504,6 +1581,11 @@ null - The Open Security Community,2025-06-07,19263
 null - The Open Security Community,2025-07-27,19754
 null - The Open Security Community,2025-08-18,19933
 null - The Open Security Community,2025-08-30,20007
+omsmartstay,2026-06-25,32
+ondatix Datenwerkstatt,2026-07-10,90
+ondatix Datenwerkstatt,2026-07-12,90
+openRxiv,2026-07-10,2065
+openRxiv,2026-07-12,2067
 openSUSE Project,2024-05-04,17692
 openSUSE Project,2024-06-28,18128
 openSUSE Project,2024-08-06,18426
@@ -1526,6 +1608,10 @@ parcelLab,2020-12-27,4156
 parcelLab,2021-02-19,4398
 parcelLab,2021-03-26,4559
 pnkfrg studios,2023-01-25,467
+prefix.dev,2026-03-16,2219
+prefix.dev,2026-05-31,2480
+prefix.dev,2026-07-10,2521
+prefix.dev,2026-07-12,2520
 publicjobs,2024-06-24,165057
 publicjobs,2024-06-25,165137
 publicjobs,2024-08-02,167582
@@ -1554,6 +1640,19 @@ publicjobs,2025-07-27,189739
 publicjobs,2025-08-18,191155
 publicjobs,2025-08-21,191487
 publicjobs,2025-09-21,192808
+publicjobs,2025-10-26,196521
+publicjobs,2026-02-09,206581
+publicjobs,2026-02-14,207339
+publicjobs,2026-02-23,208594
+publicjobs,2026-02-27,209217
+publicjobs,2026-03-11,210623
+publicjobs,2026-04-08,214123
+publicjobs,2026-05-01,216572
+publicjobs,2026-06-05,219458
+publicjobs,2026-06-17,220588
+publicjobs,2026-06-30,221380
+publicjobs,2026-07-10,221926
+publicjobs,2026-07-13,222055
 publicjobs.ie,2023-08-08,145064
 publicjobs.ie,2023-08-10,145323
 publicjobs.ie,2023-09-15,149223
@@ -1853,6 +1952,28 @@ r-programming.org,2025-08-21,2340
 r-programming.org,2025-08-26,2338
 r-programming.org,2025-08-30,2338
 r-programming.org,2025-09-17,2338
+r-programming.org,2025-10-10,2343
+r-programming.org,2025-10-17,2342
+r-programming.org,2025-10-26,2340
+r-programming.org,2025-11-05,2341
+r-programming.org,2026-01-01,2335
+r-programming.org,2026-01-15,2333
+r-programming.org,2026-02-04,2337
+r-programming.org,2026-03-17,2333
+r-programming.org,2026-03-29,2331
+r-programming.org,2026-04-05,2330
+r-programming.org,2026-04-07,2328
+r-programming.org,2026-04-15,2328
+r-programming.org,2026-04-22,2327
+r-programming.org,2026-04-24,2327
+r-programming.org,2026-04-29,2327
+r-programming.org,2026-05-12,2329
+r-programming.org,2026-06-05,2327
+r-programming.org,2026-06-17,2332
+r-programming.org,2026-06-30,2331
+r-programming.org,2026-07-11,2331
+r-programming.org,2026-07-12,2330
+r-programming.org,2026-07-14,2331
 rOpenSci,2024-01-22,602
 rOpenSci,2024-04-09,756
 rOpenSci,2024-04-17,796
@@ -1917,6 +2038,30 @@ rOpenSci,2025-09-05,2012
 rOpenSci,2025-09-09,2016
 rOpenSci,2025-09-17,2032
 rOpenSci,2025-09-21,2042
+rOpenSci,2025-10-10,2080
+rOpenSci,2025-10-17,2080
+rOpenSci,2025-12-12,2137
+rOpenSci,2026-01-15,2200
+rOpenSci,2026-02-06,2284
+rOpenSci,2026-03-17,2354
+rOpenSci,2026-03-29,2367
+rOpenSci,2026-04-04,2372
+rOpenSci,2026-04-08,2376
+rOpenSci,2026-04-15,2398
+rOpenSci,2026-04-22,2440
+rOpenSci,2026-04-24,2458
+rOpenSci,2026-04-29,2476
+rOpenSci,2026-05-12,2534
+rOpenSci,2026-05-31,2599
+rOpenSci,2026-06-05,2613
+rOpenSci,2026-06-17,2731
+rOpenSci,2026-06-25,2795
+rOpenSci,2026-06-30,2815
+rOpenSci,2026-07-10,2872
+rOpenSci,2026-07-11,2872
+rOpenSci,2026-07-12,2873
+rOpenSci,2026-07-13,2873
+rOpenSci,2026-07-14,2874
 rainbowR,2025-07-15,54
 rainbowR,2025-07-27,83
 rainbowR,2025-08-11,92
@@ -1926,6 +2071,40 @@ rainbowR,2025-08-21,95
 rainbowR,2025-08-26,99
 rainbowR,2025-08-30,99
 rainbowR,2025-09-17,103
+rainbowR,2025-10-10,142
+rainbowR,2025-10-17,144
+rainbowR,2025-11-16,222
+rainbowR,2025-12-12,385
+rainbowR,2026-01-15,412
+rainbowR,2026-01-26,418
+rainbowR,2026-02-06,425
+rainbowR,2026-03-08,619
+rainbowR,2026-03-11,630
+rainbowR,2026-03-16,637
+rainbowR,2026-03-17,639
+rainbowR,2026-03-24,643
+rainbowR,2026-03-29,647
+rainbowR,2026-04-04,648
+rainbowR,2026-04-05,648
+rainbowR,2026-04-07,649
+rainbowR,2026-04-08,649
+rainbowR,2026-04-15,649
+rainbowR,2026-04-22,650
+rainbowR,2026-04-24,651
+rainbowR,2026-04-29,654
+rainbowR,2026-05-01,653
+rainbowR,2026-05-12,653
+rainbowR,2026-05-31,660
+rainbowR,2026-06-05,662
+rainbowR,2026-06-17,664
+rainbowR,2026-06-25,665
+rainbowR,2026-06-30,667
+rainbowR,2026-07-10,684
+rainbowR,2026-07-11,684
+rainbowR,2026-07-12,686
+rainbowR,2026-07-12,688
+rainbowR,2026-07-13,686
+rainbowR,2026-07-14,687
 repeople,2025-09-21,3077
 resilio,2023-01-25,109
 s-lab - Software Quality Lab,2023-01-28,49
@@ -2152,6 +2331,42 @@ scikit-learn,2025-08-26,121654
 scikit-learn,2025-08-30,121654
 scikit-learn,2025-09-17,121712
 scikit-learn,2025-09-21,121717
+scikit-learn,2025-10-10,121800
+scikit-learn,2025-10-17,121872
+scikit-learn,2025-10-26,121970
+scikit-learn,2026-01-15,122821
+scikit-learn,2026-02-09,122979
+scikit-learn,2026-02-14,123012
+scikit-learn,2026-02-23,123077
+scikit-learn,2026-02-25,123066
+scikit-learn,2026-02-27,123068
+scikit-learn,2026-02-27,123069
+scikit-learn,2026-03-04,123089
+scikit-learn,2026-03-08,123119
+scikit-learn,2026-03-11,123126
+scikit-learn,2026-03-16,123045
+scikit-learn,2026-03-17,123151
+scikit-learn,2026-03-17,123149
+scikit-learn,2026-03-24,123182
+scikit-learn,2026-03-29,123220
+scikit-learn,2026-04-04,123247
+scikit-learn,2026-04-07,123230
+scikit-learn,2026-04-08,123240
+scikit-learn,2026-04-15,123272
+scikit-learn,2026-04-22,123277
+scikit-learn,2026-04-24,123264
+scikit-learn,2026-04-29,123237
+scikit-learn,2026-05-01,123230
+scikit-learn,2026-05-12,123219
+scikit-learn,2026-05-31,123240
+scikit-learn,2026-06-05,123211
+scikit-learn,2026-06-17,123519
+scikit-learn,2026-06-30,123627
+scikit-learn,2026-07-10,123668
+scikit-learn,2026-07-11,123671
+scikit-learn,2026-07-12,123674
+scikit-learn,2026-07-13,123662
+scikit-learn,2026-07-14,123678
 securityNOW Inc,2023-06-23,101
 securityNOW Inc,2023-07-06,102
 securityNOW Inc,2023-07-23,102
@@ -2295,9 +2510,34 @@ simpl.study,2025-07-15,68
 simpl.study,2025-07-27,68
 simpl.study,2025-08-18,68
 simpl.study,2025-08-21,68
+simpl.study,2025-10-26,68
+simpl.study,2026-02-09,67
+simpl.study,2026-02-14,67
+simpl.study,2026-02-23,67
+simpl.study,2026-02-25,67
+simpl.study,2026-02-27,67
+simpl.study,2026-03-04,67
+simpl.study,2026-03-08,67
+simpl.study,2026-03-11,67
+simpl.study,2026-03-16,67
+simpl.study,2026-03-17,67
+simpl.study,2026-03-24,67
+simpl.study,2026-04-08,67
+simpl.study,2026-05-01,67
+simpl.study,2026-06-05,67
+simpl.study,2026-06-17,67
+simpl.study,2026-06-30,67
+simpl.study,2026-07-10,67
+simpl.study,2026-07-13,67
 sktime,2025-09-16,2422
 softpunki,2024-06-24,85
 spunout,2025-09-21,6443
+statistics.com,2025-11-16,5315
+statistics.com,2025-12-12,5334
+statistics.com,2026-01-26,5375
+statistics.com,2026-02-06,5385
+statistics.com,2026-04-04,5431
+statistics.com,2026-06-25,5467
 storytelling with data,2020-10-15,39653
 storytelling with data,2020-10-16,39773
 storytelling with data,2020-10-19,39979
@@ -2604,6 +2844,42 @@ storytelling with data,2025-08-21,161607
 storytelling with data,2025-08-26,161615
 storytelling with data,2025-08-30,161615
 storytelling with data,2025-09-17,161986
+storytelling with data,2025-10-10,162573
+storytelling with data,2025-10-17,162645
+storytelling with data,2025-10-26,162813
+storytelling with data,2026-01-01,163456
+storytelling with data,2026-01-15,163658
+storytelling with data,2026-02-09,163993
+storytelling with data,2026-02-14,164095
+storytelling with data,2026-02-23,164207
+storytelling with data,2026-02-25,164205
+storytelling with data,2026-02-27,164233
+storytelling with data,2026-02-27,164227
+storytelling with data,2026-03-04,164326
+storytelling with data,2026-03-08,164467
+storytelling with data,2026-03-11,164483
+storytelling with data,2026-03-16,164391
+storytelling with data,2026-03-17,164516
+storytelling with data,2026-03-24,164558
+storytelling with data,2026-03-29,164659
+storytelling with data,2026-04-07,164712
+storytelling with data,2026-04-08,164653
+storytelling with data,2026-04-08,164667
+storytelling with data,2026-04-15,164725
+storytelling with data,2026-04-22,164820
+storytelling with data,2026-04-24,164796
+storytelling with data,2026-04-29,164820
+storytelling with data,2026-05-01,164822
+storytelling with data,2026-05-12,164871
+storytelling with data,2026-05-31,164982
+storytelling with data,2026-06-05,165005
+storytelling with data,2026-06-17,165263
+storytelling with data,2026-06-30,165460
+storytelling with data,2026-07-10,165528
+storytelling with data,2026-07-11,165542
+storytelling with data,2026-07-12,165562
+storytelling with data,2026-07-13,165583
+storytelling with data,2026-07-14,165597
 streetfootballworld,2023-01-25,3641
 taara.quest,2023-02-25,132
 taipy.io,2023-04-23,900
@@ -2667,6 +2943,24 @@ thaink²,2025-08-21,1248
 thaink²,2025-08-26,1249
 thaink²,2025-08-30,1249
 thaink²,2025-09-17,1285
+thaink²,2025-10-10,1313
+thaink²,2025-10-17,1312
+thaink²,2026-01-15,1397
+thaink²,2026-03-17,1414
+thaink²,2026-03-29,1414
+thaink²,2026-04-15,1421
+thaink²,2026-04-22,1422
+thaink²,2026-04-24,1423
+thaink²,2026-04-29,1424
+thaink²,2026-05-12,1425
+thaink²,2026-05-31,1435
+thaink²,2026-06-05,1437
+thaink²,2026-06-17,1446
+thaink²,2026-06-30,1455
+thaink²,2026-07-10,1453
+thaink²,2026-07-11,1453
+thaink²,2026-07-12,1453
+thaink²,2026-07-14,1453
 the LEGO Group,2023-01-25,1082355
 the LEGO Group,2024-06-24,1353209
 the LEGO Group,2025-09-05,1617196
@@ -2972,6 +3266,50 @@ useR! - The R User Conference,2025-09-09,7381
 useR! - The R User Conference,2025-09-16,7399
 useR! - The R User Conference,2025-09-17,7399
 useR! - The R User Conference,2025-09-21,7411
+useR! - The R User Conference,2025-10-10,7438
+useR! - The R User Conference,2025-10-17,7456
+useR! - The R User Conference,2025-10-26,7481
+useR! - The R User Conference,2025-11-16,7519
+useR! - The R User Conference,2025-12-12,7539
+useR! - The R User Conference,2026-01-15,7577
+useR! - The R User Conference,2026-01-26,7635
+useR! - The R User Conference,2026-02-06,7710
+useR! - The R User Conference,2026-02-09,7738
+useR! - The R User Conference,2026-02-14,7758
+useR! - The R User Conference,2026-02-23,7782
+useR! - The R User Conference,2026-02-25,7793
+useR! - The R User Conference,2026-02-27,7803
+useR! - The R User Conference,2026-02-27,7804
+useR! - The R User Conference,2026-03-04,7826
+useR! - The R User Conference,2026-03-08,7835
+useR! - The R User Conference,2026-03-11,7859
+useR! - The R User Conference,2026-03-16,7911
+useR! - The R User Conference,2026-03-17,7922
+useR! - The R User Conference,2026-03-24,7955
+useR! - The R User Conference,2026-03-29,7973
+useR! - The R User Conference,2026-04-04,8020
+useR! - The R User Conference,2026-04-08,8041
+useR! - The R User Conference,2026-04-08,8039
+useR! - The R User Conference,2026-04-15,8074
+useR! - The R User Conference,2026-04-22,8101
+useR! - The R User Conference,2026-04-24,8108
+useR! - The R User Conference,2026-04-29,8124
+useR! - The R User Conference,2026-05-01,8128
+useR! - The R User Conference,2026-05-12,8173
+useR! - The R User Conference,2026-05-31,8204
+useR! - The R User Conference,2026-06-05,8212
+useR! - The R User Conference,2026-06-17,8231
+useR! - The R User Conference,2026-06-25,8260
+useR! - The R User Conference,2026-06-30,8283
+useR! - The R User Conference,2026-07-10,8517
+useR! - The R User Conference,2026-07-10,8516
+useR! - The R User Conference,2026-07-11,8526
+useR! - The R User Conference,2026-07-12,8582
+useR! - The R User Conference,2026-07-13,8652
+useR! - The R User Conference,2026-07-14,8667
+using std::cpp,2026-05-31,1946
+using std::cpp,2026-07-10,2002
+using std::cpp,2026-07-12,2015
 ustwo,2025-09-16,34414
 vAIsual,2023-01-21,460
 vAIsual,2023-02-25,489
@@ -3112,6 +3450,7 @@ vGIS,2023-08-08,19731
 vGIS,2023-08-10,19745
 vGIS,2023-09-15,20061
 vGIS,2023-10-18,20061
+vGIS Inc,2026-02-14,27729
 vGIS Inc.,2023-12-17,20605
 vGIS Inc.,2023-12-18,20612
 vGIS Inc.,2024-01-22,20810
@@ -3143,12 +3482,32 @@ vGIS Inc.,2025-07-15,26328
 vGIS Inc.,2025-07-27,26380
 vGIS Inc.,2025-08-18,26543
 vGIS Inc.,2025-08-21,26540
+vGIS Inc.,2025-10-26,26958
+vGIS Inc.,2026-02-09,27690
+vGIS Inc.,2026-02-23,27765
+vGIS Inc.,2026-02-27,27759
+vGIS Inc.,2026-03-11,27897
+vGIS Inc.,2026-04-08,27998
+vGIS Inc.,2026-05-01,28018
+vGIS Inc.,2026-06-05,28074
+vGIS Inc.,2026-06-17,28109
+vGIS Inc.,2026-06-30,28165
+vGIS Inc.,2026-07-10,28244
+vGIS Inc.,2026-07-13,28245
+w3schools.com,2026-06-25,2363787
+w3schools.com,2026-07-13,2378573
 wefox,2023-01-25,32504
 women++ (womenplusplus),2023-01-25,2232
+xAI,2025-12-01,138313
 xyonix,2025-09-05,922
 xyonix,2025-09-09,924
 zo-ii,2024-06-24,21
 zolar,2023-01-25,10503
+zyBooks: A Wiley Brand,2026-04-08,4978
+¿Que Lo Tech!?,2026-03-16,487
+¿Que Lo Tech!?,2026-05-31,491
+¿Que Lo Tech!?,2026-07-10,490
+¿Que Lo Tech!?,2026-07-12,490
 École Polytechnique,2025-02-21,156792
 École Polytechnique,2025-02-28,157274
 École Polytechnique,2025-03-15,158521
@@ -3158,3 +3517,5 @@ zolar,2023-01-25,10503
 École Polytechnique,2025-06-07,164690
 École Polytechnique,2025-07-27,167906
 École Polytechnique,2025-08-30,169869
+École Polytechnique,2026-03-16,183238
+École Polytechnique,2026-07-12,189979
