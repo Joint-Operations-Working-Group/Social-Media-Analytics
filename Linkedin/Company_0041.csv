@@ -1,30 +1,4 @@
 Company,Date,Followers
-Sustainable Development Solutions Network,2025-08-18,81884
-Sustainable Development Solutions Network,2025-08-21,81997
-Sustainable Development Solutions Network,2025-08-26,82092
-Sustainable Development Solutions Network,2025-08-30,82092
-Sustainable Development Solutions Network,2025-09-17,82707
-Sustainable Development Solutions Network,2025-10-10,83391
-Sustainable Development Solutions Network,2025-10-17,83533
-Sustainable Development Solutions Network,2025-10-26,83712
-Sustainable Development Solutions Network,2026-01-01,84699
-Sustainable Development Solutions Network,2026-01-01,84699
-Sustainable Development Solutions Network,2026-01-15,85267
-Sustainable Development Solutions Network,2026-03-17,87885
-Sustainable Development Solutions Network,2026-03-29,88328
-Sustainable Development Solutions Network,2026-04-24,89016
-Sustainable Development Solutions Network,2026-06-30,90934
-Sustainable Development Solutions Network,2026-07-10,91224
-Sustainalytics,2023-01-28,114260
-Swappsi software,2024-06-24,2017
-Swappsi software,2025-09-05,3968
-Swappsi software,2025-09-21,3964
-Sweden Water Research,2023-01-28,2449
-Swift Developer,2020-10-16,683
-Swift Developer,2020-10-20,690
-Swift Developer,2020-10-21,692
-Swift Developer,2020-10-28,702
-Swift Developer,2020-10-31,706
 Swift Developer,2020-11-02,709
 Swift Developer,2020-11-07,711
 Swift Developer,2020-11-12,716
@@ -211,6 +185,7 @@ Swiss Philanthropy Foundation,2026-03-08,10153
 Swiss Philanthropy Foundation,2026-03-11,10159
 Swiss Philanthropy Foundation,2026-03-24,10186
 Swiss Philanthropy Foundation,2026-06-17,10984
+Swiss Philanthropy Foundation,2026-07-13,11325
 Swiss Reproducibility Network,2026-03-16,320
 Swiss Reproducibility Network,2026-07-10,375
 SwissAI,2021-01-25,339
@@ -380,6 +355,7 @@ SwissAI,2026-03-08,477
 SwissAI,2026-03-11,477
 SwissAI,2026-03-24,479
 SwissAI,2026-06-17,481
+SwissAI,2026-07-13,485
 Swyg,2023-01-25,3493
 Sydney Machine Learning Group,2021-03-28,146
 Sydney Machine Learning Group,2021-03-31,146
@@ -531,6 +507,7 @@ Sydney Machine Learning Group,2026-03-08,192
 Sydney Machine Learning Group,2026-03-11,192
 Sydney Machine Learning Group,2026-03-24,200
 Sydney Machine Learning Group,2026-06-17,204
+Sydney Machine Learning Group,2026-07-13,204
 Sylvera,2023-04-29,21619
 Sylvera,2023-05-12,22133
 Sylvera,2023-05-19,22383
@@ -1020,6 +997,7 @@ TIOBE Software,2026-07-10,2451
 TIOBE Software,2026-07-10,2451
 TMC,2023-02-10,65300
 TMLS - Toronto Machine Learning Summit,2026-06-17,15905
+TMLS - Toronto Machine Learning Summit,2026-07-13,16145
 TMLS Summit,2025-07-15,15127
 TMLS Summit,2025-07-27,15134
 TMLS Summit,2025-08-18,15129
@@ -2304,6 +2282,7 @@ TazWorks,2026-02-27,1401
 TazWorks,2026-02-27,1401
 TazWorks,2026-03-11,1413
 TazWorks,2026-06-17,1527
+TazWorks,2026-07-13,1540
 TazWorks LLC,2021-01-22,644
 TazWorks LLC,2021-01-25,644
 TazWorks LLC,2021-01-28,644
@@ -2393,6 +2372,7 @@ Thalesians Ltd,2026-03-08,5697
 Thalesians Ltd,2026-03-11,5708
 Thalesians Ltd,2026-03-24,5729
 Thalesians Ltd,2026-06-17,5782
+Thalesians Ltd,2026-07-13,5796
 The Accounting Podcast,2026-07-10,26480
 The Alan Turing Institute,2025-10-10,101482
 The Alan Turing Institute,2025-10-17,102353
@@ -2499,6 +2479,7 @@ The Data Lab - Innovation Centre,2026-03-08,18107
 The Data Lab - Innovation Centre,2026-03-11,18111
 The Data Lab - Innovation Centre,2026-03-24,18232
 The Data Lab - Innovation Centre,2026-06-17,19087
+The Data Lab - Innovation Centre,2026-07-13,19262
 The Data Pub,2026-02-09,3516
 The Data Pub,2026-02-14,3536
 The Data Pub,2026-02-23,3545
@@ -2509,6 +2490,7 @@ The Data Pub,2026-03-08,3580
 The Data Pub,2026-03-11,3583
 The Data Pub,2026-03-24,3601
 The Data Pub,2026-06-17,3691
+The Data Pub,2026-07-13,3708
 The Data Science & Statistics Society,2026-02-09,584
 The Data Science & Statistics Society,2026-02-14,586
 The Data Science & Statistics Society,2026-02-23,592
@@ -2519,6 +2501,7 @@ The Data Science & Statistics Society,2026-03-08,595
 The Data Science & Statistics Society,2026-03-11,596
 The Data Science & Statistics Society,2026-03-24,596
 The Data Science & Statistics Society,2026-06-17,595
+The Data Science & Statistics Society,2026-07-13,599
 The Data Science Institute at Columbia University,2026-07-10,20305
 The David and Lucile Packard Foundation,2025-10-10,61773
 The David and Lucile Packard Foundation,2025-10-17,62179
@@ -2581,6 +2564,7 @@ The Julia Language,2026-04-24,16512
 The Julia Language,2026-06-17,16603
 The Julia Language,2026-06-30,16619
 The Julia Language,2026-07-10,16629
+The Julia Language,2026-07-13,16637
 The Kresge Foundation,2025-10-10,69436
 The Kresge Foundation,2025-10-17,69794
 The Kresge Foundation,2025-10-26,70364
@@ -2605,6 +2589,7 @@ The LEGO Foundation,2026-03-08,136951
 The LEGO Foundation,2026-03-11,137115
 The LEGO Foundation,2026-03-24,137674
 The LEGO Foundation,2026-06-17,153284
+The LEGO Foundation,2026-07-13,155420
 The Left Shift,2026-03-16,1129
 The Left Shift,2026-07-10,1285
 The Linux Foundation,2025-10-10,375577
@@ -2618,6 +2603,7 @@ The Linux Foundation,2026-03-17,394903
 The Linux Foundation,2026-04-24,399385
 The Linux Foundation,2026-06-30,408074
 The Linux Foundation,2026-07-10,409056
+The Linux Foundation,2026-07-13,409308
 The Machine Learning Institute Certificate in Finance (MLI),2026-02-09,1616
 The Machine Learning Institute Certificate in Finance (MLI),2026-02-14,1617
 The Machine Learning Institute Certificate in Finance (MLI),2026-02-23,1631
@@ -2629,6 +2615,7 @@ The Machine Learning Institute Certificate in Finance (MLI),2026-03-08,1636
 The Machine Learning Institute Certificate in Finance (MLI),2026-03-11,1634
 The Machine Learning Institute Certificate in Finance (MLI),2026-03-24,1642
 The Machine Learning Institute Certificate in Finance (MLI),2026-06-17,1660
+The Machine Learning Institute Certificate in Finance (MLI),2026-07-13,1668
 The Manchester AI Society,2026-02-25,1102
 The Manchester AI Society,2026-02-27,1103
 The Manchester AI Society,2026-02-27,1104
@@ -2636,6 +2623,7 @@ The Manchester AI Society,2026-03-08,1110
 The Manchester AI Society,2026-03-11,1114
 The Manchester AI Society,2026-03-24,1122
 The Manchester AI Society,2026-06-17,1170
+The Manchester AI Society,2026-07-13,1179
 The Marketing Meetup,2026-02-06,86172
 The Michael J. Fox Foundation for Parkinson's Research,2026-02-09,56842
 The Michael J. Fox Foundation for Parkinson's Research,2026-02-14,57049
@@ -2649,6 +2637,7 @@ The Michael J. Fox Foundation for Parkinson's Research,2026-03-08,57920
 The Michael J. Fox Foundation for Parkinson's Research,2026-03-11,58044
 The Michael J. Fox Foundation for Parkinson's Research,2026-03-24,58498
 The Michael J. Fox Foundation for Parkinson's Research,2026-06-17,62011
+The Michael J. Fox Foundation for Parkinson's Research,2026-07-13,62632
 The Morgan Library & Museum,2026-07-10,12229
 The National Academies of Sciences Engineering and Medicine,2026-07-10,41533
 The Navigation Fund,2025-10-10,1165
@@ -2674,6 +2663,7 @@ The New York Community Trust,2026-04-05,10057
 The New York Community Trust,2026-04-24,10149
 The New York Community Trust,2026-06-30,10576
 The New York Community Trust,2026-07-10,10617
+The New York International Fringe Festival (FringeNYC),2026-07-13,391
 The New York Times,2025-10-10,6856182
 The New Yorker,2026-03-16,987021
 The Nonprofit Show,2026-03-16,3209
@@ -2704,6 +2694,7 @@ The R Foundation for Statistical Computing,2026-04-07,12984
 The R Foundation for Statistical Computing,2026-04-24,13176
 The R Foundation for Statistical Computing,2026-04-29,13217
 The R Foundation for Statistical Computing,2026-06-30,14107
+The R Foundation for Statistical Computing,2026-07-13,14325
 The Reality Crafters,2026-03-16,31
 The Reality Crafters,2026-07-10,47
 The Rockefeller Foundation,2025-10-10,377105
@@ -2719,6 +2710,7 @@ The Rockefeller Foundation,2026-04-05,417233
 The Rockefeller Foundation,2026-04-24,421312
 The Rockefeller Foundation,2026-06-30,439466
 The Rousseeuw Prize for Statistics,2026-07-10,889
+The Rust Programming Language,2026-07-13,840
 The Surfrider Foundation,2026-02-09,43071
 The Surfrider Foundation,2026-02-14,43110
 The Surfrider Foundation,2026-02-23,43172
@@ -2731,6 +2723,7 @@ The Surfrider Foundation,2026-03-08,43255
 The Surfrider Foundation,2026-03-11,43269
 The Surfrider Foundation,2026-03-24,43404
 The Surfrider Foundation,2026-06-17,44339
+The Surfrider Foundation,2026-07-13,44575
 The University of Edinburgh,2025-10-10,440007
 The Use of R in Official Statistics - uRos,2025-10-10,350
 The Use of R in Official Statistics - uRos,2025-10-17,350
@@ -2798,6 +2791,8 @@ Tiger Data (creators of TimescaleDB),2026-07-10,23331
 Time Series Analysis And Forecasting Society (TAFS),2026-01-26,2932
 Tokenomics Foundation,2026-07-10,1536
 Top-Tier Executives,2026-03-16,576
+Torino Fringe Festival,2026-07-13,310
+Toronto Fringe,2026-07-13,1107
 Toronto Machine Learning Meetup,2026-02-09,307
 Toronto Machine Learning Meetup,2026-02-14,308
 Toronto Machine Learning Meetup,2026-02-23,309
@@ -2808,6 +2803,7 @@ Toronto Machine Learning Meetup,2026-03-08,311
 Toronto Machine Learning Meetup,2026-03-11,311
 Toronto Machine Learning Meetup,2026-03-24,311
 Toronto Machine Learning Meetup,2026-06-17,313
+Toronto Machine Learning Meetup,2026-07-13,316
 Toronto Machine Learning Summit (TMLS),2026-03-08,15181
 Toronto Machine Learning Summit (TMLS),2026-03-11,15194
 Toronto Machine Learning Summit (TMLS),2026-03-24,15213
@@ -2819,6 +2815,7 @@ TotalVerify,2026-02-27,3863
 TotalVerify,2026-02-27,3863
 TotalVerify,2026-03-11,3873
 TotalVerify,2026-06-17,3930
+TotalVerify,2026-07-13,3939
 Towards AI,2025-10-10,269662
 Towards AI,2025-10-17,269698
 Towards AI,2026-01-01,269519
@@ -2849,10 +2846,12 @@ Towards Data Science,2026-04-07,646019
 Towards Data Science,2026-04-24,646288
 Towards Data Science,2026-06-17,646566
 Towards Data Science,2026-06-30,646752
+Towards Data Science,2026-07-13,646736
 Tower.dev,2026-03-16,2943
 Tower.dev,2026-07-10,3301
 TraceLine Solutions,2026-03-16,275
 TraceLine Solutions,2026-07-10,554
+Train IT,2026-07-13,272
 TransUnion,2025-10-10,533718
 Transportation Security Administration (TSA),2025-10-10,180481
 Treemetrics Ltd,2025-10-10,1806
@@ -2952,6 +2951,7 @@ UBC Computer Science Student Society,2026-03-08,824
 UBC Computer Science Student Society,2026-03-11,826
 UBC Computer Science Student Society,2026-03-24,834
 UBC Computer Science Student Society,2026-06-17,839
+UBC Computer Science Student Society,2026-07-13,858
 UBS,2026-07-10,2205558
 UC Irvine,2025-11-16,342427
 UC Irvine's GPS-STEM,2026-03-16,75
@@ -2966,6 +2966,7 @@ UCD I&E Student Managed Fund,2026-03-08,2816
 UCD I&E Student Managed Fund,2026-03-11,2818
 UCD I&E Student Managed Fund,2026-03-24,2828
 UCD I&E Student Managed Fund,2026-06-17,2954
+UCD I&E Student Managed Fund,2026-07-13,2972
 UCD Investors and Entrepreneurs Society,2026-02-09,4542
 UCD Investors and Entrepreneurs Society,2026-02-14,4584
 UCD Investors and Entrepreneurs Society,2026-02-23,4614
@@ -2976,6 +2977,7 @@ UCD Investors and Entrepreneurs Society,2026-03-08,4659
 UCD Investors and Entrepreneurs Society,2026-03-11,4665
 UCD Investors and Entrepreneurs Society,2026-03-24,4682
 UCD Investors and Entrepreneurs Society,2026-06-17,4809
+UCD Investors and Entrepreneurs Society,2026-07-13,4826
 UCD Netsoc,2026-03-29,558
 UCD Netsoc,2026-04-05,559
 UCD Netsoc – UCD's Internet and Computer Science Society,2025-10-10,530
@@ -2995,6 +2997,7 @@ UCD Netsoc – UCD's Internet and Computer Science Society,2026-03-24,557
 UCD Netsoc – UCD's Internet and Computer Science Society,2026-04-24,560
 UCD Netsoc – UCD's Internet and Computer Science Society,2026-06-17,561
 UCD Netsoc – UCD's Internet and Computer Science Society,2026-06-30,562
+UCD Netsoc – UCD's Internet and Computer Science Society,2026-07-13,562
 UCI Center for Multiscale Cell Fate,2025-11-16,62
 UCL Data Science Society,2025-10-10,1899
 UCL Data Science Society,2025-10-17,1906
@@ -3016,6 +3019,7 @@ UCL Data Science Society,2026-04-24,2064
 UCL Data Science Society,2026-06-17,2080
 UCL Data Science Society,2026-06-30,2080
 UCL Data Science Society,2026-07-10,2087
+UCL Data Science Society,2026-07-13,2091
 UChicago Data Science Institute,2026-07-10,9024
 UF Public Relations Department,2026-07-10,2069
 UK Reproducibility Network (UKRN),2026-07-10,2022
@@ -3110,6 +3114,7 @@ UNSW Computer Science and Engineering Society (CSESoc),2026-03-08,2762
 UNSW Computer Science and Engineering Society (CSESoc),2026-03-11,2765
 UNSW Computer Science and Engineering Society (CSESoc),2026-03-24,2777
 UNSW Computer Science and Engineering Society (CSESoc),2026-06-17,2841
+UNSW Computer Science and Engineering Society (CSESoc),2026-07-13,2856
 UNSW Data Science Society (DataSoc),2026-02-09,1395
 UNSW Data Science Society (DataSoc),2026-02-14,1398
 UNSW Data Science Society (DataSoc),2026-02-23,1403
@@ -3120,6 +3125,7 @@ UNSW Data Science Society (DataSoc),2026-03-08,1409
 UNSW Data Science Society (DataSoc),2026-03-11,1412
 UNSW Data Science Society (DataSoc),2026-03-24,1419
 UNSW Data Science Society (DataSoc),2026-06-17,1454
+UNSW Data Science Society (DataSoc),2026-07-13,1462
 US Navy,2025-10-10,706390
 US Research Software Engineer Association,2026-07-10,1249
 USAA,2025-10-10,433352
@@ -3134,6 +3140,7 @@ USC Center for AI in Society's Student Branch (CAIS++),2026-03-08,401
 USC Center for AI in Society's Student Branch (CAIS++),2026-03-11,401
 USC Center for AI in Society's Student Branch (CAIS++),2026-03-24,401
 USC Center for AI in Society's Student Branch (CAIS++),2026-06-17,412
+USC Center for AI in Society's Student Branch (CAIS++),2026-07-13,414
 UST Computer Science Society,2026-02-09,155
 UST Computer Science Society,2026-02-14,155
 UST Computer Science Society,2026-02-23,156
@@ -3144,6 +3151,7 @@ UST Computer Science Society,2026-03-08,157
 UST Computer Science Society,2026-03-11,158
 UST Computer Science Society,2026-03-24,157
 UST Computer Science Society,2026-06-17,165
+UST Computer Science Society,2026-07-13,165
 UWG Office of Human Resources,2026-07-10,166
 Udemy,2025-10-10,1606843
 Udemy,2025-10-17,1609789
@@ -3170,6 +3178,7 @@ United Nations Department of Economic and Social Affairs,2026-03-08,27494
 United Nations Department of Economic and Social Affairs,2026-03-11,27524
 United Nations Department of Economic and Social Affairs,2026-03-24,27806
 United Nations Department of Economic and Social Affairs,2026-06-17,30135
+United Nations Department of Economic and Social Affairs,2026-07-13,30535
 United Nations Foundation,2025-10-10,218310
 United Nations Foundation,2025-10-17,218632
 United Nations Foundation,2025-10-26,218958
@@ -3194,6 +3203,7 @@ United Nations Office for Sustainable Development (UNOSD),2026-03-08,22953
 United Nations Office for Sustainable Development (UNOSD),2026-03-11,22941
 United Nations Office for Sustainable Development (UNOSD),2026-03-24,23513
 United Nations Office for Sustainable Development (UNOSD),2026-06-17,24014
+United Nations Office for Sustainable Development (UNOSD),2026-07-13,24105
 United Nations Office of Information and Communications Technology,2026-02-06,6375
 United Nations Office of Information and Communications Technology,2026-07-10,10765
 United Nations Satellite Centre (UNOSAT),2025-10-10,9019
@@ -3231,6 +3241,7 @@ University College Dublin,2026-03-08,360303
 University College Dublin,2026-03-11,360443
 University College Dublin,2026-03-24,361532
 University College Dublin,2026-06-17,367178
+University College Dublin,2026-07-13,369031
 University Of Sheffield Computer Science Society,2026-02-09,107
 University Of Sheffield Computer Science Society,2026-02-14,107
 University Of Sheffield Computer Science Society,2026-02-23,108
@@ -3241,6 +3252,7 @@ University Of Sheffield Computer Science Society,2026-03-08,108
 University Of Sheffield Computer Science Society,2026-03-11,108
 University Of Sheffield Computer Science Society,2026-03-24,108
 University Of Sheffield Computer Science Society,2026-06-17,111
+University Of Sheffield Computer Science Society,2026-07-13,111
 University of Bristol Computer Science Society,2026-02-09,329
 University of Bristol Computer Science Society,2026-02-14,336
 University of Bristol Computer Science Society,2026-02-23,340
@@ -3251,6 +3263,7 @@ University of Bristol Computer Science Society,2026-03-08,351
 University of Bristol Computer Science Society,2026-03-11,357
 University of Bristol Computer Science Society,2026-03-24,362
 University of Bristol Computer Science Society,2026-06-17,390
+University of Bristol Computer Science Society,2026-07-13,394
 University of California,2025-11-16,107992
 University of Limerick,2026-02-09,141609
 University of Limerick,2026-02-14,141856
@@ -3264,6 +3277,7 @@ University of Limerick,2026-03-08,142651
 University of Limerick,2026-03-11,142747
 University of Limerick,2026-03-24,143297
 University of Limerick,2026-06-17,146043
+University of Limerick,2026-07-13,146700
 University of Maryland Baltimore (UMB),2025-11-16,51891
 University of Maryland Baltimore County,2025-11-16,117641
 University of Massachusetts,2023-06-23,59387
@@ -3532,6 +3546,7 @@ UoM AI and Machine Learning Society,2026-03-08,97
 UoM AI and Machine Learning Society,2026-03-11,97
 UoM AI and Machine Learning Society,2026-03-24,97
 UoM AI and Machine Learning Society,2026-06-17,97
+UoM AI and Machine Learning Society,2026-07-13,97
 UpStarter,2024-06-24,511
 Urban Company,2021-01-19,88864
 Urban Company,2021-02-19,96439
@@ -3669,3 +3684,10 @@ Ursa Labs,2022-09-16,448
 Ursa Labs,2022-09-22,448
 Ursa Labs,2022-09-29,448
 Ursa Labs,2022-10-03,448
+Ursa Labs,2022-10-09,448
+Ursa Labs,2022-10-12,449
+Ursa Labs,2022-10-16,450
+Ursa Labs,2022-10-22,449
+Ursa Labs,2022-10-28,449
+Ursa Labs,2022-11-03,449
+Ursa Labs,2022-11-06,449

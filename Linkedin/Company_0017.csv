@@ -1,39 +1,4 @@
 Company,Date,Followers
-EdinbR,2026-06-17,47
-EdinbR,2026-06-30,48
-EdinbR,2026-07-10,50
-Edison Energy LLC,2020-10-16,4314
-Edison Energy LLC,2020-10-20,4345
-Edison Energy LLC,2020-10-21,4361
-Edison Energy LLC,2020-10-28,4407
-Edison Energy LLC,2020-10-31,4432
-Edison Energy LLC,2020-11-02,4436
-Edison Energy LLC,2020-11-07,4456
-Edison Energy LLC,2020-11-12,4475
-Edison Energy LLC,2020-11-21,4513
-Edison Energy LLC,2020-11-30,4525
-Edison Energy LLC,2020-12-08,4569
-Edison Energy LLC,2020-12-15,4583
-Edison Energy LLC,2020-12-27,4627
-Edison SpA,2020-10-16,76192
-Edison SpA,2020-10-21,76431
-Edison SpA,2020-10-22,76518
-Edison SpA,2020-11-02,77123
-Edison SpA,2020-11-07,77362
-Edison SpA,2020-11-21,78177
-Edison SpA,2020-12-15,79425
-Editas Medicine,2023-01-25,31445
-Editas Medicine,2023-01-29,31509
-Edlitera,2023-01-21,76
-Edlitera,2023-02-25,77
-Edlitera,2023-03-13,83
-Edlitera,2023-03-29,86
-Edlitera,2023-04-10,86
-Edlitera,2023-04-23,85
-Edlitera,2023-06-05,88
-Edlitera,2023-06-11,88
-Edlitera,2023-06-23,88
-Edlitera,2023-07-06,88
 Edlitera,2023-07-23,90
 Edlitera,2023-08-05,93
 Edlitera,2023-08-29,96
@@ -1243,6 +1208,7 @@ Erde Technologies Inc.,2026-02-23,22
 Erde Technologies Inc.,2026-04-08,22
 Erde Technologies Inc.,2026-05-01,22
 Erde Technologies Inc.,2026-06-17,22
+Erde Technologies Inc.,2026-07-13,23
 Erlangen AI/ML Meetup,2026-04-08,568
 Erlangen AI/ML Meetup,2026-05-01,567
 Erlangen Artificial Intelligence & Machine Learning Meetup,2021-01-25,335
@@ -1405,6 +1371,7 @@ Erlangen Artificial Intelligence & Machine Learning Meetup,2026-03-16,567
 Erlangen Artificial Intelligence & Machine Learning Meetup,2026-03-17,567
 Erlangen Artificial Intelligence & Machine Learning Meetup,2026-03-17,567
 Erlangen Artificial Intelligence & Machine Learning Meetup,2026-06-17,566
+Erlangen Artificial Intelligence & Machine Learning Meetup,2026-07-13,566
 Ernst & Young,2020-10-05,93931
 Ernst & Young,2020-10-13,4540555
 Ernst & Young,2020-10-19,4585283
@@ -1945,6 +1912,7 @@ EuroPython,2026-05-12,7158
 EuroPython,2026-05-12,7096
 EuroPython,2026-06-17,7338
 EuroPython,2026-06-30,7420
+EuroPython,2026-07-13,7510
 EuroPython Society,2020-10-07,351
 EuroPython Society,2020-10-13,351
 EuroPython Society,2020-10-19,353
@@ -2036,6 +2004,7 @@ European Commission,2025-07-27,2298301
 European Commission,2025-08-30,2322649
 European DIGITAL SME Alliance,2025-05-27,9738
 European Environment Agency,2023-01-28,75956
+European Festivals Association,2026-07-13,6612
 European Geosciences Union (EGU),2023-01-28,14527
 European Institute for Gender Equality,2025-09-05,77310
 European Institute for Gender Equality,2025-09-21,77572
@@ -2388,6 +2357,7 @@ Evolution AI,2026-06-17,4311
 Evolution AI,2026-06-17,4311
 Evolution AI,2026-06-30,4315
 Evolution AI,2026-07-10,4316
+Evolution AI,2026-07-13,4314
 Evolution Travel,2023-01-28,10645
 EvolutionIQ,2020-10-18,319
 EvolutionIQ,2020-10-21,320
@@ -2774,6 +2744,7 @@ Exeter Artificial Intelligence and Data Science Society (X-AI),2026-03-16,93
 Exeter Artificial Intelligence and Data Science Society (X-AI),2026-03-17,94
 Exeter Artificial Intelligence and Data Science Society (X-AI),2026-03-17,94
 Exeter Artificial Intelligence and Data Science Society (X-AI),2026-06-17,95
+Exeter Artificial Intelligence and Data Science Society (X-AI),2026-07-13,95
 Exolaunch,2023-01-21,10659
 Exolaunch,2023-02-25,11030
 Exolaunch,2023-03-13,11147
@@ -3232,6 +3203,8 @@ FPWA,2025-05-27,1981
 FPWA,2025-08-30,2038
 FREQUENCY,2026-05-31,629
 FREQUENCY,2026-07-10,629
+FRIGID New York,2026-07-13,62
+FRINGE WORLD Festival,2026-07-13,2069
 Fabric Genomics,2023-01-25,2962
 Fabric Genomics,2023-01-29,2967
 Faction,2023-01-25,9244
@@ -3670,3 +3643,51 @@ Fashion for Good,2022-09-10,82979
 Fashion for Good,2022-09-16,83342
 Fashion for Good,2022-09-22,83639
 Fashion for Good,2022-09-29,84055
+Fashion for Good,2022-10-03,84246
+Fashion for Good,2022-10-09,84564
+Fashion for Good,2022-10-16,84918
+Fashion for Good,2022-10-22,85199
+Fashion for Good,2022-10-28,85477
+Fashion for Good,2022-11-03,85780
+Fashion for Good,2022-11-06,85907
+Fashion for Good,2022-11-14,86283
+Fashion for Good,2022-11-20,86631
+Fashion for Good,2022-11-24,86867
+Fashion for Good,2022-12-01,87262
+Fashion for Good,2022-12-08,87631
+Fashion for Good,2022-12-14,87847
+Fashion for Good,2022-12-27,88247
+Fashion for Good,2023-01-01,88377
+Fashion for Good,2023-01-05,88501
+Fashion for Good,2023-01-09,88625
+Fashion for Good,2023-01-22,89070
+Fashion for Good,2023-01-29,89337
+Fashion for Good,2023-02-04,89632
+Fashion for Good,2023-02-25,90563
+Fashion for Good,2023-03-18,91555
+Fashion for Good,2023-03-21,91667
+Fashion for Good,2023-03-25,91903
+Fashion for Good,2023-04-10,92820
+Fashion for Good,2023-04-13,93029
+Fashion for Good,2023-04-21,93412
+Fashion for Good,2023-04-29,93750
+Fashion for Good,2023-05-19,94490
+Fashion for Good,2023-05-29,94805
+Fashion for Good,2023-06-05,95076
+Fashion for Good,2023-06-14,95478
+Fashion for Good,2023-06-17,95603
+Fashion for Good,2023-06-27,95998
+Fashion for Good,2023-07-06,96437
+Fashion for Good,2023-07-23,97088
+Fashion for Good,2023-08-08,98039
+Fashion for Good,2023-08-10,98162
+Fashion for Good,2023-09-15,97043
+Fashion for Good,2023-10-18,97043
+Fashion for Good,2023-12-17,102141
+Fashion for Good,2023-12-18,102194
+Fashion for Good,2024-01-22,103612
+Fashion for Good,2024-04-10,107228
+Fashion for Good,2024-05-28,108987
+Fashion for Good,2024-08-02,111546
+Fashion for Good,2024-08-09,111807
+Fashion for Good,2024-09-02,112405

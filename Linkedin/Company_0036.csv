@@ -1,49 +1,4 @@
 Company,Date,Followers
-R-Ladies Urmia (IRAN),2025-03-09,301
-R-Ladies Vienna,2024-04-28,35
-R-Ladies Vienna,2024-05-03,35
-R-Ladies Vienna,2024-05-19,37
-R-Ladies Vienna,2024-06-08,43
-R-Ladies Vienna,2024-06-24,44
-R-Ladies Vienna,2024-06-28,44
-R-Ladies Vienna,2024-07-17,46
-R-Ladies Vienna,2024-07-20,47
-R-Ladies Vienna,2024-07-23,47
-R-Ladies Vienna,2024-08-02,48
-R-Ladies Vienna,2024-08-06,48
-R-Ladies Vienna,2024-08-09,48
-R-Ladies Vienna,2024-08-20,48
-R-Ladies Vienna,2024-09-02,48
-R-Ladies Vienna,2024-09-07,48
-R-Ladies Vienna,2024-09-10,48
-R-Ladies Vienna,2024-09-16,49
-R-Ladies Vienna,2024-09-24,49
-R-Ladies Vienna,2024-10-02,50
-R-Ladies Vienna,2024-11-15,61
-R-Ladies Vienna,2024-11-24,66
-R-Ladies Vienna,2024-11-26,66
-R-Ladies Vienna,2024-12-07,67
-R-Ladies Vienna,2025-01-08,69
-R-Ladies Vienna,2025-01-18,69
-R-Ladies Vienna,2025-01-27,70
-R-Ladies Vienna,2025-02-04,73
-R-Ladies Vienna,2025-02-20,76
-R-Ladies Vienna,2025-02-28,77
-R-Ladies Vienna,2025-03-03,77
-R-Ladies Vienna,2025-03-09,79
-R-Ladies Vienna,2025-03-16,79
-R-Ladies Vienna,2025-04-13,82
-R-Ladies Vienna,2025-04-22,88
-R-Ladies Vienna,2025-04-27,88
-R-Ladies Vienna,2025-04-28,88
-R-Ladies Vienna,2025-05-06,88
-R-Ladies Vienna,2025-05-20,99
-R-Ladies Vienna,2025-05-25,99
-R-Ladies Vienna,2025-05-27,99
-R-Ladies Vienna,2025-06-01,100
-R-Ladies Vienna,2025-06-07,101
-R-Ladies Vienna,2025-06-08,101
-R-Ladies Vienna,2025-06-09,101
 R-Ladies Vienna,2025-06-10,101
 R-Ladies Vienna,2025-06-22,103
 R-Ladies Vienna,2025-07-01,103
@@ -124,6 +79,7 @@ R-Ladies Zürich,2026-06-30,363
 R-Ladies Zürich,2026-07-10,362
 R-Ladies+ Gaborone,2026-06-30,808
 R-Ladies+ Gaborone,2026-07-10,807
+R-Ladies+ Gaborone,2026-07-13,807
 R-Ladies+ Vienna,2026-06-30,142
 R-Ladies+ Vienna,2026-07-10,142
 R-Programming Academy,2021-05-10,211
@@ -273,6 +229,7 @@ RLadies Barranquilla,2026-03-08,2
 RLadies Barranquilla,2026-03-11,2
 RLadies Barranquilla,2026-03-24,2
 RLadies Barranquilla,2026-06-17,2
+RLadies Barranquilla,2026-07-13,2
 RLadies Buenos Aires,2026-06-30,697
 RLadies Buenos Aires,2026-07-10,699
 RLadies Vancouver,2024-08-02,36
@@ -333,6 +290,7 @@ RLadies Vancouver,2026-06-30,70
 RLadies Vancouver,2026-07-10,70
 RLadies+ Global,2026-06-30,9145
 RLadies+ Global,2026-07-10,9159
+RLadies+ Global,2026-07-13,9158
 RLadies+ Paris,2026-06-30,1624
 RLadies+ Paris,2026-07-10,1623
 RMI,2023-01-28,49891
@@ -1764,6 +1722,8 @@ Rbanism,2026-07-10,138
 ReCode Therapeutics,2023-01-25,4280
 ReCode Therapeutics,2023-01-29,4309
 React Summit,2026-07-10,3666
+ReadyToTouch | Golang jobs & companies,2026-07-13,897
+ReadyToTouch | Rust jobs & companies,2026-07-13,1143
 Real Consulting Data,2021-02-17,252
 Real Consulting Data,2021-02-21,281
 Real Consulting Data,2021-02-25,291
@@ -1911,6 +1871,7 @@ Real Consulting Data,2023-05-12,1012
 Real Consulting Data,2023-05-19,1012
 Real Consulting Data,2023-05-29,1013
 Real Python,2020-11-07,8431
+Real Python,2026-07-13,206446
 Realta Fusion,2026-03-16,5483
 Red Hat,2025-10-10,1484326
 Red Hat,2025-12-01,1500619
@@ -1968,6 +1929,7 @@ Research Ireland Centre for Research Training in Artificial Intelligence,2026-03
 Research Ireland Centre for Research Training in Artificial Intelligence,2026-03-11,2535
 Research Ireland Centre for Research Training in Artificial Intelligence,2026-03-24,2552
 Research Ireland Centre for Research Training in Artificial Intelligence,2026-06-17,2656
+Research Ireland Centre for Research Training in Artificial Intelligence,2026-07-13,2767
 Ritz Holdings Limited,2026-01-26,3024
 Ritz Holdings Limited,2026-01-26,3024
 Rladies Madrid,2025-10-10,105
@@ -2019,6 +1981,7 @@ Rocky Mountain Elk Foundation,2026-03-08,33602
 Rocky Mountain Elk Foundation,2026-03-11,33597
 Rocky Mountain Elk Foundation,2026-03-24,33669
 Rocky Mountain Elk Foundation,2026-06-17,34138
+Rocky Mountain Elk Foundation,2026-07-13,34383
 Rolls-Royce,2025-10-10,1727330
 Rome R Users Group,2025-10-10,54
 Rome R Users Group,2025-10-17,58
@@ -2034,6 +1997,7 @@ Rome R Users Group,2026-06-17,675
 Rome R Users Group,2026-06-30,678
 Rome R Users Group,2026-07-10,677
 Rome R Users Group,2026-07-10,677
+Rome R Users Group,2026-07-13,679
 Rose Data Studio LLC,2026-01-15,355
 Rose Data Studio LLC,2026-02-04,354
 Rose Data Studio LLC,2026-03-17,352
@@ -2063,9 +2027,21 @@ Rstudio,2025-11-16,895
 Rstudio,2025-12-12,898
 Rstudio,2026-01-26,906
 Rstudio,2026-02-06,910
+Rust Community,2026-07-13,1067
 Rust Foundation,2026-06-30,23079
 Rust Foundation,2026-07-10,23298
 Rust Foundation,2026-07-10,23298
+Rust Foundation,2026-07-13,23345
+Rust India,2026-07-13,1848
+Rust Jobs,2026-07-13,1221
+Rust Jobs 🦀,2026-07-13,20457
+Rust Matters,2026-07-13,2268
+Rust Nation UK,2026-07-13,2268
+Rust Trends,2026-07-13,4002
+Rust-Oleum Corporation,2026-07-13,59969
+RustNL,2026-07-13,2522
+RustaceansAfrica,2026-07-13,723
+Rustify.rs,2026-07-13,398
 Rx Studio™,2025-10-10,1043
 Rx Studio™,2025-10-17,1043
 Rx Studio™,2026-01-15,1044
@@ -2084,6 +2060,7 @@ Ryerson University Data Science Society,2026-03-08,222
 Ryerson University Data Science Society,2026-03-11,222
 Ryerson University Data Science Society,2026-03-24,221
 Ryerson University Data Science Society,2026-06-17,223
+Ryerson University Data Science Society,2026-07-13,222
 Réalta Technologies,2025-10-10,8258
 Réalta Technologies,2025-10-17,8292
 Réalta Technologies,2025-10-26,8323
@@ -2095,6 +2072,7 @@ Réalta Technologies,2026-06-30,9428
 Réalta Technologies,2026-07-10,9441
 S&P Global,2025-10-10,805020
 S&P Global Ratings,2025-10-10,147015
+S33DS,2026-07-13,5
 SACHA 1989 ltd,2025-10-10,183
 SACHA 1989 ltd,2025-10-17,184
 SACHA 1989 ltd,2026-01-15,209
@@ -2114,6 +2092,7 @@ SAIS Sheffield Artificial Intelligence Society,2026-03-08,38
 SAIS Sheffield Artificial Intelligence Society,2026-03-11,38
 SAIS Sheffield Artificial Intelligence Society,2026-03-24,38
 SAIS Sheffield Artificial Intelligence Society,2026-06-17,38
+SAIS Sheffield Artificial Intelligence Society,2026-07-13,38
 SARA Institute of Data Science,2026-07-10,483
 SAS,2025-10-10,954038
 SAS,2025-10-10,954038
@@ -2171,6 +2150,7 @@ SEMAFOR,2026-07-10,29895
 SEO Meetup,2026-02-06,847
 SEO Meetup,2026-02-06,847
 SPATIKAM,2026-01-26,17
+SPOTLIGHT LILLE,2026-07-13,259
 SREday,2026-07-10,7460
 STATSports,2025-10-10,52465
 STATSports,2025-10-17,52915
@@ -2207,6 +2187,7 @@ Safi App,2026-07-10,223
 Salesforce,2025-10-10,6112956
 Salesforce News & Insights,2026-07-10,125579
 Samsung Electronics,2026-07-10,5069824
+San Diego International Fringe Festival,2026-07-13,162
 SandboxAQ,2025-11-16,45917
 Sandia National Laboratories,2025-10-10,160220
 Sandisk,2025-10-10,269588
@@ -2248,6 +2229,8 @@ SciML,2026-04-24,4197
 SciML,2026-06-17,4219
 SciML,2026-06-30,4222
 SciML,2026-07-10,4223
+SciML,2026-07-13,4225
+Scranton Fringe Festival,2026-07-13,241
 Seagate Technology,2025-10-10,284231
 Seasalt.ai,2025-10-10,982
 Seasalt.ai,2025-10-17,985
@@ -2276,6 +2259,7 @@ SeismicZone,2026-02-25,709
 SeismicZone,2026-02-27,710
 SeismicZone,2026-03-11,711
 SeismicZone,2026-06-17,717
+SeismicZone,2026-07-13,726
 Senseforth.ai,2025-10-10,42652
 Senseforth.ai,2025-10-17,42656
 Senseforth.ai,2025-10-26,42657
@@ -2297,6 +2281,7 @@ Sentient Projects,2026-04-05,638
 Sentient Projects,2026-04-24,637
 Sentient Projects,2026-06-30,635
 Sentient Projects,2026-07-10,635
+Service Design Fringe Festival,2026-07-13,1215
 Services for the UnderServed,2026-03-16,15927
 Shadow Ventures,2026-07-10,6001
 Sharethrough,2025-11-16,12683
@@ -2312,6 +2297,7 @@ Sheffield Women in Computer Science Society,2026-03-08,154
 Sheffield Women in Computer Science Society,2026-03-11,156
 Sheffield Women in Computer Science Society,2026-03-24,159
 Sheffield Women in Computer Science Society,2026-06-17,166
+Sheffield Women in Computer Science Society,2026-07-13,169
 Shell,2026-07-10,7784133
 Shuffll,2026-03-16,2484
 Shuffll,2026-07-10,2490
@@ -2397,6 +2383,7 @@ Softest Consulting Services Ltd,2026-03-08,6041
 Softest Consulting Services Ltd,2026-03-11,6042
 Softest Consulting Services Ltd,2026-03-24,6063
 Softest Consulting Services Ltd,2026-06-17,6245
+Softest Consulting Services Ltd,2026-07-13,6281
 Software Heritage,2026-07-10,2415
 Software Insights Ireland,2025-10-10,1273
 Software Insights Ireland,2025-10-17,1273
@@ -2418,6 +2405,7 @@ Software Lancaster Talks,2026-03-08,872
 Software Lancaster Talks,2026-03-11,870
 Software Lancaster Talks,2026-03-24,872
 Software Lancaster Talks,2026-06-17,903
+Software Lancaster Talks,2026-07-13,911
 Sololearn,2025-10-10,170492
 Sololearn,2025-10-17,170597
 Sololearn,2025-10-26,170642
@@ -2437,6 +2425,7 @@ Sololearn,2026-04-07,171782
 Sololearn,2026-04-24,171885
 Sololearn,2026-06-17,172058
 Sololearn,2026-06-30,172120
+Sololearn,2026-07-13,172144
 Somalens,2025-10-10,191
 Somalens,2025-10-17,220
 Somalens AI Health App,2026-03-17,554
@@ -2474,6 +2463,7 @@ Space42,2026-03-08,178041
 Space42,2026-03-11,178516
 Space42,2026-03-24,181586
 Space42,2026-06-17,207433
+Space42,2026-07-13,210667
 Space4Good,2025-10-10,13957
 Space4Good,2025-10-17,13984
 Space4Good,2025-10-26,14018
@@ -2518,6 +2508,7 @@ Spatial Thoughts,2026-04-05,49247
 Spatial Thoughts,2026-06-30,50318
 Spatial Thoughts,2026-07-10,50716
 Spectrum Nonprofit Services,2026-03-16,1519
+Spotlight Lille,2026-07-13,111
 Squarepoint,2025-10-10,68844
 Squarepoint,2025-10-17,69485
 Squarepoint,2025-10-26,70008
@@ -2558,6 +2549,7 @@ Stack Overflow,2026-04-07,1597244
 Stack Overflow,2026-04-24,1597487
 Stack Overflow,2026-06-17,1599016
 Stack Overflow,2026-06-30,1599932
+Stack Overflow,2026-07-13,1600377
 Standard Chartered,2025-10-10,2333014
 Stanford AIMI,2026-01-15,90683
 Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI),2025-10-10,89325
@@ -2593,6 +2585,7 @@ Statistics Globe,2026-04-04,14694
 Statistics Globe,2026-04-24,14854
 Statistics Globe,2026-06-30,15183
 Statistics Globe,2026-07-10,15253
+Statistics Globe,2026-07-13,15265
 Statistics Without Borders,2025-10-10,2484
 Statistics Without Borders,2025-10-17,2492
 Statistics Without Borders,2026-01-01,2552
@@ -2604,6 +2597,7 @@ Statistics Without Borders,2026-04-24,2635
 Statistics Without Borders,2026-06-30,2659
 Statistics Without Borders,2026-07-10,2667
 Stavros Niarchos Foundation (SNF),2026-07-10,155118
+Stockholm Fringe Festival (STOFF),2026-07-13,241
 Story Changes Culture,2026-07-10,708
 Stripe,2026-03-16,1320993
 Stripe,2026-07-10,1548512
@@ -2679,6 +2673,7 @@ Subsea7,2026-02-27,998915
 Subsea7,2026-02-27,998924
 Subsea7,2026-03-11,1004045
 Subsea7,2026-06-17,1044233
+Subsea7,2026-07-13,1054672
 Sullivan & Cromwell LLP,2024-05-04,54426
 Sullivan & Cromwell LLP,2024-05-28,55169
 Sullivan & Cromwell LLP,2024-06-24,56059
@@ -3128,6 +3123,7 @@ SuperDataScience,2026-04-24,94231
 SuperDataScience,2026-06-17,94267
 SuperDataScience,2026-06-30,94272
 SuperDataScience,2026-07-10,94296
+SuperDataScience,2026-07-13,94297
 Superbloom,2026-07-10,1560
 Susquehanna International Group,2024-09-10,171314
 Susquehanna International Group,2024-09-16,171851
@@ -3669,3 +3665,29 @@ Sustainable Development Solutions Network,2025-07-15,81254
 Sustainable Development Solutions Network,2025-07-27,81549
 Sustainable Development Solutions Network,2025-08-11,81729
 Sustainable Development Solutions Network,2025-08-15,81832
+Sustainable Development Solutions Network,2025-08-18,81884
+Sustainable Development Solutions Network,2025-08-21,81997
+Sustainable Development Solutions Network,2025-08-26,82092
+Sustainable Development Solutions Network,2025-08-30,82092
+Sustainable Development Solutions Network,2025-09-17,82707
+Sustainable Development Solutions Network,2025-10-10,83391
+Sustainable Development Solutions Network,2025-10-17,83533
+Sustainable Development Solutions Network,2025-10-26,83712
+Sustainable Development Solutions Network,2026-01-01,84699
+Sustainable Development Solutions Network,2026-01-01,84699
+Sustainable Development Solutions Network,2026-01-15,85267
+Sustainable Development Solutions Network,2026-03-17,87885
+Sustainable Development Solutions Network,2026-03-29,88328
+Sustainable Development Solutions Network,2026-04-24,89016
+Sustainable Development Solutions Network,2026-06-30,90934
+Sustainable Development Solutions Network,2026-07-10,91224
+Sustainalytics,2023-01-28,114260
+Swappsi software,2024-06-24,2017
+Swappsi software,2025-09-05,3968
+Swappsi software,2025-09-21,3964
+Sweden Water Research,2023-01-28,2449
+Swift Developer,2020-10-16,683
+Swift Developer,2020-10-20,690
+Swift Developer,2020-10-21,692
+Swift Developer,2020-10-28,702
+Swift Developer,2020-10-31,706

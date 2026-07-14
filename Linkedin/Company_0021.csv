@@ -1,69 +1,4 @@
 Company,Date,Followers
-IBM Data AI & Automation,2022-12-14,229216
-IBM Data AI & Automation,2022-12-27,229701
-IBM Data AI & Automation,2023-01-01,229918
-IBM Data AI & Automation,2023-01-05,230146
-IBM Data AI & Automation,2023-01-09,230314
-IBM Data AI & Automation,2023-01-22,231037
-IBM Data AI & Automation,2023-01-28,231418
-IBM Data AI & Automation,2023-02-04,231745
-IBM Data AI & Automation,2023-02-10,232062
-IBM Data AI & Automation,2023-02-13,232276
-IBM Data AI & Automation,2023-02-24,232775
-IBM Data AI & Automation,2023-03-10,233747
-IBM Data AI & Automation,2023-03-14,233976
-IBM Data AI & Automation,2023-03-18,234234
-IBM Data AI & Automation,2023-03-21,234379
-IBM Data AI & Automation,2023-03-25,234644
-IBM Data AI & Automation,2023-04-01,235284
-IBM Data AI & Automation,2023-04-10,236323
-IBM Data AI & Automation,2023-04-13,236551
-IBM Data AI & Automation,2023-04-21,236965
-IBM Data AI & Automation,2023-04-29,237395
-IBM Data AI & Automation,2023-05-12,238176
-IBM Data AI & Automation,2023-05-19,238587
-IBM Data AI & Automation,2023-05-29,239113
-IBM Data AI & Automation,2023-06-05,239564
-IBM Data AI & Automation,2023-06-11,240224
-IBM Data AI & Automation,2023-06-14,240559
-IBM Data AI & Automation,2023-06-17,240795
-IBM Data AI & Automation,2023-06-23,241222
-IBM Data AI & Automation,2023-06-27,241489
-IBM Data AI & Automation,2023-07-06,242076
-IBM Data AI & Automation,2023-07-23,243140
-IBM Data AI & Automation,2023-08-02,244102
-IBM Data AI & Automation,2023-08-08,244534
-IBM Data AI & Automation,2023-08-10,244875
-IBM Data AI & Automation,2023-08-29,247026
-IBM Data AI & Automation,2023-09-15,248716
-IBM Data AI & Automation,2023-10-18,251690
-IBM Data AI & Automation,2023-12-16,249953
-IBM Data AI & Automation,2023-12-18,250059
-IBM Data AI & Automation,2024-01-22,252101
-IBM Data AI & Automation,2024-04-08,257101
-IBM Data AI & Automation,2024-04-09,257220
-IBM Data AI & Automation,2024-04-17,257771
-IBM Data AI & Automation,2024-04-19,257945
-IBM Data AI & Automation,2024-04-28,258662
-IBM Data AI & Automation,2024-05-03,259248
-IBM Data AI & Automation,2024-05-19,260304
-IBM Data AI & Automation,2024-06-08,261811
-IBM Data AI & Automation,2024-06-24,263065
-IBM Data AI & Automation,2024-06-28,263384
-IBM Data AI & Automation,2024-07-11,264679
-IBM Data AI & Automation,2024-07-17,265061
-IBM Data AI & Automation,2024-07-20,265264
-IBM Data AI & Automation,2024-07-23,265411
-IBM Data AI & Automation,2024-08-02,265935
-IBM Data AI & Automation,2024-08-06,266081
-IBM Data AI & Automation,2024-08-09,266393
-IBM Data AI & Automation,2024-08-20,266959
-IBM Data AI & Automation,2024-09-02,267601
-IBM Data AI & Automation,2024-09-07,268056
-IBM Data AI & Automation,2024-09-10,268276
-IBM Data AI & Automation,2024-09-16,268728
-IBM Data AI & Automation,2024-09-24,269389
-IBM Data AI & Automation,2024-10-02,269900
 IBM Data AI & Automation,2025-09-17,289229
 IBM Data AI & Automation,2026-03-29,298712
 IBM Data AI & Automation,2026-04-05,298983
@@ -554,6 +489,7 @@ ICL Machine Learning Society,2026-02-23,103
 ICL Machine Learning Society,2026-03-08,103
 ICL Machine Learning Society,2026-03-24,103
 ICL Machine Learning Society,2026-06-17,104
+ICL Machine Learning Society,2026-07-13,105
 ICLEI,2023-01-28,48502
 ICP,2026-04-07,1299
 ICP,2026-04-24,1306
@@ -1047,6 +983,7 @@ INCRYPT MINING LTD,2026-03-08,202
 INCRYPT MINING LTD,2026-03-17,202
 INCRYPT MINING LTD,2026-03-24,202
 INCRYPT MINING LTD,2026-06-17,201
+INCRYPT MINING LTD,2026-07-13,203
 INDUS.AI (Acquired by Procore Technologies),2023-01-25,3351
 INDUS.AI (Acquired by Procore Technologies),2023-01-29,3354
 INDUSTRY CONNECT,2021-05-10,2247
@@ -1406,6 +1343,7 @@ ITU Data Science Society,2026-02-23,2106
 ITU Data Science Society,2026-03-08,2114
 ITU Data Science Society,2026-03-24,2171
 ITU Data Science Society,2026-06-17,2403
+ITU Data Science Society,2026-07-13,2402
 IUCN,2020-10-20,72727
 IUCN,2020-10-20,72728
 IUCN,2020-10-20,72739
@@ -2181,6 +2119,7 @@ Imperial College Data Science Society,2026-02-23,1112
 Imperial College Data Science Society,2026-03-08,1114
 Imperial College Data Science Society,2026-03-24,1116
 Imperial College Data Science Society,2026-06-17,1118
+Imperial College Data Science Society,2026-07-13,1119
 Imperial College London,2025-09-16,507238
 Imperva,2023-01-22,70197
 Imply,2025-09-16,18648
@@ -2437,6 +2376,7 @@ IndabaX Chad 2026,2026-06-17,1824
 IndabaX Chad 2026,2026-06-30,1825
 IndabaX Chad 2026,2026-07-10,1826
 Independent Consultant,2026-07-10,49840
+Independent Consultant,2026-07-13,49970
 Independent Data Lab,2023-01-25,605
 Independent Data Lab,2023-01-29,617
 Indian Institute for Human Settlements,2023-01-28,30122
@@ -2607,6 +2547,7 @@ InfluxData,2026-03-17,23112
 InfluxData,2026-03-24,23131
 InfluxData,2026-04-04,23190
 InfluxData,2026-06-17,23476
+InfluxData,2026-07-13,23554
 InfoSec-Conf,2023-06-11,1094
 InfoSec-Conf,2023-06-23,1097
 InfoSec-Conf,2023-07-06,1101
@@ -3669,3 +3610,84 @@ Insight Global,2024-04-08,2377694
 Insight Global,2024-06-28,2723734
 Insight Global,2024-08-06,2877500
 Insight Global,2024-09-02,2984391
+Insight Global,2024-09-16,3037588
+Insight Global,2024-09-27,3084382
+Insight Global,2025-01-09,3447423
+Insight Global,2025-01-19,3489692
+Insight Global,2025-01-27,3522424
+Insight Global,2025-02-21,3630685
+Insight Global,2025-02-28,3660831
+Insight Global,2025-03-15,3731138
+Insight Global,2025-03-16,3732773
+Insight Global,2025-04-28,3912089
+Insight Global,2025-05-27,4012694
+Insight Global,2025-06-07,4053917
+Insight Global,2025-07-27,4225205
+Insight Global,2025-08-30,4344954
+Insilico Medicine,2023-01-25,21585
+Insilico Medicine,2023-01-29,21729
+Insperity,2023-01-21,65157
+Insperity,2023-02-10,65648
+Insperity,2023-02-25,66020
+Insperity,2023-03-13,66335
+Insperity,2023-03-29,66670
+Insperity,2023-04-10,66942
+Insperity,2023-04-23,67263
+Insperity,2023-06-05,68263
+Insperity,2023-06-11,68453
+Insperity,2023-06-23,68774
+Insperity,2023-07-06,69076
+Insperity,2023-07-23,69488
+Insperity,2023-08-05,69909
+Insperity,2023-08-29,70476
+Insperity,2023-10-18,71832
+Insperity,2023-12-17,71025
+Insperity,2023-12-18,71046
+Insperity,2025-01-09,82760
+Insperity,2025-01-19,83172
+Insperity,2025-01-27,83506
+Insperity,2025-02-21,85784
+Insperity,2025-02-28,85754
+Insperity,2025-03-16,86286
+Insperity,2025-04-28,87683
+Insperity,2025-05-27,88442
+Insperity,2025-06-07,88767
+Insperity,2025-07-27,90102
+Insperity,2025-08-30,91369
+Inspire Walworth,2023-12-14,88
+Inspire Walworth,2023-12-16,88
+Inspire Walworth,2023-12-18,88
+Inspire Walworth,2024-01-22,89
+Inspire Walworth,2024-04-08,89
+Inspire Walworth,2024-04-09,89
+Inspire Walworth,2024-04-17,90
+Inspire Walworth,2024-04-19,90
+Inspire Walworth,2024-04-28,90
+Inspire Walworth,2024-05-03,89
+Inspire Walworth,2024-05-19,89
+Inspire Walworth,2024-06-08,89
+Inspire Walworth,2024-06-24,89
+Inspire Walworth,2024-07-11,89
+Inspire Walworth,2024-07-17,90
+Inspire Walworth,2024-07-23,90
+Inspire Walworth,2024-08-02,90
+Inspire Walworth,2024-08-06,90
+Inspire Walworth,2024-08-09,90
+Inspire Walworth,2024-08-20,90
+Inspire Walworth,2024-09-02,90
+Inspire Walworth,2024-09-07,90
+Inspire Walworth,2024-09-10,90
+Inspire Walworth,2024-09-16,89
+Inspire Walworth,2024-09-24,90
+Inspire Walworth,2024-10-02,90
+Inspire Walworth,2024-11-15,90
+Inspire Walworth,2024-11-24,90
+Inspire Walworth,2024-11-26,90
+Inspire Walworth,2024-12-07,90
+Inspire Walworth,2025-01-08,89
+Inspire Walworth,2025-01-18,89
+Inspire Walworth,2025-01-27,90
+Inspire Walworth,2025-02-04,91
+Inspire Walworth,2025-02-20,92
+Inspire Walworth,2025-02-28,94
+Inspire Walworth,2025-03-03,94

@@ -1,82 +1,4 @@
 Company,Date,Followers
-PyData London,2023-07-23,329
-PyData London,2023-08-02,821
-PyData London,2023-08-05,824
-PyData London,2023-08-05,347
-PyData London,2023-08-08,824
-PyData London,2023-08-10,824
-PyData London,2023-08-29,827
-PyData London,2023-08-29,359
-PyData London,2023-09-15,836
-PyData London,2023-10-18,848
-PyData London,2023-12-14,869
-PyData London,2023-12-16,869
-PyData London,2023-12-18,871
-PyData London,2024-01-22,879
-PyData London,2024-04-09,904
-PyData London,2024-04-17,908
-PyData London,2024-04-19,908
-PyData London,2024-04-28,910
-PyData London,2024-05-03,915
-PyData London,2024-05-19,920
-PyData London,2024-06-08,946
-PyData London,2024-06-24,1089
-PyData London,2024-06-28,1105
-PyData London,2024-07-17,1118
-PyData London,2024-07-20,1117
-PyData London,2024-07-23,1118
-PyData London,2024-08-02,1120
-PyData London,2024-08-06,1120
-PyData London,2024-08-09,1125
-PyData London,2024-08-20,1130
-PyData London,2024-09-02,1136
-PyData London,2024-09-07,1138
-PyData London,2024-09-10,1141
-PyData London,2024-09-16,1142
-PyData London,2024-09-17,1146
-PyData London,2024-09-17,786
-PyData London,2024-09-24,1149
-PyData London,2024-09-24,788
-PyData London,2024-10-02,1150
-PyData London,2024-10-02,802
-PyData London,2024-11-15,1166
-PyData London,2024-11-15,824
-PyData London,2024-11-24,1171
-PyData London,2024-11-24,825
-PyData London,2024-11-26,1173
-PyData London,2024-11-26,826
-PyData London,2024-12-07,1178
-PyData London,2024-12-07,833
-PyData London,2025-01-08,1183
-PyData London,2025-01-08,843
-PyData London,2025-01-09,1188
-PyData London,2025-01-09,848
-PyData London,2025-01-18,1206
-PyData London,2025-01-18,856
-PyData London,2025-01-27,1214
-PyData London,2025-01-27,856
-PyData London,2025-01-28,1216
-PyData London,2025-01-28,858
-PyData London,2025-02-04,1220
-PyData London,2025-02-04,861
-PyData London,2025-02-20,1231
-PyData London,2025-02-20,889
-PyData London,2025-02-21,1231
-PyData London,2025-02-21,889
-PyData London,2025-02-28,1241
-PyData London,2025-02-28,915
-PyData London,2025-03-03,1241
-PyData London,2025-03-03,918
-PyData London,2025-03-09,1244
-PyData London,2025-03-09,922
-PyData London,2025-03-10,1245
-PyData London,2025-03-10,925
-PyData London,2025-03-15,1245
-PyData London,2025-03-15,928
-PyData London,2025-03-16,1245
-PyData London,2025-03-16,930
-PyData London,2025-04-13,1256
-PyData London,2025-04-13,942
 PyData London,2025-04-22,1257
 PyData London,2025-04-22,946
 PyData London,2025-04-27,1271
@@ -189,6 +111,8 @@ PyData London,2026-06-30,1309
 PyData London,2026-06-30,2311
 PyData London,2026-07-10,1311
 PyData London,2026-07-10,2321
+PyData London,2026-07-13,1311
+PyData London,2026-07-13,2326
 PyData London (Data Infrastructure and Analytics),2025-11-16,1169
 PyData London (Data Infrastructure and Analytics),2025-11-16,1169
 PyData London (Data Infrastructure and Analytics),2025-11-24,1168
@@ -243,6 +167,7 @@ PyData Los Angeles,2026-03-08,163
 PyData Los Angeles,2026-03-11,163
 PyData Los Angeles,2026-03-24,163
 PyData Los Angeles,2026-06-17,163
+PyData Los Angeles,2026-07-13,162
 PyData Madrid,2024-09-17,1106
 PyData Madrid,2024-09-24,1122
 PyData Madrid,2024-10-02,1138
@@ -278,6 +203,7 @@ PyData Madrid,2026-03-08,1798
 PyData Madrid,2026-03-11,1806
 PyData Madrid,2026-03-24,1835
 PyData Madrid,2026-06-17,1903
+PyData Madrid,2026-07-13,1923
 PyData Mallorca,2023-01-21,7
 PyData Mallorca,2023-02-25,6
 PyData Mallorca,2023-03-13,6
@@ -326,6 +252,7 @@ PyData Manaus,2026-03-08,1253
 PyData Manaus,2026-03-11,1251
 PyData Manaus,2026-03-24,1252
 PyData Manaus,2026-06-17,1248
+PyData Manaus,2026-07-13,1248
 PyData Manipal,2023-01-21,149
 PyData Manipal,2023-02-25,148
 PyData Manipal,2023-03-13,148
@@ -384,6 +311,7 @@ PyData Melbourne,2026-03-08,22
 PyData Melbourne,2026-03-11,22
 PyData Melbourne,2026-03-24,23
 PyData Melbourne,2026-06-17,23
+PyData Melbourne,2026-07-13,23
 PyData Miami,2023-01-21,531
 PyData Miami,2023-02-25,545
 PyData Miami,2023-03-13,547
@@ -431,6 +359,7 @@ PyData Miami,2026-03-08,585
 PyData Miami,2026-03-11,585
 PyData Miami,2026-03-24,585
 PyData Miami,2026-06-17,588
+PyData Miami,2026-07-13,588
 PyData Montr<e9>al,2023-01-21,148
 PyData Montr<e9>al,2023-02-25,148
 PyData Montr<e9>al,2023-03-13,152
@@ -478,6 +407,7 @@ PyData Montréal,2026-03-08,328
 PyData Montréal,2026-03-11,328
 PyData Montréal,2026-03-24,329
 PyData Montréal,2026-06-17,329
+PyData Montréal,2026-07-13,332
 PyData Mumbai,2023-01-21,85
 PyData Mumbai,2023-02-25,84
 PyData Mumbai,2023-03-13,85
@@ -616,6 +546,7 @@ PyData NYC,2026-06-17,2011
 PyData NYC,2026-06-17,2011
 PyData NYC,2026-06-30,2013
 PyData NYC,2026-07-10,2012
+PyData NYC,2026-07-13,2013
 PyData Norwich,2026-03-16,23
 PyData Norwich,2026-05-31,27
 PyData Norwich,2026-07-10,33
@@ -666,6 +597,7 @@ PyData POA,2026-03-08,76
 PyData POA,2026-03-11,76
 PyData POA,2026-03-24,76
 PyData POA,2026-06-17,76
+PyData POA,2026-07-13,76
 PyData Padova,2024-09-17,131
 PyData Padova,2024-09-24,132
 PyData Padova,2024-10-02,132
@@ -699,6 +631,7 @@ PyData Padova,2026-03-08,159
 PyData Padova,2026-03-11,159
 PyData Padova,2026-03-24,160
 PyData Padova,2026-06-17,161
+PyData Padova,2026-07-13,161
 PyData Panamá,2024-09-17,34
 PyData Panamá,2024-09-24,34
 PyData Panamá,2024-10-02,34
@@ -732,6 +665,7 @@ PyData Panamá,2026-03-08,52
 PyData Panamá,2026-03-11,52
 PyData Panamá,2026-03-24,52
 PyData Panamá,2026-06-17,52
+PyData Panamá,2026-07-13,52
 PyData Paris,2024-09-17,578
 PyData Paris,2024-09-24,637
 PyData Paris,2024-10-02,850
@@ -851,6 +785,7 @@ PyData Piraeus,2026-03-08,261
 PyData Piraeus,2026-03-11,261
 PyData Piraeus,2026-03-24,262
 PyData Piraeus,2026-06-17,278
+PyData Piraeus,2026-07-13,285
 PyData Pittsburgh,2024-09-17,394
 PyData Pittsburgh,2024-09-24,394
 PyData Pittsburgh,2024-10-02,398
@@ -914,6 +849,7 @@ PyData Pittsburgh,2026-06-17,592
 PyData Pittsburgh,2026-06-17,592
 PyData Pittsburgh,2026-06-30,595
 PyData Pittsburgh,2026-07-10,599
+PyData Pittsburgh,2026-07-13,598
 PyData Prague,2024-09-17,199
 PyData Prague,2024-09-24,200
 PyData Prague,2024-10-02,201
@@ -983,6 +919,7 @@ PyData Prague,2026-06-17,438
 PyData Prague,2026-06-30,437
 PyData Prague,2026-07-10,439
 PyData Prague,2026-07-10,439
+PyData Prague,2026-07-13,440
 PyData Raipur,2023-01-21,34
 PyData Raipur,2023-02-25,33
 PyData Raipur,2023-03-13,33
@@ -1031,6 +968,7 @@ PyData Raipur,2026-03-08,52
 PyData Raipur,2026-03-11,52
 PyData Raipur,2026-03-24,52
 PyData Raipur,2026-06-17,54
+PyData Raipur,2026-07-13,54
 PyData Riyadh,2023-01-21,280
 PyData Riyadh,2023-02-25,285
 PyData Riyadh,2023-03-13,292
@@ -1078,6 +1016,7 @@ PyData Riyadh,2026-03-08,1303
 PyData Riyadh,2026-03-11,1303
 PyData Riyadh,2026-03-24,1303
 PyData Riyadh,2026-06-17,1302
+PyData Riyadh,2026-07-13,1310
 PyData Roma Capitale,2025-11-24,415
 PyData Roma Capitale,2025-12-01,415
 PyData S<e3>o Paulo,2023-01-21,1224
@@ -1128,6 +1067,7 @@ PyData SWFL,2026-03-08,39
 PyData SWFL,2026-03-11,39
 PyData SWFL,2026-03-24,39
 PyData SWFL,2026-06-17,40
+PyData SWFL,2026-07-13,40
 PyData Saudi,2023-01-21,4
 PyData Saudi,2023-02-25,3
 PyData Saudi,2023-03-13,3
@@ -1224,6 +1164,7 @@ PyData Singapore,2026-03-08,24
 PyData Singapore,2026-03-11,24
 PyData Singapore,2026-03-24,24
 PyData Singapore,2026-06-17,24
+PyData Singapore,2026-07-13,24
 PyData Slovakia,2024-09-17,7
 PyData Slovakia,2024-09-24,7
 PyData Slovakia,2024-10-02,7
@@ -1281,6 +1222,7 @@ PyData Slovakia,2026-06-17,89
 PyData Slovakia,2026-06-17,89
 PyData Slovakia,2026-06-30,89
 PyData Slovakia,2026-07-10,89
+PyData Slovakia,2026-07-13,89
 PyData Southampton,2023-01-21,8
 PyData Southampton,2023-02-25,7
 PyData Southampton,2023-03-13,7
@@ -1346,6 +1288,7 @@ PyData Southampton,2026-04-05,245
 PyData Southampton,2026-06-17,260
 PyData Southampton,2026-06-30,259
 PyData Southampton,2026-07-10,259
+PyData Southampton,2026-07-13,259
 PyData Sri Lanka,2025-11-24,178
 PyData Sri Lanka,2025-12-01,178
 PyData Sri Lanka,2026-02-09,191
@@ -1360,6 +1303,7 @@ PyData Sri Lanka,2026-03-11,193
 PyData Sri Lanka,2026-03-24,193
 PyData Sri Lanka,2026-06-17,198
 PyData Sri Lanka,2026-07-10,227
+PyData Sri Lanka,2026-07-13,228
 PyData St. Louis,2026-03-16,18
 PyData St. Louis,2026-07-10,58
 PyData Stockholm,2026-02-09,312
@@ -1373,6 +1317,7 @@ PyData Stockholm,2026-03-08,312
 PyData Stockholm,2026-03-11,311
 PyData Stockholm,2026-03-24,311
 PyData Stockholm,2026-06-17,306
+PyData Stockholm,2026-07-13,307
 PyData Switzerland,2025-11-24,50
 PyData Switzerland,2025-12-01,50
 PyData Switzerland,2026-03-29,89
@@ -1390,6 +1335,7 @@ PyData São Paulo,2026-03-08,1605
 PyData São Paulo,2026-03-11,1603
 PyData São Paulo,2026-03-24,1605
 PyData São Paulo,2026-06-17,1605
+PyData São Paulo,2026-07-13,1606
 PyData Tel Aviv,2026-02-09,1000
 PyData Tel Aviv,2026-02-14,1003
 PyData Tel Aviv,2026-02-23,1006
@@ -1401,6 +1347,7 @@ PyData Tel Aviv,2026-03-08,1005
 PyData Tel Aviv,2026-03-11,1005
 PyData Tel Aviv,2026-03-24,1010
 PyData Tel Aviv,2026-06-17,1067
+PyData Tel Aviv,2026-07-13,1103
 PyData Toronto,2025-10-10,108
 PyData Toronto,2025-10-17,108
 PyData Toronto,2025-10-26,109
@@ -1423,6 +1370,7 @@ PyData Trojmiasto,2026-03-08,507
 PyData Trojmiasto,2026-03-11,507
 PyData Trojmiasto,2026-03-24,515
 PyData Trojmiasto,2026-06-17,537
+PyData Trojmiasto,2026-07-13,542
 PyData Tunisia,2025-12-01,569
 PyData Tunisia,2026-02-09,578
 PyData Tunisia,2026-02-14,579
@@ -1435,6 +1383,7 @@ PyData Tunisia,2026-03-08,580
 PyData Tunisia,2026-03-11,581
 PyData Tunisia,2026-03-24,581
 PyData Tunisia,2026-06-17,668
+PyData Tunisia,2026-07-13,669
 PyData Warsaw,2026-02-09,368
 PyData Warsaw,2026-02-14,369
 PyData Warsaw,2026-02-23,371
@@ -1446,6 +1395,7 @@ PyData Warsaw,2026-03-08,370
 PyData Warsaw,2026-03-11,370
 PyData Warsaw,2026-03-24,370
 PyData Warsaw,2026-06-17,387
+PyData Warsaw,2026-07-13,395
 PyData Wolverhampton,2026-03-16,84
 PyData Wolverhampton,2026-07-10,130
 PyData Yerevan,2026-02-09,1478
@@ -1459,6 +1409,7 @@ PyData Yerevan,2026-03-08,1530
 PyData Yerevan,2026-03-11,1530
 PyData Yerevan,2026-03-24,1537
 PyData Yerevan,2026-06-17,1637
+PyData Yerevan,2026-07-13,1740
 PyDataMCR,2025-10-10,292
 PyDataMCR,2025-10-17,296
 PyDataMCR,2025-11-16,318
@@ -1479,6 +1430,7 @@ PyLadies Amsterdam,2026-03-08,1708
 PyLadies Amsterdam,2026-03-11,1708
 PyLadies Amsterdam,2026-03-24,1707
 PyLadies Amsterdam,2026-06-17,1757
+PyLadies Amsterdam,2026-07-13,1760
 PyLadies Berlin,2025-11-16,741
 PyLadies Berlin,2025-11-24,744
 PyLadies Berlin,2025-12-12,747
@@ -1499,6 +1451,7 @@ PyLadies Dublin,2026-04-24,911
 PyLadies Dublin,2026-06-17,959
 PyLadies Dublin,2026-06-30,961
 PyLadies Dublin,2026-07-10,963
+PyLadies Dublin,2026-07-13,965
 PyLadies Hong Kong,2026-03-16,52
 PyLadies Hong Kong,2026-07-10,62
 PyLadies Seattle,2025-10-10,321
@@ -1520,6 +1473,7 @@ PyLadies Seattle,2026-04-24,371
 PyLadies Seattle,2026-06-17,373
 PyLadies Seattle,2026-06-30,375
 PyLadies Seattle,2026-07-10,373
+PyLadies Seattle,2026-07-13,373
 PyLadies SoFlo,2026-03-16,80
 PyLadies SoFlo,2026-07-10,82
 PyMC,2025-11-16,3797
@@ -1554,6 +1508,7 @@ PySport,2026-04-05,5019
 PySport,2026-06-17,5057
 PySport,2026-06-30,5073
 PySport,2026-07-10,5076
+PySport,2026-07-13,5085
 PyTorch,2026-02-09,306883
 PyTorch,2026-02-14,307351
 PyTorch,2026-02-23,308596
@@ -1566,6 +1521,7 @@ PyTorch,2026-03-08,310259
 PyTorch,2026-03-11,310601
 PyTorch,2026-03-24,312696
 PyTorch,2026-06-17,322279
+PyTorch,2026-07-13,324247
 Pydantic,2026-03-16,25356
 Pydantic,2026-07-10,33773
 Pydata Nairobi,2026-02-09,43
@@ -1579,9 +1535,14 @@ Pydata Nairobi,2026-03-08,43
 Pydata Nairobi,2026-03-11,43
 Pydata Nairobi,2026-03-24,43
 Pydata Nairobi,2026-06-17,44
+Pydata Nairobi,2026-07-13,44
+Python,2026-07-13,37461
 Python Chile,2025-11-16,8212
+Python Coding,2026-07-13,105967
+Python Developer,2026-07-13,23863
 Python Estonia,2025-11-16,483
 Python Estonia,2025-11-24,492
+Python Geeks,2026-07-13,11215
 Python Ireland,2025-10-10,4209
 Python Ireland,2025-10-17,4238
 Python Ireland,2025-10-26,4253
@@ -1602,6 +1563,8 @@ Python Ireland,2026-04-24,4797
 Python Ireland,2026-04-29,4799
 Python Ireland,2026-06-17,4924
 Python Ireland,2026-06-30,4953
+Python Ireland,2026-07-13,4969
+Python Projects,2026-07-13,1481
 Python Software Foundation,2025-10-10,144313
 Python Software Foundation,2025-10-17,144590
 Python Software Foundation,2025-10-26,144844
@@ -1623,6 +1586,7 @@ Python Software Foundation,2026-04-07,153737
 Python Software Foundation,2026-04-24,154210
 Python Software Foundation,2026-06-17,156062
 Python Software Foundation,2026-06-30,156618
+Python Software Foundation,2026-07-13,157048
 Python Sprints Zürich,2025-11-24,119
 Python Sprints Zürich,2025-12-01,119
 QTA Tech,2025-10-10,1631
@@ -1747,6 +1711,7 @@ Queen Mary Electronic Engineering & Computer Science Society,2026-03-08,53
 Queen Mary Electronic Engineering & Computer Science Society,2026-03-11,53
 Queen Mary Electronic Engineering & Computer Science Society,2026-03-24,54
 Queen Mary Electronic Engineering & Computer Science Society,2026-06-17,54
+Queen Mary Electronic Engineering & Computer Science Society,2026-07-13,54
 Queens College,2025-10-10,124466
 Queens Public Library,2026-03-16,6545
 Queens Public Library,2026-07-10,6926
@@ -1795,6 +1760,8 @@ R Consortium,2026-04-07,10851
 R Consortium,2026-04-24,10907
 R Consortium,2026-06-17,11141
 R Consortium,2026-06-30,11196
+R Consortium,2026-07-13,11276
+R Consortium,2026-07-13,11278
 R LADIES LA PAZ,2025-10-10,253
 R LADIES LA PAZ,2025-10-17,253
 R LADIES LA PAZ,2026-01-15,254
@@ -1823,12 +1790,14 @@ R Programming 101,2026-01-26,2288
 R Programming 101,2026-02-06,2294
 R Programming 101,2026-02-06,2294
 R Programming 101,2026-04-04,2311
+R Programming 101,2026-07-13,2346
 R Studio,2025-11-16,408
 R Studio,2025-12-12,423
 R Studio,2026-01-26,456
 R Studio,2026-02-06,465
 R Studio,2026-02-06,465
 R Studio,2026-04-04,505
+R Studio,2026-07-13,569
 R USER GROUP LAGOS,2026-03-17,14
 R USER GROUP LAGOS,2026-03-29,14
 R USER GROUP LAGOS,2026-04-05,14
@@ -1863,6 +1832,8 @@ R User Community,2026-04-24,22576
 R User Community,2026-06-17,23035
 R User Community,2026-06-30,23107
 R User Community,2026-07-10,23180
+R User Community,2026-07-13,23204
+R User Community,2026-07-13,23199
 R User Community Africa,2025-10-10,102
 R User Community Africa,2025-10-17,102
 R User Community Africa,2026-01-01,104
@@ -1886,6 +1857,7 @@ R User Community Africa,2026-04-24,693
 R User Community Africa,2026-06-17,872
 R User Community Africa,2026-06-30,902
 R User Community Africa,2026-07-10,913
+R User Community Africa,2026-07-13,914
 R User Community EMEA,2025-10-10,603
 R User Community EMEA,2025-10-17,605
 R User Community EMEA,2025-10-26,606
@@ -1910,6 +1882,8 @@ R User Community EMEA,2026-04-24,741
 R User Community EMEA,2026-06-17,754
 R User Community EMEA,2026-06-30,754
 R User Community EMEA,2026-07-10,757
+R User Community EMEA,2026-07-13,758
+R User Community EMEA,2026-07-13,758
 R User Group Nepal,2025-10-10,102
 R User Group Nepal,2025-10-17,102
 R User Group Nepal,2025-10-26,102
@@ -1957,6 +1931,7 @@ R Users Malawi,2026-03-24,298
 R Users Malawi,2026-06-17,429
 R Users Malawi,2026-06-30,428
 R Users Malawi,2026-07-10,427
+R Users Malawi,2026-07-13,427
 R community Cameroon,2025-10-10,413
 R community Cameroon,2025-10-17,413
 R community Cameroon,2026-01-15,416
@@ -1988,6 +1963,7 @@ R for the Rest of Us,2026-04-04,7147
 R for the Rest of Us,2026-04-24,7230
 R for the Rest of Us,2026-06-30,7453
 R for the Rest of Us,2026-07-10,7468
+R for the Rest of Us,2026-07-13,7469
 R language-online-training,2025-11-16,1622
 R language-online-training,2026-01-26,1625
 R language-online-training,2026-02-06,1628
@@ -2073,6 +2049,7 @@ R-Ladies D.C.,2026-04-24,176
 R-Ladies D.C.,2026-06-17,177
 R-Ladies D.C.,2026-06-30,178
 R-Ladies D.C.,2026-07-10,178
+R-Ladies D.C.,2026-07-13,178
 R-Ladies Gaborone,2025-10-10,806
 R-Ladies Gaborone,2025-10-17,806
 R-Ladies Gaborone,2025-12-12,811
@@ -3669,3 +3646,48 @@ R-Ladies Urmia (IRAN),2025-02-04,295
 R-Ladies Urmia (IRAN),2025-02-20,299
 R-Ladies Urmia (IRAN),2025-02-28,300
 R-Ladies Urmia (IRAN),2025-03-03,300
+R-Ladies Urmia (IRAN),2025-03-09,301
+R-Ladies Vienna,2024-04-28,35
+R-Ladies Vienna,2024-05-03,35
+R-Ladies Vienna,2024-05-19,37
+R-Ladies Vienna,2024-06-08,43
+R-Ladies Vienna,2024-06-24,44
+R-Ladies Vienna,2024-06-28,44
+R-Ladies Vienna,2024-07-17,46
+R-Ladies Vienna,2024-07-20,47
+R-Ladies Vienna,2024-07-23,47
+R-Ladies Vienna,2024-08-02,48
+R-Ladies Vienna,2024-08-06,48
+R-Ladies Vienna,2024-08-09,48
+R-Ladies Vienna,2024-08-20,48
+R-Ladies Vienna,2024-09-02,48
+R-Ladies Vienna,2024-09-07,48
+R-Ladies Vienna,2024-09-10,48
+R-Ladies Vienna,2024-09-16,49
+R-Ladies Vienna,2024-09-24,49
+R-Ladies Vienna,2024-10-02,50
+R-Ladies Vienna,2024-11-15,61
+R-Ladies Vienna,2024-11-24,66
+R-Ladies Vienna,2024-11-26,66
+R-Ladies Vienna,2024-12-07,67
+R-Ladies Vienna,2025-01-08,69
+R-Ladies Vienna,2025-01-18,69
+R-Ladies Vienna,2025-01-27,70
+R-Ladies Vienna,2025-02-04,73
+R-Ladies Vienna,2025-02-20,76
+R-Ladies Vienna,2025-02-28,77
+R-Ladies Vienna,2025-03-03,77
+R-Ladies Vienna,2025-03-09,79
+R-Ladies Vienna,2025-03-16,79
+R-Ladies Vienna,2025-04-13,82
+R-Ladies Vienna,2025-04-22,88
+R-Ladies Vienna,2025-04-27,88
+R-Ladies Vienna,2025-04-28,88
+R-Ladies Vienna,2025-05-06,88
+R-Ladies Vienna,2025-05-20,99
+R-Ladies Vienna,2025-05-25,99
+R-Ladies Vienna,2025-05-27,99
+R-Ladies Vienna,2025-06-01,100
+R-Ladies Vienna,2025-06-07,101
+R-Ladies Vienna,2025-06-08,101
+R-Ladies Vienna,2025-06-09,101

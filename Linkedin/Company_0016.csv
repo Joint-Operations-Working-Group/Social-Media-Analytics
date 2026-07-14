@@ -1,27 +1,4 @@
 Company,Date,Followers
-Derilinx,2022-10-16,906
-Derilinx,2022-10-22,924
-Derilinx,2022-10-28,934
-Derilinx,2022-11-03,936
-Derilinx,2022-11-06,938
-Derilinx,2022-11-14,942
-Derilinx,2022-11-20,949
-Derilinx,2022-11-24,950
-Derilinx,2022-12-01,954
-Derilinx,2022-12-08,958
-Derilinx,2022-12-14,960
-Derilinx,2022-12-27,965
-Derilinx,2023-01-01,965
-Derilinx,2023-01-05,968
-Derilinx,2023-01-09,969
-Derilinx,2023-01-22,973
-Derilinx,2023-01-28,976
-Derilinx,2023-02-04,977
-Derilinx,2023-02-10,978
-Derilinx,2023-02-13,978
-Derilinx,2023-02-24,982
-Derilinx,2023-03-10,1081
-Derilinx,2023-03-14,1084
 Derilinx,2023-03-18,1090
 Derilinx,2023-03-21,1090
 Derilinx,2023-03-25,1091
@@ -678,6 +655,7 @@ Digital Earth Africa,2026-06-30,13223
 Digital Earth Africa,2026-07-10,13256
 Digital Mining Solutions,2026-07-10,1982
 Digital Plymouth,2025-09-16,737
+Digital Research Academy,2026-07-13,1970
 Digital Resilience Forum,2026-07-10,364
 Digital Service Network,2023-06-05,374
 Digital Service Network,2023-06-11,380
@@ -934,6 +912,7 @@ Dimension Data,2026-03-17,435255
 Dimension Data,2026-04-08,435259
 Dimension Data,2026-05-01,435333
 Dimension Data,2026-06-17,435302
+Dimension Data,2026-07-13,435398
 Dinngo,2022-02-27,236
 Diocese Of Pensacola,2023-01-21,22
 Diocese Of Pensacola,2023-02-25,22
@@ -995,6 +974,7 @@ Django Events Foundation North America,2023-01-25,122
 Django Software Foundation,2023-01-25,976
 Django Software Foundation,2025-03-16,3404
 Django Software Foundation,2025-05-27,5201
+Django Software Foundation,2026-07-13,8222
 DjangoCon US,2026-05-31,881
 DjangoCon US,2026-07-10,934
 Dnet - a social enterprise,2020-10-16,2927
@@ -2108,6 +2088,7 @@ Dubai Technologies,2026-02-23,19817
 Dubai Technologies,2026-04-08,20086
 Dubai Technologies,2026-05-01,20177
 Dubai Technologies,2026-06-17,20324
+Dubai Technologies,2026-07-13,20443
 Dubai Technology Entrepreneur Campus - Dtec,2021-01-22,4161
 Dubai Technology Entrepreneur Campus - Dtec,2021-01-25,4181
 Dubai Technology Entrepreneur Campus - Dtec,2021-01-28,4190
@@ -2263,7 +2244,9 @@ Dubai Technology Entrepreneur Campus - Dtec,2025-08-21,15678
 Dubai Technology Entrepreneur Campus - Dtec,2025-09-21,15811
 Dubai Technology Entrepreneur Campus - Dtec,2026-02-23,16998
 Dubai Technology Entrepreneur Campus - Dtec,2026-06-17,17462
+Dubai Technology Entrepreneur Campus - Dtec,2026-07-13,17796
 Dublin Business School,2023-01-28,63578
+Dublin Fringe Festival,2026-07-13,2144
 Dublin Uni CS Society,2026-04-08,214
 Dublin Uni CS Society,2026-05-01,213
 Dublin University Computer Science Society,2021-03-28,19
@@ -2411,6 +2394,7 @@ Dublin University Computer Science Society,2026-03-16,212
 Dublin University Computer Science Society,2026-03-17,213
 Dublin University Computer Science Society,2026-03-17,213
 Dublin University Computer Science Society,2026-06-17,213
+Dublin University Computer Science Society,2026-07-13,214
 DuckDB,2024-01-22,6352
 DuckDB,2024-04-09,11151
 DuckDB,2024-04-17,12087
@@ -2846,6 +2830,7 @@ ESA Space Solutions,2023-10-18,63011
 ESA Space Solutions,2023-12-18,62627
 ESA Space Solutions,2025-05-27,66819
 ESCP Business School,2023-01-25,170153
+ESL Rochester Fringe Festival,2026-07-13,398
 EST<dc> VERI BILIMI KUL<dc>B<dc>,2021-05-10,772
 ETH Z<fc>rich,2023-01-28,300328
 ETH Zürich,2026-04-08,511130
@@ -3670,3 +3655,39 @@ Ecosia,2025-08-18,155759
 Ecosia,2025-08-30,158342
 Eden Recruitment,2020-10-20,21633
 Edge Impulse,2023-01-22,30517
+EdinbR,2026-06-17,47
+EdinbR,2026-06-30,48
+EdinbR,2026-07-10,50
+Edinburgh Festival Fringe Society,2026-07-13,36078
+Edison Energy LLC,2020-10-16,4314
+Edison Energy LLC,2020-10-20,4345
+Edison Energy LLC,2020-10-21,4361
+Edison Energy LLC,2020-10-28,4407
+Edison Energy LLC,2020-10-31,4432
+Edison Energy LLC,2020-11-02,4436
+Edison Energy LLC,2020-11-07,4456
+Edison Energy LLC,2020-11-12,4475
+Edison Energy LLC,2020-11-21,4513
+Edison Energy LLC,2020-11-30,4525
+Edison Energy LLC,2020-12-08,4569
+Edison Energy LLC,2020-12-15,4583
+Edison Energy LLC,2020-12-27,4627
+Edison SpA,2020-10-16,76192
+Edison SpA,2020-10-21,76431
+Edison SpA,2020-10-22,76518
+Edison SpA,2020-11-02,77123
+Edison SpA,2020-11-07,77362
+Edison SpA,2020-11-21,78177
+Edison SpA,2020-12-15,79425
+Editas Medicine,2023-01-25,31445
+Editas Medicine,2023-01-29,31509
+Edlitera,2023-01-21,76
+Edlitera,2023-02-25,77
+Edlitera,2023-03-13,83
+Edlitera,2023-03-29,86
+Edlitera,2023-04-10,86
+Edlitera,2023-04-23,85
+Edlitera,2023-06-05,88
+Edlitera,2023-06-11,88
+Edlitera,2023-06-23,88
+Edlitera,2023-07-06,88

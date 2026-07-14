@@ -1,52 +1,4 @@
 Company,Date,Followers
-Fashion for Good,2022-10-03,84246
-Fashion for Good,2022-10-09,84564
-Fashion for Good,2022-10-16,84918
-Fashion for Good,2022-10-22,85199
-Fashion for Good,2022-10-28,85477
-Fashion for Good,2022-11-03,85780
-Fashion for Good,2022-11-06,85907
-Fashion for Good,2022-11-14,86283
-Fashion for Good,2022-11-20,86631
-Fashion for Good,2022-11-24,86867
-Fashion for Good,2022-12-01,87262
-Fashion for Good,2022-12-08,87631
-Fashion for Good,2022-12-14,87847
-Fashion for Good,2022-12-27,88247
-Fashion for Good,2023-01-01,88377
-Fashion for Good,2023-01-05,88501
-Fashion for Good,2023-01-09,88625
-Fashion for Good,2023-01-22,89070
-Fashion for Good,2023-01-29,89337
-Fashion for Good,2023-02-04,89632
-Fashion for Good,2023-02-25,90563
-Fashion for Good,2023-03-18,91555
-Fashion for Good,2023-03-21,91667
-Fashion for Good,2023-03-25,91903
-Fashion for Good,2023-04-10,92820
-Fashion for Good,2023-04-13,93029
-Fashion for Good,2023-04-21,93412
-Fashion for Good,2023-04-29,93750
-Fashion for Good,2023-05-19,94490
-Fashion for Good,2023-05-29,94805
-Fashion for Good,2023-06-05,95076
-Fashion for Good,2023-06-14,95478
-Fashion for Good,2023-06-17,95603
-Fashion for Good,2023-06-27,95998
-Fashion for Good,2023-07-06,96437
-Fashion for Good,2023-07-23,97088
-Fashion for Good,2023-08-08,98039
-Fashion for Good,2023-08-10,98162
-Fashion for Good,2023-09-15,97043
-Fashion for Good,2023-10-18,97043
-Fashion for Good,2023-12-17,102141
-Fashion for Good,2023-12-18,102194
-Fashion for Good,2024-01-22,103612
-Fashion for Good,2024-04-10,107228
-Fashion for Good,2024-05-28,108987
-Fashion for Good,2024-08-02,111546
-Fashion for Good,2024-08-09,111807
-Fashion for Good,2024-09-02,112405
 Fashion for Good,2024-09-17,112910
 Fashion for Good,2024-09-24,113159
 Fashion for Good,2024-10-02,113399
@@ -78,6 +30,7 @@ Fashion for Good,2026-03-24,155309
 Fashion for Good,2026-04-08,156356
 Fashion for Good,2026-05-01,158352
 Fashion for Good,2026-06-17,160580
+Fashion for Good,2026-07-13,162462
 Fast Company,2025-09-16,1460026
 FastAPI,2024-07-17,16381
 FastAPI,2024-07-23,17019
@@ -138,6 +91,8 @@ FastAPI,2026-05-31,88262
 FastAPI,2026-06-17,90026
 FastAPI,2026-06-30,93637
 FastAPI,2026-07-10,95466
+FastAPI,2026-07-13,95794
+FastAPI Cloud,2026-07-13,8383
 Fastrack into Information Technology (FIT),2025-09-05,5866
 Fastrack into Information Technology (FIT),2025-09-21,5903
 Fathom,2023-01-28,3455
@@ -949,6 +904,7 @@ Finance Society at the University of Connecticut,2026-03-17,826
 Finance Society at the University of Connecticut,2026-03-17,826
 Finance Society at the University of Connecticut,2026-03-24,828
 Finance Society at the University of Connecticut,2026-06-17,850
+Finance Society at the University of Connecticut,2026-07-13,852
 "Financial Crimes Enforcement Network, US Treasury",2025-01-09,31936
 "Financial Crimes Enforcement Network, US Treasury",2025-01-19,32368
 "Financial Crimes Enforcement Network, US Treasury",2025-01-27,32621
@@ -1410,6 +1366,7 @@ Foundation for Economic Education,2026-03-24,26478
 Foundation for Economic Education,2026-04-08,26513
 Foundation for Economic Education,2026-05-01,26564
 Foundation for Economic Education,2026-06-17,26767
+Foundation for Economic Education,2026-07-13,26915
 Free the Slaves,2025-01-09,7810
 Free the Slaves,2025-01-19,7834
 Free the Slaves,2025-01-27,7841
@@ -1599,6 +1556,7 @@ Fugro,2026-02-23,396414
 Fugro,2026-04-08,406002
 Fugro,2026-05-01,410648
 Fugro,2026-06-17,417650
+Fugro,2026-07-13,421249
 Fujitsu,2021-01-22,374790
 Fujitsu,2021-01-25,375620
 Fujitsu,2021-01-28,376646
@@ -1755,6 +1713,7 @@ Fujitsu,2026-02-23,1207063
 Fujitsu,2026-04-08,1222486
 Fujitsu,2026-05-01,1230323
 Fujitsu,2026-06-17,1246141
+Fujitsu,2026-07-13,1254817
 Function Point,2023-01-21,1529
 Function Point,2023-02-10,1545
 Function Point,2023-02-25,1551
@@ -2406,6 +2365,7 @@ GBS Technology Co.,2026-02-23,2769
 GBS Technology Co.,2026-04-08,2784
 GBS Technology Co.,2026-05-01,2793
 GBS Technology Co.,2026-06-17,2801
+GBS Technology Co.,2026-07-13,2808
 GCE - Global Connections to Employment,2023-01-21,2088
 GCE - Global Connections to Employment,2023-02-25,2110
 GCE - Global Connections to Employment,2023-03-13,2124
@@ -2534,6 +2494,7 @@ GRB,2026-06-30,14001
 GRB,2026-07-10,14056
 GULF TRAINING AND CONSULTATION CENTER,2026-02-23,299
 GULF TRAINING AND CONSULTATION CENTER,2026-06-17,369
+GULF TRAINING AND CONSULTATION CENTER,2026-07-13,379
 GW Open Source Program Office,2026-05-31,384
 GW Open Source Program Office,2026-07-10,391
 GapData Institute,2026-04-24,182
@@ -2579,6 +2540,7 @@ GeoAI Analytics Ltd,2026-06-17,47
 GeoAI Analytics Ltd,2026-06-30,47
 GeoAI Analytics Ltd,2026-07-10,47
 Geologic,2026-06-17,5073
+Geologic,2026-07-13,5142
 Geometric,2026-04-24,245
 Geometric,2026-04-29,265
 Geometric,2026-06-17,312
@@ -2621,6 +2583,7 @@ Ghana R Users Community,2026-06-17,1784
 Ghana R Users Community,2026-06-17,1784
 Ghana R Users Community,2026-06-30,1815
 Ghana R Users Community,2026-07-10,1834
+Ghana R Users Community,2026-07-13,1859
 Girls In ICT Niger,2025-01-18,401
 Girls In ICT Niger,2025-01-27,403
 Girls In ICT Niger,2025-02-04,402
@@ -3062,6 +3025,9 @@ GitHub,2026-04-29,6116636
 GitHub,2026-06-17,6254910
 GitHub,2026-06-17,6254868
 GitHub,2026-06-30,6309100
+GitHub,2026-07-13,6361414
+GitHub,2026-07-13,6359628
+GitHub (Duplicate Entry),2026-07-13,6359634
 GitHub LATAM,2026-05-31,59233
 GitHub LATAM,2026-07-10,60921
 GitHub Security Lab,2026-05-31,6119
@@ -3669,3 +3635,59 @@ Global Fishing Watch,2026-04-29,27404
 Global Fishing Watch,2026-06-17,28153
 Global Fishing Watch,2026-06-30,28308
 Global Fishing Watch,2026-07-10,28412
+Global Knowledge UK&I,2020-10-16,2137
+Global Knowledge UK&I,2020-10-21,2140
+Global Knowledge UK&I,2020-10-24,2139
+Global Knowledge UK&I,2020-10-28,2142
+Global Military Communications,2023-01-21,1490
+Global Military Communications,2023-02-25,1590
+Global Military Communications,2023-03-13,1613
+Global Military Communications,2023-03-29,1615
+Global Military Communications,2023-04-10,1614
+Global Military Communications,2023-04-23,1618
+Global Military Communications,2023-06-05,1617
+Global Military Communications,2023-06-11,1618
+Global Military Communications,2023-06-23,1620
+Global Military Communications,2023-07-06,1620
+Global Military Communications,2023-07-23,1625
+Global Military Communications,2023-08-05,1633
+Global Military Communications,2023-08-29,1634
+Global Military Communications,2023-10-18,1709
+Global Partnership for Sustainable Development Data,2021-07-14,2782
+Global Partnership for Sustainable Development Data,2021-07-18,2799
+Global Partnership for Sustainable Development Data,2021-07-22,2818
+Global Partnership for Sustainable Development Data,2021-08-14,2870
+Global Partnership for Sustainable Development Data,2021-08-26,2888
+Global Partnership for Sustainable Development Data,2021-09-02,2900
+Global Partnership for Sustainable Development Data,2021-09-16,2943
+Global Partnership for Sustainable Development Data,2021-10-17,3028
+Global Partnership for Sustainable Development Data,2021-10-29,3062
+Global Partnership for Sustainable Development Data,2021-11-06,3082
+Global Partnership for Sustainable Development Data,2021-11-20,3179
+Global Partnership for Sustainable Development Data,2021-12-07,3251
+Global Partnership for Sustainable Development Data,2021-12-14,3272
+Global Partnership for Sustainable Development Data,2021-12-20,3283
+Global Partnership for Sustainable Development Data,2021-12-26,3289
+Global Partnership for Sustainable Development Data,2021-12-30,3298
+Global Partnership for Sustainable Development Data,2021-12-31,3300
+Global Partnership for Sustainable Development Data,2022-01-03,3304
+Global Partnership for Sustainable Development Data,2022-01-04,3307
+Global Partnership for Sustainable Development Data,2022-01-06,3313
+Global Partnership for Sustainable Development Data,2022-01-07,3313
+Global Partnership for Sustainable Development Data,2022-01-10,3315
+Global Partnership for Sustainable Development Data,2022-01-14,3336
+Global Partnership for Sustainable Development Data,2022-01-18,3339
+Global Partnership for Sustainable Development Data,2022-01-27,3375
+Global Partnership for Sustainable Development Data,2022-02-01,3400
+Global Partnership for Sustainable Development Data,2022-02-07,3423
+Global Partnership for Sustainable Development Data,2022-02-10,3437
+Global Partnership for Sustainable Development Data,2022-02-12,3448
+Global Partnership for Sustainable Development Data,2022-02-16,3463
+Global Partnership for Sustainable Development Data,2022-02-20,3476
+Global Partnership for Sustainable Development Data,2022-02-26,3489
+Global Partnership for Sustainable Development Data,2022-03-03,3511
+Global Partnership for Sustainable Development Data,2022-03-07,3523
+Global Partnership for Sustainable Development Data,2022-03-15,3573
+Global Partnership for Sustainable Development Data,2022-03-29,3609
+Global Partnership for Sustainable Development Data,2022-03-31,3618
+Global Partnership for Sustainable Development Data,2022-04-09,3682

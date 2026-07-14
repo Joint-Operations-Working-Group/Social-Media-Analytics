@@ -1,11 +1,4 @@
 Company,Date,Followers
-Ursa Labs,2022-10-09,448
-Ursa Labs,2022-10-12,449
-Ursa Labs,2022-10-16,450
-Ursa Labs,2022-10-22,449
-Ursa Labs,2022-10-28,449
-Ursa Labs,2022-11-03,449
-Ursa Labs,2022-11-06,449
 Ursa Labs,2022-11-14,449
 Ursa Labs,2022-11-20,449
 Ursa Labs,2022-11-24,450
@@ -467,6 +460,7 @@ VINE,2026-02-27,1623
 VINE,2026-02-27,1623
 VINE,2026-03-11,1626
 VINE,2026-06-17,1691
+VINE,2026-07-13,1703
 VISIT FLORIDA,2023-12-14,18329
 VISIT FLORIDA,2023-12-17,18346
 VISIT FLORIDA,2023-12-18,18353
@@ -703,6 +697,7 @@ VMware Networking and Security,2023-07-23,7225
 VMware Networking and Security,2023-08-05,7286
 VMware Networking and Security,2023-08-29,7364
 VNG Corporation,2023-01-28,124963
+VOLO,2026-07-13,123
 VPT Inc.,2023-01-21,1329
 VPT Inc.,2023-02-10,1358
 VPT Inc.,2023-02-25,1381
@@ -841,6 +836,8 @@ Van Leer Foundation,2026-03-08,29625
 Van Leer Foundation,2026-03-11,29650
 Van Leer Foundation,2026-03-24,29785
 Van Leer Foundation,2026-06-17,32486
+Van Leer Foundation,2026-07-13,32812
+Vancouver Fringe,2026-07-13,273
 VantAI,2023-01-25,3206
 VantAI,2023-01-29,3225
 Vantage Resources,2023-01-29,22106
@@ -2656,6 +2653,7 @@ Warwick Data Science Society,2026-03-08,1659
 Warwick Data Science Society,2026-03-11,1659
 Warwick Data Science Society,2026-03-24,1659
 Warwick Data Science Society,2026-06-17,1661
+Warwick Data Science Society,2026-07-13,1656
 Washington DC Quantum Computing Meetup,2026-02-06,1989
 Washington DC Quantum Computing Meetup,2026-02-06,1989
 WashingtonExec,2025-01-19,15447
@@ -2829,6 +2827,7 @@ Weaviate Podcast,2026-07-10,252
 Web Design,2025-11-16,557574
 Web Development,2025-11-16,777571
 Web3 Enabler,2026-07-10,1169
+Web3 Jobs,2026-07-13,658
 WebExpo Conference,2025-02-28,4567
 WebExpo Conference,2025-03-03,4572
 WebExpo Conference,2025-03-09,4573
@@ -3045,6 +3044,7 @@ Western Computer Science Undergraduate Society,2026-03-08,269
 Western Computer Science Undergraduate Society,2026-03-11,269
 Western Computer Science Undergraduate Society,2026-03-24,267
 Western Computer Science Undergraduate Society,2026-06-17,267
+Western Computer Science Undergraduate Society,2026-07-13,270
 Western Digital,2025-10-10,743273
 Why R?,2025-10-10,5362
 Why R?,2025-10-17,5374
@@ -3076,6 +3076,8 @@ Why R?,2026-04-24,5640
 Why R?,2026-04-29,5638
 Why R?,2026-06-17,5649
 Why R?,2026-06-30,5648
+Why R?,2026-07-13,5655
+Why R?,2026-07-13,5656
 WiDS Dublin,2026-01-15,831
 WiDS conference Regensburg,2026-02-06,636
 WiDS conference Regensburg,2026-02-06,636
@@ -3092,6 +3094,7 @@ Wilder,2026-03-08,10759
 Wilder,2026-03-11,10770
 Wilder,2026-03-24,10815
 Wilder,2026-06-17,11075
+Wilder,2026-07-13,11145
 William and Flora Hewlett Foundation,2025-10-10,62547
 William and Flora Hewlett Foundation,2025-10-17,63004
 William and Flora Hewlett Foundation,2025-10-26,63521
@@ -3134,6 +3137,7 @@ Women in AI Benelux,2026-04-24,10799
 Women in AI Benelux,2026-06-17,10897
 Women in AI Benelux,2026-06-30,10943
 Women in AI Benelux,2026-07-10,10970
+Women in AI Benelux,2026-07-13,10976
 Women in AI Ireland,2025-10-10,7665
 Women in AI Ireland,2025-10-17,7708
 Women in AI Ireland,2026-01-15,8020
@@ -3148,6 +3152,7 @@ Women in AI Ireland,2026-04-07,8420
 Women in AI Ireland,2026-04-24,8517
 Women in AI Ireland,2026-06-17,9118
 Women in AI Ireland,2026-06-30,9232
+Women in AI Ireland,2026-07-13,9316
 Women in Big Data Berlin,2026-02-06,2872
 Women in Big Data Munich,2026-07-10,3877
 Women in Data Science (WiDS) Dublin,2025-10-10,817
@@ -3160,6 +3165,7 @@ Women in Data Science (WiDS) Dublin,2026-04-24,1034
 Women in Data Science (WiDS) Dublin,2026-06-17,1232
 Women in Data Science (WiDS) Dublin,2026-06-30,1246
 Women in Data Science (WiDS) Ireland,2026-07-10,1255
+Women in Data Science (WiDS) Ireland,2026-07-13,1257
 Women in Data Science (WiDS) Kenya,2025-10-10,1915
 Women in Data Science (WiDS) Kenya,2025-10-17,1915
 Women in Data Science (WiDS) Kenya,2026-01-15,1923
@@ -3212,6 +3218,7 @@ Women+ in Geospatial,2026-07-10,45462
 World Bank Development Economics,2026-03-16,74933
 World Bank Development Economics,2026-07-10,83253
 World Economic Forum,2025-10-10,5473312
+World Fringe,2026-07-13,104
 World Health Organization,2025-10-10,6068923
 World Labs,2026-07-10,57192
 WorldQuant,2025-10-10,140734
@@ -3249,6 +3256,7 @@ X-Europe Data Science,2026-04-24,95
 X-Europe Data Science,2026-06-17,95
 X-Europe Data Science,2026-06-30,95
 X-Europe Data Science,2026-07-10,96
+X-Europe Data Science,2026-07-13,96
 Xanadu Consultancy,2025-10-10,3146
 Xanadu Consultancy,2025-10-17,3159
 Xanadu Consultancy,2025-10-26,3163
@@ -3317,6 +3325,7 @@ ZIMSA - Zimbabwean Statistical Association,2026-06-30,2139
 ZIMSA - Zimbabwean Statistical Association,2026-07-10,2140
 Zantchito Malawi,2026-01-26,13004
 Zantchito Malawi,2026-01-26,13004
+Zed Industries,2026-07-13,6441
 Zendesk AI agents (Ultimate),2025-10-10,14272
 Zendesk AI agents (Ultimate),2025-10-17,14273
 Zendesk AI agents (Ultimate),2025-10-26,14280
@@ -3460,7 +3469,9 @@ gistec,2026-02-23,18400
 gistec,2026-02-27,18485
 gistec,2026-03-11,18596
 gistec,2026-06-17,19036
+gistec,2026-07-13,19187
 goose,2026-07-10,5216
+h²lab,2026-07-13,110
 i2 Inc.,2025-11-05,994
 i2 Inc.,2025-11-24,994
 i2 Inc.,2026-01-15,996
@@ -3514,6 +3525,7 @@ meetup.ai,2026-03-08,547
 meetup.ai,2026-03-11,547
 meetup.ai,2026-03-24,549
 meetup.ai,2026-06-17,553
+meetup.ai,2026-07-13,552
 muds_ai,2026-02-09,1080
 muds_ai,2026-02-14,1082
 n8n,2026-07-10,388474
@@ -3529,6 +3541,7 @@ publicjobs,2026-02-23,208594
 publicjobs,2026-02-27,209217
 publicjobs,2026-03-11,210623
 publicjobs,2026-06-17,220588
+publicjobs,2026-07-13,222055
 r-programming.org,2025-10-10,2343
 r-programming.org,2025-10-17,2342
 r-programming.org,2025-10-26,2340
@@ -3553,6 +3566,7 @@ rOpenSci,2026-04-04,2372
 rOpenSci,2026-04-24,2458
 rOpenSci,2026-06-30,2815
 rOpenSci,2026-07-10,2872
+rOpenSci,2026-07-13,2873
 rainbowR,2025-10-10,142
 rainbowR,2025-10-17,144
 rainbowR,2025-11-16,222
@@ -3573,6 +3587,8 @@ rainbowR,2026-06-17,664
 rainbowR,2026-06-30,667
 rainbowR,2026-07-10,684
 rainbowR,2026-07-10,684
+rainbowR,2026-07-13,686
+rainbowR,2026-07-13,686
 scikit-learn,2025-10-10,121800
 scikit-learn,2025-10-17,121872
 scikit-learn,2026-01-15,122821
@@ -3593,6 +3609,7 @@ scikit-learn,2026-04-24,123264
 scikit-learn,2026-06-17,123519
 scikit-learn,2026-06-30,123627
 scikit-learn,2026-07-10,123668
+scikit-learn,2026-07-13,123662
 simpl.study,2026-02-09,67
 simpl.study,2026-02-14,67
 simpl.study,2026-02-23,67
@@ -3604,6 +3621,7 @@ simpl.study,2026-03-08,67
 simpl.study,2026-03-11,67
 simpl.study,2026-03-24,67
 simpl.study,2026-06-17,67
+simpl.study,2026-07-13,67
 statistics.com,2025-11-16,5315
 statistics.com,2025-12-12,5334
 statistics.com,2026-01-26,5375
@@ -3629,6 +3647,7 @@ storytelling with data,2026-04-24,164796
 storytelling with data,2026-06-17,165263
 storytelling with data,2026-06-30,165460
 storytelling with data,2026-07-10,165528
+storytelling with data,2026-07-13,165583
 thaink²,2025-10-10,1313
 thaink²,2025-10-17,1312
 thaink²,2026-01-15,1397
@@ -3658,6 +3677,7 @@ useR! - The R User Conference,2026-04-24,8108
 useR! - The R User Conference,2026-06-17,8231
 useR! - The R User Conference,2026-06-30,8283
 useR! - The R User Conference,2026-07-10,8516
+useR! - The R User Conference,2026-07-13,8652
 using std::cpp,2026-07-10,2002
 vGIS Inc,2026-02-14,27729
 vGIS Inc.,2026-02-09,27690
@@ -3665,6 +3685,8 @@ vGIS Inc.,2026-02-23,27765
 vGIS Inc.,2026-02-27,27759
 vGIS Inc.,2026-03-11,27897
 vGIS Inc.,2026-06-17,28109
+vGIS Inc.,2026-07-13,28245
+w3schools.com,2026-07-13,2378573
 xAI,2025-12-01,138313
 ¿Que Lo Tech!?,2026-03-16,487
 ¿Que Lo Tech!?,2026-07-10,490

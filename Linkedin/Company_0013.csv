@@ -1,28 +1,4 @@
 Company,Date,Followers
-Christian Dior Couture,2025-03-15,1750506
-Christian Dior Couture,2025-03-16,1751457
-Christian Dior Couture,2025-04-28,1787472
-Christian Dior Couture,2025-05-27,1825334
-Christian Dior Couture,2025-06-07,1840684
-Christian Dior Couture,2025-07-27,1880714
-Christian Dior Couture,2025-08-30,1886052
-Chroma Medicine,2023-01-25,3027
-Chroma Medicine,2023-01-29,3035
-Cinema Nosso,2021-05-10,229
-Circle Economy,2023-01-25,115542
-Circle K,2023-01-21,118201
-Circle K,2023-02-10,120910
-Circle K,2023-02-25,123074
-Circle K,2023-03-13,126268
-Circle K,2023-03-29,129350
-Circle K,2023-04-10,130518
-Circle K,2023-04-23,132001
-Circle K,2023-06-05,136045
-Circle K,2023-06-11,136676
-Circle K,2023-06-23,137857
-Circle K,2023-07-06,139133
-Circle K,2023-07-23,140524
-Circle K,2023-08-05,141802
 Circle K,2023-08-29,144052
 Circle K,2023-10-18,149150
 Circle K,2023-12-14,151349
@@ -426,6 +402,7 @@ Collibra,2026-06-17,105452
 Collibra,2026-06-30,106495
 Cologne AI and Machine Learning Meetup,2026-03-17,1040
 Cologne AI and Machine Learning Meetup,2026-06-17,1134
+Cologne AI and Machine Learning Meetup,2026-07-13,1145
 Colombia Diversa,2026-04-24,8244
 Colombia Diversa,2026-04-29,8251
 Colombia Diversa,2026-06-17,8278
@@ -440,6 +417,7 @@ Columbia Business School Executive Education & Wall Street Prep Certificate Prog
 Columbia Center on Sustainable Investment,2026-05-31,15232
 Columbia Center on Sustainable Investment,2026-07-10,15656
 Columbia Data Science Society,2026-06-17,1144
+Columbia Data Science Society,2026-07-13,1151
 Columbia Engineering,2026-07-10,54232
 Columbia Public Health - Department of Health Policy & Management,2026-05-31,959
 Columbia Public Health - Department of Health Policy & Management,2026-07-10,1213
@@ -456,8 +434,11 @@ Compute! Paris,2026-06-17,2336
 Compute! Paris,2026-06-17,2337
 Compute! Paris,2026-06-30,2343
 Compute! Paris,2026-07-10,2347
+Compute! Paris,2026-07-13,2346
 Computer Science & Engineering Society at UC San Diego,2026-06-17,446
+Computer Science & Engineering Society at UC San Diego,2026-07-13,447
 Computer Science Society (CSS) - University of Birmingham,2026-06-17,510
+Computer Science Society (CSS) - University of Birmingham,2026-07-13,516
 Computer Science at The University of Alabama,2026-05-31,880
 Computer Science at The University of Alabama,2026-07-10,929
 Computing at ORNL,2026-07-10,6254
@@ -507,6 +488,7 @@ Cpl,2026-07-10,487356
 Cubit Tech Support,2026-05-31,87
 Cubit Tech Support,2026-07-10,87
 DAIN Studios,2026-06-17,5234
+DAIN Studios,2026-07-13,5267
 DATA CENTRIC AFRICA,2026-04-07,1357
 DATA CENTRIC AFRICA,2026-04-24,1358
 DATA CENTRIC AFRICA,2026-04-29,1358
@@ -522,7 +504,9 @@ DATA MANSA,2026-07-10,195
 DISCO Network,2026-05-31,255
 DISCO Network,2026-07-10,259
 DOF,2026-06-17,403812
+DOF,2026-07-13,408233
 DSCS George Mason University,2026-06-17,120
+DSCS George Mason University,2026-07-13,120
 DSN - Data Science Nigeria,2026-03-17,26432
 DSN - Data Science Nigeria,2026-04-07,26705
 DSN - Data Science Nigeria,2026-04-24,27038
@@ -531,8 +515,10 @@ DSN - Data Science Nigeria,2026-06-17,28098
 DSN - Data Science Nigeria,2026-06-17,28099
 DSN - Data Science Nigeria,2026-06-30,28304
 DSN - Data Science Nigeria,2026-07-10,28440
+DSN - Data Science Nigeria,2026-07-13,28486
 DSPT - Data Science Portugal,2026-03-17,11184
 DSPT - Data Science Portugal,2026-06-17,11512
+DSPT - Data Science Portugal,2026-07-13,11583
 DU - Daniels College of Business,2026-04-08,33533
 DU - Josef Korbel School,2026-04-08,6491
 DUBAI TECH,2021-10-29,27
@@ -644,6 +630,7 @@ DUBAI TECH,2025-07-27,125
 DUBAI TECH,2025-08-18,126
 DUBAI TECH,2025-08-21,130
 DUBAI TECH,2026-06-17,169
+DUBAI TECH,2026-07-13,175
 DV Trading LLC,2023-01-22,7553
 DYNE Information Technology and Services Ltd,2023-01-25,4324
 DYNE Information Technology and Services Ltd,2023-01-29,4338
@@ -821,6 +808,7 @@ Dalhousie Computer Science Society,2025-07-27,181
 Dalhousie Computer Science Society,2025-08-18,182
 Dalhousie Computer Science Society,2025-08-21,181
 Dalhousie Computer Science Society,2026-06-17,204
+Dalhousie Computer Science Society,2026-07-13,205
 Dalmia Bharat Limited,2021-02-19,26547
 Dalmia Bharat Limited,2021-03-06,27073
 Dalmia Bharat Limited,2021-03-26,27950
@@ -990,6 +978,7 @@ Dark Reading,2025-03-16,110474
 Dark Reading,2025-04-28,112059
 Dark Reading,2025-05-27,112560
 Dark Reading,2025-08-30,114318
+Darwin Fringe Festival,2026-07-13,231
 Darwin Recruitment,2023-04-10,78538
 Darwin Recruitment,2023-04-23,79249
 Darwin Recruitment,2023-06-05,81818
@@ -1423,6 +1412,7 @@ Data Axle,2026-03-17,155165
 Data Axle,2026-04-08,155413
 Data Axle,2026-05-01,155945
 Data Axle,2026-06-17,156417
+Data Axle,2026-07-13,157118
 Data Berlin,2025-09-09,834
 Data Breach Resolution,2023-01-21,611
 Data Breach Resolution,2023-02-25,622
@@ -2081,6 +2071,7 @@ Data Istanbul,2026-03-17,3929
 Data Istanbul,2026-04-08,3934
 Data Istanbul,2026-05-01,3938
 Data Istanbul,2026-06-17,3928
+Data Istanbul,2026-07-13,3927
 Data Lakehouse,2022-11-03,198604
 Data Lakehouse,2022-11-06,198733
 Data Lakehouse,2022-11-14,199118
@@ -2249,6 +2240,7 @@ Data Lille,2026-03-17,1703
 Data Lille,2026-04-08,1801
 Data Lille,2026-05-01,1816
 Data Lille,2026-06-17,1829
+Data Lille,2026-07-13,1838
 Data Management,2023-07-23,122656
 Data Management,2023-08-05,127459
 Data Management,2023-08-29,136696
@@ -2401,6 +2393,7 @@ Data Residents,2026-03-17,53
 Data Residents,2026-04-08,53
 Data Residents,2026-05-01,53
 Data Residents,2026-06-17,53
+Data Residents,2026-07-13,52
 Data Science,2023-06-11,7979
 Data Science,2023-06-23,8056
 Data Science,2023-07-06,8101
@@ -2550,6 +2543,7 @@ Data Science & Artificial Intelligence/AI South East London,2026-03-16,178
 Data Science & Artificial Intelligence/AI South East London,2026-03-17,180
 Data Science & Artificial Intelligence/AI South East London,2026-03-17,180
 Data Science & Artificial Intelligence/AI South East London,2026-06-17,181
+Data Science & Artificial Intelligence/AI South East London,2026-07-13,182
 Data Science & Stats Society,2026-04-08,596
 Data Science & Stats Society,2026-05-01,595
 Data Science Academy,2020-10-13,140451
@@ -2906,12 +2900,15 @@ Data Science Academy,2026-04-29,574808
 Data Science Academy,2026-06-17,579577
 Data Science Academy,2026-06-17,579578
 Data Science Academy,2026-06-30,580619
+Data Science Academy,2026-07-13,581356
 Data Science Central,2026-04-24,274748
 Data Science Central,2026-04-29,274750
 Data Science Central,2026-06-17,274906
 Data Science Central,2026-06-30,274914
 Data Science Club at UTDallas,2026-06-17,2391
+Data Science Club at UTDallas,2026-07-13,2396
 Data Science Club of UWA,2026-06-17,920
+Data Science Club of UWA,2026-07-13,931
 Data Science Council of America,2026-04-24,60933
 Data Science Council of America,2026-04-29,60963
 Data Science Council of America,2026-06-17,61207
@@ -2921,21 +2918,33 @@ Data Science Dojo,2026-04-29,309897
 Data Science Dojo,2026-06-17,310238
 Data Science Dojo,2026-06-17,310238
 Data Science Dojo,2026-06-30,310578
+Data Science Dojo,2026-07-13,310754
 Data Science Ghent,2026-06-17,299
+Data Science Ghent,2026-07-13,299
 Data Science Indonesia,2026-06-17,12010
+Data Science Indonesia,2026-07-13,12044
 Data Science Institute,2026-04-24,20067
 Data Science Institute,2026-04-29,20066
 Data Science Institute,2026-06-17,20073
 Data Science Institute,2026-06-17,20073
 Data Science Institute,2026-06-30,20095
+Data Science Institute,2026-07-13,20088
 Data Science Meetup,2026-06-17,144
+Data Science Meetup,2026-07-13,144
 Data Science Milan,2026-06-17,1904
+Data Science Milan,2026-07-13,1914
 Data Science Research Arab Team,2026-06-17,310
+Data Science Research Arab Team,2026-07-13,309
 Data Science Research Perú,2026-06-17,40689
+Data Science Research Perú,2026-07-13,41081
 Data Science Society,2026-06-17,2245
 Data Science Society,2026-06-17,303
+Data Science Society,2026-07-13,2268
+Data Science Society,2026-07-13,301
 Data Science Society at Berkeley,2026-06-17,1553
+Data Science Society at Berkeley,2026-07-13,1553
 Data Science Student Society at UC San Diego,2026-06-17,1332
+Data Science Student Society at UC San Diego,2026-07-13,1342
 Data Science Student Society at UJ,2022-10-09,91
 Data Science Student Society at UJ,2022-10-16,91
 Data Science Student Society at UJ,2022-10-22,93
@@ -3008,6 +3017,7 @@ Data Science Student Society at UJ,2025-09-21,123
 Data Science Student Society at UJ,2026-03-16,123
 Data Science Student Society at UJ,2026-03-17,123
 Data Science Student Society at UJ,2026-06-17,125
+Data Science Student Society at UJ,2026-07-13,127
 Data Science Zimbabwe,2023-03-14,5845
 Data Science Zimbabwe,2023-03-18,5910
 Data Science Zimbabwe,2023-03-21,5933
@@ -3224,6 +3234,7 @@ Data Science and AI Society - UTS,2026-03-16,392
 Data Science and AI Society - UTS,2026-03-17,392
 Data Science and AI Society - UTS,2026-03-17,392
 Data Science and AI Society - UTS,2026-06-17,414
+Data Science and AI Society - UTS,2026-07-13,414
 Data Science and Ai Association of Australia | DSAi,2021-01-25,2902
 Data Science and Ai Association of Australia | DSAi,2021-01-28,2909
 Data Science and Ai Association of Australia | DSAi,2021-01-31,2923
@@ -3382,6 +3393,7 @@ Data Science and Ai Association of Australia | DSAi,2026-03-16,7216
 Data Science and Ai Association of Australia | DSAi,2026-03-17,7226
 Data Science and Ai Association of Australia | DSAi,2026-03-17,7226
 Data Science and Ai Association of Australia | DSAi,2026-06-17,7347
+Data Science and Ai Association of Australia | DSAi,2026-07-13,7400
 Data Science by Data Scientist Canada,2021-11-20,16548
 Data Science by Data Scientist Canada,2021-12-07,16573
 Data Science by Data Scientist Canada,2021-12-14,16576
@@ -3670,3 +3682,12 @@ Data Science for Social Good Foundation,2023-03-21,4472
 Data Science for Social Good Foundation,2023-03-25,4487
 Data Science for Social Good Foundation,2023-04-01,4520
 Data Science for Social Good Foundation,2023-04-10,4557
+Data Science for Social Good Foundation,2023-04-13,4573
+Data Science for Social Good Foundation,2023-04-21,4594
+Data Science for Social Good Foundation,2023-04-29,4623
+Data Science for Social Good Foundation,2023-05-12,4675
+Data Science for Social Good Foundation,2023-05-19,4720
+Data Science for Social Good Foundation,2023-05-29,4751
+Data Science for Social Good Foundation,2023-06-05,4787
+Data Science for Social Good Foundation,2023-06-11,4809
+Data Science for Social Good Foundation,2023-06-14,4826
